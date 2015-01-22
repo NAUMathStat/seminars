@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Introducing Wicked Awesome GeoGebra Applets
+title: Introducing Wicked Awesome Stuff
 ---
-
-Hannah made wicked awesome shit.
 
 How about a [link to the about page]({{ site.baseurl }}/about)?
