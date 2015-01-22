@@ -9,16 +9,16 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Calculus Applets
-tagline:             'Some wicked awesome GeoGebra applets!'
+title:               NAU Mathematics and Statistics Seminars
+tagline:             'Some wicked awesome stuff!'
 description:         'Something clever here.'
-url:                 'http://dcernst.github.io'
-baseurl:             '/CalculusApplets'
+url:                 'http://NAUMathStat.github.io'
+baseurl:             '/seminars'
 paginate:            10
 
 # About/contact
 author:
-  name:              Dana C. Ernst and Hannah Prawzinsky
+  name:              Cool people
   url:               https://twitter.com/danaernst
   email:             dana@danaernst.com
 
