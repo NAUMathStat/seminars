@@ -12,8 +12,8 @@ relative_permalinks: true
 title:               NAU Mathematics and Statistics Seminars
 tagline:             'Some wicked awesome stuff!'
 description:         'Something clever here.'
-url:                 'http://NAUMathStat.github.io/'
-baseurl:             'seminars/'
+url:                 'http://NAUMathStat.github.io'
+baseurl:             '/seminars/'
 paginate:            10
 
 # About/contact
