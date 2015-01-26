@@ -13,7 +13,7 @@ title:               Mathematics and Statistics Seminars
 tagline:             'Northern Arizona University'
 description:         'Something clever here.'
 url:                 'http://NAUMathStat.github.io'
-baseurl:             '/seminars/'
+baseurl:             '/seminars'
 paginate:            10
 
 # About/contact
