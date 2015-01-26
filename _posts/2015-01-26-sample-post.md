@@ -14,7 +14,7 @@ title: Title of Post
 ---
 ```
 
-{% highlight markdown %}
+{% highlight %}
 ---
 layout: post
 title: Title of Post
