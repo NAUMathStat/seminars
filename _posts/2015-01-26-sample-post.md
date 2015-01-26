@@ -7,9 +7,9 @@ I'm imagining using mini blog posts to advertise each week's announcements.  Eac
 
 Each post must begin with following header:
 
-{% highlight markdown %}
+```
 ---
 layout: post
 title: Title of Post
 ---
-{% endhighlight %}
+```
