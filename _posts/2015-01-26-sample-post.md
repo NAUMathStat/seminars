@@ -14,7 +14,7 @@ title: Title of Post
 ---
 ```
 
-{% highlight %}
+{% highlight ruby %}
 ---
 layout: post
 title: Title of Post
