@@ -10,9 +10,9 @@ title: Archive
 - [Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)]({{ site.baseurl }}/famus)
 - [Teaching Showcase]({{ site.baseurl }}/teaching)
 
-{% for page in site.pages_list %}
+<!-- {% for page in site.pages_list %}
 - <a href="{{ page[1]  }}">{{ page[0] }}</a>
-{% endfor %}
+{% endfor %} -->
 
 ## Weekly Posts ##
 {% for post in site.posts %}
