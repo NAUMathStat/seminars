@@ -1,6 +1,7 @@
 # Dependencies
 markdown:            redcarpet
 highlighter:         pygments
+extensions: [fenced_code_blocks]
 
 # Permalinks
 #
