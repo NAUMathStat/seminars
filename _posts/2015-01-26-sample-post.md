@@ -7,13 +7,6 @@ I'm imagining using mini blog posts to advertise each week's announcements.  Eac
 
 Each post must begin with the following header:
 
-```
----
-layout: post
-title: Title of Post
----
-```
-
 {% highlight ruby %}
 ---
 layout: post
