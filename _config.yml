@@ -30,5 +30,5 @@ github:
   repo:             github.com/NAUMathStat/seminars
 
 # This is the list of pages to incldue in archive
-pages_list:       {'About':'about','Colloquium':'colloquium','Applied Math Seminar':'ams','ACGT Seminar':'acgt','Teaching Showcase':'teaching','FAMUS':'famus'}
+# pages_list:       {'About':'about','Colloquium':'colloquium','Applied Math Seminar':'ams','ACGT Seminar':'acgt','Teaching Showcase':'teaching','FAMUS':'famus'}
 #,'Archive':'archive','Feed':'atom.xml'}
