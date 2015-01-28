@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algebra, Combinatorics, Geometry, & Topology (ACGT) Seminar
+title: Algebra, Combinatorics, Geometry, & Topology Seminar
 ---
 
 coming soon...

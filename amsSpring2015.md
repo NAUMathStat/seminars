@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Applied Mathematics Seminar (AMS)
+title: Applied Mathematics Seminar
 ---
 
 Mini description...
