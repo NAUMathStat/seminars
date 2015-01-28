@@ -4,7 +4,7 @@ Each blog post will be a unique file in the `_posts` folder.  The filename shoul
 
 Each post must begin with following header:
 
-```markdown
+```
 ---
 layout: post
 title: Title of Post
