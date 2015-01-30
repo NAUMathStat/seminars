@@ -5,6 +5,8 @@ title: Teaching Showcase
 
 Short description...
 
+The Department of Mathematics & Statistics takes pride in the overall quality of instruction and the amount of scholarly teaching that occurs. The department is engaged in a number of student centered initiatives, which you can read about [here](http://nau.edu/CEFNS/NatSci/Math/Innovative-Teaching/).
+
 # Schedule for Spring 2015 #
 
 ### A discussion about inquiry-based learning (part 2) ##
