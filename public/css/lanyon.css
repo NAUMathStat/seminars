@@ -100,7 +100,6 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
-  font-size: 90%;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
@@ -118,6 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
+    font-size: 90%;
   }
   .masthead-title small {
     display: none;
