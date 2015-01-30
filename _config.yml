@@ -34,9 +34,4 @@ github:
 # This is the list of pages to incldue in archive
 # pages_list:       {'Department Colloquium Spring 2015':'colloquiumSpring2015','Applied Math Seminar Spring 2015':'amsSpring2015','ACGT Seminar Spring 2015':'acgtSpring2015','Teaching Showcase Spring 2015':'teachingSpring2015','FAMUS Spring 2015':'famusSpring2015'}
 
-pages_list:
-  Department Colloquium Spring 2015:'/colloquiumSpring2015'
-  Applied Math Seminar Spring 2015:'/amsSpring2015'
-  ACGT Seminar Spring 2015:'/acgtSpring2015'
-  Teaching Showcase Spring 2015:'/teachingSpring2015'
-  FAMUS Spring 2015:'/famusSpring2015'
+pages_list: {Department Colloquium Spring 2015:'/colloquiumSpring2015', Applied Math Seminar Spring 2015:'/amsSpring2015', ACGT Seminar Spring 2015:'/acgtSpring2015', Teaching Showcase Spring 2015:'/teachingSpring2015', FAMUS Spring 2015:'/famusSpring2015'}
