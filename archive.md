@@ -3,20 +3,20 @@ layout: page
 title: Archive
 ---
 
-## Seminars ##
-- [Department Colloquium]({{ site.baseurl }}/colloquiumSpring2015)
-- [Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar]({{ site.baseurl }}/acgt)
-- [Applied Math Seminar (AMS)]({{ site.baseurl }}/ams)
-- [Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)]({{ site.baseurl }}/famus)
-- [Teaching Showcase]({{ site.baseurl }}/teaching)
+### Seminars ###
+- Department Colloquium
+    - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
+- Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
+    - [Spring 2015]({{ site.baseurl }}/acgtSpring2015)
+- Applied Math Seminar (AMS)
+    - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
+- Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Spring 2015]({{ site.baseurl }}/famusSpring2015)
+- Teaching Showcase
+    - [Fall 2014]({{ site.baseurl }}/teachingFall2014)
+    - [Spring 2015]({{ site.baseurl }}/teachingSpring2015)
 
-## Seminars ##
-{% for page in site.pages_list %}
-- [ {{ page[0] }} ]({{ page[1]  }})
-- <a href="{{ page[1]  }}">{{ page[0] }}</a>
-{% endfor %}
-
-## Weekly Posts ##
+### Weekly Posts ###
 {% for post in site.posts %}
 - {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ site.baseurl }}/{{ post.url }})
 {% endfor %}
