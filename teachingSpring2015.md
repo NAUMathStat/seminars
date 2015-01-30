@@ -17,4 +17,4 @@ Short description...
 
 # Previous Semesters ##
 
-- [Fall 2014]({{ site.baseurl }}/seminars/teachingFall2014/)
+- [Fall 2014]({{ site.baseurl }}/teachingFall2014/)
