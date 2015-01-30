@@ -12,6 +12,7 @@ title: Archive
 
 ## Seminars ##
 {% for page in site.pages_list %}
+- [ {{ page[0] }} ]({{ page[1]  }})
 - <a href="{{ page[1]  }}">{{ page[0] }}</a>
 {% endfor %}
 
