@@ -4,15 +4,16 @@ title: Archive
 ---
 
 ## Seminars ##
-- [Department Colloquium]({{ site.baseurl }}/colloquium)
+- [Department Colloquium]({{ site.baseurl }}/colloquiumSpring2015)
 - [Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar]({{ site.baseurl }}/acgt)
 - [Applied Math Seminar (AMS)]({{ site.baseurl }}/ams)
 - [Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)]({{ site.baseurl }}/famus)
 - [Teaching Showcase]({{ site.baseurl }}/teaching)
 
-<!-- {% for page in site.pages_list %}
+## Seminars ##
+{% for page in site.pages_list %}
 - <a href="{{ page[1]  }}">{{ page[0] }}</a>
-{% endfor %} -->
+{% endfor %}
 
 ## Weekly Posts ##
 {% for post in site.posts %}
