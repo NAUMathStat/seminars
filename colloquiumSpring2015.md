@@ -8,8 +8,8 @@ Building. Refreshments at 3:45pm.
 
 ### Colloquium Schedule ###
 
-<!-- <table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
-<caption>
+<table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
+<!-- <caption>
 <center>
   <p><b><font size="+1">Colloquium Schedule</font></b></p>
   </center>
