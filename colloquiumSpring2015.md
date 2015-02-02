@@ -3,10 +3,8 @@ layout: page
 title: Department Colloquium
 ---
 
-<p><font size="+2">Tuesdays at 4:00 pm in Room 164 of Adel Mathematics
-Building</font>
-</p><p><font size="+2">Refreshments at 3:45</font>
-<br><font size="+2">
+The NAU Department of Mathematics and Statistics takes place on Tuesdays at 4:00-5:00pm in Room 164 of the Adel Mathematics
+Building. Refreshments at 3:45pm.
 
 </p></center><p><br>
 <table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
@@ -44,8 +42,6 @@ Building</font>
 <td>NAU</td>
 <td><a href="https://github.com/NAUMathStat/seminars/blob/gh-pages/colloquium_files/paudyal_011315.pdf" target="_blank">Invariant subspaces of the shift plus complex Volterra operator</a></td>
 </tr>
-
-
 
 <tr>
 <td>January 20th</td>
