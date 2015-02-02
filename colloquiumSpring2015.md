@@ -3,9 +3,7 @@ layout: page
 title: Department Colloquium
 ---
 
-You can find the old page for Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
-
-<p><font size="+2">Tuesdays at 4:00 pm in Room 164 of Adel Mathematics 
+<p><font size="+2">Tuesdays at 4:00 pm in Room 164 of Adel Mathematics
 Building</font>
 </p><p><font size="+2">Refreshments at 3:45</font>
 <br><font size="+2">
@@ -53,7 +51,7 @@ Building</font>
 <td>January 20th</td>
 <td>James W. Swift</td>
 <td>NAU</td>
-<td><a href="colloquium_files/swift_012015.pdf" target="_blank"> 
+<td><a href="colloquium_files/swift_012015.pdf" target="_blank">
 Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 </tr>
 
@@ -61,102 +59,98 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>January 27th</td>
   <td>Michael Falk</td>
   <td>NAU</td>
-<td><a href="colloquium_files/falk_012715.pdf" target="_blank">Milnor fibers of arrangements</a></td> 
+<td><a href="colloquium_files/falk_012715.pdf" target="_blank">Milnor fibers of arrangements</a></td>
 </tr>
 
 <tr>
   <td>February 3rd</td>
   <td>Terence Blows</td>
   <td> NAU</td>
-<td><a href="colloquium_files/blows_020315.pdf" target="_blank">The center/focus problem and bifurcations from swirling flow</a></td> 
+<td><a href="colloquium_files/blows_020315.pdf" target="_blank">The center/focus problem and bifurcations from swirling flow</a></td>
 </tr>
 
 <tr>
   <td>February 10th</td>
   <td>Slava Fofanov</td>
   <td>NAU</td>
-<td><a href="colloquium_files/fofanov_021015.pdf" target="_blank">Sampling strategies for low carriage-rate pathogen detection</a></td> 
+<td><a href="colloquium_files/fofanov_021015.pdf" target="_blank">Sampling strategies for low carriage-rate pathogen detection</a></td>
 </tr>
 
 <tr>
   <td>February 17th</td>
   <td>James Palmer </td>
   <td>NAU, <br>EE and CS</td>
-<td><a href="colloquium_files/palmer_021715.pdf" target="_blank">Experiments in Exponential Perspective</a></td> 
+<td><a href="colloquium_files/palmer_021715.pdf" target="_blank">Experiments in Exponential Perspective</a></td>
 </tr>
 
 <tr>
   <td>February 24th</td>
   <td>Reserved for Interview Talks <br> at this time</td>
   <td></td>
-<td></td> 
+<td></td>
 </tr>
 
 <tr>
   <td>March 3rd</td>
   <td>Reserved for Interview Talks <br> at this time</td>
   <td></td>
-<td></td> 
+<td></td>
 </tr>
 
 <tr>
   <td>March 10th</td>
   <td>Reserved for Interview Talks <br> at this time</td>
   <td></td>
-<td></td> 
+<td></td>
 </tr>
 
 <tr>
   <td>March 17th</td>
   <td>Spring Break</td>
   <td></td>
-<td></td> 
+<td></td>
 </tr>
 
 <tr>
   <td>March 24th</td>
   <td>Reserved for Interview Talks <br> at this time</td>
   <td></td>
-<td></td> 
+<td></td>
 </tr>
 
 <tr>
   <td>March 31st</td>
   <td>Reserved for Interview Talks <br> at this time</td>
   <td></td>
-<td></td> 
+<td></td>
 </tr>
 
 <tr>
   <td>April 7th</td>
   <td>Dana Ernst</td>
   <td>NAU</td>
-<td><a href="colloquium_files/ernst_040715.pdf" target="_blank">TBA</a></td> 
+<td><a href="colloquium_files/ernst_040715.pdf" target="_blank">TBA</a></td>
 </tr>
 
 <tr>
   <td>April 14th</td>
   <td>Thomas Holtzworth</td>
   <td>NAU</td>
-<td><a href="colloquium_files/holtzworth_041415.pdf" target="_blank">Thesis talk<br>Mentor: Falk</a></td> 
+<td><a href="colloquium_files/holtzworth_041415.pdf" target="_blank">Thesis talk<br>Mentor: Falk</a></td>
 </tr>
 
 <tr>
   <td>April 21st</td>
   <td>Michael McHenry </td>
   <td>NAU</td>
-<td><a href="colloquium_files/mchenry_042115.pdf" target="_blank">Thesis talk<br>Mentor: Neuberger</a></td> 
+<td><a href="colloquium_files/mchenry_042115.pdf" target="_blank">Thesis talk<br>Mentor: Neuberger</a></td>
 </tr>
 
 <tr>
   <td>April 28th</td>
   <td>Honors Week</td>
   <td>TBA</td>
-<td>TBA</td> 
+<td>TBA</td>
 </tr>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned |  1600 |
-| col 2 is      | centered      |    12 |
-| zebra stripes | are neat      |     1 |
+You can find the old page for Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
