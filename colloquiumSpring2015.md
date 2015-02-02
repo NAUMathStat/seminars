@@ -39,7 +39,7 @@ Building. Refreshments at 3:45pm.  *Note:* You can find the old page for Spring 
 <td>January 13th</td>
 <td>Bhupendra Paudyal</td>
 <td>NAU</td>
-<td><a href="http://{{ site.baseurl }}/colloquium_files/paudyal_011315.pdf" target="_blank">Invariant subspaces of the shift plus complex Volterra operator</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/paudyal_011315.pdf" target="_blank">Invariant subspaces of the shift plus complex Volterra operator</a></td>
 </tr>
 
 <tr>
