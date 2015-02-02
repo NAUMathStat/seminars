@@ -17,4 +17,4 @@ Mini description...
 ## Future Talks ##
 
 - Blows - student project, Theobold
-- Schulz - Yang Mills?  Invited, uncommitted.
+- Schulz - Yang Mills?  
