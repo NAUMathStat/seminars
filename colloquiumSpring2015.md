@@ -44,8 +44,10 @@ Building</font>
 <td>January 13th</td>
 <td>Bhupendra Paudyal</td>
 <td>NAU</td>
-<td><a href="seminars/colloquium_files/paudyal_011315.pdf" target="_blank">Invariant subspaces of the shift plus complex Volterra operator</a></td>
+<td><a href="https://github.com/NAUMathStat/seminars/blob/gh-pages/colloquium_files/paudyal_011315.pdf" target="_blank">Invariant subspaces of the shift plus complex Volterra operator</a></td>
 </tr>
+
+
 
 <tr>
 <td>January 20th</td>
