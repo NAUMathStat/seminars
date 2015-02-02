@@ -3,7 +3,8 @@ layout: page
 title: Department Colloquium
 ---
 
-You can find the Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
+You can find the old page for Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
+
 <p><font size="+2">Tuesdays at 4:00 pm in Room 164 of Adel Mathematics 
 Building</font>
 </p><p><font size="+2">Refreshments at 3:45</font>
