@@ -46,7 +46,7 @@ Building. Refreshments at 3:45pm.  *Note:* You can find the old page for Spring 
 <td>January 20th</td>
 <td>James W. Swift</td>
 <td>NAU</td>
-<td><a href="colloquium_files/swift_012015.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/swift_012015.pdf" target="_blank">
 Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 </tr>
 
@@ -54,28 +54,28 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>January 27th</td>
   <td>Michael Falk</td>
   <td>NAU</td>
-<td><a href="colloquium_files/falk_012715.pdf" target="_blank">Milnor fibers of arrangements</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_012715.pdf" target="_blank">Milnor fibers of arrangements</a></td>
 </tr>
 
 <tr>
   <td>February 3rd</td>
   <td>Terence Blows</td>
   <td> NAU</td>
-<td><a href="colloquium_files/blows_020315.pdf" target="_blank">The center/focus problem and bifurcations from swirling flow</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/blows_020315.pdf" target="_blank">The center/focus problem and bifurcations from swirling flow</a></td>
 </tr>
 
 <tr>
   <td>February 10th</td>
   <td>Slava Fofanov</td>
   <td>NAU</td>
-<td><a href="colloquium_files/fofanov_021015.pdf" target="_blank">Sampling strategies for low carriage-rate pathogen detection</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/fofanov_021015.pdf" target="_blank">Sampling strategies for low carriage-rate pathogen detection</a></td>
 </tr>
 
 <tr>
   <td>February 17th</td>
   <td>James Palmer </td>
   <td>NAU, <br>EE and CS</td>
-<td><a href="colloquium_files/palmer_021715.pdf" target="_blank">Experiments in Exponential Perspective</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/palmer_021715.pdf" target="_blank">Experiments in Exponential Perspective</a></td>
 </tr>
 
 <tr>
@@ -124,21 +124,21 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>April 7th</td>
   <td>Dana Ernst</td>
   <td>NAU</td>
-<td><a href="colloquium_files/ernst_040715.pdf" target="_blank">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ernst_040715.pdf" target="_blank">TBA</a></td>
 </tr>
 
 <tr>
   <td>April 14th</td>
   <td>Thomas Holtzworth</td>
   <td>NAU</td>
-<td><a href="colloquium_files/holtzworth_041415.pdf" target="_blank">Thesis talk<br>Mentor: Falk</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_041415.pdf" target="_blank">Thesis talk<br>Mentor: Falk</a></td>
 </tr>
 
 <tr>
   <td>April 21st</td>
   <td>Michael McHenry </td>
   <td>NAU</td>
-<td><a href="colloquium_files/mchenry_042115.pdf" target="_blank">Thesis talk<br>Mentor: Neuberger</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/mchenry_042115.pdf" target="_blank">Thesis talk<br>Mentor: Neuberger</a></td>
 </tr>
 
 <tr>
