@@ -7,11 +7,19 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 # Schedule Spring 2015 #
 
+### Symmetries of tetravalent metacirculant graphs of type III ###
+
+**Dates:** February 3, February 10, 2015
+
+**Speaker:** Ben Lantz (NAU)
+
+**Abstract:** I will discuss my thesis work done with Dr. Wilson last spring and examine symmetries in metacirculant graphs and what a metacirculant graph is. I'll talk about how Linking Ring structures are used to help classify these graphs. Then I'll focus on some of the problems and questions that we encountered during our research.
+
 ### The Orlik-Solomon algebra: differential forms and cohomology ###
 
 **Dates:** January 20, January 27, 2015
 
-**Speaker:** Michael Falk
+**Speaker:** Michael Falk (NAU)
 
 **Abstract:** We give a short proof of the isomorphism of the Orlik-Solomon algebra of a complex arrangement with an algebra of differential forms, and of the latter with the (De Rham) cohomology of the complement. As a corollary of the latter isomorphism, the complement is a formal space (in the sense of Sullivan). The proof uses a long exact sequence from elementary algebraic topology and the no-broken-circuit basis of the OS algebra.
 
