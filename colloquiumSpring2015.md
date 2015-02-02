@@ -4,14 +4,40 @@ title: Department Colloquium
 ---
 
 You can find the Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
+<p><font size="+2">Tuesdays at 4:00 pm in Room 164 of Adel Mathematics 
+Building</font>
+</p><p><font size="+2">Refreshments at 3:45</font>
+<br><font size="+2">
 
-John will add table later.
+</p></center><p><br>
+<table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
+<caption>
+<center>
+  <p><b><font size="+1">Colloquium Schedule</font></b></p>
+  </center>
+</caption>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned |  1600 |
-| col 2 is      | centered      |    12 |
-| zebra stripes | are neat      |     1 |
+<tbody><tr>
+<td width="12%">
+<center>
+  <b>Date</b>
+</center></td>
+
+<td width="16%">
+<center>
+  <b>Speaker</b>
+</center></td>
+
+<td width="17%">
+<center>
+  <b>Affiliation</b>
+</center></td>
+
+<td width="55%">
+<center>
+  <b>Title&nbsp;</b> (click title to see abstract)
+</center></td>
+</tr>
 
 <tr>
 <td>January 13th</td>
@@ -125,3 +151,9 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>TBA</td>
 <td>TBA</td> 
 </tr>
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned |  1600 |
+| col 2 is      | centered      |    12 |
+| zebra stripes | are neat      |     1 |
