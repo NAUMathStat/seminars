@@ -4,16 +4,14 @@ title: Department Colloquium
 ---
 
 The NAU Department of Mathematics and Statistics takes place on Tuesdays at 4:00-5:00pm in Room 164 of the Adel Mathematics
-Building. Refreshments at 3:45pm.
-
-### Colloquium Schedule ###
+Building. Refreshments at 3:45pm.  *Note:* You can find the old page for Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
 
 <table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
-<!-- <caption>
+<caption>
 <center>
   <p><b><font size="+1">Colloquium Schedule</font></b></p>
   </center>
-</caption> -->
+</caption>
 
 <tbody><tr>
 <td width="12%">
@@ -149,5 +147,3 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>TBA</td>
 <td>TBA</td>
 </tr>
-
-You can find the old page for Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
