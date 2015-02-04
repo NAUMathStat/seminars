@@ -148,4 +148,4 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 <td>TBA</td>
 </tr>
 
-\*Schedule Change
+\*Schedule Change February 17th and 24th
