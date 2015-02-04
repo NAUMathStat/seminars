@@ -72,14 +72,14 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 </tr>
 
 <tr>
-  <td>February 17th</td>
+  <td>*February 17th</td>
   <td>Bret Benesh</td>
   <td>Visitor</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/benesh_021715.pdf" target="_blank">When is S_n maximal in S_m?</a></td>
 </tr>
 
 <tr>
-  <td>February 24th</td>
+  <td>*February 24th</td>
   <td>James Palmer </td>
   <td>NAU, <br>EE and CS</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/palmer_022415.pdf" target="_blank">Experiments in Exponential Perspective</a></td>
@@ -147,3 +147,5 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>TBA</td>
 <td>TBA</td>
 </tr>
+
+\*Schedule Change
