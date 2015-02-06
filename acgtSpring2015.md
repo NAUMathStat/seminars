@@ -17,7 +17,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 ### The Orlik-Solomon algebra: differential forms and cohomology ###
 
-Dates: January 20, January 27, 2015
+**Dates:** January 20, January 27, 2015
 
 **Speaker:** Michael Falk (NAU)
 
