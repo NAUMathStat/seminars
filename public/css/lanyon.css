@@ -220,7 +220,7 @@ a.sidebar-nav-item:focus {
   cursor: pointer;
 }
 .sidebar-toggle:before {
-  /* display: block; */
+  display: block;
   content: "Menu";
   width: 100%;
   padding-bottom: .125rem;
