@@ -73,12 +73,11 @@ html {
 /* Title across top */
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   color: #268bd2;
   font-size: 2.2rem;
 }
 .masthead-title subtitle {
-  /* font-weight: 400; */
   color: #9a9a9a;
 }
 
