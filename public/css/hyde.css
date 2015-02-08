@@ -79,11 +79,11 @@ html {
 /*.masthead-title a {
   color: #505050;
 } */
-.masthead-title small {
-  font-size: 80%;
-  font-weight: 400;
+.masthead-title subtitle {
+  /* font-size: 80%; */
+  /* font-weight: 400; */
   color: #9a9a9a;
-  letter-spacing: 0;
+  /* letter-spacing: 0; */
 }
 
 /* Sidebar links */
@@ -100,7 +100,7 @@ html {
 .sidebar-about h2 {
   margin-top: 0;
   color: #9a9a9a;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 /* Sidebar nav */
