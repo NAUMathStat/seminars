@@ -74,15 +74,15 @@ html {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #268bd2;
 }
-.masthead-title a {
+/*.masthead-title a {
   color: #505050;
-}
+} */
 .masthead-title small {
-  font-size: 75%;
+  font-size: 80%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #9a9a9a;
   letter-spacing: 0;
 }
 
