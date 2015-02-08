@@ -20,7 +20,7 @@ paginate:            10
 
 # About/contact
 author:
-  name:              Cool people
+  name:              Dana C. Ernst
   url:               https://twitter.com/danaernst
   email:             dana@danaernst.com
 
@@ -30,7 +30,3 @@ version:             1.0.0
 # GitHub
 github:
   repo:             github.com/NAUMathStat/seminars
-
-# This is the list of pages to incldue in archive
-
-pages_list: {'Department Colloquium Spring 2015':'/colloquiumSpring2015', 'Applied Math Seminar Spring 2015':'/amsSpring2015', 'ACGT Seminar Spring 2015':'/acgtSpring2015', 'Teaching Showcase Spring 2015':'/teachingSpring2015', 'FAMUS Spring 2015':'/famusSpring2015'}
