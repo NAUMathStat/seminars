@@ -15,7 +15,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Bret Benesh (College of Saint Benedict & Saint John's University)
 
-**Abstract:** Consider the symmetric group $S_3$ acting on three letters.  It has one element of order $1$, three elements of order $2$, and two elements of order $3$.  Notice that for each order, the number of elements of that order (one, three, and two, respectively) divides the order of the group, which is $3!=6$.  This is not always true, as there are two elements of order $3$ in $\mathbb{Z}_3$.  Groups with this property are called "perfect order subset groups,"" or POS groups.  We will discuss the basics of POS groups and some classification theorems about POS groups.
+**Abstract:** Consider the symmetric group $S_3$ acting on three letters.  It has one element of order $1$, three elements of order $2$, and two elements of order $3$.  Notice that for each order, the number of elements of that order (one, three, and two, respectively) divides the order of the group, which is $3!=6$.  This is not always true, as there are two elements of order $3$ in $\mathbb{Z}_3$.  Groups with this property are called "perfect order subset groups," or POS groups.  We will discuss the basics of POS groups and some classification theorems about POS groups.
 
 ### Symmetries of tetravalent metacirculant graphs of type III ###
 
