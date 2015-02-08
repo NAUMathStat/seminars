@@ -98,6 +98,9 @@ html {
   color: #9a9a9a;
   font-size: 1.15rem;
 }
+.sidebar-about p {
+  margin-top: 1rem;
+}
 
 /* Sidebar nav */
 .sidebar-nav {
