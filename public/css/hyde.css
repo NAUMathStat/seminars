@@ -75,12 +75,9 @@ html {
   margin-top: 0;
   margin-bottom: 0;
   color: #268bd2;
+  font-size: 1.2rem;
 }
-/*.masthead-title a {
-  color: #505050;
-} */
 .masthead-title subtitle {
-  /* font-size: 80%; */
   /* font-weight: 400; */
   color: #9a9a9a;
   /* letter-spacing: 0; */
