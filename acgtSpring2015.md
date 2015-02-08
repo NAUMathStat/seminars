@@ -32,7 +32,3 @@ Note that talks are listed in reverse chronological order.
 **Speaker:** Michael Falk (NAU)
 
 **Abstract:** We give a short proof of the isomorphism of the Orlik-Solomon algebra of a complex arrangement with an algebra of differential forms, and of the latter with the (De Rham) cohomology of the complement. As a corollary of the latter isomorphism, the complement is a formal space (in the sense of Sullivan). The proof uses a long exact sequence from elementary algebraic topology and the no-broken-circuit basis of the OS algebra.
-
-# Previous Semesters ##
-
-Coming soon.
