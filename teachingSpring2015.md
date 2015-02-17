@@ -13,7 +13,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Learning Math - A Student Panel ###
 
-**Date:**
+**Date:** Wednesday, February 25, 2015 at 3:00-4:00pm
 
 **Speakers:** Student panel, moderated by [Dana C. Ernst](http://danaernst.com)
 
@@ -21,7 +21,7 @@ Note that talks are listed in reverse chronological order.
 
 ### A discussion about inquiry-based learning (part 2) ###
 
-**Date:** January 21, 2015
+**Date:** Wednesday, January 21, 2015 at 3:00-4:00pm
 
 **Speaker:** Dana Ernst
 
