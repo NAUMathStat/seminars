@@ -9,6 +9,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 # Schedule for Spring 2015 #
 
+Note that talks are listed in reverse chronological order.
+
+### Learning Math - A Student Panel ###
+
+**Date:**
+
+**Speakers:** Student panel, moderated by [Dana C. Ernst](http://danaernst.com)
+
+**Abstract:**  Wouldn't it be nice to know how students learn math: what they think works and what they think doesn't?How do students see their math classrooms and what their teachers do to facilitate learning? This is a wonderful opportunity for new teachers as well as veterans to have a chance to hear from students about how they learn math. These students aren't necessarily math majors - but they DO take our classes and DO care about their learning!
+
 ### A discussion about inquiry-based learning (part 2) ###
 
 **Date:** January 21, 2015
