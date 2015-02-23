@@ -19,7 +19,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Symmetries of tetravalent metacirculant graphs of type III ###
 
-**Dates:** February 3, February 10, 2015
+**Dates:** February 3, February 10, February 24, 2015
 
 **Speaker:** Ben Lantz (NAU)
 
