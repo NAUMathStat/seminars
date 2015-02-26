@@ -12,6 +12,10 @@ The AMS typically meets 12:45-1:45PM on Thursdays in Room 164.  Any faculty, stu
 - 2/5 Wolford
 - 2/12 Neuberger - Decimation Part II, Sierpinski Gasket
 - 2/19 Brighton
+Kevin can use another 45 minutes - to - one hour to finish up on his topic:
+   "First Eigenvalue Estimates for Manifolds with Ricci Curvature Bounded from Below."
+
+Abstract:  I'll begin with a (very) brief introduction to Riemannian geometry and some of the intuition involved in comparison geometry.  I'll then prove the classical first eigenvalue estimate of Lichnerowicz for manifolds with positive Ricci curvature and Zhong-Yang's improvement of Li-Yau's estimate for manifolds with nonnegative Ricci curvature.  If time permits, I will conclude with a discussion of a conjecture of Li concerning the combination of these two results into a single unified estimate.
 
 ## Future Talks ##
 
