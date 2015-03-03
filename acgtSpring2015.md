@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### TBA ###
+
+**Dates:** March 3, March 10, 2015
+
+**Speaker:** Thomas Holztworth (NAU)
+
+**Abstract:** TBA
+
 ### Groups with all order subsets dividing the order of the group ###
 
 **Dates:** February 17, 2015
