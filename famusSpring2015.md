@@ -11,6 +11,24 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Donald Duck in Mathmagic Land ###
+
+**Date:** February 27, 2015
+
+**Speaker:** Taryn Laird (NAU)
+
+**Abstract:** It's nice to change things up now and then, and with almost half of the regular FAMUS attendees being out of town for SUnMaRC, I thought this might be a good chance to dispense with the usual talk and faculty interview and, instead, show a movie!  The movie is the well-known cartoon "Donald Duck in Mathmagic Land," and FAMUS is being hosted by graduate student Taryn Laird. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-02-27.pdf)]
+
+### ??? ###
+
+**Date:** February 20, 2015
+
+**Speakers:** Jordan Hunt and Zach Parker (NAU)
+
+**Guest:** Matt Fahy (NAU)
+
+**Abstract:** ???
+
 ### One step forward, one step back: A puzzle approach to Erdős’ discrepancy problem ###
 
 **Date:** February 13, 2015
