@@ -19,7 +19,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** It's nice to change things up now and then, and with almost half of the regular FAMUS attendees being out of town for SUnMaRC, I thought this might be a good chance to dispense with the usual talk and faculty interview and, instead, show a movie!  The movie is the well-known cartoon "Donald Duck in Mathmagic Land," and FAMUS is being hosted by graduate student Taryn Laird. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-02-27.pdf)]
 
-### ??? ###
+### Amicability in the Eisenstein Integers ###
 
 **Date:** February 20, 2015
 
@@ -27,7 +27,7 @@ Note that talks are listed in reverse chronological order.
 
 **Guest:** Matt Fahy (NAU)
 
-**Abstract:** ???
+**Abstract:** An amicable pair $(m,n)$ is a pair of two positive integers with the property that the proper divisors of $m$  sum to $n$ and the proper divisors of $n$ sum to $m$. The smallest amicable pair is $(220, 284)$.  While there are many interesting questions one can ask about amicability (Do finitely many or infinitely many amicable pairs exist?  Does there exist an amicable pair with $m$ and $n$ having opposite parity?  Do there exist "amicable triples"?  etc.), the focus of this talk is the search for amicable pairs in other algebraic structures that possess unique factorization, most notably the ring of Eisenstein integers. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-02-20.pdf)]
 
 ### One step forward, one step back: A puzzle approach to Erdős’ discrepancy problem ###
 
