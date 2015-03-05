@@ -11,6 +11,16 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Cycles in various non-linear, age-structured population models ###
+
+**Date:** March 5, 2015
+
+**Speaker:** Mel Theobald (NAU)
+
+**Guest:** Terry Blows (NAU)
+
+**Abstract:** We consider $N$-dimensional, age-structured models of the normally 1-dimensional Beverton-Holt, Ricker, and Pennycuick population models. Our particular interest is in the impossibility of certain $p$-cycles in models of corresponding dimension.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-03-06.pdf)]
+
 ### Donald Duck in Mathmagic Land ###
 
 **Date:** February 27, 2015
