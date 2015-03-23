@@ -11,6 +11,14 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Encouraging Students to Re-engage with Exam Materials ###
+
+**Date:** Wednesday, March 25, 2015 at 3:00-4:00pm
+
+**Speakers:** Brandon Cruickshank (Department of Chemistry and Biochemistry, NAU)
+
+**Abstract:**  TBA
+
 ### Learning Math - A Student Panel ###
 
 **Date:** Wednesday, February 25, 2015 at 3:00-4:00pm
