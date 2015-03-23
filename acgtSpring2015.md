@@ -11,19 +11,27 @@ Note that talks are listed in reverse chronological order.
 
 ### TBA ###
 
-**Dates:** March 3, March 10, 2015
+**Dates:** March 24, 2015
 
 **Speaker:** Thomas Holztworth (NAU)
 
 **Abstract:** TBA
 
-### ??? ###
+### A weak image of the matroid of the braid arrangement, realizable in characteristic two ###
 
-**Dates:** March 3, March 10, 2015
+**Dates:** March 10, 2015
 
 **Speaker:** Michael Falk (NAU)
 
-**Abstract:** Coming soon.
+**Abstract:** Motivated by applications in the theory of (higher-degree) resonance varieties, we give a new (or perhaps newly rediscovered) construction of a rank-reducing weak map of the matroid $M(K_n)$ of the complete graph (which coincides with the matroid of the reflection arrangement of type $A$). The weak image arises naturally as a minor of the projective space over $\mathbb{Z}_2$.
+
+### The simple singularities ###
+
+**Dates:** March 3, 2015
+
+**Speaker:** Michael Falk (NAU)
+
+**Abstract:** We give an elementary introduction to the basic ideas in the ADE classification of simple singularities, with the eventual goal to expose the appearance of Weyl groups in singularity theory. In this first installment we discuss isolated singular points of complex hypersurfaces and the Milnor fibration.
 
 ### Groups with all order subsets dividing the order of the group ###
 
