@@ -13,7 +13,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Encouraging Students to Re-engage with Exam Materials ###
 
-**Date:** Wednesday, March 25, 2015 at 3:00-4:00pm
+**Date:** Wednesday, April 15, 2015 at 3:00-4:00pm
 
 **Speakers:** Brandon Cruickshank (Department of Chemistry and Biochemistry, NAU)
 
