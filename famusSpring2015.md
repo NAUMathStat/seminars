@@ -11,11 +11,21 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### The Toronto Problem ###
+
+**Date:** March 26, 2015
+
+**Speaker:** Philip Doi (undergraduate mathematics major at NAU)
+
+**Guests:** A subset of the 14 undergrad math majors who attended a conference in the past month (either SUnMaRC, which was at the University of Texas at El Paso or the CURM conference at BYU in Provo, Utah)
+
+**Abstract:** In point-set topology, a Toronto Space is a topological space that is homeomorphic to every subspace of the same cardinality. The Toronto Problem asks if there is a non-discrete HausdorffToronto space of cardinality aleph-one.  We will examine some of the literature known about Toronto spaces and will suppose the existence of non-discrete Hausdorff Toronto spaces, reviewing known results about these hypothetical spaces.  Additionally, we will discuss the notion of logical independence for mathematical statements within the scope of axiomatic set theory; a notion that pertains to understanding the problem's full nature.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-03-27.pdf)]
+
 ### Cycles in various non-linear, age-structured population models ###
 
 **Date:** March 5, 2015
 
-**Speaker:** Mel Theobald (NAU)
+**Speaker:** Mel Theobald (undergraduate mathematics major at NAU)
 
 **Guest:** Terry Blows (NAU)
 
@@ -33,7 +43,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** February 20, 2015
 
-**Speakers:** Jordan Hunt and Zach Parker (NAU)
+**Speakers:** Jordan Hunt and Zach Parker (undergraduate mathematics majors at NAU)
 
 **Guest:** Matt Fahy (NAU)
 
