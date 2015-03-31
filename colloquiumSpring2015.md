@@ -80,7 +80,7 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 
 <tr>
   <td>*February 24th</td>
-  <td>James Palmer </td>
+  <td>James Palmer</td>
   <td>NAU, <br>EE and CS</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/palmer_022415.pdf" target="_blank">Experiments in Exponential Perspective</a></td>
 </tr>
@@ -122,9 +122,9 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 
 <tr>
   <td>April 7th</td>
-  <td>Reserved for Interview Talks <br> at this time</td>
-  <td></td>
-<td></td>
+  <td>Dana Ernst</td>
+  <td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
