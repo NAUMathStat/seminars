@@ -19,7 +19,7 @@ Note that talks are listed in reverse chronological order.
 
 ### A weak image of the matroid of the braid arrangement, realizable in characteristic two ###
 
-**Dates:** March 10, 2015
+**Date:** March 10, 2015
 
 **Speaker:** Michael Falk (NAU)
 
@@ -27,7 +27,7 @@ Note that talks are listed in reverse chronological order.
 
 ### The simple singularities ###
 
-**Dates:** March 3, 2015
+**Date:** March 3, 2015
 
 **Speaker:** Michael Falk (NAU)
 
@@ -35,7 +35,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Groups with all order subsets dividing the order of the group ###
 
-**Dates:** February 17, 2015
+**Date:** February 17, 2015
 
 **Speaker:** Bret Benesh (College of Saint Benedict & Saint John's University)
 
