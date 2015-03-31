@@ -9,13 +9,13 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### TBA ###
+### Semisimple Lie algebras ###
 
-**Dates:** March 24, 2015
+**Dates:** March 24, March 31, 2015
 
-**Speaker:** Thomas Holztworth (NAU)
+**Speaker:** Thomas Holtzworth (NAU)
 
-**Abstract:** TBA
+**Abstract:** In this series of talks we will discuss semisimple Lie algebras.
 
 ### A weak image of the matroid of the braid arrangement, realizable in characteristic two ###
 
