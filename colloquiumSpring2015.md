@@ -122,9 +122,9 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 
 <tr>
   <td>April 7th</td>
-  <td>Dana Ernst</td>
-  <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ernst_040715.pdf" target="_blank">TBA</a></td>
+  <td>Reserved for Interview Talks <br> at this time</td>
+  <td></td>
+<td></td>
 </tr>
 
 <tr>
