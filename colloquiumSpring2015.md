@@ -129,23 +129,16 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 
 <tr>
   <td>April 14th</td>
-  <td>Thomas Holtzworth</td>
-  <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_041415.pdf" target="_blank">Thesis talk<br>Mentor: Falk</a></td>
-</tr>
-
-<tr>
-  <td>April 21st</td>
   <td>Michael McHenry </td>
   <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/mchenry_042115.pdf" target="_blank">Thesis talk<br>Mentor: Neuberger</a></td>
 </tr>
 
 <tr>
-  <td>April 28th</td>
-  <td>Honors Week</td>
-  <td>TBA</td>
-<td>TBA</td>
+  <td>April 21st</td>
+  <td>Honors Day Speaker</td>
+  <td>Jon McCammond<br>UC Santa Barbara</td>
+<td>TBD</td>
 </tr>
 
 \*Schedule Change February 17th and 24th
