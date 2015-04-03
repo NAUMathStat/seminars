@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Semisimple Lie algebras ###
 
-**Dates:** March 24, March 31, 2015
+**Dates:** March 24, March 31, April 7, 2015
 
 **Speaker:** Thomas Holtzworth (NAU)
 
