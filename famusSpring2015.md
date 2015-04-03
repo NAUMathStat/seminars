@@ -11,6 +11,17 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### The Determinant Spectrum Problem ###
+
+**Date:** April 3, 2015
+
+**Speaker:** Wilson Lough (undergraduate mathematics major at NAU)
+
+**Abstract:** For any natural number $n$, finding all possible determinant values of $n\times n$ matrices with entries restricted to the set $\{1, -1\}$ is known as the determinant spectrum problem. For $n < 8$, the spectra consist of sets of consecutive integers in arithmetic progressions, but gaps appear in the spectra for $n\geq 8$. In this talk, I will present results involving the spectra of $n\times n$ matrices with entries restricted to the set $\{1, -1, i, -i\}$.  
+
+There is a "catch" to this talk: he/I/we are stuck on part of our "proof" that the $4\times 4$ spectrum for matrices with entries in $\{1, -1, i, -i\}$ is completely classified.  We know what the spectrum is via brute force; but we are having a hard time verifying this algebraically.  So, in lieu of a faculty interview, part of the talk will be an open Q&A, and hopefully someone in the audience can help us find a way to prove we are trying to prove.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-04-03.pdf)]
+
+
 ### The Toronto Problem ###
 
 **Date:** March 26, 2015
