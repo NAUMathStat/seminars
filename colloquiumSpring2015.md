@@ -124,7 +124,7 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>April 7th</td>
   <td>Dana Ernst</td>
   <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ernst_040715.pdf" target="_blank"Impartial achievement and avoidance games for generating finite groups</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ernst_040715.pdf" target="_blank">Impartial achievement and avoidance games for generating finite groups</a></td>
 </tr>
 
 <tr>
