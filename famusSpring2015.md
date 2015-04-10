@@ -11,6 +11,16 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### The Gradient Newton Galerkin Algorithm and its Application ###
+
+**Date:** April 10, 2015
+
+**Speaker:** Kevin Luna (undergraduate mathematics major at NAU)
+
+**Guest:** Dr. Jim Swift (NAU)
+
+**Abstract:** The Gradient Newton Galerkin Algorithm (GNGA) is a computational algorithm for finding numerical solutions to partial differential equations. The GNGA can be readily applied to the family of nonlinear elliptic PDEs of the form $\Delta u + su + f(u) = 0$ with Dirichlet boundary conditions on some piecewise smooth region that is a subset of $\mathbb{R}^n$, where $f(u)$ is the non-linearity of the PDE, and $s$ is a parameter.  In this talk the GNGA will be discussed, and results from its application on the interval $[0, \pi]$ and the square region $[0, \pi] \times [0, \pi]$ will be examined when the non linearity is set to be $f(u) = u^3$.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-04-10.pdf)]
+
 ### The Determinant Spectrum Problem ###
 
 **Date:** April 3, 2015
@@ -20,7 +30,6 @@ Note that talks are listed in reverse chronological order.
 **Abstract:** For any natural number $n$, finding all possible determinant values of $n\times n$ matrices with entries restricted to the set $\\{1, -1\\}$ is known as the determinant spectrum problem. For $n < 8$, the spectra consist of sets of consecutive integers in arithmetic progressions, but gaps appear in the spectra for $n\geq 8$. In this talk, I will present results involving the spectra of $n\times n$ matrices with entries restricted to the set $\\{1, -1, i, -i\\}$.  
 
 There is a "catch" to this talk: he/I/we are stuck on part of our "proof" that the $4\times 4$ spectrum for matrices with entries in $\\{1, -1, i, -i\\}$ is completely classified.  We know what the spectrum is via brute force; but we are having a hard time verifying this algebraically.  So, in lieu of a faculty interview, part of the talk will be an open Q&A, and hopefully someone in the audience can help us find a way to prove we are trying to prove.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-04-03.pdf)]
-
 
 ### The Toronto Problem ###
 
@@ -38,7 +47,7 @@ There is a "catch" to this talk: he/I/we are stuck on part of our "proof" that t
 
 **Speaker:** Mel Theobald (undergraduate mathematics major at NAU)
 
-**Guest:** Terry Blows (NAU)
+**Guest:** Dr. Terry Blows (NAU)
 
 **Abstract:** We consider $N$-dimensional, age-structured models of the normally 1-dimensional Beverton-Holt, Ricker, and Pennycuick population models. Our particular interest is in the impossibility of certain $p$-cycles in models of corresponding dimension.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-03-06.pdf)]
 
@@ -66,7 +75,7 @@ There is a "catch" to this talk: he/I/we are stuck on part of our "proof" that t
 
 **Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
 
-**Guest:** Roy St. Laurent (NAU)
+**Guest:** Dr. Roy St. Laurent (NAU)
 
 **Abstract:** In the 1930s, the famous Hungarian mathematician, Paul Erdős, thought that for any infinite $\pm1$-sequence, it would always be possible to find a finite subsequence consisting of every $n$th term up to some point summing to a number larger than any you choose. But Erdős could not prove his conjecture, which he referred to as the "discrepancy problem." About a year ago, Lisitsa and Konev published a proof that is a significant step towards proving Erdős' problem.  Their computer-assisted proof resulted in headlines such as "Wikipedia-size maths proof too big for humans to check" because their proof is as large as the entire content of Wikipedia, making it unlikely that it will ever be checked by a human being. In this episode of FAMUS, we will tinker with Erdős’ puzzle and attempt to wrap our heads around its difficulty. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-02-13.pdf)] [[Slides](https://speakerdeck.com/dcernst/one-step-forward-one-step-back-a-puzzle-approach-to-erdos-discrepancy-problem)]
 
