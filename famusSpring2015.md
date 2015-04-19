@@ -11,6 +11,16 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### An Iterated Prisoner's Dilemma ###
+
+**Date:** April 17, 2015
+
+**Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
+
+**Guest:** Nellie Gopaul (NAU)
+
+**Abstract:** The Prisoner’s Dilemma goes something like this. Two members of a criminal gang are arrested and imprisoned. Each prisoner is in solitary confinement with no means of speaking to or exchanging messages with the other. The police admit they don’t have enough evidence to convict the pair on the principal charge. Simultaneously, the police offer each prisoner a bargain. If A and B both confess the crime, each of them serves 4 years in prison. If A confesses but B denies the crime, A will be set free whereas B will serve 5 years in prison (and vice versa). If A and B both deny the crime, both of them will serve 2 years in prison. In this talk, we will first discuss this classic game theoretic problem and then introduce an iterative version that consists of a round robin tournament of teams, where the winner is the team that spends the least amount of time in prison.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-04-17.pdf)] [[Slides](https://docs.google.com/presentation/d/1uAUrz_M-TxmEeyUZkOVjxoARIVfSq9Aezw4X8p8N8fY/edit?usp=sharing)]
+
 ### The Gradient Newton Galerkin Algorithm and its Application ###
 
 **Date:** April 10, 2015
