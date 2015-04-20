@@ -140,7 +140,7 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>Honors Day Speaker<br>Jon McCammond</td>
   <td>UC Santa Barbara</td>
 <td>
-<a href="{{ site.baseurl }}/colloquium_files/mccammond_04202115.pdf" target="_blank">"The intrinsic geometry of groups"<br>and"Repetition and Insight"</a>
+<a href="{{ site.baseurl }}/colloquium_files/mccammond_04202115.pdf" target="_blank">"The intrinsic geometry of groups"<br>and<br>"Repetition and Insight"</a>
 </td>
 </tr>
 
