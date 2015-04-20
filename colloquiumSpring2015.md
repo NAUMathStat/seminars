@@ -14,7 +14,7 @@ Building. Refreshments at 3:45pm.  *Note:* You can find the old page for Spring 
 </caption>
 
 <tbody><tr>
-<td width="12%">
+<td width="17%">
 <center>
   <b>Date</b>
 </center></td>
@@ -24,7 +24,7 @@ Building. Refreshments at 3:45pm.  *Note:* You can find the old page for Spring 
   <b>Speaker</b>
 </center></td>
 
-<td width="17%">
+<td width="12%">
 <center>
   <b>Affiliation</b>
 </center></td>
