@@ -135,7 +135,7 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 </tr>
 
 <tr>
-  <td>April 20th<br>Advanced Talk<br>#147<br><strong>and</strong><br>April 21st<br>Honors Talk<br>#162
+  <td>April 20th<br>Advanced Talk<br>#164<br><strong>and</strong><br>April 21st<br>Honors Talk<br>#163
   </td>
   <td>Honors Day Speaker<br>Jon McCammond</td>
   <td>UC Santa Barbara</td>
