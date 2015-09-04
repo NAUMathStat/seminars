@@ -4,8 +4,11 @@ title: Department Colloquium
 ---
 
 The NAU Department of Mathematics and Statistics takes place on Tuesdays at 4:00-5:00pm in Room 164 of the Adel Mathematics
-Building. Refreshments at 3:45pm.  *Note:* You can find the old page for Spring 2015 Colloquium Schedule [here](http://jan.ucc.nau.edu/~jmn3/S15_colloquium.html).
+Building. Refreshments at 3:45pm.
 
+Coming soon!
+
+<!--
 <table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
 <caption>
 <center>
@@ -72,14 +75,14 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
 </tr>
 
 <tr>
-  <td>February 17th</td>
+  <td>*February 17th</td>
   <td>Bret Benesh</td>
   <td>College of Saint Benedict & Saint John's University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/benesh_021715.pdf" target="_blank">When is $S_n$ maximal in $S_m$?</a></td>
 </tr>
 
 <tr>
-  <td>February 24th</td>
+  <td>*February 24th</td>
   <td>James Palmer</td>
   <td>NAU, <br>EE and CS</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/palmer_022415.pdf" target="_blank">Experiments in Exponential Perspective</a></td>
@@ -150,3 +153,5 @@ Invariant Subspaces for a Nonlinear PDE on the Sierpinski Gasket.</a></td>
   <td>No Talk Scheduled</td>
 <td></td>
 </tr>
+\*Schedule Change February 17th and 24th
+-->

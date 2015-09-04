@@ -21,7 +21,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** March 10, 2015
 
-**Speaker:** Michael Falk (NAU)
+**Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
 
 **Abstract:** Motivated by applications in the theory of (higher-degree) resonance varieties, we give a new (or perhaps newly rediscovered) construction of a rank-reducing weak map of the matroid $M(K_n)$ of the complete graph (which coincides with the matroid of the reflection arrangement of type $A$). The weak image arises naturally as a minor of the projective space over $\mathbb{Z}_2$.
 
@@ -29,7 +29,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** March 3, 2015
 
-**Speaker:** Michael Falk (NAU)
+**Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
 
 **Abstract:** We give an elementary introduction to the basic ideas in the ADE classification of simple singularities, with the eventual goal to expose the appearance of Weyl groups in singularity theory. In this first installment we discuss isolated singular points of complex hypersurfaces and the Milnor fibration.
 
@@ -53,6 +53,6 @@ Note that talks are listed in reverse chronological order.
 
 **Dates:** January 20, January 27, 2015
 
-**Speaker:** Michael Falk (NAU)
+**Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
 
 **Abstract:** We give a short proof of the isomorphism of the Orlik-Solomon algebra of a complex arrangement with an algebra of differential forms, and of the latter with the (De Rham) cohomology of the complement. As a corollary of the latter isomorphism, the complement is a formal space (in the sense of Sullivan). The proof uses a long exact sequence from elementary algebraic topology and the no-broken-circuit basis of the OS algebra.
