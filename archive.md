@@ -3,18 +3,25 @@ layout: page
 title: Archive
 ---
 
+Note that pages and posts are listed in reverse chronological order.
+
 ### Seminars ###
 - Department Colloquium
+    - [Fall 2015]({{ site.baseurl }}/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
+    - [Fall 2015]({{ site.baseurl }}/acgtFall2015)
     - [Spring 2015]({{ site.baseurl }}/acgtSpring2015)
 - Applied Math Seminar (AMS)
+    - [Fall 2015]({{ site.baseurl }}/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Fall 2015]({{ site.baseurl }}/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/famusSpring2015)
 - Teaching Showcase
-    - [Fall 2014]({{ site.baseurl }}/teachingFall2014)
+    - [Fall 2015]({{ site.baseurl }}/teachingFall2015)
     - [Spring 2015]({{ site.baseurl }}/teachingSpring2015)
+    - [Fall 2014]({{ site.baseurl }}/teachingFall2014)
 
 ### Weekly Posts ###
 {% for post in site.posts %}
