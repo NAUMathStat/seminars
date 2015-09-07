@@ -6,4 +6,4 @@ The AMS typically meets 12:45-1:45PM on Thursdays in Room 164 of the Adel Mathem
 
 ## Schedule ##
 
-Coming soon!
+We will not be meeting every week this semester, as several of the regular attendees are on leave, sabbatical, or otherwise not expected to be around.  We do plan to have some talks, so watch for announcements or check this site.
