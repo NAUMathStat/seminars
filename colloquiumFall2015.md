@@ -47,14 +47,93 @@ The rest of the schedule will be announced soon!
 <tr>
 <td>September 15th</td>
 <td>TBA</td>
-<td>NAU</td>
+<td>TBA</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/xxx_091515.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
+<tr>
+<td>September 22nd</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_092215.pdf" target="_blank">
+TBA.</a></td>
+</tr>
 
 <tr>
-  <td>December 2nd</td>
+<td>September 29th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_092915.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>October 6th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_100615.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>October 13th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_101315.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>October 20th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_102015.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>October 27th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_102715.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>November 3rd</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_110315.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>November 10th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_111015.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>November 17th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_111715.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+<td>November 24th</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_112415.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+  <td>December 1st</td>
   <td>Reading Week</td>
   <td>No Talk Scheduled</td>
 <td></td>
