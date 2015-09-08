@@ -46,57 +46,57 @@ The rest of the schedule will be announced soon!
 
 <tr>
 <td>September 15th</td>
+<td>Sudipta Mallik</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_091515.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/mallik_091515.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>September 22nd</td>
+<td>Jin Wang</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_092215.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/wang_092215.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>September 29th</td>
+<td>Bertrand Cambou</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_092915.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/cambou_092915.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>October 6th</td>
+<td>Michael Falk</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_100615.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_100615.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>October 13th</td>
+<td>Derek Sonderegger</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_101315.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/sonderegger_101315.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>October 20th</td>
+<td>Nandor Sieben</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_102015.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/sieben_102015.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>October 27th</td>
+<td>Dana Ernst</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_102715.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/ernst_102715.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
@@ -118,23 +118,31 @@ TBA.</a></td>
 
 <tr>
 <td>November 17th</td>
+<td>Andrew Lebovitz</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_111715.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/lebovitz_111715.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
 <td>November 24th</td>
+<td>Roy St. Laurent</td>
 <td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_112415.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_112415.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
 <tr>
   <td>December 1st</td>
+  <td>Thomas Holtztworth</td>
+  <td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_120115.pdf" target="_blank">
+TBA.</a></td>
+</tr>
+
+<tr>
+  <td>December 8th</td>
   <td>Reading Week</td>
-  <td>No Talk Scheduled</td>
+  <td>No talk scheduled</td>
 <td></td>
 </tr>
