@@ -6,17 +6,17 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
-### Coming soon! ###
+### The Friendship Paradox: Your friends, on average, have more friends than you do ###
 
 **Date:** September 11, 2015
 
-**Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
+**Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
+
+**Abstract:** The Friendship Paradox is the observation that your friends, on average, have more friends than you do. This phenomenon, which was first observed by the sociologist Scott L. Feld in 1991, is mathematically provable, even though it contradicts most people's intuition that they have more friends than their friends do. In this episode of FAMUS, we will discuss the "paradox", sketch its proof, and explore some applications.  The idea for the talk was inspired by a [post by Richard Green](https://plus.google.com/101584889282878921052/posts/cHo5dMTQdsW) on Google+. 
 
 **Guest:** John Neuberger (NAU)
 
-**Abstract:** Coming soon!
-
-## Upcoming Speakers at FAMUS ###
+## Upcoming at FAMUS ###
 
 - September 18: Dana
 - September 25:  Dana
