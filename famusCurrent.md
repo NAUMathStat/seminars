@@ -12,6 +12,6 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
 
-**Guest:** ???
+**Guest:** John Neuberger (NAU)
 
 **Abstract:** Coming soon!
