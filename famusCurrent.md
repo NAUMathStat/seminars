@@ -15,3 +15,19 @@ Note that talks are listed in reverse chronological order.
 **Guest:** John Neuberger (NAU)
 
 **Abstract:** Coming soon!
+
+## Upcoming Speakers at FAMUS ###
+
+- September 18: Dana
+- September 25:  Dana
+- October 2: Dr. Terry Blows
+- October 9: Ellie Kennedy (Guest Host)
+- October 16: Dr. Brian Beaudrie
+- October 23: Ian Williams
+- October 30: Andrew Lebovitz
+- November 6: Dr. Roy St. Laurent
+- November 13: Dana
+- November 20: Dr. Todd Wolford
+- November 27: No FAMUS (Thanksgiving)
+- December 4: Dana
+- December 11:  No FAMUS
