@@ -6,6 +6,16 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Proofs Without Words ###
+
+**Date:** September 18, 2015
+
+**Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
+
+**Abstract:** In this FAMUS talk, we'll explore several cool mathematical theorems from a visual perspective. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-18.pdf)]
+
+**Guest:** Dr. John Hagood (NAU)
+
 ### The Friendship Paradox: Your friends, on average, have more friends than you do ###
 
 **Date:** September 11, 2015
@@ -14,11 +24,10 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** The Friendship Paradox is the observation that your friends, on average, have more friends than you do. This phenomenon, which was first observed by the sociologist Scott L. Feld in 1991, is mathematically provable. In this episode of FAMUS, we will discuss the "paradox", sketch its proof, and explore some applications.  The idea for the talk was inspired by a [post by Richard Green](https://plus.google.com/101584889282878921052/posts/cHo5dMTQdsW) on Google+. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-11.pdf)] [[Slides](https://speakerdeck.com/dcernst/the-friendship-paradox-your-friends-on-average-have-more-friends-than-you-do)]
 
-**Guest:** John Neuberger (NAU)
+**Guest:** Dr. John Neuberger (NAU)
 
 ## Upcoming at FAMUS ###
 
-- September 18: Dana
 - September 25:  Dana
 - October 2: Dr. Terry Blows
 - October 9: Ellie Kennedy (Guest Host)
