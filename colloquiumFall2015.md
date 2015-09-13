@@ -49,7 +49,7 @@ The rest of the schedule will be announced soon!
 <td>Sudipta Mallik</td>
 <td>TBA</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/mallik_091515.pdf" target="_blank">
-TBA.</a></td>
+Structured Inverse Eigenvalue Problems.</a></td>
 </tr>
 
 <tr>
@@ -57,7 +57,7 @@ TBA.</a></td>
 <td>Jin Wang</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/wang_092215.pdf" target="_blank">
-TBA.</a></td>
+On Halfspace Depth Trimmed Mean.</a></td>
 </tr>
 
 <tr>
@@ -65,7 +65,7 @@ TBA.</a></td>
 <td>Bertrand Cambou</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/cambou_092915.pdf" target="_blank">
-TBA.</a></td>
+Design of cryptographic solutions.</a></td>
 </tr>
 
 <tr>
@@ -73,7 +73,7 @@ TBA.</a></td>
 <td>Michael Falk</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/falk_100615.pdf" target="_blank">
-TBA.</a></td>
+A geometer’s view of frames: definitions and open problems.</a></td>
 </tr>
 
 <tr>
@@ -97,7 +97,7 @@ TBA.</a></td>
 <td>Dana Ernst</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ernst_102715.pdf" target="_blank">
-TBA.</a></td>
+Exploring Conway’s Sylver Coinage game.</a></td>
 </tr>
 
 <tr>
@@ -129,7 +129,7 @@ TBA.</a></td>
 <td>Roy St. Laurent</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_112415.pdf" target="_blank">
-TBA.</a></td>
+Bootstrap Confidence Intervals, Randomization Tests, and STA 270.</a></td>
 </tr>
 
 <tr>
@@ -137,7 +137,7 @@ TBA.</a></td>
   <td>Thomas Holtztworth</td>
   <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_120115.pdf" target="_blank">
-TBA.</a></td>
+M.S. Thesis talk, advisor Mike Falk.</a></td>
 </tr>
 
 <tr>
