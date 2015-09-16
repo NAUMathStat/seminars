@@ -47,7 +47,7 @@ Titles and abstracts uploaded as available.
 <tr>
 <td>September 15th</td>
 <td>Sudipta Mallik</td>
-<td>TBA</td>
+<td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/mallik_091515.pdf" target="_blank">
 Structured Inverse Eigenvalue Problems.</a></td>
 </tr>
