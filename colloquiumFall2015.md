@@ -121,7 +121,7 @@ TBA.</a></td>
 <td>Andrew Lebovitz</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/lebovitz_111715.pdf" target="_blank">
-TBA.</a></td>
+Elementary Operations and Functions, and Reflections.</a></td>
 </tr>
 
 <tr>
