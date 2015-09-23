@@ -22,7 +22,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 
-**Abstract:** In this FAMUS talk, we'll explore several cool mathematical theorems from a visual perspective. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-18.pdf)] [[Slides](???)]
+**Abstract:** In this FAMUS talk, we'll explore several cool mathematical theorems from a visual perspective. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-18.pdf)] [[Slides](https://speakerdeck.com/dcernst/proofs-without-words-1)]
 
 **Guest:** Dr. John Hagood (NAU)
 
