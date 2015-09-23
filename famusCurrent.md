@@ -6,13 +6,23 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Modeling Light Scattering to Solve Related Inverse Problems ###
+
+**Date:** September 25, 2015
+
+**Speaker:** Dustin Story (NAU)
+
+**Abstract:** In this episode of FAMUS, Dustin Story will discuss the work he did during his summer REU (Research Experience for Undergraduates).  Here are the details. Capturing the effects of absorption and scattering on light passing through a medium has various applications in areas such as biomedical optics, atmospheric sciences, and several other areas of physics.  We study these effects, first using the Kubelka-Munk equations, and later using the radiative transfer equation. To find solutions to these equations, we study the associated generalized eigenvalue problems by taking advantage of several inherent symmetries. The symmetries are first established by analyzing the Kubelka-Munk system. Later, we establish these symmetries and apply them to find numerical solutions to the radiative transfer equation using the discrete ordinate method.  The solutions to these models lay the ground work for posing and solving related inverse problems. Optimization and root finding techniques are applied to approximate solutions for most inverse problems except in special cases where analytical approximations are available.  These solutions are extended to solve similar inverse problems in the field of medical imaging. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-25.pdf)]
+
+**Guests:** NAU students with REU experience
+
 ### Proofs Without Words ###
 
 **Date:** September 18, 2015
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 
-**Abstract:** In this FAMUS talk, we'll explore several cool mathematical theorems from a visual perspective. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-18.pdf)]
+**Abstract:** In this FAMUS talk, we'll explore several cool mathematical theorems from a visual perspective. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-18.pdf)] [[Slides](???)]
 
 **Guest:** Dr. John Hagood (NAU)
 
@@ -28,7 +38,6 @@ Note that talks are listed in reverse chronological order.
 
 ## Upcoming at FAMUS ###
 
-- September 25:  Dana
 - October 2: Dr. Terry Blows
 - October 9: Ellie Kennedy (Guest Host)
 - October 16: Dr. Brian Beaudrie
