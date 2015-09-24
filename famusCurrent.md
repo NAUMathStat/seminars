@@ -43,7 +43,7 @@ Note that talks are listed in reverse chronological order.
 - October 16: Dr. Brian Beaudrie
 - October 23: Ian Williams
 - October 30: Andrew Lebovitz
-- November 6: Dr. Roy St. Laurent
+- November 6: Dr. Bruce Bayly (University of Arizona)
 - November 13: Dana
 - November 20: Dr. Todd Wolford
 - November 27: No FAMUS (Thanksgiving)
