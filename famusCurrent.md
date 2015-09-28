@@ -24,8 +24,6 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** In this episode of FAMUS, Dustin Story will discuss the work he did during his summer REU (Research Experience for Undergraduates).  Here are the details. Capturing the effects of absorption and scattering on light passing through a medium has various applications in areas such as biomedical optics, atmospheric sciences, and several other areas of physics.  We study these effects, first using the Kubelka-Munk equations, and later using the radiative transfer equation. To find solutions to these equations, we study the associated generalized eigenvalue problems by taking advantage of several inherent symmetries. The symmetries are first established by analyzing the Kubelka-Munk system. Later, we establish these symmetries and apply them to find numerical solutions to the radiative transfer equation using the discrete ordinate method.  The solutions to these models lay the ground work for posing and solving related inverse problems. Optimization and root finding techniques are applied to approximate solutions for most inverse problems except in special cases where analytical approximations are available.  These solutions are extended to solve similar inverse problems in the field of medical imaging. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-09-25.pdf)]
 
-**Guests:** NAU students with REU experience
-
 ### Proofs Without Words ###
 
 **Date:** September 18, 2015
