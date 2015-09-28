@@ -62,8 +62,8 @@ On Halfspace Depth Trimmed Mean.</a></td>
 
 <tr>
 <td>September 29th</td>
-<td>Bertrand Cambou</td>
-<td>NAU</td>
+<td>Dr. Bertrand Cambou</td>
+<td>NAU School of Informatics</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/cambou_092915.pdf" target="_blank">
 Design of cryptographic solutions.</a></td>
 </tr>
