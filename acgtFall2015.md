@@ -11,6 +11,6 @@ Note that talks are listed in reverse chronological order.
 
 ### A new model for configuration space based on the Bruhat order ###
 
-**Dates:** September 8, September 15 2015
+**Dates:** 9/8, 9/15, 9/22, 9/29, 10/6
 
 **Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
