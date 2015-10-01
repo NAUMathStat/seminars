@@ -10,11 +10,11 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** October 2, 2015
 
-**Speaker and Guest:** Dr. Terry Blows (NAU)
+**Speaker:** Dr. Terry Blows (NAU)
 
 **Abstract:** Research in applied mathematics often connects to differential equations, but this is not a good topic for undergraduate research as a graduate course in this topic is often a prerequisite. But differential equations has a close relation in discrete dynamical systems, which in one-dimension has the form $x(n+1)=f(x(n))$. Start at $x(0)$, apply a rule to get $x(1)$, apply the same rule to get $x(2)$, etc. What happens in the limit as $n$ tends to infinity? Bring your calculator. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-02.pdf)]
 
-**Guests:** NAU students with REU experience
+**Guest:** Ellie Kennedy (NAU)
 
 ### Modeling Light Scattering to Solve Related Inverse Problems ###
 
