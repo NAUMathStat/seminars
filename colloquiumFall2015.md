@@ -71,7 +71,7 @@ Design of cryptographic solutions.</a></td>
 <tr>
 <td>October 6th</td>
 <td>Martin Flashman</td>
-<td>NAU</td>
+<td>Humbolt State</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/flashman_100615.pdf" target="_blank">
 Mapping Diagrams Take on Calculus [and Complex Variables].</a></td>
 </tr>
