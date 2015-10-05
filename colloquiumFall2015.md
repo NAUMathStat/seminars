@@ -128,10 +128,10 @@ Elementary Operations and Functions, and Reflections.</a></td>
 
 <tr>
 <td>November 24th</td>
-<td>Roy St. Laurent</td>
-<td>NAU</td>
+<td>Tom Dunn</td>
+<td>Bemidji State University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_112415.pdf" target="_blank">
-Bootstrap Confidence Intervals, Randomization Tests, and STA 270.</a></td>
+TBA.</a></td>
 </tr>
 
 <tr>
@@ -147,4 +147,12 @@ M.S. Thesis talk, advisor Mike Falk.</a></td>
   <td>Reading Week</td>
   <td>No talk scheduled</td>
 <td></td>
+</tr>
+
+<tr>
+<td>TBA</td>
+<td>Roy St. Laurent</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_112415.pdf" target="_blank">
+Bootstrap Confidence Intervals, Randomization Tests, and STA 270.</a></td>
 </tr>
