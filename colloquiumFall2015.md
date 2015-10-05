@@ -110,10 +110,12 @@ TBA.</a></td>
 
 <tr>
 <td>November 10th</td>
-<td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_111015.pdf" target="_blank">
-TBA.</a></td>
+<td>Ed Ryan</td>
+<td>Post-doctoral research associate
+<br> ASU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ryan_111015.pdf" target="_blank">
+Statistical and mathematical approaches to understanding the factors governing ecosystem carbon fluxes.
+</a></td>
 </tr>
 
 <tr>
