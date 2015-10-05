@@ -70,10 +70,10 @@ Design of cryptographic solutions.</a></td>
 
 <tr>
 <td>October 6th</td>
-<td>Michael Falk</td>
+<td>Martin Flashman</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/falk_100615.pdf" target="_blank">
-A geometer’s view of frames: definitions and open problems.</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/flashman_100615.pdf" target="_blank">
+Mapping Diagrams Take on Calculus [and Complex Variables].</a></td>
 </tr>
 
 <tr>
