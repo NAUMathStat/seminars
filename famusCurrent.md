@@ -6,6 +6,18 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### TBA ###
+
+**Date:** October 9, 2015
+
+**Speaker:** Dr. Martin Flashman (Humboldt State University)
+
+**Abstract:** Coming soon. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-09.pdf)]
+
+**Host:** Ellie Kennedy (NAU)
+
+**Guest:** Sal Vera (NAU)
+
 ### Discrete Dynamical Systems ###
 
 **Date:** October 2, 2015
@@ -48,7 +60,7 @@ Note that talks are listed in reverse chronological order.
 
 - October 9: Ellie Kennedy (Guest Host)
 - October 16: Dr. Brian Beaudrie
-- October 23: Ian Williams
+- October 23: Dr. Roy St. Laurent
 - October 30: Andrew Lebovitz
 - November 6: Dr. Bruce Bayly (University of Arizona)
 - November 13: Dana
