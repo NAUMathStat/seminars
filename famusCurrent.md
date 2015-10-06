@@ -6,13 +6,13 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
-### TBA ###
+### Mapping Diagrams: Making Sense of Solving a Linear Equation ###
 
 **Date:** October 9, 2015
 
 **Speaker:** Dr. Martin Flashman (Humboldt State University)
 
-**Abstract:** Coming soon. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-09.pdf)]
+**Abstract:** Solving simple linear equations is something taught in beginning algebra, but without connection to functions or a visualization that make sense of the process. Professor Flashman will demonstrate how mapping diagrams can bring the study of functions, inverses, and compositions to visualize symbolic manipulations. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-09.pdf)]
 
 **Host:** Ellie Kennedy (NAU)
 
@@ -58,7 +58,6 @@ Note that talks are listed in reverse chronological order.
 
 ## Upcoming at FAMUS ###
 
-- October 9: Ellie Kennedy (Guest Host)
 - October 16: Dr. Brian Beaudrie
 - October 23: Dr. Roy St. Laurent
 - October 30: Andrew Lebovitz
