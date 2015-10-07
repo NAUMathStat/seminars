@@ -12,7 +12,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Dr. Martin Flashman (Humboldt State University)
 
-**Abstract:** Solving simple linear equations is something taught in beginning algebra, but without connection to functions or a visualization that make sense of the process. Professor Flashman will demonstrate how mapping diagrams can bring the study of functions, inverses, and compositions to visualize symbolic manipulations. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-09.pdf)]
+**Abstract:** Solving simple linear equations is something taught in beginning algebra, but without connection to functions or a visualization that makes sense of the process. Professor Flashman will demonstrate how mapping diagrams can be used in the study of functions, inverses, and compositions to understand symbolic manipulations visually. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-09.pdf)]
 
 **Host:** Ellie Kennedy (NAU)
 
