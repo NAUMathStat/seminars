@@ -78,10 +78,10 @@ Mapping Diagrams Take on Calculus [and Complex Variables].</a></td>
 
 <tr>
 <td>October 13th</td>
-<td>Derek Sonderegger</td>
+<td>Mike Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/sonderegger_101315.pdf" target="_blank">
-TBA.</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_101315.pdf" target="_blank">
+A geometer’s view of frames: definitions and open problems.</a></td>
 </tr>
 
 <tr>
@@ -102,9 +102,9 @@ Exploring Conway’s Sylver Coinage game.</a></td>
 
 <tr>
 <td>November 3rd</td>
-<td>TBA</td>
-<td>TBA</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_110315.pdf" target="_blank">
+<td>Derek Sonderegger</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/sonderegger_110315.pdf" target="_blank">
 TBA.</a></td>
 </tr>
 
