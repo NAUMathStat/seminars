@@ -78,26 +78,25 @@ Mapping Diagrams Take on Calculus [and Complex Variables].</a></td>
 
 <tr>
 <td>October 13th</td>
-<td>Mike Falk</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/falk_101315.pdf" target="_blank">
-A geometer’s view of frames: definitions and open problems.</a></td>
+<td>Cancelled</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
 <td>October 20th</td>
-<td>Nandor Sieben</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/sieben_102015.pdf" target="_blank">
-Sabbatical Report.</a></td>
+<td>Sooie Hoe Loke</td>
+<td>Oregon State</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/loke_102015.pdf" target="_blank">
+Ruin Problems with Risky Investments.</a></td>
 </tr>
 
 <tr>
 <td>October 27th</td>
-<td>Dana Ernst</td>
+<td>Nandor Sieben</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ernst_102715.pdf" target="_blank">
-Exploring Conway’s Sylver Coinage game.</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/sieben_102715.pdf" target="_blank">
+Sabbatical Report.</a></td>
 </tr>
 
 <tr>
