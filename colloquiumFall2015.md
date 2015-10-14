@@ -11,7 +11,7 @@ Titles and abstracts uploaded as available.
 <table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
 <caption>
 <center>
-  <p><b><font size="+1">Colloquium Schedule</font></b></p>
+  <p><b><font size="+1">Fall 2015 Colloquium Schedule</font></b></p>
   </center>
 </caption>
 
@@ -148,10 +148,76 @@ M.S. Thesis talk, advisor Mike Falk.</a></td>
 <td></td>
 </tr>
 
+</table>
+
+<table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
+<caption>
+<center>
+  <p><b><font size="+1">Tentative Spring 2016 Colloquium Schedule</font></b></p>
+  </center>
+</caption>
+
+<tbody>
 <tr>
-<td>TBA</td>
+<td width="17%">
+<center>
+  <b>Date</b>
+</center></td>
+
+<td width="16%">
+<center>
+  <b>Speaker</b>
+</center></td>
+
+<td width="12%">
+<center>
+  <b>Affiliation</b>
+</center></td>
+
+<td width="55%">
+<center>
+  <b>Title&nbsp;</b> (click title to see abstract)
+</center></td>
+</tr>
+
+<tr>
+<td>January 26th</td>
+<td>Mike Falk</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_012616.pdf" target="_blank">
+TBA
+</a></td>
+</tr>
+
+<tr>
+<td>February 2nd</td>
 <td>Roy St. Laurent</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_112415.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_020216.pdf" target="_blank">
 Bootstrap Confidence Intervals, Randomization Tests, and STA 270.</a></td>
 </tr>
+
+<tr>
+<td>February 9th</td>
+<td>Dana Ernst</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ernst_020916.pdf" target="_blank">
+TBA</a></td>
+</tr>
+
+<tr>
+<td>February 16th</td>
+<td>Kiona Ogle<br>Informatics and Computing</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ogle_021616.pdf" target="_blank">
+TBA</a></td>
+</tr>
+
+<tr>
+<td>February 23rd</td>
+<td>Kirsten Davis</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/davis_022316.pdf" target="_blank">
+TBA</a></td>
+</tr>
+</table>
