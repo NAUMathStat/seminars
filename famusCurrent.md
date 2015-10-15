@@ -6,6 +6,14 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Are You (Quantitatively) Literate? ###
+
+**Date:** October 16, 2015
+
+**Speaker and Guest:** Dr. Brian Beaudrie (NAU)
+
+**Abstract:** The essence of Quantitative Literacy is to use mathematical and logical thinking in context.  But sometimes that context might be difficult to grasp. We'll spend some time discussing what Quantitative Literacy (a.k.a. Quantitative Reasoning or Numeracy) is, and its importance in today's world; then, we'll try a few fun problems and examples that illustrate and develop quantitative literacy. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-16.pdf)]
+
 ### Mapping Diagrams: Making Sense of Solving a Linear Equation ###
 
 **Date:** October 9, 2015
@@ -58,7 +66,6 @@ Note that talks are listed in reverse chronological order.
 
 ## Upcoming at FAMUS ###
 
-- October 16: Dr. Brian Beaudrie
 - October 23: Dr. Roy St. Laurent
 - October 30: Andrew Lebovitz
 - November 6: Dr. Bruce Bayly (University of Arizona)
