@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Invariant subspaces for coupled cell systems ###
 
-**Dates: ** 10/20, 10/27
+**Dates:** 10/20, 10/27
 
 **Speaker:** [Jim Swift](http://oak.ucc.nau.edu/jws8/) (NAU)
 
