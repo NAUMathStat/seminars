@@ -9,8 +9,16 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Invariant subspaces for coupled cell systems ###
+
+**Dates: ** 10/20, 10/27
+
+**Speaker:** [Jim Swift](http://oak.ucc.nau.edu/jws8/) (NAU)
+
+**Abstract:** Given a graph, each vertex represents an identical dynamical system (a cell), and the edges represent coupling between the cells.  Some invariant subspaces can be predicted from the automorphism group of the graph, but additional "anomalous" invariant subspaces are present in many cases.  This series of talks describes the combinatorial and algebraic understanding of the invariant subspaces.
+
 ### A new model for configuration space based on the Bruhat order ###
 
-**Dates:** 9/8, 9/15, 9/22, 9/29, 10/6
+**Dates:** 9/8, 9/15, 9/22, 9/29, 10/6, 10/13
 
 **Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
