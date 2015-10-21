@@ -6,6 +6,14 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Gambling, Games of Chance, and Mathematics ###
+
+**Date:** October 23, 2015
+
+**Speaker and Guest:** Dr. Roy St. Laurent (NAU)
+
+**Abstract:** Gambling is one of the earliest forms of human entertainment, going back over 4000 years. Interest in gambling is what prompted mathematicians in the 1600’s to develop probability as the mathematics of chance. I will talk about gambling problems, old and new, and how probability can be used to analyze chances of winning, optimal strategies to win, and other considerations. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-23.pdf)]
+
 ### Are You (Quantitatively) Literate? ###
 
 **Date:** October 16, 2015
