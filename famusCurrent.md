@@ -16,7 +16,7 @@ Note that talks are listed in reverse chronological order.
 
 <center>
 <div><img src="{{ site.baseurl }}/famus_files/startingCube.png" class="img-responsive" img style="margin-bottom: 10px" /></div>
-<center>
+</center>
 
 In lieu of interviewing Andrew after his talk, we will have a Halloween costume contest.  So, come wearing your best costume.  (And please come even if you don't plan on wearing a costume.)
 
