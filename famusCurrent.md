@@ -6,6 +6,20 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Cube Solitaire ###
+
+**Date:** October 30, 2015
+
+**Speaker:** Andrew Lebovitz (NAU)
+
+**Abstract:** A cube starts in the following configuration. A "move" consists of picking an edge and adding 1 to each of its vertices. The goal is to make all vertices be multiples of three. Can we win this game? If we can win, what is a winning sequence of moves? If we can't win, how can we prove that? We'll analyze the game on Friday, and (hopefully) solve it. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-10-30.pdf)]
+
+<center>
+<div><img src="{{ site.baseurl }}/famus_files/startingCube.png" class="img-responsive" img style="margin-bottom: 10px" /></div>
+<center>
+
+In lieu of interviewing Andrew after his talk, we will have a Halloween costume contest.  So, come wearing your best costume.  (And please come even if you don't plan on wearing a costume.)
+
 ### Gambling, Games of Chance, and Mathematics ###
 
 **Date:** October 23, 2015
@@ -74,8 +88,6 @@ Note that talks are listed in reverse chronological order.
 
 ## Upcoming at FAMUS ###
 
-- October 23: Dr. Roy St. Laurent
-- October 30: Andrew Lebovitz
 - November 6: Dr. Bruce Bayly (University of Arizona)
 - November 13: Dana
 - November 20: Dr. Todd Wolford
