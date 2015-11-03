@@ -104,7 +104,7 @@ Sabbatical Report.</a></td>
 <td>Derek Sonderegger</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/sonderegger_110315.pdf" target="_blank">
-TBA.</a></td>
+Techniques for fitting occupancy models and simulation results.</a></td>
 </tr>
 
 <tr>
