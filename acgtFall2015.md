@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Invariant subspaces for coupled cell systems ###
 
-**Dates:** 10/20, 10/27
+**Dates:** 10/27, 11/3
 
 **Speaker:** [Jim Swift](http://oak.ucc.nau.edu/jws8/) (NAU)
 
@@ -19,6 +19,6 @@ Note that talks are listed in reverse chronological order.
 
 ### A new model for configuration space based on the Bruhat order ###
 
-**Dates:** 9/8, 9/15, 9/22, 9/29, 10/6, 10/13
+**Dates:** 9/8, 9/15, 9/22, 9/29, 10/6, 10/13, 10/20
 
 **Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
