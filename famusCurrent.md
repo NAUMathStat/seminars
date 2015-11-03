@@ -6,6 +6,14 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Bowl Games and Balloon Polyhedra: Linked through Graph Theory and Linear Algebra ###
+
+**Date:** November 6, 2015
+
+**Speaker:** Dr. Bruce Bayly (University of Arizona)
+
+**Abstract:** The power of math to solve real-world problems derives from our ability to identify basic attributes and then think rigorously about them. Practical problems of ranking sports teams or creating balloon sculpture are very different in reality, but share the property that objects and their connections are the essential concepts.  We'll look at each of these problems separately and work inward, eventually converging on the Fundamental Theorem of Linear Algebra. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-11-06.pdf)]
+
 ### Cube Solitaire ###
 
 **Date:** October 30, 2015
@@ -88,7 +96,6 @@ In lieu of interviewing Andrew after his talk, we will have a Halloween costume 
 
 ## Upcoming at FAMUS ###
 
-- November 6: Dr. Bruce Bayly (University of Arizona)
 - November 13: Dana
 - November 20: Dr. Todd Wolford
 - November 27: No FAMUS (Thanksgiving)
