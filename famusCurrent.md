@@ -6,6 +6,20 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### The Kirkman Schoolgirls Problem ###
+
+**Date:** November 13, 2015
+
+**Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
+
+**Abstract:** First, the most important part: there will be pizza!  In 1850, the Reverend Thomas Kirkman, posed an innocent-looking puzzle in the *Lady’s and Gentleman’s Diary*, a recreational mathematics journal:
+
+> “Fifteen young ladies in a school walk out three abreast for seven days in succession: it is required to arrange them daily, so that no two shall walk twice abreast.”
+
+Here “abreast” means “in a group,” so the girls are walking out in groups of three, and each pair of girls should only be in the same group once. It turns out that this problem is harder than it looks.  Is it even possible? We will begin by tinkering with a simpler problem and then spend some time playing with Kirkman's original problem.  Time permitting, we will also discuss generalizations of the problem that form the backbone of a branch of mathematics called combinatorial design theory. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-11-13.pdf)]
+
+**Guests:** Following the talk, Dr. Derek Sonderegger will discuss the merits of pursuing a graduate degree in mathematics, statistics, or mathematics education. In addition, Dr. Sonderegger will provide some details about our graduate program. We will also have a panel of our graduate students share a little bit about their current experiences as grad students.
+
 ### Bowl Games and Balloon Polyhedra: Linked through Graph Theory and Linear Algebra ###
 
 **Date:** November 6, 2015
@@ -96,8 +110,7 @@ In lieu of interviewing Andrew after his talk, we will have a Halloween costume 
 
 ## Upcoming at FAMUS ###
 
-- November 13: Dana
 - November 20: Dr. Todd Wolford
 - November 27: No FAMUS (Thanksgiving)
 - December 4: Dana
-- December 11:  No FAMUS
+- December 11: No FAMUS
