@@ -9,9 +9,17 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Explorations of Sylver Coinage ##
+
+**Dates:** 11/17
+
+**Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
+
+**Abstract:** The [Sylver Coinage Game](https://en.wikipedia.org/wiki/Sylver_coinage) is a game in which 2 players, *A* and *B*, alternately name positive integers that are not the sum of nonnegative multiples of previously named integers. This seemingly innocent looking game is the subject of one of [John Conway's open problems with monetary rewards](http://www.cheswick.com/ches/conway1000.pdf).  In particular, the question that [Conway](https://en.wikipedia.org/wiki/John_Horton_Conway) asks is: "If player <em>A</em> names 16, and both players play optimally thereafter, then who wins?" I'm currently mentoring an undergraduate research project with 4 students (Joni Hazelman, Parker Montfort, Robert Voinescu, and Ryan Wood) aimed at exploring a simplified version of the Sylver Coinage game. In the simplified version of the game, a fixed positive integer $n\geq 3$ is agreed upon in advance.  Then 2 players, *A* and *B*, alternately name positive integers from the set $\\{1,2,\ldots,n\\}$ that are not the sum of nonnegative multiples of previously named numbers among $\\{1,2,\ldots,n\\}$. The person who is forced to name 1 is the loser! One goal is to determine who wins under optimal play for given values of $n$.  Moreover, we want to compute the Nim-values for the simplified game. We have some preliminary results, but now we are stuck.  I'll introduce the game, tell you what we currently know, and show you where we are stuck.
+
 ### Invariant subspaces for coupled cell systems ###
 
-**Dates:** 10/27, 11/3
+**Dates:** 10/27, 11/3, 11/10
 
 **Speaker:** [Jim Swift](http://oak.ucc.nau.edu/jws8/) (NAU)
 
