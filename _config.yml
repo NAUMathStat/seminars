@@ -13,7 +13,7 @@ relative_permalinks: true
 # Setup
 title:               Mathematics & Statistics Seminars
 tagline:             'Northern Arizona University'
-description:         'Math & Stats Seminars'
+description:         'Math & Stat Seminars'
 url:                 'http://NAUMathStat.github.io'
 baseurl:             '/seminars'
 paginate:            10
@@ -22,7 +22,7 @@ paginate:            10
 author:
   name:              Dana C. Ernst
   url:               https://twitter.com/danaernst
-  email:             dana@danaernst.com
+  email:             dana.ernst@nau.edu
 
 # Custom vars
 version:             1.0.0
