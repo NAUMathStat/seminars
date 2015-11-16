@@ -122,7 +122,7 @@ Statistical and mathematical approaches to understanding the factors governing e
 <td>Andrew Lebovitz</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/lebovitz_111715.pdf" target="_blank">
-Elementary Operations and Functions, and Reflections.</a></td>
+Quadratic Residues: A Dynamical Systems Approach.</a></td>
 </tr>
 
 <tr>
