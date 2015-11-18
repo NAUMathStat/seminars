@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Explorations of Sylver Coinage ##
 
-**Dates:** 11/17
+**Dates:** 11/17, 11/24
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 

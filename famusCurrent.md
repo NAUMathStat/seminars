@@ -6,6 +6,14 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### Iterated Function Systems and Their Attractors ###
+
+**Date:** November 20, 2015
+
+**Speaker and Guest:** Dr. Todd Wolford (NAU)
+
+**Abstract:** We will look at the effect of applying an Iterated function system to geometric figures in $\mathbb{R}^n$.  We will begin by looking at the results that can be achieved by applying a couple of linear functions repeatedly to a line segment in $\mathbb{R}$.  We will see that a line segment, [0,1], can be turned into the famous Cantor Set.  Does the result we get depend on our choice of line segment?  What happens if we apply linear functions repeatedly to 2-dimensional or 3-dimensional objects?  Attend this talk if you want to see the exciting and beautiful answers.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-11-20.pdf)]
+
 ### The Kirkman Schoolgirls Problem ###
 
 **Date:** November 13, 2015
