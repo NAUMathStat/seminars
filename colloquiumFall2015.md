@@ -130,7 +130,7 @@ Quadratic Residues: A Dynamical Systems Approach.</a></td>
 <td>Tom Dunn</td>
 <td>Bemidji State University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/stlaurent_112415.pdf" target="_blank">
-TBA.</a></td>
+An Overview of Multiplicities and Reductions.</a></td>
 </tr>
 
 <tr>
