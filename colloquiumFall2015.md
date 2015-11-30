@@ -135,17 +135,17 @@ An Overview of Multiplicities and Reductions.</a></td>
 
 <tr>
   <td>December 1st</td>
-  <td>Thomas Holtztworth</td>
-  <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_120115.pdf" target="_blank">
-M.S. Thesis talk, advisor Mike Falk.</a></td>
+  <td>Talk Postponed</td>
+  <td></td>
+<td></td>
 </tr>
 
 <tr>
   <td>December 8th</td>
-  <td>Reading Week</td>
-  <td>No talk scheduled</td>
-<td></td>
+  <td>Thomas Holtztworth</td>
+  <td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_120115.pdf" target="_blank">
+M.S. Thesis talk, advisor Mike Falk.</a></td>
 </tr>
 
 </table>
