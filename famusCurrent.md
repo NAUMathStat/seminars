@@ -6,6 +6,14 @@ Come learn what mathematics is about and how the faculty ended up in our departm
 
 Note that talks are listed in reverse chronological order.
 
+### The Futurama Theorem ###
+
+**Date:** December 4, 2015
+
+**Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
+
+**Abstract:** In the episode “The Prisoner of Benda” of the television show Futurama, Professor Farnsworth and Amy create a mind-switching machine, only to afterwards realize that when two people have switched minds, they can never switch back with each other. Throughout the episode, the Professor, with the help of the Globetrotters, try to find a way to solve the problem using two or more additional bodies. The solution to this problem is now called the Futurama Theorem, and is a real-life mathematical theorem, invented by Futurama writer Ken Keeler, who holds a PhD in applied mathematics. In this talk, we will introduce the mathematics behind the Futurama Theorem and present its proof. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS15-12-04.pdf)]
+
 ### Iterated Function Systems and Their Attractors ###
 
 **Date:** November 20, 2015
