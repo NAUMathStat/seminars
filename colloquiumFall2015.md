@@ -144,7 +144,7 @@ An Overview of Multiplicities and Reductions.</a></td>
   <td>December 8th</td>
   <td>Thomas Holtztworth</td>
   <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_120115.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/holtzworth_120815.pdf" target="_blank">
 M.S. Thesis talk, advisor Mike Falk.</a></td>
 </tr>
 
