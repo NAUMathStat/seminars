@@ -6,4 +6,10 @@ The AMS typically meets 12:45-1:45PM on Thursdays in Room 164 of the Adel Mathem
 
 ## Schedule ##
 
-We will not be meeting every week this semester, as several of the regular attendees are on leave, sabbatical, or otherwise not expected to be around.  We do plan to have some talks, so watch for announcements or check this site.
+Wilson Lough is speaking Thursday December 3rd and 10th over his independent study with Dr. Gary Bowman:
+
+Lie Groups in Physics: Symmetry, Degeneracy, and Conservation Principles 
+
+The notion of symmetry plays a fundamental role in physics. We can choose some transformation rule, like rotations or translations, and compare the original system with the transformed system. If there is some resemblance between the two we say the system exhibits a symmetry. The symmetry of a system implies certain relations among observable quantities. Symmetries of physical systems can be expressed elegantly in the language of Lie groups and their Lie Algebras. This talk will present basic facts about Lie groups, Lie algebras, and their connection with symmetries in both classical and quantum physics. We will examine the relationship between SO(3) and angular momentum in classical mechanics and the connection between SU(2) and spin in quantum mechanics.
+
+
