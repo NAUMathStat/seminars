@@ -19,6 +19,7 @@ Come join us for some entertaining talks!  Refreshments always served.
   - April 15: TBA
   - April 22: TBA
   - April 29: [Dana C. Ernst](http://dcernst.github.io) (NAU)
+  - May 6: No FAMUS
 
 ## Titles and Abstracts ##
 
