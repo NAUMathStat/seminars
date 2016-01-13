@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Counting commutation classes of the longest element in the symmetric group ###
 
-**Dates:** 12/8
+**Date:** 12/8
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 
