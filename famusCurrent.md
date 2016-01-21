@@ -27,7 +27,7 @@ Note that talks are listed in reverse chronological order.
 
 ### TBA ###
 
-**Date:** January 22, 2015
+**Date:** January 29, 2015
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 
