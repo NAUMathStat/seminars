@@ -9,10 +9,10 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### TBA ###
+### Milnor fibers of arrangements in $\mathbb{C}^3$ ###
 
 **Dates:** 1/26
 
-**Speaker:** TBA
+**Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
 
-**Abstract:** TBA
+**Abstract:** In a series of three or four lectures, we will outline a proof that the first homology of the Milnor fiber of a complex 3-arrangement is determined by the intersection lattice, resolving an old conjecture. In the first couple of lectures we’ll lay the groundwork with a quick trip through 3-manifold topology, Seifert manifolds, plumbing, and equivariant resolution of weighted homogeneous singularities, in the special case of interest.
