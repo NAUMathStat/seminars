@@ -10,7 +10,7 @@ Come join us for some entertaining talks!  Refreshments always served.
   - February 5: [Dana C. Ernst](http://dcernst.github.io) (NAU)
   - February 12: [Phillip Hotchkiss](http://www.westfield.ma.edu/math/faculty/hotchkiss/pkh.html) (Westfield State University)
   - February 19: No FAMUS
-  - February 26: TBA
+  - February 26: Nellie Gopaul (NAU)
   - March 4: TBA
   - March 11: No FAMUS
   - March 25: TBA
