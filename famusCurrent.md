@@ -13,12 +13,12 @@ Come join us for some entertaining talks!  Refreshments always served.
   - February 26: Nellie Gopaul (NAU)
   - March 4: TBA
   - March 11: No FAMUS
-  - March 25: TBA
+  - March 25: Patrick Abney (NAU)
   - April 1: TBA
   - April 8: TBA
   - April 15: TBA
-  - April 22: TBA
-  - April 29: [Dana C. Ernst](http://dcernst.github.io) (NAU)
+  - April 22: [Dana C. Ernst](http://dcernst.github.io) (NAU)
+  - April 29: Ian Williams (NAU)
   - May 6: No FAMUS
 
 ## Titles and Abstracts ##
