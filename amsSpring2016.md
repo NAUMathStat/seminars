@@ -24,8 +24,6 @@ The AMS typically meets 12:45-1:45PM on Thursdays in Room 164 of the Adel Mathem
 - 4/28		Open
 - 5/5			Open
 
-- Other potential speakers:
-
-Falk, Blows, Mapel, Schoonover - 2nd Talk
-
-Swift, Neuberger
+ Other potential speakers:
+- Falk, Blows, Mapel, Schoonover - 2nd Talk
+- Swift, Neuberger
