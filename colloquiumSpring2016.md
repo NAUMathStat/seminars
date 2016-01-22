@@ -141,19 +141,19 @@ MS Thesis Talk</a></td>
 </tr>
 
 <tr>
-<td>April 26th</td>
-<td>Taryn Laird</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/laird_042616.pdf" target="_blank">
-MS Thesis Talk</a></td>
+<td><strong>Thursday</strong><br>April 28th</td>
+<td>TBA</td>
+<td>Honors Week Speaker</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/speaker_042616.pdf" target="_blank">
+Honors Week Talk</a></td>
 </tr>
 
 <tr>
 <td>May 3rd</td>
-<td>Reading Week</td>
-<td></td>
-<td></a></td>
+<td>Taryn Laird</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/laird_050316.pdf" target="_blank">
+MS Thesis Talk</a></td>
 </tr>
-
 
 </table>
