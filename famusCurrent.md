@@ -15,7 +15,7 @@ Come join us for some entertaining talks!  Refreshments always served.
   - March 11: No FAMUS
   - March 25: Patrick Abney (NAU)
   - April 1: TBA
-  - April 8: TBA
+  - April 8: Andrew Lebovitz (NAU)
   - April 15: TBA
   - April 22: [Dana C. Ernst](http://dcernst.github.io) (NAU)
   - April 29: Ian Williams (NAU)
