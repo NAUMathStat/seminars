@@ -64,6 +64,14 @@ TBA</a></td>
 </tr>
 
 <tr>
+<td><strong>Thursday</strong><br>February 11th</td>
+<td>Phillip Hotchkiss</td>
+<td>Westfield State College</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/hotchkiss_021116.pdf" target="_blank">
+TBA</a></td>
+</tr>
+
+<tr>
 <td>February 16th</td>
 <td>Kiona Ogle<br>Informatics and Computing</td>
 <td>NAU</td>
@@ -142,9 +150,9 @@ MS Thesis Talk</a></td>
 
 <tr>
 <td><strong>Thursday</strong><br>April 28th</td>
-<td>TBA</td>
-<td>Honors Week Speaker</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/speaker_042616.pdf" target="_blank">
+<td>Honors Week Speaker<br>Francis Su</td>
+<td>Harvey Mudd College<br>MAA President</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/su_042816.pdf" target="_blank">
 Honors Week Talk</a></td>
 </tr>
 
