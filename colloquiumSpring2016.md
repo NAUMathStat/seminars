@@ -60,7 +60,7 @@ Bootstrap Confidence Intervals, Randomization Tests, and STA 270.</a></td>
 <td>Dana Ernst</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ernst_020916.pdf" target="_blank">
-TBA</a></td>
+Several representations of my favorite open problem</a></td>
 </tr>
 
 <tr>
