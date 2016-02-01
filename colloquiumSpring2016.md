@@ -93,7 +93,7 @@ TBA</a></td>
 <td>School of Mathematical and Statistical Sciences<br>
 Arizona State University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/stepien_030116.pdf" target="_blank">
-TBA</a></td>
+Cell Migration: Modeling, Simulation, and Analysis</a></td>
 </tr>
 
 <tr>
