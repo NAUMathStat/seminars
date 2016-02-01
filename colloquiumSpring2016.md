@@ -76,7 +76,8 @@ TBA</a></td>
 <td>Kiona Ogle<br>Informatics and Computing</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ogle_021616.pdf" target="_blank">
-TBA</a></td>
+Bayesian and non-Bayesian approaches to quantifying physiological, morphological, and allometric traits of U.S. tree species
+</a></td>
 </tr>
 
 <tr>
