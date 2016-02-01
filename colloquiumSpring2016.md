@@ -84,7 +84,8 @@ Bayesian and non-Bayesian approaches to quantifying physiological, morphological
 <td>February 23rd</td>
 <td>Kirsten Davis</td>
 <td>NAU<br>
-alumni and ME grad student</td>
+alumni and ME grad student
+</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/davis_022316.pdf" target="_blank">
 The Use of Dynamic Time Warping to Reduce Inter-trial Variability in Gait Data
 </a></td>
