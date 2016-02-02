@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Milnor fibers of arrangements in $\mathbb{C}^3$ ###
 
-**Dates:** 1/26
+**Dates:** 1/26, 2/2, 2/9
 
 **Speaker:** [Michael Falk](https://www.cefns.nau.edu/~falk/) (NAU)
 

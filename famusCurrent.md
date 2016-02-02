@@ -25,9 +25,17 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### TBA ###
+
+**Date:** February 5, 2016
+
+**Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
+
+**Abstract:** Coming soon. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-02-05.pdf)] 
+
 ### The mathematics of Boggle logic puzzles ###
 
-**Date:** January 29, 2015
+**Date:** January 29, 2016
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 
