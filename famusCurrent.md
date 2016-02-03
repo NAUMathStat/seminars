@@ -25,13 +25,15 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA ###
+### Euler’s characteristic, soccer balls, and golf balls ###
 
 **Date:** February 5, 2016
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
 
-**Abstract:** Coming soon. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-02-05.pdf)] 
+**Abstract:** A typical soccer ball consists of 12 regular pentagons and 20 regular hexagons. There are also several golf balls on the market that have a mixture of pentagonal and hexagonal dimples. Both situations are examples of convex polyhedra. Loosely speaking, a polyhedron is a geometric solid in three dimensions with flat faces and straight edges. In this case, the faces are pentagons and hexagons. For mathematicians, a natural question arises. Namely, what sorts of convex polyhedra can we build using only regular pentagons and regular hexagons? For example, is it possible to build a convex polyhedron using only regular pentagons? How about just hexagons? If we allow both, how many of each is possible? In this talk, we will explore these types of questions by utilizing Euler’s characteristic formula for polyhedra, which establishes a relationship between the number of vertices, edges, and faces of a polyhedron.
+
+In the second half of FAMUS, we will interview the students that recently attended the [2016 Nebraska Conference for Undergraduate Women in Mathematics](http://www.math.unl.edu/~ncuwm/18thAnnual/index.php). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-02-05.pdf)]
 
 ### The mathematics of Boggle logic puzzles ###
 
