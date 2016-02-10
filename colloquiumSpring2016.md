@@ -68,7 +68,7 @@ Several representations of my favorite open problem</a></td>
 <td>Phillip Hotchkiss</td>
 <td>Westfield State College</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hotchkiss_021116.pdf" target="_blank">
-TBA</a></td>
+Rhythms and Rascals</a></td>
 </tr>
 
 <tr>
