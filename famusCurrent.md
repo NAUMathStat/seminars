@@ -25,6 +25,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Rhythms and Rascals ###
+
+**Date:** February 12, 2016
+
+**Speaker:** [Phillip Hotchkiss](http://www.westfield.ma.edu/math/faculty/hotchkiss/pkh.html) (Westfield State University)
+
+**Abstract:** One of the beautiful aspects of mathematics is that simple explorations can lead to interesting mathematical questions. Moreover, students are often able to make, explore and answer these mathematical questions. In this talk we will start with a simple musical exploration that will lead us to one of the most famous number sequences and some very cool results by some rascally students.
+
 ### Euler’s characteristic, soccer balls, and golf balls ###
 
 **Date:** February 5, 2016
