@@ -68,7 +68,7 @@ Several representations of my favorite open problem</a></td>
 <td>Phillip Hotchkiss</td>
 <td>Westfield State College</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hotchkiss_021116.pdf" target="_blank">
-Rhythms and Rascals</a></td>
+Inquiry-Based Learning: Pedagogy, Research and Practices</a></td>
 </tr>
 
 <tr>
