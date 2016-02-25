@@ -25,6 +25,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Mathematics and Art of Voting ###
+
+**Date:** February 26, 2016
+
+**Speaker:** Nellie Gopaul (NAU)
+
+**Abstract:** In principle, every person's vote is supposed to carry equal weight in an election.  However, this does not always (ever?) happen.  In this talk, we'll look at creative uses of mathematics for political advantage, and how 1 person's vote $\neq$ 1 vote. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-02-26.pdf)]
+
 ### Rhythms and Rascals ###
 
 **Date:** February 12, 2016
