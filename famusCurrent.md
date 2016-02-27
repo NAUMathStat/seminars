@@ -11,11 +11,11 @@ Come join us for some entertaining talks!  Refreshments always served.
   - February 12: [Phillip Hotchkiss](http://www.westfield.ma.edu/math/faculty/hotchkiss/pkh.html) (Westfield State University)
   - February 19: No FAMUS
   - February 26: Nellie Gopaul (NAU)
-  - March 4: TBA
+  - March 4: Andrew Lebovitz (NAU)
   - March 11: No FAMUS
   - March 25: Patrick Abney (NAU)
   - April 1: TBA
-  - April 8: Andrew Lebovitz (NAU)
+  - April 8: TBA
   - April 15: TBA
   - April 22: [Dana C. Ernst](http://dcernst.github.io) (NAU)
   - April 29: Ian Williams (NAU)
