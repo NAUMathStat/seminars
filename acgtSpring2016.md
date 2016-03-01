@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Exploration of leading coefficients of Kazhdan-Lusztig polynomials over type affine $C$ Coxeter groups ###
 
-**Dates:** 2/23, 3/1
+**Dates:** 2/23, 3/1, 3/8
 
 **Speaker:** Kevin Salmon (NAU)
 
