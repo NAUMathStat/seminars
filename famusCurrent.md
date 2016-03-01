@@ -25,6 +25,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Knights and Graphs ###
+
+**Date:** March 4, 2016
+
+**Speaker:** Andrew Lebovitz (NAU)
+
+**Abstract:** Sometimes mathematics finds applications in chess, and the knight is a particularly striking example. "The Knight's Tour" is a thinly disguised mathematical problem that attracted the attention of Euler, and led to  questions that are still unsolved. We'll also see that the graph-theoretic properties of other knight puzzles have practical implications for chess players. But don't worry, no knowledge of chess will be assumed in this talk.
+
 ### The Mathematics and Art of Voting ###
 
 **Date:** February 26, 2016
