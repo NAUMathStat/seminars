@@ -132,8 +132,8 @@ Sabbatical Talk</a></td>
 
 <tr>
 <td>April 5th</td>
-<td></td>
-<td></td>
+<td><Jeffrey Bennett/td>
+<td>http://www.jeffreybennett.com/about/</td>
 <td></td>
 </tr>
 
