@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### What are the Praeger-Xu graphs, Why are they hated and feared, and What problems about them *can* be solved? ###
+
+**Dates:** 3/22, 3/29
+
+**Speaker:** Steve Wilson (NAU-Emeritus)
+
+**Abstract:** We study symmetry, in nature, in art, in continuous and discrete objects,  because things which have a lot of symmetry are pretty.  The more symmetry they have, the prettier they are.	Mostly. We will describe a family of graphs, discovered (or created) by Cheryl Praeger and Ming-Yao Xu in 1989, which, because of 'local' symmetries, have absurdly large symmetry groups.  They have so much symmetry that computer work is helpless for determining most of their properties.  We will describe certain properties which *can* be extracted from the tangle.  With care.
+
 ### Exploration of leading coefficients of Kazhdan-Lusztig polynomials over type affine $C$ Coxeter groups ###
 
 **Dates:** 2/23, 3/1, 3/8
