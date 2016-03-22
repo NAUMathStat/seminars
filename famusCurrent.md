@@ -25,6 +25,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Primacy of Unity: Is 1 a Prime Number? ###
+
+**Date:** March 25, 2016
+
+**Speaker:** Patrick Abney (NAU)
+
+**Abstract:** One question that is frequently answered in a college math class is, "Is 1 prime?"  One question that is infrequently answered in a college math class is, "Why is 1 prime or not?"  We investigate the latter question from a historic perspective, how the notion of 1 has changed over the millennia, and what some of the more well-known names in mathematics have had to say on the issue.  Lastly, we look into practical usage of primes and the implication of the inclusion of 1.
+
 ### Knights and Graphs ###
 
 **Date:** March 4, 2016
