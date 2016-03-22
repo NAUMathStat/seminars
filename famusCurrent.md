@@ -15,7 +15,7 @@ Come join us for some entertaining talks!  Refreshments always served.
   - March 11: No FAMUS
   - March 25: Patrick Abney (NAU)
   - April 1: Jeffrey Covington (NAU)
-  - April 8: TBA
+  - April 8: Steve Wilson (NAU-Emeritus)
   - April 15: Ian Williams (NAU)
   - April 22: [Dana C. Ernst](http://dcernst.github.io) (NAU)
   - April 29: No FAMUS (please attend UGRADS instead)
@@ -24,6 +24,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 ## Titles and Abstracts ##
 
 Note that talks are listed in reverse chronological order.
+
+### How Computers Mastered the Game of Go ###
+
+**Date:** April 1, 2016
+
+**Speaker:** Jeffrey Covington (NAU)
+
+**Abstract:** Go is a 2000 year old board game, known for its immense complexity. There are more than 40 million Go players worldwide. In March, Google shocked the Go-playing world by creating AlphaGo, a computer program that can defeat top professional players. How did Google accomplish this feat, which was previously thought to be decades away? The answer has major implications for artificial intelligence.
 
 ### The Primacy of Unity: Is 1 a Prime Number? ###
 
@@ -39,7 +47,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Andrew Lebovitz (NAU)
 
-**Abstract:** Sometimes mathematics finds applications in chess, and the knight is a particularly striking example. "The Knight's Tour" is a thinly disguised mathematical problem that attracted the attention of Euler, and led to  questions that are still unsolved. We'll also see that the graph-theoretic properties of other knight puzzles have practical implications for chess players. But don't worry, no knowledge of chess will be assumed in this talk.
+**Abstract:** Sometimes mathematics finds applications in chess, and the knight is a particularly striking example. "The Knight's Tour" is a thinly disguised mathematical problem that attracted the attention of Euler, and led to  questions that are still unsolved. We'll also see that the graph-theoretic properties of other knight puzzles have practical implications for chess players. But don't worry, no knowledge of chess will be assumed in this talk. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-03-04.pdf)]
 
 ### The Mathematics and Art of Voting ###
 
