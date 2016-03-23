@@ -39,7 +39,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Patrick Abney (NAU)
 
-**Abstract:** One question that is frequently answered in a college math class is, "Is 1 prime?"  One question that is infrequently answered in a college math class is, "Why is 1 prime or not?"  We investigate the latter question from a historic perspective, how the notion of 1 has changed over the millennia, and what some of the more well-known names in mathematics have had to say on the issue.  Lastly, we look into practical usage of primes and the implication of the inclusion of 1.
+**Abstract:** One question that is frequently answered in a college math class is, "Is 1 prime?"  One question that is infrequently answered in a college math class is, "Why is 1 prime or not?"  We investigate the latter question from a historic perspective, how the notion of 1 has changed over the millennia, and what some of the more well-known names in mathematics have had to say on the issue.  Lastly, we look into practical usage of primes and the implication of the inclusion of 1. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-03-25.pdf)]
 
 ### Knights and Graphs ###
 
