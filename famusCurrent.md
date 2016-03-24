@@ -25,6 +25,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Deduction Games ###
+
+**Date:** April 8, 2016
+
+**Speaker:** Steve Wilson (NAU-Emeritus)
+
+**Abstract:** We will spend a few minutes on an academic discussion of two kinds of deduction games.  And then we will play one of each.
+
 ### How Computers Mastered the Game of Go ###
 
 **Date:** April 1, 2016
