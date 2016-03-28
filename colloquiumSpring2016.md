@@ -134,7 +134,7 @@ Derivatives, Difference Matrices, and Differential Equations (Calculus)</a></td>
 <tr>
 <td>April 5th</td>
 <td>Jeffrey Bennett</td>
-<td><a href="http://www.jeffreybennett.com/about/>About Jeffrey Bennett</a></td>
+<td><a href="http://www.jeffreybennett.com/about"/>About Jeffrey Bennett</a></td>
 <td>
 <a href="{{ site.baseurl }}/colloquium_files/bennett_040516.pdf" target="_blank">
 Mathematics for Life: Are You Teaching Students What They Really Need?</td>
