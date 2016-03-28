@@ -105,7 +105,7 @@ Cell Migration: Modeling, Simulation, and Analysis</a></td>
 <td>March 8th</td>
 <td>Shafiu Jibrin</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/davis_031016.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/jibrin_030816.pdf" target="_blank">
 Sabbatical Talk</a></td>
 </tr>
 
@@ -125,16 +125,19 @@ Sabbatical Talk</a></td>
 
 <tr>
 <td>March 29th</td>
-<td></td>
-<td></td>
-<td></td>
+<td>John Neuberger</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/neuberger_032916.pdf" target="_blank">
+Derivatives, Difference Matrices, and Differential Equations (Calculus)</a></td>
 </tr>
 
 <tr>
 <td>April 5th</td>
 <td><Jeffrey Bennett/td>
 <td>http://www.jeffreybennett.com/about/</td>
-<td></td>
+<td>
+<a href="{{ site.baseurl }}/colloquium_files/bennett_040516.pdf" target="_blank">
+Mathematics for Life: Are You Teaching Students What They Really Need?</td>
 </tr>
 
 <tr>
