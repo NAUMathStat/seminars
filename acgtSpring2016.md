@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### What are the Praeger-Xu graphs, Why are they hated and feared, and What problems about them *can* be solved? ###
 
-**Dates:** 3/22, 3/29
+**Dates:** 3/22, 3/29, 4/4
 
 **Speaker:** Steve Wilson (NAU-Emeritus)
 

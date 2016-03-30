@@ -39,7 +39,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Jeffrey Covington (NAU)
 
-**Abstract:** Go is a 2000 year old board game, known for its immense complexity. There are more than 40 million Go players worldwide. In March, Google shocked the Go-playing world by creating AlphaGo, a computer program that can defeat top professional players. How did Google accomplish this feat, which was previously thought to be decades away? The answer has major implications for artificial intelligence.
+**Abstract:** Go is a 2000 year old board game, known for its immense complexity. There are more than 40 million Go players worldwide. In March, Google shocked the Go-playing world by creating AlphaGo, a computer program that can defeat top professional players. How did Google accomplish this feat, which was previously thought to be decades away? The answer has major implications for artificial intelligence. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-04-01.pdf)]
 
 ### The Primacy of Unity: Is 1 a Prime Number? ###
 
