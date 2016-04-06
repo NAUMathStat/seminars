@@ -31,7 +31,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Steve Wilson (NAU-Emeritus)
 
-**Abstract:** We will spend a few minutes on an academic discussion of two kinds of deduction games.  And then we will play one of each.
+**Abstract:** We will spend a few minutes on an academic discussion of two kinds of deduction games.  And then we will play one of each. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-04-08.pdf)]
 
 ### How Computers Mastered the Game of Go ###
 
