@@ -25,6 +25,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Curious and Unusual Numbers ###
+
+**Date:** April 15, 2016
+
+**Speaker:** Ian Williams (NAU)
+
+**Abstract:** An introduction and shallow exposition concerning the numbers I find the most fascinating, cool, strange and spooky.  Followed by a short lesson in how to recite many digits of $\pi$ with ease. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-04-15.pdf)]
+
 ### Deduction Games ###
 
 **Date:** April 8, 2016
