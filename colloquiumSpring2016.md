@@ -145,7 +145,7 @@ Mathematics for Life: Are You Teaching Students What They Really Need?</td>
 <td>Jesse Mapel</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/mapel_041216.pdf" target="_blank">
-MS Thesis Talk</a></td>
+MS Thesis Talk<br>Finite Difference Methods for the p-Laplacian</a></td>
 </tr>
 
 <tr>
@@ -153,7 +153,7 @@ MS Thesis Talk</a></td>
 <td>Kevin Salmon</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/salmon_041916.pdf" target="_blank">
-MS Thesis Talk</a></td>
+MS Thesis Talk<br>Exploring Temperley-Lieb algebras of type affine C.</a></td>
 </tr>
 
 <tr>
