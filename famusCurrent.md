@@ -17,13 +17,22 @@ Come join us for some entertaining talks!  Refreshments always served.
   - April 1: Jeffrey Covington (NAU)
   - April 8: Steve Wilson (NAU-Emeritus)
   - April 15: Ian Williams (NAU)
-  - April 22: [Dana C. Ernst](http://dcernst.github.io) (NAU)
+  - April 22: Andrew Lebovitz (NAU)
   - April 29: No FAMUS (please attend UGRADS instead)
   - May 6: No FAMUS
 
 ## Titles and Abstracts ##
 
 Note that talks are listed in reverse chronological order.
+
+### Topological Games ###
+
+**Date:** April 22, 2016
+
+**Speaker:** Andrew Lebovitz (NAU)
+
+**Abstract:** We’ll play and explore a couple of simple, yet analytically interesting games for two players. Planar graphs and Euler’s characteristic formula will be introduced and used to reveal properties of these games.
+Bring paper and a pencil!   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-04-22.pdf)]
 
 ### Curious and Unusual Numbers ###
 
