@@ -13,13 +13,13 @@ Note that talks are listed in reverse chronological order.
 
 **Dates:** 4/26
 
-**Speaker:** Christopher R. H. Hanusa (Queens College, CUNY)
+**Speaker:** [Christopher R. H. Hanusa](http://qcpages.qc.cuny.edu/~chanusa/) (Queens College, CUNY)
 
 **Abstract:** The $n$-Queens Problem asks in how many ways you can place n queens on an $n\times n$ chessboard so that no two attack each other.  There has been no formula for the answer to this question...until now! We develop a mathematical theory to address the more general question "In how many ways can you place $q$ chess pieces on a polygonal chessboard so that no two pieces attack each other?"  The theory is geometrical and combinatorial in nature and involves counting lattice points that avoid certain hyperplanes.  This is joint work with Thomas Zaslavsky and Seth Chaiken.
 
 ### What are the Praeger-Xu graphs, Why are they hated and feared, and What problems about them *can* be solved? ###
 
-**Dates:** 3/22, 3/29, 4/4, 4/11
+**Dates:** 3/22, 3/29, 4/5, 4/12, 4/19
 
 **Speaker:** Steve Wilson (NAU-Emeritus)
 
