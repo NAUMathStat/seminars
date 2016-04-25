@@ -160,9 +160,20 @@ MS Thesis Talk<br>Exploring Temperley-Lieb algebras of type affine C.</a></td>
 <td><strong>Thursday</strong><br>April 28th</td>
 <td>Honors Week Speaker<br>Francis Su</td>
 <td>Harvey Mudd College<br>MAA President</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/su_042816.pdf" target="_blank">
-Honors Week Talk</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/su1_042816.pdf" target="_blank">
+Honors week General Talk<br>4:00 - 5:00 pm <br> LMC Room #221</a></td>
 </tr>
+
+<tr>
+<td><strong>Thursday</strong><br>April 28th</td>
+<td>Honors Week Speaker<br>Francis Su</td>
+<td>Harvey Mudd College<br>MAA President</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/su2_042816.pdf" target="_blank">
+Honors week General Talk<br>4:00 - 5:00 pm <br> LMC Room #221</a></td>
+</tr>
+
+Combinatorial Fixed Point Theorems.
+Voting in Agreeable Societies, LMC Room #221
 
 <tr>
 <td>May 3rd</td>
