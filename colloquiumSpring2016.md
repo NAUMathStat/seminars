@@ -161,13 +161,13 @@ MS Thesis Talk<br>Exploring Temperley-Lieb algebras of type affine C.</a></td>
 <td>Honors Week Speaker<br>Francis Su</td>
 <td>Harvey Mudd College<br>MAA President</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/su1_042816.pdf" target="_blank">
-Honors week General Talk<br>4:00 - 5:00 pm <br> LMC Room #221</a></td>
+Honors week Advanced Talk<br>12:45 - 2:00 pm <br> AMB Room #164</a></td>
 </tr>
 
 <tr>
 <td><strong>Thursday</strong><br>April 28th</td>
 <td>Honors Week Speaker<br>Francis Su</td>
-<td>Harvey Mudd College<br>MAA President</td>
+<td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/su2_042816.pdf" target="_blank">
 Honors week General Talk<br>4:00 - 5:00 pm <br> LMC Room #221</a></td>
 </tr>
