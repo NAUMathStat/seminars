@@ -180,7 +180,7 @@ Voting in Agreeable Societies, LMC Room #221
 <td>Taryn Laird</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/laird_050316.pdf" target="_blank">
-MS Thesis Talk</a></td>
+MS Thesis Talk<br>A Study of T-Avoiding Elements of Coxeter Groups</a></td>
 </tr>
 
 </table>
