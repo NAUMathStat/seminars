@@ -6,10 +6,10 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### Coming soon ###
+### The Impossible Sum ###
 
-**Date:** September 2, 2016
+**Date:** September 9, 2016
 
-**Speaker:** Unknown
+**Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** Coming soon.
+**Abstract:** The talk will investigate the infinite sum $1+2+3+\cdots$ and will show why this sum exists and is important. 
