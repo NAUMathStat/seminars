@@ -9,10 +9,8 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### Coming Soon ###
+### Organizational Meeting ###
 
-**Dates:** 9/6/2016
+**Dates:** 8/30/2016
 
-**Speaker:** Unknown
-
-**Abstract:** Coming soon.
+**Notes:** We will have an organizational meeting on the first Tuesday of the semester.  If you are interested in giving a talk or have ideas for speakers, please attend.
