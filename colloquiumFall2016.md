@@ -48,123 +48,111 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>September 6th</td>
 <td>Dr. Bertrand Cambou</td>
-<td>
-School of Informatics,<br>Computing,<br>and Cyber-Systems</td>
+<td>NAU<br>School of Informatics</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
-<td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td>September 13th</td>
+<td>Hovermill et al</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/hovermill_091316.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
-<td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td>September20th</td>
+<td>Dr. Fatemeh Afghah</td>
+<td>NAU<br>School of Informatics</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/afghah_092016.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
-<td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td>September 27th</td>
+<td>Dr. James W. Swift</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/swift_092716.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>October 4th</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_100416.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>October 11th</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_101116.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>October 18th</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_101816.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>October 25th</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_102516.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>November 1st</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_110116.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>November 8th</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_110816.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>November 15th</td>
+<td>TBD</td>
 <td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/xxx_111516.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
-<td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td>November 22nd</td>
+<td>Dr. Kathryn Bryant</td>
+<td>Colorado College</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/bryant_112216.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
-<td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
+<td><strong>Monday</strong><br>November 29th</td>
+<td>Dr. Kyle Peterson</td>
+<td>DePaul University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/petersen_112916.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September 6th</td>
+<td>December 6th</td>
+<td>Reading Week</td>
 <td></td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
-TBD</a></td>
 </tr>
-
-<tr>
-<td>September 6th</td>
-<td></td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
-TBD</a></td>
-</tr>
-
-
 
