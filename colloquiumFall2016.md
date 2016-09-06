@@ -81,7 +81,7 @@ TBD</a></td>
 <tr>
 <td>October 4th</td>
 <td>Jeff Rushall</td>
-<td></td>
+<td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/rushall_100416.pdf" target="_blank">
 Sabbatical Talk</a></td>
 </tr>
