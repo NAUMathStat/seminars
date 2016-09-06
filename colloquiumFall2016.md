@@ -100,8 +100,9 @@ TBD</a></td>
 
 <tr>
 <td>October 18th</td>
-<td>Dr. Gumel</td>
-<td></td>
+<td>Dr. Abba Gumel</td>
+<td>ASU<br>
+School of Mathematical <br>&<br> Statistical Sciences</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/gumel_101816.pdf" target="_blank">
 TBD</a></td>
 </tr>
