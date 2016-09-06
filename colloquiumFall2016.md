@@ -48,23 +48,24 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>September 6th</td>
 <td>Dr. Bertrand Cambou</td>
-<td>NAU<br>School of Informatics</td>
+<td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
 <td>September 13th</td>
-<td>Hovermill et al</td>
+<td>Dr. Jeffrey Hovermill<br>
+ and Dr. Brian Beaudry</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hovermill_091316.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
-<td>September20th</td>
+<td>September 20th</td>
 <td>Dr. Fatemeh Afghah</td>
-<td>NAU<br>School of Informatics</td>
+<td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/afghah_092016.pdf" target="_blank">
 TBD</a></td>
 </tr>
@@ -79,58 +80,62 @@ TBD</a></td>
 
 <tr>
 <td>October 4th</td>
-<td>TBD</td>
+<td>Jeff Rushall</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_100416.pdf" target="_blank">
-TBD</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/rushall_100416.pdf" target="_blank">
+Sabbatical Talk</a></td>
 </tr>
 
 <tr>
 <td>October 11th</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_101116.pdf" target="_blank">
+<td>Dr. Robert Magrath</td>
+<td>
+University of New Hampshire <br>
+ 
+Director of Grad Programs <br> in Analytics and Data Science
+</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/magrath_101116.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
 <td>October 18th</td>
-<td>TBD</td>
+<td>Dr. Gumel</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_101816.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/gumel_101816.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
 <td>October 25th</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_102516.pdf" target="_blank">
+<td>Dr. Abolfazl Razi</td>
+<td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/razi_102516.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
 <td>November 1st</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_110116.pdf" target="_blank">
+<td>Dr. Michael J. Falk</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_110116.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
 <td>November 8th</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_110816.pdf" target="_blank">
+<td>Dr. John M. Neuberger</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/neuberger_110816.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
 <tr>
 <td>November 15th</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xxx_111516.pdf" target="_blank">
-TBD</a></td>
+<td>Amy Rushall</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/rushall_111516.pdf" target="_blank">
+Sabbatical Talk</a></td>
 </tr>
 
 <tr>
