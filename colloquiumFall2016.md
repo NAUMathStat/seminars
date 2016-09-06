@@ -50,7 +50,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Dr. Bertrand Cambou</td>
 <td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/cambou_090616.pdf" target="_blank">
-TBD</a></td>
+Design of a true random number generator with a XOR data compiler</a></td>
 </tr>
 
 <tr>
