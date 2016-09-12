@@ -56,7 +56,7 @@ Design of a true random number generator with a XOR data compiler</a></td>
 <tr>
 <td>September 13th</td>
 <td>Dr. Jeffrey Hovermill<br>
- and Dr. Brian Beaudry</td>
+ and Dr. Brian Beaudrie</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hovermill_091316.pdf" target="_blank">
 An update of LMC Assessment and Research</a></td>
