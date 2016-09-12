@@ -10,3 +10,5 @@ The AMS typically meets 12:45-1:45PM on Thursdays in Room 164 of the Adel Mathem
 - 9/6/2016		Jeffrey Covington, on his research with Neuberger on 
 				the existence of solutions to semilinear elliptic PDE, particularly on the dumbell.
 - 9/13/2016		Shafiu Jibrin, on Finding the inertia of a symmetric matrix.
+- 9/20/2016		Jibrin continues.
+
