@@ -59,7 +59,7 @@ Design of a true random number generator with a XOR data compiler</a></td>
  and Dr. Brian Beaudry</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hovermill_091316.pdf" target="_blank">
-TBD</a></td>
+An update of LMC Assessment and Research</a></td>
 </tr>
 
 <tr>
