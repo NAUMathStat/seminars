@@ -64,10 +64,10 @@ An update of LMC Assessment and Research</a></td>
 
 <tr>
 <td>September 20th</td>
-<td>Dr. Fatemeh Afghah</td>
-<td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/afghah_092016.pdf" target="_blank">
-TBD</a></td>
+<td>Dr. John M. Neuberger</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/neuberger_092016.pdf" target="_blank">
+A nonlinear deflation algorithm for semilinear elliptic boundary value problems.</a></td>
 </tr>
 
 <tr>
@@ -125,9 +125,9 @@ TBD</a></td>
 
 <tr>
 <td>November 8th</td>
-<td>Dr. John M. Neuberger</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/neuberger_110816.pdf" target="_blank">
+<td>Dr. Fatemeh Afghah</td>
+<td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/afghah_110816.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
