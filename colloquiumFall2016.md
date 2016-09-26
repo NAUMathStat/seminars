@@ -112,7 +112,7 @@ Mathematics of Climate Change and Vector-borne Diseases</a></td>
 <td>Dr. Abolfazl Razi</td>
 <td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/razi_102516.pdf" target="_blank">
-TBD</a></td>
+Predictive Communications for UAV Systems</a></td>
 </tr>
 
 <tr>
