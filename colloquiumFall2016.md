@@ -100,11 +100,11 @@ TBD</a></td>
 
 <tr>
 <td>October 18th</td>
-<td>Dr. Abba Gumel</td>
+<td>Dr. Abba B. Gumel</td>
 <td>ASU<br>
 School of Mathematical <br>&<br> Statistical Sciences</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/gumel_101816.pdf" target="_blank">
-TBD</a></td>
+Mathematics of Climate Change and Vector-borne Diseases</a></td>
 </tr>
 
 <tr>
