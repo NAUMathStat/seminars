@@ -75,7 +75,7 @@ A nonlinear deflation algorithm for semilinear elliptic boundary value problems.
 <td>Dr. James W. Swift</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/swift_092716.pdf" target="_blank">
-TBD</a></td>
+Sabbatical Report</a></td>
 </tr>
 
 <tr>
