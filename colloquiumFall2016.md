@@ -83,7 +83,7 @@ Sabbatical Report</a></td>
 <td>Jeff Rushall</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/rushall_100416.pdf" target="_blank">
-Sabbatical Talk</a></td>
+Sabbatical Report</a></td>
 </tr>
 
 <tr>
