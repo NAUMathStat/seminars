@@ -88,13 +88,11 @@ Sabbatical Report</a></td>
 
 <tr>
 <td>October 11th</td>
-<td>Dr. Robert Magrath</td>
+<td>Dr. Dr. Michael J. Falk</td>
 <td>
-University of New Hampshire <br>
- 
-Director of Grad Programs <br> in Analytics and Data Science
+NAU
 </td>
-<td><a href="{{ site.baseurl }}/colloquium_files/magrath_101116.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_101116.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
@@ -117,9 +115,9 @@ Predictive Communications for UAV Systems</a></td>
 
 <tr>
 <td>November 1st</td>
-<td>Dr. Michael J. Falk</td>
+<td>TBD</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/falk_110116.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/tbd_110116.pdf" target="_blank">
 TBD</a></td>
 </tr>
 
