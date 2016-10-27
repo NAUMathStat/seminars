@@ -13,7 +13,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Phillip Doi (NAU graduate student)
 
-**Dates:** 10/25/2016
+**Dates:** 10/25/2016, 11/1/2016
 
 **Abstract:** In the realm of point-set topology, a Toronto space is a topological space, homeomorphic to each of its full cardinality subspaces.  Under certain conditions, Toronto spaces are easy to classify, particularly if they are not Hausdorff (not T2).  The challenge we consider lies in classifying Hausdorff Toronto spaces of uncountable cardinalities.  We will explore results and open questions about consistency that concern aleph one, T2, Toronto spaces, as well as their relationship to scatter spaces.  In this matter, we can come to natural generalizations of the original definition.  Furthermore, some new (albeit straightforward) results will be presented, which may have gone unnoticed in the cataloging of folklore about these spaces.
 
