@@ -115,10 +115,10 @@ Predictive Communications for UAV Systems</a></td>
 
 <tr>
 <td>November 1st</td>
-<td>TBD</td>
+<td>Stephen E. Wilson</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/tbd_110116.pdf" target="_blank">
-TBD</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/wilson_110116.pdf" target="_blank">
+Semi-Transitive Orientations of Dart-transitive Graphs</a></td>
 </tr>
 
 <tr>
