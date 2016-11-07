@@ -126,7 +126,8 @@ Semi-Transitive Orientations of Dart-transitive Graphs</a></td>
 <td>Dr. Fatemeh Afghah</td>
 <td>NAU<br>School of Informatics, <br>Computing, <br>and Cyber Systems</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/afghah_110816.pdf" target="_blank">
-TBD</a></td>
+Applications of Game Theory in Cooperative Communication Networks
+</a></td>
 </tr>
 
 <tr>
