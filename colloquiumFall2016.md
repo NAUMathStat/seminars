@@ -205,7 +205,7 @@ Eulerian Numbers</a></td>
 <td>Dr. Nandor Sieben</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/sieben_012417.pdf" target="_blank">
-TBD/a></td>
+TBD </a></td>
 </tr>
 
 <tr>
@@ -213,7 +213,7 @@ TBD/a></td>
 <td>Dr. Jeffrey Hovermill</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hovermill_013117.pdf" target="_blank">
-TBD/a></td>
+TBD</a></td>
 </tr>
 
 
@@ -222,7 +222,7 @@ TBD/a></td>
 <td>Katie Louchart et al</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/louchart_020717.pdf" target="_blank">
-TBD/a></td>
+TBD</a></td>
 </tr>
 
 <tr>
@@ -230,7 +230,7 @@ TBD/a></td>
 <td>Dr. Roy St. Laurent</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/st.laurent_021417.pdf" target="_blank">
-TBD/a></td>
+TBD</a></td>
 </tr>
 
 <\table>
