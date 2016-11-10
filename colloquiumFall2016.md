@@ -134,7 +134,7 @@ Applications of Game Theory in Cooperative Communication Networks
 <td>November 15th</td>
 <td>Amy Rushall</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/rushall_111516.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/rushall_amy_111516.pdf" target="_blank">
 Sabbatical Talk</a></td>
 </tr>
 
@@ -143,15 +143,15 @@ Sabbatical Talk</a></td>
 <td>Dr. Kathryn Bryant</td>
 <td>Colorado College</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/bryant_112216.pdf" target="_blank">
-TBD</a></td>
+Pretzel Knots: Slices, Ribbons, and Mutations</a></td>
 </tr>
 
 <tr>
-<td><strong>Monday</strong><br>November 29th</td>
+<td>November 29th</td>
 <td>Dr. Kyle Peterson</td>
 <td>DePaul University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/petersen_112916.pdf" target="_blank">
-TBD</a></td>
+Eulerian Numbers</a></td>
 </tr>
 
 <tr>

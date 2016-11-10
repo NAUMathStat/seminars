@@ -1,0 +1,27 @@
+From: Kyle Petersen <tpeter21@depaul.edu<mailto:tpeter21@depaul.edu>>
+> Subject: Re: plan?
+> Date: October 27, 2016 at 7:09:58 AM MST
+> To: Dana C Ernst <Dana.Ernst@nau.edu<mailto:Dana.Ernst@nau.edu>>
+> 
+> Here is the title/abstract for the colloquium.
+> 
+> "Eulerian Numbers'
+> 
+> Every student of mathematics is familiar with Pascal's triangle of
+> binomial coefficients. Though not as well known, the classical
+> Eulerian numbers form a triangle that is almost as nice. These numbers
+> have been given many different combinatorial interpretations, as well
+> as algebraic and geometric interpretations. Via the algebraic and/or
+> geometric interpretations, we can generalize the Eulerian numbers in
+> many ways, e.g., to Coxeter groups, or to certain families of
+> polytopes. I will survey some of the history of Eulerian numbers,
+> including current work and open problems.
+> 
+> On Wed, Oct 26, 2016 at 7:04 AM, Kyle Petersen
+> <t.kyle.petersen@gmail.com<mailto:t.kyle.petersen@gmail.com>> wrote:
+> Sorry I have been slow to reply. I will get back to you later today.
+> 
+> T. Kyle Petersen
+> Associate Professor
+> Department of Mathematical Sciences
+> DePaul University

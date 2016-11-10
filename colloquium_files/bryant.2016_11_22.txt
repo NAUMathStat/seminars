@@ -1,0 +1,14 @@
+Below is the title for my upcoming colloquium talk and its accompanying abstract. Please let me know if you'd prefer it in another form. 
+
+Title: Pretzel Knots: Slices, Ribbons, and Mutations
+
+Abstract:
+A long-standing conjecture in low-dimensional topology is the Slice-Ribbon Conjecture, which posits the equivalence of two types of knots: slice knots and ribbon knots. This conjecture lies at the intersection between knot theory, 3-manifold topology, and 4-manifold topology, making the study of slice/ribbon knots a very rich and active area of interest. This talk will focus on exploring the Slice-Ribbon Conjecture for an infinite family of knots called pretzel knots, for which the operation of `knot mutation' plays a mysterious yet significant role. Definitions will be given for the objects and concepts in question (slice/ribbon/pretzel knots, knot mutation), but basic knowledge of manifolds, covering spaces, and groups will be assumed. Such knowledge is not required, however, for a general appreciation for the topic as the speaker will emphasize the logical structure of her arguments rather than the topology-specific details. Ample amounts of figures will also be included. 
+
+I'm looking forward to being at NAU in a few weeks!
+
+Sincerely,
+
+Kathryn Bryant
+Visiting Assistant Professor 
+Colorado College
