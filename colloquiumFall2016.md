@@ -161,3 +161,76 @@ Eulerian Numbers</a></td>
 <td></td>
 </tr>
 
+</table>
+
+<table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
+<caption>
+<center>
+  <p><b><font size="+1">Highly tentative Spring 2017 Colloquium Schedule</font></b></p>
+  </center>
+</caption>
+
+<tbody>
+<tr>
+<td width="17%">
+<center>
+  <b>Date</b>
+</center></td>
+
+<td width="16%">
+<center>
+  <b>Speaker</b>
+</center></td>
+
+<td width="12%">
+<center>
+  <b>Affiliation</b>
+</center></td>
+
+<td width="55%">
+<center>
+  <b>Title&nbsp;</b> (click title to see abstract)
+</center></td>
+</tr>
+
+<tr>
+<td>January 17th</td>
+<td>Organizational Meeting<br>First day of classes</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>January 24th</td>
+<td>Dr. Nandor Sieben</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/sieben_012417.pdf" target="_blank">
+TBD/a></td>
+</tr>
+
+<tr>
+<td>January 31st</td>
+<td>Dr. Jeffrey Hovermill</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/hovermill_013117.pdf" target="_blank">
+TBD/a></td>
+</tr>
+
+
+<tr>
+<td>February 7th</td>
+<td>Katie Louchart et al</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/louchart_020717.pdf" target="_blank">
+TBD/a></td>
+</tr>
+
+<tr>
+<td>February 14th</td>
+<td>Dr. Roy St. Laurent</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/st.laurent_021417.pdf" target="_blank">
+TBD/a></td>
+</tr>
+
+<\table>
