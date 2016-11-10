@@ -161,8 +161,6 @@ Eulerian Numbers</a></td>
 <td></td>
 </tr>
 
-</table>
-
 <table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
 <caption>
 <center>
@@ -232,5 +230,3 @@ TBD</a></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/st.laurent_021417.pdf" target="_blank">
 TBD</a></td>
 </tr>
-
-<\table>
