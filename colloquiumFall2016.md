@@ -230,3 +230,11 @@ TBD</a></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/st.laurent_021417.pdf" target="_blank">
 TBD</a></td>
 </tr>
+
+<tr>
+<td>February 21st</td>
+<td>Dr. Maya Chhetri</td>
+<td>UNCG - Greensboro</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/chhetri_022117.pdf" target="_blank">
+TBD</a></td>
+</tr>
