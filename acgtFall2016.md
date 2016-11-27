@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### A two-sided Coxeter complex ###
+
+**Speaker:** [T. Kyle Petersen](http://math.depaul.edu/tpeter21/) (DePaul University)
+
+**Dates:** 11/8/2016, 11/15/2016, 11/23/2016
+
+**Abstract:** The Coxeter complex of a finite reflection group is an abstract simplicial complex whose faces are left cosets of standard parabolic subgroups. It can also be realized as a triangulation of a sphere. I will present a triangulation of a sphere whose cells are naturally related to the two-sided cosets of parabolic subgroups. Several nice properties of the Coxeter complex carry over to the two-sided case, including combinatorial models for faces and numerical invariants like the h-polynomial. I will keep the discussion focused on the case of the symmetric group, so the talk should be accessible even to those unfamiliar with Coxeter groups in general.
+
 ### On the size of a braid class of a permutation ###
 
 **Speaker:** [Dana C. Ernst](http://dcernst.github.io) (NAU)
