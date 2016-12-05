@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Discriminantal arrangements, higher Bruhat order, and uniform oriented matroids ###
+
+**Speaker:** [Michael Falk](http://www.cefns.nau.edu/~falk/) (NAU)
+
+**Dates:** 12/6/2016
+
+**Abstract:** This final ACGT of the semester will be a continuation of Falk's talks from earlier in the semester and will tie together with ideas from Ernst's talks.
+
 ### A two-sided Coxeter complex ###
 
 **Speaker:** [T. Kyle Petersen](http://math.depaul.edu/tpeter21/) (DePaul University)
