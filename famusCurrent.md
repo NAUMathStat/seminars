@@ -6,6 +6,56 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Odd Perfect Number Mystery ###
+
+**Date:** December 9, 2016
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  Numbers like 6 = 1 + 2 + 3 and 28 = 1 + 2 + 4 + 7 + 14 are identical to the sums of the smaller counting numbers that divide them evenly divisors.  These kinds of numbers are called PERFECT NUMBERS.  They are actually very rare - there are only two other perfect numbers smaller than 10,000.  And there are many easy-to-ask questions about perfect numbers, including: How many perfect numbers exist?  How are perfect numbers found?  Why do we care about perfect numbers?  And perhaps the most important question of all: Do any ODD perfect numbers exist?  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
+
+The faculty guest-to-be-interviewed is Sarah Watson (NAU).
+
+### Should you consider graduate school in statistics or mathematics education or mathematics? ###
+
+**Date:** December 2, 2016
+
+**Speaker:** Derek Sonderegger (NAU)
+
+**Abstract:**  The presentation is being given by Dr. Derek Sonderegger, who is a member of the graduate operations committee here in our department.  He will give the who/what/when/how/why of considering graduate school, applying for graduate school, and being successful in graduate school, and his comments will be directed at the graduate programs in our department.  The "guests" this week will be several current and former graduate students in our department, who will present all sorts of interesting and colorful thoughts on the joys of attending graduate school in math/stat/math ed here at NAU.  FREE PIZZA will be served.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-02.pdf)]
+
+<!--
+### ??? ###
+
+**Date:** November 18, 2016
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  ??? [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
+
+The faculty guest-to-be-interviewed is ??? (NAU).
+
+### ??? ###
+
+**Date:** November 4, 2016
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  ??? [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
+
+The faculty guest-to-be-interviewed is ??? (NAU).
+
+### ??? ###
+
+**Date:** October 28, 2016
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  ??? [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
+
+The faculty guest-to-be-interviewed is ??? (NAU).
+-->
+
 ### My 2015-2016 Sabbatical Year ###
 
 **Date:** October 21, 2016
