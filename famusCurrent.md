@@ -24,37 +24,25 @@ The faculty guest-to-be-interviewed is Sarah Watson (NAU).
 
 **Abstract:**  The presentation is being given by Dr. Derek Sonderegger, who is a member of the graduate operations committee here in our department.  He will give the who/what/when/how/why of considering graduate school, applying for graduate school, and being successful in graduate school, and his comments will be directed at the graduate programs in our department.  The "guests" this week will be several current and former graduate students in our department, who will present all sorts of interesting and colorful thoughts on the joys of attending graduate school in math/stat/math ed here at NAU.  FREE PIZZA will be served.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-02.pdf)]
 
-<!--
-### ??? ###
+### Are you a topological pool shark? ###
 
 **Date:** November 18, 2016
 
-**Speaker:** Jeff Rushall (NAU)
+**Speaker:** Kathryn Bryant (Colorado College)
 
-**Abstract:**  ??? [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
+**Abstract:**  The classic game of pool/billiards is played on a table. Traditionally, pool tables are flat, tend to have six pockets, and have four bounding walls that prevent the billiard balls from escaping the table. Which of these table characteristics are topological properties? What happens to the game of pool if we change some/all of these properties? Can YOU make a shot on a torus? This talk will be an interactive exploration of the topological properties of a surface that may (or may not!) make it desirable for pool. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
 
-The faculty guest-to-be-interviewed is ??? (NAU).
+The faculty guest-to-be-interviewed is also Kathryn.
 
-### ??? ###
+### The Shoelace Formula ###
 
 **Date:** November 4, 2016
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:**  ??? [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
+**Abstract:**  In this presentation, I will present a strange and yet simple formula that one can use to measure areas of polygons in the plane.  This strange and yet simple formula uses just addition, subtraction and multiplication, and no calculus. It's neat, it's cute, and it's fun.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-11-04.pdf)]
 
-The faculty guest-to-be-interviewed is ??? (NAU).
-
-### ??? ###
-
-**Date:** October 28, 2016
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:**  ??? [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS16-12-09.pdf)]
-
-The faculty guest-to-be-interviewed is ??? (NAU).
--->
+The faculty guest-to-be-interviewed is David Deville (NAU).
 
 ### My 2015-2016 Sabbatical Year ###
 
