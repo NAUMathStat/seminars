@@ -9,7 +9,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### Discriminantal arrangements, higher Bruhat order, and uniform oriented matroids ###
+### Oriented matroids, wiring diagrams, and factorizations of the long permutation ###
 
 **Speaker:** [Michael Falk](http://www.cefns.nau.edu/~falk/) (NAU)
 
