@@ -50,7 +50,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>January 24th</td>
 <td>cancelled due to snow</td>
 <td></td>
-<td>/td>
+<td></td>
 </tr>
 
 <tr>
@@ -65,11 +65,113 @@ The wonderful world of MAT 220
 </a></td>
 </tr>
 
+<tr>
+<td>February 7th</td>
+<td>Jeffrey Hovermill</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/hovermill_020717.pdf" target="_blank">
+title
+</a></td>
+</tr>
 
 <tr>
-<td>May 2nd</td>
-<td>Reading Week</td>
+<td>February 14th</td>
+<td>Dr. Benjamin Ruddell</td>
+<td>NAU<br>School of Informatics, Computing, and Cyber Systems </td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ruddell_021417.pdf" target="_blank">
+TBD
+</a></td>
+</tr>
+
+<tr>
+<td>February 21st</td>
+<td>Maya Chhetri</td>
+<td>UNC-Greensboro</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/chhetri_022117.pdf" target="_blank">
+TBD
+</a></td>
+</tr>
+
+<tr>
+<td>February 28th</td>
+<td>Brent Burch</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/burch_022817.pdf" target="_blank">
+TBD
+</a></td>
+</tr>
+
+<tr>
+<td>March 7th</td>
+<td>TBD</td>
 <td></td>
 <td></td>
 </tr>
+
+<tr>
+<td>March 14th</td>
+<td>Spring Break</td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td>March 21st</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>March 28th</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>April 4th</td>
+<td>Bianca Luedecker</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/leudecker_040417.pdf" target="_blank">
+TBD
+</a></td>
+</tr>
+
+<tr>
+<td>April 11th</td>
+<td>Shafiu Jibrin</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/jibrin_041117.pdf" target="_blank">
+TBD
+</a></td>
+</tr>
+
+<tr>
+<td>April 18th</td>
+<td>Phillip Doi</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/doi_041817.pdf" target="_blank">
+M.S. Thesis 
+</a></td>
+</tr>
+
+
+<tr>
+<td>April 25th</td>
+<td>Honors Week</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>May 2nd</td>
+<td>Zachary Parker</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/parker_050217.pdf" target="_blank">
+M.S. Thesis
+</a></td>
+</tr>
+
 
