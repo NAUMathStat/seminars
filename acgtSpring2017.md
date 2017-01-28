@@ -15,7 +15,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** 1/31/2017
 
-**Abstract:** Coming soon.
+**Abstract:** Having established last time the representation of rank-three oriented matroids matroids by wiring diagrams, we’ll finish that discussion by showing that wiring diagrams in the uniform case correspond to factorizations of the longest permutation. We will then describe the higher Bruhat orders, and at least state the result relating the number of elements to such factorizations. An interpretation of this result is that the number of factorizations is the number of chambers of a certain hyperplane arrangement.
 
 ### Oriented matroids, wiring diagrams, factorizations of the long permutation ###
 
