@@ -70,7 +70,8 @@ The wonderful world of MAT 220
 <td>Jeffrey Hovermill</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hovermill_020717.pdf" target="_blank">
-title
+Quantitative Reasoning, Accountability, Social Justice, 
+and Liberal Education
 </a></td>
 </tr>
 
