@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### A Report on NCUWM - the Nebraska Conference for Undergraduate Women in Mathematics ###
+
+**Date:** February 10, 2017
+
+**Speaker:** Amy Rushall (NAU)
+
+**Abstract:** This talk will be given by the faculty representative who attended the conference - along with lots of input from the 4 students who also attended the conference.  What the conference is, why it is, who the 4 students were who attended the conference, and the impact it has on those who attend will be among the discussion topics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-03.pdf)]
+
+The faculty guest-to-be-interviewed is also Amy Rushall.
+
 ### The Urinal Problem ###
 
 **Date:** February 3, 2017
