@@ -6,13 +6,39 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA ###
+### The Urinal Problem ###
 
-**Date:** January 20, 2017
+**Date:** February 3, 2017
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:**  Coming soon.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-20-01.pdf)]
+**Abstract:**  Some social scientists and mathematicians have investigated various kinds of privacy questions, such as:
+
+- Where should I choose to sit in a movie theater to maximize the chance of not having someone sit in front of me?
+- Where should I choose to sit in on an open-seat flight to maximize the chance of not having someone sit next to me?
+- Where should I choose to sit at a multi-table banquet to minimize the chance of having strangers sit on both sides of me?
+
+Well, as the talk title suggests, these privacy concerns have also been researched in the context of urinal privacy.  Come to FAMUS to learn a bit about the history of this problem, the various ways it can be attacked, and to see LOTS of pictures and cartoons involving urinals.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-03.pdf)]
+
+The faculty guest-to-be-interviewed is Amy Rangel (NAU).
+
+### Two Talks Summarizing Undergraduate Research Projects ###
+
+**Date:** January 27, 2017
+
+#### Tree of Primitive Pythagorean Quadruples ####
+
+**Speakers:** Marcela Gutierrez and Courtney Schmitt (undergraduates at NAU)
+
+**Abstract:** A primitive Pythagorean triple is a 3-tuple of natural numbers sharing no nontrivial common factors that satisfies the Pythagorean Theorem.  Hall (1970) and Price (2008) found distinct perfect infinite ternary trees whose vertex sets are precisely all primitive Pythagorean triples. This talk will present progress towards the construction of an infinite tree whose vertex set consist of all primitive Pythagorean quadruples, i.e., 4-tuples $(a, b, c, d)$ of natural numbers sharing no nontrivial common factors that satisfy $a^2 + b^2 + c^2 = d^2$.
+
+#### A Game of Chance Inspired by Othello ####
+
+**Speaker:** Alexandria Medeck
+
+**Abstract:** Inspired by the board game Othello, consider a one-player game of chance on a 4-by-8 board where the new twist on the game includes choosing your color disk, white or black, and the objective is to get four disks of the chosen color in a line. The more lines you complete, the more "money" you win. Consider a mathematical generalization, representing the game board by an r by c matrix, r< c. Each entry in the matrix is an independent Bernoulli random variable (i.e., either 1 or 0 with probability $p$ and $1−p$, respectively). The result is a random matrix. Associated with each possible matrix outcome is a score based on the number of completed vertical and diagonal lines of r ones in the matrix. My research is focused on determining the probability distribution of the score as a function of $r$ and $c$. I will present results concerning the probability structure of the game. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-01-27.pdf)]
+
+The faculty guest this week is Ellie Kennedy (NAU).
 
 <!--
 The faculty guest-to-be-interviewed is Sarah Watson (NAU).
