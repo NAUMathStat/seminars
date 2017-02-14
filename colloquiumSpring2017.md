@@ -80,7 +80,7 @@ and Liberal Education
 <td>Dr. Benjamin Ruddell</td>
 <td>NAU<br>School of Informatics, Computing, and Cyber Systems </td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ruddell_021417.pdf" target="_blank">
-TBD
+Information Theory in the Geosciences
 </a></td>
 </tr>
 
@@ -89,7 +89,7 @@ TBD
 <td>Maya Chhetri</td>
 <td>UNC-Greensboro</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/chhetri_022117.pdf" target="_blank">
-TBD
+Asymptotically linear systems
 </a></td>
 </tr>
 
