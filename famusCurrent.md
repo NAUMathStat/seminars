@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Non-Euclidean Geometry: Spacetime Modeling and the Central Problem of Modern Physics ###
+
+**Date:** February 17, 2017
+
+**Speaker:** Etude Oneel-Judy (undergraduate at NAU)
+
+**Abstract:** Etude will be explaining the role that non-Euclidean geometry plays in helping to understand 21st century physics, most notably some of the work of Einstein.  The talk assumes no prior knowledge of non-Euclidean geometry or modeling or even of physics.  Etude has also promised to provide some 3D printing prizes to those lucky enough to attend! [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-17.pdf)]
+
+The faculty guest-to-be-interviewed is also Sal Vera.
+
 ### A Report on NCUWM - the Nebraska Conference for Undergraduate Women in Mathematics ###
 
 **Date:** February 10, 2017
@@ -44,7 +54,7 @@ The faculty guest-to-be-interviewed is Amy Rangel (NAU).
 
 **Talk 2:** A Game of Chance Inspired by Othello
 
-**Speaker:** Alexandria Medeck
+**Speaker:** Alexandria Medeck (undergraduate at NAU)
 
 **Abstract:** Inspired by the board game Othello, consider a one-player game of chance on a 4-by-8 board where the new twist on the game includes choosing your color disk, white or black, and the objective is to get four disks of the chosen color in a line. The more lines you complete, the more "money" you win. Consider a mathematical generalization, representing the game board by an r by c matrix, r< c. Each entry in the matrix is an independent Bernoulli random variable (i.e., either 1 or 0 with probability $p$ and $1−p$, respectively). The result is a random matrix. Associated with each possible matrix outcome is a score based on the number of completed vertical and diagonal lines of r ones in the matrix. My research is focused on determining the probability distribution of the score as a function of $r$ and $c$. I will present results concerning the probability structure of the game.
 
