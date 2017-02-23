@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### What Exactly ARE Space and Time? ###
+
+**Date:** February 24, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Last week at FAMUS we saw a presentation on non-Euclidean space-time modeling, and aside from all the neat and weird geometry and complex numbers and so forth, it occurred to me that the very basics associated with all that - the measurement of space and time - are things that by themselves are tricky to define.  So this FAMUS will try to explain how we measure things.  Minimal math, lots of history, good stories: it's a great way to end the week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-24.pdf)]
+
+The faculty guest-to-be-interviewed is also Sal Vera.
+
 ### Non-Euclidean Geometry: Spacetime Modeling and the Central Problem of Modern Physics ###
 
 **Date:** February 17, 2017
@@ -13,8 +23,6 @@ Note that talks are listed in reverse chronological order.
 **Speaker:** Etude Oneel-Judy (undergraduate at NAU)
 
 **Abstract:** Etude will be explaining the role that non-Euclidean geometry plays in helping to understand 21st century physics, most notably some of the work of Einstein.  The talk assumes no prior knowledge of non-Euclidean geometry or modeling or even of physics.  Etude has also promised to provide some 3D printing prizes to those lucky enough to attend! [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-17.pdf)]
-
-The faculty guest-to-be-interviewed is also Sal Vera.
 
 ### A Report on NCUWM - the Nebraska Conference for Undergraduate Women in Mathematics ###
 
