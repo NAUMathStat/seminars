@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### A Cubic Residue Version of Chapman's Evil Determinant Problem ###
+
+**Speaker:** Ryan Wood (undergraduate at NAU)
+
+**Dates:** 2/28/2017, 3/6/2017
+
+**Abstract:** In 2001, R. Chapman conjectured that a special infinite class of matrices, constructed using quadratic residue symbols, had constant determinant values. This conjecture, known as Chapman's Evil Determinant Problem, was resolved in 2014. In this series of talks, we will present a generalization--involving cubic residues--of Chapman's problem. Basic knowledge of number theory and linear algebra is helpful but not required.
+
 ### Factorizations of the longest element: wiring diagrams and higher Bruhat orders ###
 
 **Speaker:** [Michael Falk](http://www.cefns.nau.edu/~falk/) (NAU)
