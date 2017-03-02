@@ -6,6 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Undergrad Research in Hadamard Matrices ###
+
+**Date:** March 3, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** In this presentation I will do four things:
+
+  1. Define a Hadamard matrix (they are special matrices featuring ONLY 1 or -1 for entries) and explain why are they interesting and important.  
+  2. Talk about generalizations of Hadamard matrices (nothing to be scared about).  
+  3. Discuss some undergrad research students who have worked with me in the past on some unsolved questions about Hadamard matrices, as well as where those students are now.
+  4. Finally, I will show some new unsolved problems that I would like to work on with undergrads next year.  
+
+So this FAMUS is like an infomercial.  Who is interested in doing undergrad research next year?  Students who are interested in doing undergrad research should come to FAMUS.  And those who aren't should come to FAMUS anyway. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-03-03.pdf)]
+
+The faculty guest-to-be-interviewed is Ben Lantz.
+
 ### What Exactly ARE Space and Time? ###
 
 **Date:** February 24, 2017
@@ -14,7 +31,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** Last week at FAMUS we saw a presentation on non-Euclidean space-time modeling, and aside from all the neat and weird geometry and complex numbers and so forth, it occurred to me that the very basics associated with all that - the measurement of space and time - are things that by themselves are tricky to define.  So this FAMUS will try to explain how we measure things.  Minimal math, lots of history, good stories: it's a great way to end the week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-24.pdf)]
 
-The faculty guest-to-be-interviewed is also Sal Vera.
+The faculty guest-to-be-interviewed is Sal Vera.
 
 ### Non-Euclidean Geometry: Spacetime Modeling and the Central Problem of Modern Physics ###
 
