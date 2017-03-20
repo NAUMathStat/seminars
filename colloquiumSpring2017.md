@@ -124,7 +124,7 @@ Resolution of singularities and the Milnor fiber boundary
 <td>Shafiu Jibrin</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/jibrin_032117.pdf" target="_blank">
-Finding an Interior Point of a Spectrahedron Using Infeasible Newton's Method
+Finding an Interior Point of a Spectrahedron Using Infeasible Newton's Method 
 </a></td>
 </tr>
 
