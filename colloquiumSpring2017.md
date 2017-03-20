@@ -98,15 +98,17 @@ Asymptotically linear systems
 <td>Brent Burch</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/burch_022817.pdf" target="_blank">
-TBD
+Comparing sampling strategies to estimate the age characteristics of a forest
 </a></td>
 </tr>
 
 <tr>
 <td>March 7th</td>
-<td>TBD</td>
-<td></td>
-<td></td>
+<td>Michael Falk</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/falk_030717.pdf" target="_blank">
+Resolution of singularities and the Milnor fiber boundary
+</a></td>
 </tr>
 
 <tr>
@@ -119,9 +121,11 @@ TBD
 
 <tr>
 <td>March 21st</td>
-<td>TBD</td>
-<td></td>
-<td></td>
+<td>Shafiu Jibrin</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/jibrin_032117.pdf" target="_blank">
+Finding an Interior Point of a Spectrahedron Using Infeasible Newton's Method
+</a></td>
 </tr>
 
 <tr>
