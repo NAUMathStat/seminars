@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Permutations with triple inversions and volume under 3D lattice paths ###
+
+**Speaker:** Julie Baum and Krista Young (graduate students at NAU)
+
+**Dates:** 3/28/2017, 4/4/2017
+
+**Abstract:** A permutation $w=w(1)w(2)\cdots w(n)\in S_n$ is said to have a *descent* in position $k$ if $w(k)>w(k+1)$ and an *inversion* of $w$ is a pair $i<j$ such that $w(i)>w(j)$. It is well-known that there is a bijection between the set of permutations in $S_n$ that have at most a descent in position $k$ and the set of 2D lattice paths from $(0,0)$ and $(k,n-k)$. This bijection has the property that a permutation with $m$ inversions corresponds to a lattice path having area $m$ under the path. In this talk, we will explore a bijection between permutations with at most two descents in fixed positions and certain 3D lattice paths. In this case, volume "under" the path will correspond to a type of generalized inversion, which we refer to as a "triple inversion".
+
 ### A Cubic Residue Version of Chapman's Evil Determinant Problem ###
 
 **Speaker:** Ryan Wood (undergraduate at NAU)
