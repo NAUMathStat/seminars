@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Quadratic and Cubic Residue Matrices ###
+
+**Date:** March 24, 2017
+
+**Speaker:** Pauline Gonzalez (undergraduate at NAU)
+
+**Abstract:** The talk, Pauline will be reporting on an undergraduate research project she has been working on with fellow undergraduate Ryan Wood.  The project has involved building matrices using something like the Legendre symbol from MAT 318.    
+
+After the talk, instead of a faculty interview, we will continue enjoying our refreshments--namely, some hors d'oeuvres--namely, cheese and crackers--and talk about the upcoming [SUnMaRC](https://naumathstat.github.io/sunmarc2017/) undergraduate mathematics conference, which happens here at NAU the weekend of March 31-April 2. There will be no faculty member interview this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-03-24.pdf)]
+
 ### Undergrad Research in Hadamard Matrices ###
 
 **Date:** March 3, 2017
