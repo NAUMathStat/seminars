@@ -130,25 +130,25 @@ Finding an Interior Point of a Spectrahedron Using Infeasible Newton's Method
 
 <tr>
 <td>March 28th</td>
-<td>TBD</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>April 4th</td>
 <td>Bianca Luedecker</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/leudecker_040417.pdf" target="_blank">
-TBD
+<td><a href="{{ site.baseurl }}/colloquium_files/leudecker_032817.pdf" target="_blank">
+Women and Mathematics
 </a></td>
 </tr>
 
 <tr>
-<td>April 11th</td>
-<td>Shafiu Jibrin</td>
+<td>April 4th</td>
+<td></td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/jibrin_041117.pdf" target="_blank">
+
+</tr>
+
+<tr>
+<td>April 11th</td>
+<td>TBD</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xyz_041117.pdf" target="_blank">
 TBD
 </a></td>
 </tr>
