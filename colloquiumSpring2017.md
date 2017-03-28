@@ -139,15 +139,19 @@ Women and Mathematics
 
 <tr>
 <td>April 4th</td>
-<td></td>
-<td>NAU</td>
+<td>TBD</td>
+<td>TBD</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/xyz_040417.pdf" target="_blank">
+TBD
+</a></td>
+</tr>
 
 </tr>
 
 <tr>
 <td>April 11th</td>
 <td>TBD</td>
-<td>NAU</td>
+<td>TBD</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/xyz_041117.pdf" target="_blank">
 TBD
 </a></td>
