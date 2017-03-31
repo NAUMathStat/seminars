@@ -139,10 +139,10 @@ Women and Mathematics
 
 <tr>
 <td>April 4th</td>
-<td>TBD</td>
-<td>TBD</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/xyz_040417.pdf" target="_blank">
-TBD
+<td>William Schulz</td>
+<td>NAU, Retired</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/schulz_040417.pdf" target="_blank">
+Some Interesting Mathematics from History
 </a></td>
 </tr>
 
