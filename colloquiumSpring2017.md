@@ -70,7 +70,7 @@ The wonderful world of MAT 220
 <td>Jeffrey Hovermill</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/hovermill_020717.pdf" target="_blank">
-Quantitative Reasoning, Accountability, Social Justice, 
+Quantitative Reasoning, Accountability, Social Justice,
 and Liberal Education
 </a></td>
 </tr>
@@ -124,7 +124,7 @@ Resolution of singularities and the Milnor fiber boundary
 <td>Shafiu Jibrin</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/jibrin_032117.pdf" target="_blank">
-Finding an Interior Point of a Spectrahedron Using Infeasible Newton's Method 
+Finding an Interior Point of a Spectrahedron Using Infeasible Newton's Method
 </a></td>
 </tr>
 
@@ -146,8 +146,6 @@ Some Interesting Mathematics from History
 </a></td>
 </tr>
 
-</tr>
-
 <tr>
 <td>April 11th</td>
 <td>TBD</td>
@@ -162,7 +160,7 @@ TBD
 <td>Phillip Doi</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/doi_041817.pdf" target="_blank">
-M.S. Thesis 
+M.S. Thesis
 </a></td>
 </tr>
 
@@ -182,5 +180,3 @@ M.S. Thesis
 M.S. Thesis
 </a></td>
 </tr>
-
-
