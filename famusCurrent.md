@@ -6,6 +6,25 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Undergraduate Research in Mathematics at NAU ###
+
+**Date:** April 7, 2017
+
+**Speakers:** Faculty who want to mentor undergraduate research
+
+**Abstract:** The structure of this particular FAMUS is nonstandard: we will see 7-10 short (circa 5 minutes) math "infomercials," one each from the following faculty (or surrogates):
+
+- Nandor Sieben
+- Shannon Guerrero
+- Roy St. Laurent
+- John Neuberger
+- Jim Swift
+- Dana Ernst  
+- Jeff Rushall
+- and possibly more
+
+The theme of these short presentations is simple: they will each be a version of "I want to do undergrad research next year, here are the problems I want to investigate, and here are the qualifications I seek in prospective students." [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-04-07.pdf)]
+
 ### Quadratic and Cubic Residue Matrices ###
 
 **Date:** March 24, 2017
