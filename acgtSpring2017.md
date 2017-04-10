@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Memories from Toronto and Elementary Topoi ###
+
+**Speaker:** Philip Doi (graduate student at NAU)
+
+**Dates:** 4/11/2017
+
+**Abstract:** The conception of a topos results in a mathematical object that is complex enough to codify nontrivial structure; oft described as a category "where one can do mathematics". For instance, the category of sets, given as set, pervades most of modern mathematics in some way, with its existence presumed indirectly by the Zermelo-Fraenkel-Choice axioms. There are other examples, some of which are experienced subliminally in maths where category theory is less explicit. This presentation will include some historical motivation as well as the story of how I came across the notion of a topos when discussing a certain Toronto problem with a category theorist. Since I am approaching the subject from the perspective of set theoretic topology and as a layperson, I'll sketch out the formalization of elementary topoi, showing their use in describing problems in axiometic set theory. Additionally, we can demonstrated the desirability of having a topos by constrasting topoi to a few interesting non-examples such as the category of NF sets (induced by W. V. Quine's New Foundations set theory). 
+
 ### Permutations with triple inversions and volume under 3D lattice paths ###
 
 **Speaker:** Julie Baum and Krista Young (graduate students at NAU)
