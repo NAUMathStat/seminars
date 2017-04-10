@@ -148,10 +148,9 @@ Some Interesting Mathematics from History
 
 <tr>
 <td>April 11th</td>
-<td>TBD</td>
-<td>TBD</td>
+<td>Cancelled</td>
+<td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/xyz_041117.pdf" target="_blank">
-TBD
 </a></td>
 </tr>
 
@@ -166,10 +165,30 @@ M.S. Thesis
 
 
 <tr>
-<td>April 25th</td>
-<td>Honors Week</td>
-<td></td>
-<td></td>
+<td>April 27th</td>
+<td>Honors Week<br>Dr. Luis David Garcia Puente</td>
+<td>Sam Houston State University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/puente_042717.pdf" target="_blank">
+Colloquium<br>12:45 AMB164<br>Modern Algebra Techniques in Theoretical Neuroscience 
+</a></td>
+</tr>
+
+<tr>
+<td>April 27th</td>
+<td>Honors Week<br>Dr. Luis David Garcia Puente</td>
+<td>Sam Houston State University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/puente_042717_Student_Talk.pdf" target="_blank">
+Student talk<br>4:00 SAS221<br>What is a Sandpile Group?
+</a></td>
+</tr>
+
+<tr>
+<td>April 28th</td>
+<td>Honors Week<br>Dr. Luis David Garcia Puente</td>
+<td>Sam Houston State University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/puente_042717.pdf" target="_blank">
+Interdisciplinary Talk <br>4:00 AMB164<br> Modern Mathematics in Cancer Studies - The Need for Small Data Analysis
+</a></td>
 </tr>
 
 <tr>
