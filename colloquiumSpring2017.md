@@ -163,10 +163,16 @@ M.S. Thesis
 </a></td>
 </tr>
 
+Honors_Week_2017_Schedule.pdf
 
 <tr>
 <td>April 27th</td>
-<td>Honors Week<br>Dr. Luis David Garcia Puente</td>
+<td>Honors Week<br>Dr. Luis David Garcia Puente
+<br>
+<a href="{{ site.baseurl }}/colloquium_files/Honors_Week_2017_Schedule.pdf" target="_blank">
+Honors Week Schedule
+</a>
+</td>
 <td>Sam Houston State University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/puente_042717.pdf" target="_blank">
 Colloquium<br>12:45 AMB164<br>Modern Algebra Techniques in Theoretical Neuroscience 
@@ -186,7 +192,7 @@ Student talk<br>4:00 SAS221<br>What is a Sandpile Group?
 <td>April 28th</td>
 <td>Honors Week<br>Dr. Luis David Garcia Puente</td>
 <td>Sam Houston State University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/puente_042717.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/puente_Interdisciplinary_Talk_042717.pdf" target="_blank">
 Interdisciplinary Talk <br>4:00 AMB164<br> Modern Mathematics in Cancer Studies - The Need for Small Data Analysis
 </a></td>
 </tr>
