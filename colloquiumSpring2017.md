@@ -192,7 +192,7 @@ Student talk<br>4:00 SAS221<br>What is a Sandpile Group?
 <td>April 28th</td>
 <td>Honors Week<br>Dr. Luis David Garcia Puente</td>
 <td>Sam Houston State University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/puente_Interdisciplinary_Talk_042717.pdf" target="_blank">
+<td><a href="{{ site.baseurl }}/colloquium_files/puente_042817_Interdisciplinary_Talk.pdf" target="_blank">
 Interdisciplinary Talk <br>4:00 AMB164<br> Modern Mathematics in Cancer Studies - The Need for Small Data Analysis
 </a></td>
 </tr>
