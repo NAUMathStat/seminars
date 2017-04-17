@@ -156,14 +156,21 @@ Some Interesting Mathematics from History
 
 <tr>
 <td>April 18th</td>
-<td>Phillip Doi</td>
+<td>Tenure-Track Math Candidate</td>
+<td>4:00</td>
+<td>#164</td>
+</tr>
+
+<tr>
+<td>April 25th</td>
+<td>Phillip Doi
+</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/doi_041817.pdf" target="_blank">
-M.S. Thesis
+<td><a href="{{ site.baseurl }}/colloquium_files/doi_042517.pdf" target="_blank">
+M.S. Thesis<br><strong>12:45 AMB146<\strong>
 </a></td>
 </tr>
 
-Honors_Week_2017_Schedule.pdf
 
 <tr>
 <td>April 27th</td>
