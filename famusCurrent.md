@@ -6,17 +6,35 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-<!--
-April 14: The talk this week is entitled "OEIS" and is given by me.  OEIS stands for "Online Encyclopedia of Integer Sequences."  It is a very interesting website that allows one to access and investigate all sorts of neat number patterns.  It also has a reputation as a distracting, time-sucking, get-lost-down-the-rabbit-hole kind of website.  It is all of those things and more.  
+### A Mobius and Fibonacci Mystery ###
 
-The faculty guests two graduate students, Allie Steinken and Zachary Parker, who will discuss their lives as graduate students and answer any questions people might have about the joys and sorrows of graduate school.
+**Date:** May 5, 2017
 
-April 21: The talk this week is entitled "How are AP calculus exams graded? [and where? and when? and by whom?]" and is given by me.  I will explain the who/what/when/etc. of grading AP calculus exams, something I have done for 11 straight years.  I will include how partial credit is awarded, which at times if very surprising.  I will also list some perks associated with being an AP grader.  The faculty guest this week is Tiffany Lenhart.  
+**Speaker:** Jeff Rushall (NAU)
 
-May 5: The talk this week is entitled "A Mobius and Fibonacci Mystery," and is given by me.  We will discuss the Mobius strip; we will discuss Fibonacci numbers; and then I will give everyone a Mobius strip with a Fibonacci number mystery written on it! That's right: every attendee will leave the last FAMUS of 2016-2017 with an unsolved question about Fibonacci numbers actually written down on a Mobius strip!  What a way to end the year, eh?  
+**Abstract:** We will discuss the Mobius strip; we will discuss Fibonacci numbers; and then I will give everyone a Mobius strip with a Fibonacci number mystery written on it! That's right: every attendee will leave the last FAMUS of 2016-2017 with an unsolved question about Fibonacci numbers actually written down on a Mobius strip!  What a way to end the year, eh?  
 
-The faculty guest this week is Brent Burch.  A flyer is attached for your enjoyment.
--->
+The faculty guest this week is Brent Burch.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-05-05.pdf)]
+
+### How are AP calculus exams graded? [and where? and when? and by whom?] ###
+
+**Date:** April 21, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I will explain the who/what/when/etc. of grading AP calculus exams, something I have done for 11 straight years.  I will include how partial credit is awarded, which at times if very surprising.  I will also list some perks associated with being an AP grader.  
+
+The faculty guest this week is Tiffany Lenhart.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-04-21.pdf)]
+
+### OEIS ###
+
+**Date:** April 14, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** OEIS stands for "Online Encyclopedia of Integer Sequences."  It is a very interesting website that allows one to access and investigate all sorts of neat number patterns.  It also has a reputation as a distracting, time-sucking, get-lost-down-the-rabbit-hole kind of website.  It is all of those things and more.  
+
+The faculty guests two graduate students, Allie Steinken and Zachary Parker, who will discuss their lives as graduate students and answer any questions people might have about the joys and sorrows of graduate school. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-04-14.pdf)]
 
 ### Undergraduate Research in Mathematics at NAU ###
 
