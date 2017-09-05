@@ -50,7 +50,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>September 5</td>
 <td>Jim Swift</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/swift_090517.pdf">Synchrony and Anti-Synchrony in Difference-Coupled Cell Networks</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170905.pdf">Synchrony and Anti-Synchrony in Difference-Coupled Cell Networks</a></td>
 </tr>
 
 <tr>
