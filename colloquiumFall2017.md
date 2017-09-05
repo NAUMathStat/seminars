@@ -40,105 +40,105 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>August 29, 2017</td>
+<td>August 29</td>
 <td>Organizational Meeting.</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>September 5, 2017</td>
+<td>September 5</td>
 <td>Jim Swift</td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/swift_090517.pdf">Synchrony and Anti-Synchrony in Difference-Coupled Cell Networks</a></td>
 </tr>
 
 <tr>
-<td>September 12, 2017</td>
+<td>September 12</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>September 19, 2017</td>
+<td>September 19</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>September 26, 2017</td>
+<td>September 26</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>October 3, 2017</td>
+<td>October 3</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>October 10, 2017</td>
+<td>October 10</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>October 17, 2017</td>
+<td>October 17</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>October 24, 2017</td>
+<td>October 24</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>October 31, 2017</td>
+<td>October 31</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>November 7, 2017</td>
+<td>November 7</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>November 14, 2017</td>
+<td>November 14</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>November 21, 2017</td>
+<td>November 21</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>November 28, 2017</td>
+<td>November 28</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>December 5, 2017</td>
+<td>December 5</td>
 <td></td>
 <td></td>
 <td></td>
