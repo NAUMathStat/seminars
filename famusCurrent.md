@@ -1,22 +1,20 @@
-The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly event consisting of announcements, talks, and faculty interviews.  FAMUS takes place most Fridays at 3:00-4:00pm in Room 164 of the Adel Mathematics Building.  Typically the first half of FAMUS consists of a talk on a mathematical topic while an interview of a faculty member takes place in the second half. FAMUS is hosted by [Jeff Rushall](https://nau.edu/cefns/natsci/math/directory-full-time/rushall-jeff/).  
+ The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly event consisting of announcements, talks, and faculty interviews.  FAMUS takes place most Fridays at 3:00-4:00pm in Room 164 of the Adel Mathematics Building.  Typically the first half of FAMUS consists of a talk on a mathematical topic while an interview of a faculty member takes place in the second half. FAMUS is hosted by [Jeff Rushall](https://nau.edu/cefns/natsci/math/directory-full-time/rushall-jeff/).  
 
 Come join us for some entertaining talks!  Refreshments always served.
 
-# Schedule Spring 2017 #
+# Schedule Fall 2017 #
 
 Note that talks are listed in reverse chronological order.
 
-### A Mobius and Fibonacci Mystery ###
+### TBA ###
 
-**Date:** May 5, 2017
+**Date:** September 8, 2017
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** We will discuss the Mobius strip; we will discuss Fibonacci numbers; and then I will give everyone a Mobius strip with a Fibonacci number mystery written on it! That's right: every attendee will leave the last FAMUS of 2016-2017 with an unsolved question about Fibonacci numbers actually written down on a Mobius strip!  What a way to end the year, eh?  
+**Abstract:** Coming soon.
 
-The faculty guest this week is Brent Burch.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-05-05.pdf)]
-
-### How are AP calculus exams graded? [and where? and when? and by whom?] ###
+<!-- ### How are AP calculus exams graded? [and where? and when? and by whom?] ###
 
 **Date:** April 21, 2017
 
@@ -142,4 +140,4 @@ The faculty guest-to-be-interviewed is Amy Rangel (NAU).
 
 **Abstract:** Inspired by the board game Othello, consider a one-player game of chance on a 4-by-8 board where the new twist on the game includes choosing your color disk, white or black, and the objective is to get four disks of the chosen color in a line. The more lines you complete, the more "money" you win. Consider a mathematical generalization, representing the game board by an r by c matrix, r< c. Each entry in the matrix is an independent Bernoulli random variable (i.e., either 1 or 0 with probability $p$ and $1−p$, respectively). The result is a random matrix. Associated with each possible matrix outcome is a score based on the number of completed vertical and diagonal lines of r ones in the matrix. My research is focused on determining the probability distribution of the score as a function of $r$ and $c$. I will present results concerning the probability structure of the game.
 
-The faculty guest this week is Ellie Kennedy (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-01-27.pdf)]
+The faculty guest this week is Ellie Kennedy (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-01-27.pdf)] -->
