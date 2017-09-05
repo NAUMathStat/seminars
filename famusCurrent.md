@@ -6,13 +6,15 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA ###
+### What did I do this summer? ###
 
 **Date:** September 8, 2017
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** Coming soon.
+**Abstract:** I will talk about the math I did, the traveling I did (to some semi-exotic places), and show you some really neat pictures (involving both math and traveling).  
+
+The faculty guest this week is Amy Rushall, who (among many other very important things) happens to be the new Academic Director of the Lumberjack Math Center.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-08.pdf)]
 
 <!-- ### How are AP calculus exams graded? [and where? and when? and by whom?] ###
 
