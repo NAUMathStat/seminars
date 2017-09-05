@@ -13,6 +13,6 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** [Michael Falk](http://www.cefns.nau.edu/~falk/) (NAU)
 
-**Dates:** 9/5/2017
+**Dates:** 9/5/2017, 9/12/17
 
-**Abstract:** Coming soon.
+**Abstract:** We will define discriminantal arrangements and explain the connection with higher Bruhat orders, consider some examples, and attempt to sort out the relationship between certain discriminantal arrangements and factorizations of certain elements of the symmetric group.
