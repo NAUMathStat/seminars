@@ -40,32 +40,115 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>January 17th</td>
+<td>August 29, 2017</td>
 <td>Organizational Meeting.</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>January 24th</td>
-<td>cancelled due to snow</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>January 31st</td>
-<td>Dana Ernst<br>
-Monika Ernst<br>
-Nandor Sieben</td>
+<td>September 5, 2017</td>
+<td>Jim Swift</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/sieben_013117.pdf" target="_blank">
-Jamming the Death Star cafeteria pool table with counterfeit coins:
-The wonderful world of MAT 220
-</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/swift_090517.pdf">Synchrony and Anti-Synchrony in Difference-Coupled Cell Networks</a></td>
 </tr>
 
 <tr>
+<td>September 12, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>September 19, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>September 26, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>October 3, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>October 10, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>October 17, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>October 24, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>October 31, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>November 7, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>November 14, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>November 21, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>November 28, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>December 5, 2017</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</tbody>
+
+</table>
+
+<!-- <tr>
 <td>February 7th</td>
 <td>Jeffrey Hovermill</td>
 <td>NAU</td>
@@ -211,4 +294,4 @@ Interdisciplinary Talk <br>4:00 AMB164<br> Modern Mathematics in Cancer Studies 
 <td><a href="{{ site.baseurl }}/colloquium_files/parker_050217.pdf" target="_blank">
 M.S. Thesis
 </a></td>
-</tr>
+</tr> -->
