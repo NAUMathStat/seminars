@@ -8,8 +8,143 @@ Building. Refreshments at 3:45pm.
 
 Titles and abstracts uploaded as available.  Schedule subject to change.  
 
+## Fall 2017 Colloquium Schedule
 
-<table width="90%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
+<table width="100%" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
+<tbody>
+<tr>
+<td>
+<center>
+  <b>Date</b>
+</center></td>
+
+<td>
+<center>
+  <b>Speaker</b>
+</center></td>
+
+<td>
+<center>
+  <b>Affiliation</b>
+</center></td>
+
+<td>
+<center>
+  <b>Title&nbsp;</b> (click title to see abstract)
+</center></td>
+</tr>
+
+<tr>
+<td>Aug 29</td>
+<td>Organizational Meeting.</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sep 5</td>
+<td>Jim Swift</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170905.pdf">Synchrony and Anti-Synchrony in Difference-Coupled Cell Networks</a></td>
+</tr>
+
+<tr>
+<td>Sep 12</td>
+<td>Steve Wilson</td>
+<td>NAU</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>Sep 19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Sep 26</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Oct 3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Oct 10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Oct 17</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Oct 24</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Oct 31</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Nov 7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Nov 14</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Nov 21</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Nov 28</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Dec 5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+</tbody>
+
+</table>
+
+
+<table width="100%" height="381" border="" align="center" bordercolor="#333333" bgcolor="#CCCCCC">
 <caption>
 <center>
   <p><b><font size="+1">Fall 2017 Colloquium Schedule</font></b></p>
