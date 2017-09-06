@@ -9,7 +9,6 @@ Building. Refreshments at 3:45pm.
 Titles and abstracts uploaded as available.  Schedule subject to change.  
 
 <table width="100%" align="center">
-<!-- <table width="100%" align="center" bordercolor="#333333" bgcolor="#CCCCCC"> -->
 <tbody>
 <tr>
 <td width="15%">
@@ -17,7 +16,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
   <b>Date</b>
 </center></td>
 
-<td>
+<td width="20%">
 <center>
   <b>Speaker</b>
 </center></td>
