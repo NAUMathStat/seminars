@@ -55,9 +55,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Sep 12</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Steve Wilson</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
