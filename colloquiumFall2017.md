@@ -50,35 +50,35 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Sep 12</td>
 <td>Steve Wilson</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170913.pdf">The Wooly Hats</a></td>
 </tr>
 
 <tr>
 <td>Sep 19</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Michael Falk</td>
+<td>NAU</td>
+<td>Weak orders - left and right - and configuration spaces</td>
 </tr>
 
 <tr>
 <td>Sep 26</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Katie Louchart</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
 <td>Oct 3</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Angie Hodge</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
 <td>Oct 10</td>
-<td></td>
-<td></td>
-<td></td>
+<td>William Jaco</td>
+<td>Oklahoma State University</td>
+<td>TBA</td>
 </tr>
 
 <tr>
@@ -90,9 +90,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Oct 24</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Bahattin Yildiz</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
@@ -104,23 +104,23 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Nov 7</td>
-<td></td>
-<td></td>
-<td></td>
+<td>John M. Neuberger</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
 <td>Nov 14</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Amy Rushall</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
 <td>Nov 21</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Dana Ernst</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
