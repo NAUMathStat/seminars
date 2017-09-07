@@ -3,8 +3,8 @@ layout: page
 title: Fall 2017 Department Colloquium
 ---
 
-The NAU Department of Mathematics and Statistics takes place on Tuesdays at 4:00-5:00pm in Room 164 of the Adel Mathematics
-Building. Refreshments at 3:45pm.
+The NAU Department of Mathematics and Statistics Colloquium takes place on Tuesdays at 4:00-5:00 pm in Room 164 of the Adel Mathematics
+Building. Refreshments are available from 3:45pm inthe same room.
 
 Titles and abstracts uploaded as available.  Schedule subject to change.  
 
