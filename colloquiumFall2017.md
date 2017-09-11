@@ -50,7 +50,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Sep 12</td>
 <td>Steve Wilson</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170913.pdf">The Wooly Hats</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170912.pdf">The Wooly Hats</a></td>
 </tr>
 
 <tr>
