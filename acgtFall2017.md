@@ -16,3 +16,6 @@ Note that talks are listed in reverse chronological order.
 **Dates:** 9/5/2017, 9/12/17
 
 **Abstract:** We will define discriminantal arrangements and explain the connection with higher Bruhat orders, consider some examples, and attempt to sort out the relationship between certain discriminantal arrangements and factorizations of certain elements of the symmetric group.
+
+In part 2, on 9/12, we will look carefully at the higher Bruhat order B(n,2), in order to understand the bijection between its elements and the commutation classes of factorizations of the n-cycle (1,2, … ,n) as a product of adjacent transpositions (i,i+1).
+
