@@ -54,10 +54,10 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>Sep 19</td>
-<td>Michael Falk</td>
-<td>NAU</td>
-<td>Weak orders - left and right - and configuration spaces</td>
+<td>Sep 20 (Wednesday)</td>
+<td>James Tanton</td>
+<td></td>
+<td>Exploding dots - from arithmetic to the infinite</td>
 </tr>
 
 <tr>
@@ -97,9 +97,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Oct 31</td>
+<td>Art Draut</td>
 <td></td>
-<td></td>
-<td></td>
+<td>The twin prime conjecture</td>
 </tr>
 
 <tr>
