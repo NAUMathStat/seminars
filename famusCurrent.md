@@ -6,6 +6,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+The talk this week is entitled "" and is given by me.  
+
+### Fermat Primes ###
+
+**Date:** September 15, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** II will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.   
+
+The faculty guest this week is Dr. Terry Crites, who is our current department chair.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-15.pdf)]
+
 ### What did I do this summer? ###
 
 **Date:** September 8, 2017
