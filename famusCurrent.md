@@ -6,7 +6,15 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-The talk this week is entitled "" and is given by me.  
+### Gauss' Circle Problem ###
+
+**Date:** September 22, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** This talk focuses on a famous puzzle first investigated by Gauss: counting the number of integer lattice points that lie inside a circle of radius "r" centered at the origin.  Much is known about this problem, but there are still some unanswered questions involving the preciseness of the formulas used for estimating the number of such points.    
+
+The faculty guest this week is [Dr. Dana Ernst](http://danaernst.com).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-22.pdf)]
 
 ### Fermat Primes ###
 
@@ -14,7 +22,7 @@ The talk this week is entitled "" and is given by me.
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** II will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.   
+**Abstract:** I will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.   
 
 The faculty guest this week is Dr. Terry Crites, who is our current department chair.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-15.pdf)]
 
