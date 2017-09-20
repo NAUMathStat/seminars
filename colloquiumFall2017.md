@@ -57,7 +57,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Sep 20 (Wednesday)</td>
 <td>James Tanton</td>
 <td></td>
-<td>Exploding dots - from arithmetic to the infinite</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170920.pdf">Exploding dots - from arithmetic to the infinite</a></td>
 </tr>
 
 <tr>
