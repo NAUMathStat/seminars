@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Impartial achievement and avoidance games for generating finite groups ###
+
+**Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
+
+**Date:** 9/26/17
+
+**Abstract:** In this talk, we will explore two impartial combinatorial games introduced by Anderson and Harary. Both games are played by two players who alternately select previously-unselected elements of a finite group. The first player who builds a generating set from the jointly-selected elements wins the first game (GEN) while the first player who cannot select an element without building a generating set loses the second game (DNG). After the development of some general theory, we will discuss the strategy and corresponding nim-numbers of both games for several families of groups. This is joint work with Bret Benesh and Nandor Sieben.
+
 ### Discriminantal arrangements and permutations ###
 
 **Speaker:** [Michael Falk](http://www.cefns.nau.edu/~falk/) (NAU)
@@ -17,6 +25,6 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** We will define discriminantal arrangements and explain the connection with higher Bruhat orders, consider some examples, and attempt to sort out the relationship between certain discriminantal arrangements and factorizations of certain elements of the symmetric group.
 
-In part 2, on 9/12, we will look carefully at the higher Bruhat order B(n,2), in order to understand the bijection between its elements and the commutation classes of factorizations of the n-cycle (1,2, … ,n) as a product of adjacent transpositions (i,i+1).
+In part 2, on 9/12, we will look carefully at the higher Bruhat order $B(n,2)$, in order to understand the bijection between its elements and the commutation classes of factorizations of the $n$-cycle $(1,2,\ldots,n)$ as a product of adjacent transpositions $(i,i+1)$.
 
-In part 3, we will describe the higher Bruhat order and (in principle) explain the bijection between its elements and the commutation classes of factorizations of the longest element of the symmetric group (not an n-cycle) as a product of adjacent transpositions (i,i+1).
+In part 3, we will describe the higher Bruhat order and (in principle) explain the bijection between its elements and the commutation classes of factorizations of the longest element of the symmetric group (not an $n$-cycle) as a product of adjacent transpositions $(i,i+1)$.
