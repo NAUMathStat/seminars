@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Famous Mathematical Blunders ###
+
+**Date:** September 29, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** This talk will present some moments in mathematical history where some well-known mathematicians made some semi-embarrassing mistakes while trying to solve some well-known problems.  It's a bit of history, a bit of comedy, and is intended to be both fun and enlightening.
+
+The faculty guest is Sal Vera.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-29.pdf)]
+
 ### Gauss' Circle Problem ###
 
 **Date:** September 22, 2017
