@@ -13,7 +13,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
 
-**Date:** 9/26/17
+**Date:** 9/26/17, 10/3/17
 
 **Abstract:** In this talk, we will explore two impartial combinatorial games introduced by Anderson and Harary. Both games are played by two players who alternately select previously-unselected elements of a finite group. The first player who builds a generating set from the jointly-selected elements wins the first game (GEN) while the first player who cannot select an element without building a generating set loses the second game (DNG). After the development of some general theory, we will discuss the strategy and corresponding nim-numbers of both games for several families of groups. This is joint work with Bret Benesh and Nandor Sieben.
 
