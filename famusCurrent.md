@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Topological Quantum Computation: On Classification of Low-Dimensional Irreducible Representations of B5 ###
+
+**Date:** October 6, 2017
+
+**Speaker:** Etude Oneel-Judy (NAU undergrad)
+
+**Abstract:** The design for a topological quantum computer is based on anyon braiding. It uses topology to protect quantum information against decoherence. We may model the space-time trajectory of a system of $n$ anyons with the $n$-strand braid group $B_n$. Storing and manipulating information in the representation spaces of $B_n$ is the foundation of Topological Quantum Computation. I developed an algorithm that allowed the classification of the unitarizable representations with dimension 5 or less for the braid group $B_5$.
+
+The faculty guest is Ellie Kennedy.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-10-06.pdf)]
+
 ### Famous Mathematical Blunders ###
 
 **Date:** September 29, 2017
