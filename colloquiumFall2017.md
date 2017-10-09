@@ -71,14 +71,14 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Oct 3</td>
 <td>Angie Hodge</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171003.pdf">Recruiting mathematics majors, minors, and keepers of the discipline: Lessons learned</a></td>
 </tr>
 
 <tr>
 <td>Oct 10</td>
 <td>William Jaco</td>
 <td>Oklahoma State University</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171010.pdf">Fundamental Problem of Topology: The Homeomorphism Problem</a></td>
 </tr>
 
 <tr>
