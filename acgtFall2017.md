@@ -9,6 +9,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### New Pathways and Pedagogies in Mathematics (Special Department Seminar)
+
+**Speaker:** [William Jaco] (Oklahoma State University)
+
+**Date:** 10/10/17
+
+**Abstract:** There is a growing national program led by the Dana Center (DC) at U. of Texas and Complete College America (CCA) encouraging change in options and pedagogy in college entry-level mathematics. I will discuss the two central ideas of Math Pathways and Co-requisite Instruction central to the DC and CCA programs. In particular, I will discuss what I have been involved in for the state of Oklahoma and what I believe has been a fundamental role played by inquiry learning and what I envision as becoming an even greater role for inquiry learning for widespread fundamental systemic change.
+
 ### Impartial achievement and avoidance games for generating finite groups ###
 
 **Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
