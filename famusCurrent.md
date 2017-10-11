@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Cannonball Problem ###
+
+**Date:** October 13, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The Cannonball Problem is the search for the magic number of cannonballs that can be both stacked into a perfectly-shaped square pyramid AND be laid out on the ground as a perfect square.  The problem goes back centuries, and the full tale includes talk of the Ancient Greeks, snowflakes and pirates.
+
+The faculty guest is [Nandor Sieben](http://jan.ucc.nau.edu/ns46/).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-10-13.pdf)]
+
 ### Topological Quantum Computation: On Classification of Low-Dimensional Irreducible Representations of B5 ###
 
 **Date:** October 6, 2017
