@@ -6,7 +6,35 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-The talk this week is entitled "" and is given by me.  
+### Topological Quantum Computation: On Classification of Low-Dimensional Irreducible Representations of B5 ###
+
+**Date:** October 6, 2017
+
+**Speaker:** Etude Oneel-Judy (NAU undergrad)
+
+**Abstract:** The design for a topological quantum computer is based on anyon braiding. It uses topology to protect quantum information against decoherence. We may model the space-time trajectory of a system of $n$ anyons with the $n$-strand braid group $B_n$. Storing and manipulating information in the representation spaces of $B_n$ is the foundation of Topological Quantum Computation. I developed an algorithm that allowed the classification of the unitarizable representations with dimension 5 or less for the braid group $B_5$.
+
+The faculty guest is Ellie Kennedy.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-10-06.pdf)]
+
+### Famous Mathematical Blunders ###
+
+**Date:** September 29, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** This talk will present some moments in mathematical history where some well-known mathematicians made some semi-embarrassing mistakes while trying to solve some well-known problems.  It's a bit of history, a bit of comedy, and is intended to be both fun and enlightening.
+
+The faculty guest is Sal Vera.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-29.pdf)]
+
+### Gauss' Circle Problem ###
+
+**Date:** September 22, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** This talk focuses on a famous puzzle first investigated by Gauss: counting the number of integer lattice points that lie inside a circle of radius "r" centered at the origin.  Much is known about this problem, but there are still some unanswered questions involving the preciseness of the formulas used for estimating the number of such points.    
+
+The faculty guest this week is [Dr. Dana Ernst](http://danaernst.com).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-22.pdf)]
 
 ### Fermat Primes ###
 
@@ -14,7 +42,7 @@ The talk this week is entitled "" and is given by me.
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** II will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.   
+**Abstract:** I will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.   
 
 The faculty guest this week is Dr. Terry Crites, who is our current department chair.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-15.pdf)]
 

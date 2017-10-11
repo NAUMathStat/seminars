@@ -50,35 +50,35 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Sep 12</td>
 <td>Steve Wilson</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170912.pdf">The Wooly Hats</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170912.pdf">The wooly hats</a></td>
 </tr>
 
 <tr>
 <td>Sep 20 (Wednesday)</td>
 <td>James Tanton</td>
 <td></td>
-<td>Exploding dots - from arithmetic to the infinite</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170920.pdf">Exploding dots - from arithmetic to the infinite</a></td>
 </tr>
 
 <tr>
 <td>Sep 26</td>
 <td>Katie Louchart</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170926.pdf">A placement-focused semester</a></td>
 </tr>
 
 <tr>
 <td>Oct 3</td>
 <td>Angie Hodge</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171003.pdf">Recruiting mathematics majors, minors, and keepers of the discipline: Lessons learned</a></td>
 </tr>
 
 <tr>
 <td>Oct 10</td>
 <td>William Jaco</td>
 <td>Oklahoma State University</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171010.pdf">Fundamental Problem of Topology: The Homeomorphism Problem</a></td>
 </tr>
 
 <tr>
