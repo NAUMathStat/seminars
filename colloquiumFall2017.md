@@ -83,9 +83,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Oct 17</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Michael Falk</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171017.pdf">Weak orders - left and right - and configuration spaces</a></td>
 </tr>
 
 <tr>
