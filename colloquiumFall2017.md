@@ -99,7 +99,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Oct 31</td>
 <td>Art Draut</td>
 <td></td>
-<td>The twin prime conjecture</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171031.pdf">The twin prime conjecture</a></td>
 </tr>
 
 <tr>
