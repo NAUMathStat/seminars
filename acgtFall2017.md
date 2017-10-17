@@ -11,15 +11,15 @@ Note that talks are listed in reverse chronological order.
 
 ### Constructions for Self-dual codes: From Fields to Rings to Group Rings
 
-**Speaker:** [Bahattin Yildiz] (Northern Arizona University)
+**Speaker:** Bahattin Yildiz (NAU)
 
 **Date:** 10/17/17
 
-**Abstract:** After giving a general background on Codes and some of the problems in Coding Theory, I will proceed to discuss a special class of codes named "self-dual codes". I will give a chronology of different constructions for self-dual codes that have been used in the literature and will explain the recent constructions that I have been involved with. These constructions are quite algebraic in nature as they use some families of rings and most recently group rings. They have led to many new codes and in particular the group ring construction has generalized all the known construction methods. 
+**Abstract:** After giving a general background on Codes and some of the problems in Coding Theory, I will proceed to discuss a special class of codes named "self-dual codes". I will give a chronology of different constructions for self-dual codes that have been used in the literature and will explain the recent constructions that I have been involved with. These constructions are quite algebraic in nature as they use some families of rings and most recently group rings. They have led to many new codes and in particular the group ring construction has generalized all the known construction methods.
 
 ### New Pathways and Pedagogies in Mathematics (Special Department Seminar)
 
-**Speaker:** [William Jaco] (Oklahoma State University)
+**Speaker:** William Jaco (Oklahoma State University)
 
 **Date:** 10/10/17
 
@@ -29,7 +29,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
 
-**Date:** 9/26/17, 10/3/17
+**Dates:** 9/26/17, 10/3/17
 
 **Abstract:** In this talk, we will explore two impartial combinatorial games introduced by Anderson and Harary. Both games are played by two players who alternately select previously-unselected elements of a finite group. The first player who builds a generating set from the jointly-selected elements wins the first game (GEN) while the first player who cannot select an element without building a generating set loses the second game (DNG). After the development of some general theory, we will discuss the strategy and corresponding nim-numbers of both games for several families of groups. This is joint work with Bret Benesh and Nandor Sieben.
 
