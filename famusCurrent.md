@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The ubiquitous Catalan numbers ###
+
+**Date:** October 20, 2017
+
+**Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
+
+**Abstract:** In this talk, we will discuss my favorite sequence of numbers: the Catalan numbers.  The Catalan numbers are a sequence of natural numbers that crop up with surprising frequency in counting problems. The first few numbers in the sequence are 1, 1, 2, 5, 14, 42, 132.  After a brief history of the sequence, we will take a tour of several collections of objects, each of which is counted by the Catalan numbers. Our exploration will provide an introduction to a field of mathematics called enumerative combinatorics.
+
+The faculty guest is Angie Hodge, our new professor of mathematics education.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-10-20.pdf)]
+
 ### The Cannonball Problem ###
 
 **Date:** October 13, 2017
