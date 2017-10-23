@@ -13,7 +13,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Bahattin Yildiz (NAU)
 
-**Date:** 10/17/17
+**Date:** 10/17/17, 10/24/17
 
 **Abstract:** After giving a general background on Codes and some of the problems in Coding Theory, I will proceed to discuss a special class of codes named "self-dual codes". I will give a chronology of different constructions for self-dual codes that have been used in the literature and will explain the recent constructions that I have been involved with. These constructions are quite algebraic in nature as they use some families of rings and most recently group rings. They have led to many new codes and in particular the group ring construction has generalized all the known construction methods.
 
