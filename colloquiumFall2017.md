@@ -90,9 +90,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Oct 24</td>
-<td>Bahattin Yildiz</td>
+<td>John Hagood</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171024.pdf">Selective sum of a convergent series</a></td>
 </tr>
 
 <tr>
