@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The ubiquitous Catalan numbers, part 2 ###
+
+**Date:** October 27, 2017
+
+**Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
+
+**Abstract:**  In last week's episode, we introduced the Catalan numbers and explored a few collections of objects that were counted by the Catalan numbers.  In this episode, we will start by reviewing what we covered last week and then play with a few more collections of objects, each of which is counted by the Catalan numbers.  Attendance at last week's talk not required.  
+
+The faculty guest is Bahattin Yildiz, our new professor of mathematics.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-10-27.pdf)]
+
 ### The ubiquitous Catalan numbers ###
 
 **Date:** October 20, 2017
