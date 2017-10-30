@@ -106,7 +106,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Nov 7</td>
 <td>John M. Neuberger</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171107.pdf">Derivatives, Difference Matrices, and Differential Equations (Calculus), Part  II</a></td>
 </tr>
 
 <tr>
