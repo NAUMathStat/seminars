@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Julia Sets (a.k.a. Complex Numbers in Motion) (a.k.a. Repeating Yourself Isn't Always a Bad Thing)  ###
+
+**Date:** November 3, 2017
+
+**Speaker:** Matt Fahy (NAU)
+
+**Abstract:**  Complex numbers move around in interesting ways when subject to (even pretty simple) operations.  I will use a series of visualizations to investigate the motion of sets of complex numbers under certain functions and show how such investigation can result in famously strange geometric objects.
+
+The faculty guest this week is, not surprisingly, Matt Fahy.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-11-03.pdf)]
+
 ### The ubiquitous Catalan numbers, part 2 ###
 
 **Date:** October 27, 2017

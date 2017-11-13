@@ -9,11 +9,19 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Permutation distributions from random walks
+
+**Speaker:** Hugh Denoncourt (NAU)
+
+**Dates:** 11/7/17
+
+**Abstract:** A random walk on the real number line naturally gives rise to a permutation. With what probability does a given permutation arise? Which permutations arise most frequently in walks? In the talk, we'll describe combinatorial approaches to these and related questions as well as recent applications of permutation entropy to time series analysis.
+
 ### Constructions for Self-dual codes: From Fields to Rings to Group Rings
 
 **Speaker:** Bahattin Yildiz (NAU)
 
-**Dates:** 10/17/17, 10/24/17
+**Dates:** 10/17/17, 10/24/17, 10/31/17
 
 **Abstract:** After giving a general background on Codes and some of the problems in Coding Theory, I will proceed to discuss a special class of codes named "self-dual codes". I will give a chronology of different constructions for self-dual codes that have been used in the literature and will explain the recent constructions that I have been involved with. These constructions are quite algebraic in nature as they use some families of rings and most recently group rings. They have led to many new codes and in particular the group ring construction has generalized all the known construction methods.
 
