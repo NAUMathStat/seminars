@@ -111,7 +111,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Nov 14</td>
-<td>Amy Rushall</td>
+<td>Bahattin Yildiz</td>
 <td>NAU</td>
 <td>TBA</td>
 </tr>
@@ -125,8 +125,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Nov 28</td>
-<td></td>
-<td></td>
+<td>Amy Rushall</td>
+<td>NAU</td>
 <td></td>
 </tr>
 
