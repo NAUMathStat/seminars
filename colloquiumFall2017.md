@@ -113,14 +113,14 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Nov 14</td>
 <td>Bahattin Yildiz</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171114.pdf">The homogeneous weight and the related gray map for codes over $R_k$</a></td>
 </tr>
 
 <tr>
 <td>Nov 21</td>
 <td>Dana Ernst</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171121.pdf">An introduction to the combinatorics of genome rearrangements</a></td>
 </tr>
 
 <tr>
