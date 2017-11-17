@@ -6,6 +6,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+###  Should you consider graduate school in Math/Stat/Math Ed?  ###
+
+**Date:** November 17, 2017
+
+**Speaker:** Terry Blows (NAU) and a few current/former NAU grad students in Math/Stat/Math Ed  
+
+**Abstract:**  The talk will focus on this question: Why should YOU consider grad school in math, statistics or math education? After the talk, PIZZA WILL BE SERVED.  There is no faculty guest this week. Instead, PIZZA WILL BE SERVED.  All are welcome to attend!   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-11-17.pdf)]
+
 ### Julia Sets (a.k.a. Complex Numbers in Motion) (a.k.a. Repeating Yourself Isn't Always a Bad Thing)  ###
 
 **Date:** November 3, 2017
