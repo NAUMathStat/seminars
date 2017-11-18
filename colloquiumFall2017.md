@@ -132,9 +132,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>Dec 5</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Christopher Briggs</td>
+<td>Embry-Riddle Aeronautical University</td>
+<td>TBA</td>
 </tr>
 
 </tbody>
