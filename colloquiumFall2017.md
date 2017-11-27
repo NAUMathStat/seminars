@@ -127,14 +127,15 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Nov 28</td>
 <td>Amy Rushall</td>
 <td>NAU</td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171128.pdf">The role of the LMC at NAU, the day-to-day work and the people
+contributing to its success</a></td>
 </tr>
 
 <tr>
 <td>Dec 5</td>
 <td>Christopher Briggs</td>
 <td>Embry-Riddle Aeronautical University</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171205.pdf">Uniform Exponential Growth in Algebras</a></td>
 </tr>
 
 </tbody>
