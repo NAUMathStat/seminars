@@ -6,6 +6,20 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+###  Cantor, Sierpinski, and Menger Madness  ###
+
+**Date:** December 1, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  This week's topic is intriguing and based on the following questions:
+
+  1. Is it possible to remove all points from the interval [0, 1] and have anything left?  
+  2. Is it possible to remove all points from the unit square and have anything left?  
+  3. Is it possible to remove all points from the unit cube and have anything left?   
+
+The answer to all three questions is YES.  And for the record, what is left is very, very bizarre.  And for the record, what is left is going to be discussed and investigated by the NAU Math Club next spring!  (They are going to build a partially-constructed Menger sponge.) After the talk, there will be no faculty guest interview.  Instead, we will watch 2 short and informative videos about one of the aforementioned bizarre objects.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-12-01.pdf)]
+
 ###  Should you consider graduate school in Math/Stat/Math Ed?  ###
 
 **Date:** November 17, 2017

@@ -9,11 +9,19 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### More combinatorics of genome rearrangements
+
+**Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
+
+**Dates:** 11/28/17
+
+**Abstract:** This talk is a follow-up to [last week's colloquium talk](http://naumathstat.github.io/seminars/colloquium_files/ColloquiumFlyer_171121.pdf), which was an introduction to the combinatorics of genome rearrangements.
+
 ### Permutation distributions from random walks
 
 **Speaker:** Hugh Denoncourt (NAU)
 
-**Dates:** 11/7/17
+**Dates:** 11/7/17, 11/14/17, 11/21/17
 
 **Abstract:** A random walk on the real number line naturally gives rise to a permutation. With what probability does a given permutation arise? Which permutations arise most frequently in walks? In the talk, we'll describe combinatorial approaches to these and related questions as well as recent applications of permutation entropy to time series analysis.
 
