@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+###  Tragic deaths of several famous mathematicians  ###
+
+**Date:** December 8, 2017
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The title tells most of the story.  This talk will present the stories of some fairly well-known mathematicians who met their demise in tragic, or bloody, or quasi-twisted ways.  There seems no better way to end the semester and prep for finals than with a talk like this.  
+
+The faculty guest this week is Katie Louchart. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-12-08.pdf)]
+
 ###  Cantor, Sierpinski, and Menger Madness  ###
 
 **Date:** December 1, 2017
