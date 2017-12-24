@@ -3,4 +3,4 @@ layout: page
 title: ACGT Seminar
 ---
 
-{% include_relative famusCurrent.md %}
+{% include_relative acgtCurrent.md %}
