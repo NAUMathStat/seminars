@@ -1,22 +1,22 @@
- The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly event consisting of announcements, talks, and faculty interviews.  FAMUS takes place most Fridays at 3:00-4:00pm in Room 164 of the Adel Mathematics Building.  Typically the first half of FAMUS consists of a talk on a mathematical topic while an interview of a faculty member takes place in the second half. FAMUS is hosted by [Jeff Rushall](https://nau.edu/cefns/natsci/math/directory-full-time/rushall-jeff/).  
+ The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly event consisting of announcements, talks, and faculty interviews.  FAMUS takes place most Fridays at 3:00-4:00pm in Room 164 of the Adel Mathematics Building.  Typically the first half of FAMUS consists of a talk on a mathematical topic while an interview of a faculty member takes place in the second half. FAMUS is hosted by [Jeff Rushall](https://nau.edu/cefns/natsci/math/directory-full-time/rushall-jeff/).
 
 Come join us for some entertaining talks!  Refreshments always served.
 
-# Schedule Fall 2017 #
+# Schedule Spring 2018 #
 
 Note that talks are listed in reverse chronological order.
 
-###  Tragic deaths of several famous mathematicians  ###
+###  The Sleeping Beauty Problem  ###
 
-**Date:** December 8, 2017
+**Date:** January 19, 2018
 
-**Speaker:** Jeff Rushall (NAU)
+**Panelists:** Dana Ernst, Angie Hodge, Roy St. Laurent and Steve Wilson (all NAU)
 
-**Abstract:** The title tells most of the story.  This talk will present the stories of some fairly well-known mathematicians who met their demise in tragic, or bloody, or quasi-twisted ways.  There seems no better way to end the semester and prep for finals than with a talk like this.  
+**Moderator:** Jeff Rushall (NAU)
 
-The faculty guest this week is Katie Louchart. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-12-08.pdf)]
+**Abstract:** "The Sleeping Beauty Problem" is the latest controversy to attract my attention.  It addresses a very simple question: is the probability that a fair coin flip ends up heads REALLY 1/2?  It turns out that this is not necessarily always the case.  I'll spend about 15 minutes explaining the problem/controversy/paradox, and then I will moderate a debate that features, at a minimum, faculty members Dana Ernst, Angie Hodge, Roy St. Laurent and Steve Wilson.  Other faculty may appear, and several faculty who cannot attend have offered their opinions, which I will share during my presentation.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-01-19.pdf)]
 
-###  Cantor, Sierpinski, and Menger Madness  ###
+<!-- ###  Cantor, Sierpinski, and Menger Madness  ###
 
 **Date:** December 1, 2017
 
@@ -24,9 +24,9 @@ The faculty guest this week is Katie Louchart. [[PDF of Flyer]({{ site.baseurl }
 
 **Abstract:**  This week's topic is intriguing and based on the following questions:
 
-  1. Is it possible to remove all points from the interval [0, 1] and have anything left?  
-  2. Is it possible to remove all points from the unit square and have anything left?  
-  3. Is it possible to remove all points from the unit cube and have anything left?   
+  1. Is it possible to remove all points from the interval [0, 1] and have anything left?
+  2. Is it possible to remove all points from the unit square and have anything left?
+  3. Is it possible to remove all points from the unit cube and have anything left?
 
 The answer to all three questions is YES.  And for the record, what is left is very, very bizarre.  And for the record, what is left is going to be discussed and investigated by the NAU Math Club next spring!  (They are going to build a partially-constructed Menger sponge.) After the talk, there will be no faculty guest interview.  Instead, we will watch 2 short and informative videos about one of the aforementioned bizarre objects.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-12-01.pdf)]
 
@@ -34,7 +34,7 @@ The answer to all three questions is YES.  And for the record, what is left is v
 
 **Date:** November 17, 2017
 
-**Speaker:** Terry Blows (NAU) and a few current/former NAU grad students in Math/Stat/Math Ed  
+**Speaker:** Terry Blows (NAU) and a few current/former NAU grad students in Math/Stat/Math Ed
 
 **Abstract:**  The talk will focus on this question: Why should YOU consider grad school in math, statistics or math education? After the talk, PIZZA WILL BE SERVED.  There is no faculty guest this week. Instead, PIZZA WILL BE SERVED.  All are welcome to attend!   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-11-17.pdf)]
 
@@ -54,7 +54,7 @@ The faculty guest this week is, not surprisingly, Matt Fahy.  [[PDF of Flyer]({{
 
 **Speaker:** [Dana C. Ernst](http://danaernst.com) (NAU)
 
-**Abstract:**  In last week's episode, we introduced the Catalan numbers and explored a few collections of objects that were counted by the Catalan numbers.  In this episode, we will start by reviewing what we covered last week and then play with a few more collections of objects, each of which is counted by the Catalan numbers.  Attendance at last week's talk not required.  
+**Abstract:**  In last week's episode, we introduced the Catalan numbers and explored a few collections of objects that were counted by the Catalan numbers.  In this episode, we will start by reviewing what we covered last week and then play with a few more collections of objects, each of which is counted by the Catalan numbers.  Attendance at last week's talk not required.
 
 The faculty guest is Bahattin Yildiz, our new professor of mathematics.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-10-27.pdf)]
 
@@ -104,7 +104,7 @@ The faculty guest is Sal Vera.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/F
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** This talk focuses on a famous puzzle first investigated by Gauss: counting the number of integer lattice points that lie inside a circle of radius "r" centered at the origin.  Much is known about this problem, but there are still some unanswered questions involving the preciseness of the formulas used for estimating the number of such points.    
+**Abstract:** This talk focuses on a famous puzzle first investigated by Gauss: counting the number of integer lattice points that lie inside a circle of radius "r" centered at the origin.  Much is known about this problem, but there are still some unanswered questions involving the preciseness of the formulas used for estimating the number of such points.
 
 The faculty guest this week is [Dr. Dana Ernst](http://danaernst.com).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-22.pdf)]
 
@@ -114,7 +114,7 @@ The faculty guest this week is [Dr. Dana Ernst](http://danaernst.com).  [[PDF of
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** I will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.   
+**Abstract:** I will talk explain a curious piece of mathematical history - namely, the discovery of a special set of prime numbers that are now known as Fermat primes - and what their discoverer, Pierre de Fermat, got right and what he got wrong.  I will also explain why Fermat primes are still interesting today.
 
 The faculty guest this week is Dr. Terry Crites, who is our current department chair.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-15.pdf)]
 
@@ -124,134 +124,6 @@ The faculty guest this week is Dr. Terry Crites, who is our current department c
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** I will talk about the math I did, the traveling I did (to some semi-exotic places), and show you some really neat pictures (involving both math and traveling).  
+**Abstract:** I will talk about the math I did, the traveling I did (to some semi-exotic places), and show you some really neat pictures (involving both math and traveling).
 
-The faculty guest this week is Amy Rushall, who (among many other very important things) happens to be the new Academic Director of the Lumberjack Math Center.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-08.pdf)]
-
-<!-- ### How are AP calculus exams graded? [and where? and when? and by whom?] ###
-
-**Date:** April 21, 2017
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:** I will explain the who/what/when/etc. of grading AP calculus exams, something I have done for 11 straight years.  I will include how partial credit is awarded, which at times if very surprising.  I will also list some perks associated with being an AP grader.  
-
-The faculty guest this week is Tiffany Lenhart.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-04-21.pdf)]
-
-### OEIS ###
-
-**Date:** April 14, 2017
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:** OEIS stands for "Online Encyclopedia of Integer Sequences."  It is a very interesting website that allows one to access and investigate all sorts of neat number patterns.  It also has a reputation as a distracting, time-sucking, get-lost-down-the-rabbit-hole kind of website.  It is all of those things and more.  
-
-The faculty guests two graduate students, Allie Steinken and Zachary Parker, who will discuss their lives as graduate students and answer any questions people might have about the joys and sorrows of graduate school. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-04-14.pdf)]
-
-### Undergraduate Research in Mathematics at NAU ###
-
-**Date:** April 7, 2017
-
-**Speakers:** Faculty who want to mentor undergraduate research
-
-**Abstract:** The structure of this particular FAMUS is nonstandard: we will see 7-10 short (circa 5 minutes) math "infomercials," one each from the following faculty (or surrogates):
-
-- Nandor Sieben
-- Shannon Guerrero
-- Roy St. Laurent
-- John Neuberger
-- Jim Swift
-- Dana Ernst  
-- Jeff Rushall
-- and possibly more
-
-The theme of these short presentations is simple: they will each be a version of "I want to do undergrad research next year, here are the problems I want to investigate, and here are the qualifications I seek in prospective students." [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-04-07.pdf)]
-
-### Quadratic and Cubic Residue Matrices ###
-
-**Date:** March 24, 2017
-
-**Speaker:** Pauline Gonzalez (undergraduate at NAU)
-
-**Abstract:** The talk, Pauline will be reporting on an undergraduate research project she has been working on with fellow undergraduate Ryan Wood.  The project has involved building matrices using something like the Legendre symbol from MAT 318.    
-
-After the talk, instead of a faculty interview, we will continue enjoying our refreshments--namely, some hors d'oeuvres--namely, cheese and crackers--and talk about the upcoming [SUnMaRC](https://naumathstat.github.io/sunmarc2017/) undergraduate mathematics conference, which happens here at NAU the weekend of March 31-April 2. There will be no faculty member interview this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-03-24.pdf)]
-
-### Undergrad Research in Hadamard Matrices ###
-
-**Date:** March 3, 2017
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:** In this presentation I will do four things:
-
-  1. Define a Hadamard matrix (they are special matrices featuring ONLY 1 or -1 for entries) and explain why are they interesting and important.  
-  2. Talk about generalizations of Hadamard matrices (nothing to be scared about).  
-  3. Discuss some undergrad research students who have worked with me in the past on some unsolved questions about Hadamard matrices, as well as where those students are now.
-  4. Finally, I will show some new unsolved problems that I would like to work on with undergrads next year.  
-
-So this FAMUS is like an infomercial.  Who is interested in doing undergrad research next year?  Students who are interested in doing undergrad research should come to FAMUS.  And those who aren't should come to FAMUS anyway. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-03-03.pdf)]
-
-The faculty guest-to-be-interviewed is Ben Lantz.
-
-### What Exactly ARE Space and Time? ###
-
-**Date:** February 24, 2017
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:** Last week at FAMUS we saw a presentation on non-Euclidean space-time modeling, and aside from all the neat and weird geometry and complex numbers and so forth, it occurred to me that the very basics associated with all that - the measurement of space and time - are things that by themselves are tricky to define.  So this FAMUS will try to explain how we measure things.  Minimal math, lots of history, good stories: it's a great way to end the week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-24.pdf)]
-
-The faculty guest-to-be-interviewed is Sal Vera.
-
-### Non-Euclidean Geometry: Spacetime Modeling and the Central Problem of Modern Physics ###
-
-**Date:** February 17, 2017
-
-**Speaker:** Etude Oneel-Judy (undergraduate at NAU)
-
-**Abstract:** Etude will be explaining the role that non-Euclidean geometry plays in helping to understand 21st century physics, most notably some of the work of Einstein.  The talk assumes no prior knowledge of non-Euclidean geometry or modeling or even of physics.  Etude has also promised to provide some 3D printing prizes to those lucky enough to attend! [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-17.pdf)]
-
-### A Report on NCUWM - the Nebraska Conference for Undergraduate Women in Mathematics ###
-
-**Date:** February 10, 2017
-
-**Speaker:** Amy Rushall (NAU)
-
-**Abstract:** This talk will be given by the faculty representative who attended the conference, along with lots of input from the 4 students who also attended the conference.  What the conference is, why it is, who the 4 students were who attended the conference, and the impact it has on those who attend will be among the discussion topics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-10.pdf)]
-
-The faculty guest-to-be-interviewed is also Amy Rushall.
-
-### The Urinal Problem ###
-
-**Date:** February 3, 2017
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:**  Some social scientists and mathematicians have investigated various kinds of privacy questions, such as:
-
-- Where should I choose to sit in a movie theater to maximize the chance of not having someone sit in front of me?
-- Where should I choose to sit in on an open-seat flight to maximize the chance of not having someone sit next to me?
-- Where should I choose to sit at a multi-table banquet to minimize the chance of having strangers sit on both sides of me?
-
-Well, as the talk title suggests, these privacy concerns have also been researched in the context of urinal privacy.  Come to FAMUS to learn a bit about the history of this problem, the various ways it can be attacked, and to see LOTS of pictures and cartoons involving urinals.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-02-03.pdf)]
-
-The faculty guest-to-be-interviewed is Amy Rangel (NAU).
-
-### Two Talks Summarizing Undergraduate Research Projects ###
-
-**Date:** January 27, 2017
-
-**Talk 1:** Tree of Primitive Pythagorean Quadruples
-
-**Speakers:** Marcela Gutierrez and Courtney Schmitt (undergraduates at NAU)
-
-**Abstract:** A primitive Pythagorean triple is a 3-tuple of natural numbers sharing no nontrivial common factors that satisfies the Pythagorean Theorem.  Hall (1970) and Price (2008) found distinct perfect infinite ternary trees whose vertex sets are precisely all primitive Pythagorean triples. This talk will present progress towards the construction of an infinite tree whose vertex set consist of all primitive Pythagorean quadruples, i.e., 4-tuples $(a, b, c, d)$ of natural numbers sharing no nontrivial common factors that satisfy $a^2 + b^2 + c^2 = d^2$.
-
-**Talk 2:** A Game of Chance Inspired by Othello
-
-**Speaker:** Alexandria Medeck (undergraduate at NAU)
-
-**Abstract:** Inspired by the board game Othello, consider a one-player game of chance on a 4-by-8 board where the new twist on the game includes choosing your color disk, white or black, and the objective is to get four disks of the chosen color in a line. The more lines you complete, the more "money" you win. Consider a mathematical generalization, representing the game board by an r by c matrix, r< c. Each entry in the matrix is an independent Bernoulli random variable (i.e., either 1 or 0 with probability $p$ and $1−p$, respectively). The result is a random matrix. Associated with each possible matrix outcome is a score based on the number of completed vertical and diagonal lines of r ones in the matrix. My research is focused on determining the probability distribution of the score as a function of $r$ and $c$. I will present results concerning the probability structure of the game.
-
-The faculty guest this week is Ellie Kennedy (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-01-27.pdf)] -->
+The faculty guest this week is Amy Rushall, who (among many other very important things) happens to be the new Academic Director of the Lumberjack Math Center.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS17-09-08.pdf)] -->
