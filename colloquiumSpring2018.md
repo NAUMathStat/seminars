@@ -32,109 +32,115 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>Aug 29</td>
-<td></td>
-<td></td>
-<td>Organizational Meeting</td>
+<td>January 16</td>
+<td>Marco Lopez</td>
+<td>University of North Texas</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180116.pdf">Hausdorff dimension of shrinking-target sets: Fractal geometry and dynamical systems.</a></td>
 </tr>
 
 <tr>
-<td>Sep 5</td>
-<td>Jim Swift</td>
+<td>January 23</td>
+<td>Sudipta Mallik</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170905.pdf">Synchrony and Anti-Synchrony in Difference-Coupled Cell Networks</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170123.pdf">The Matrix tree Theorem and beyond</a></td>
 </tr>
 
 <tr>
-<td>Sep 12</td>
-<td>Steve Wilson</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170912.pdf">The wooly hats</a></td>
-</tr>
-
-<tr>
-<td>Sep 20 (Wednesday)</td>
-<td>James Tanton</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170920.pdf">Exploding dots - from arithmetic to the infinite</a></td>
-</tr>
-
-<tr>
-<td>Sep 26</td>
-<td>Katie Louchart</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170926.pdf">A placement-focused semester</a></td>
-</tr>
-
-<tr>
-<td>Oct 3</td>
-<td>Angie Hodge</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171003.pdf">Recruiting mathematics majors, minors, and keepers of the discipline: Lessons learned</a></td>
-</tr>
-
-<tr>
-<td>Oct 10</td>
-<td>William Jaco</td>
-<td>Oklahoma State University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171010.pdf">Fundamental Problem of Topology: The Homeomorphism Problem</a></td>
-</tr>
-
-<tr>
-<td>Oct 17</td>
+<td>January 30</td>
 <td>Michael Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171017.pdf">Weak orders - left and right - and configuration spaces</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180130.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>Oct 24</td>
-<td>John Hagood</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171024.pdf">Selective sum of a convergent series</a></td>
-</tr>
-
-<tr>
-<td>Oct 31</td>
-<td>Art Draut</td>
+<td>February 6</td>
+<td>Nandor Sieben</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171031.pdf">The twin prime conjecture</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180206.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>Nov 7</td>
-<td>John M. Neuberger</td>
+<td>February 13</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>February 20</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>February 27</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>March 6</td>
+<td>Charles Katerba</td>
+<td>University of Montana</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180306.pdf">TBA</a></td>
+</tr>
+
+<tr>
+<td>March 13</td>
+<td>Noah Aydin</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171107.pdf">Derivatives, Difference Matrices, and Differential Equations (Calculus), Part  II</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180313.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>Nov 14</td>
-<td>Bahattin Yildiz</td>
+<td>March 20</td>
+<td>Spring Break</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>March 27</td>
+<td>TBD</td>
+<td></td>
+
+</tr>
+
+<tr>
+<td>April 3</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>April 10</td>
+<td>TBD</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>April 17</td>
+<td>TBD</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171114.pdf">The homogeneous weight and the related gray map for codes over $R_k$</a></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nov 21</td>
-<td>Dana Ernst</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171121.pdf">An introduction to the combinatorics of genome rearrangements</a></td>
+<td>April 24</td>
+<td>TBD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>Nov 28</td>
-<td>Amy Rushall</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171128.pdf">The role of the LMC at NAU, the day-to-day work and the people
-contributing to its success</a></td>
-</tr>
-
-<tr>
-<td>Dec 5</td>
-<td>Christopher Briggs</td>
-<td>Embry-Riddle Aeronautical University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_171205.pdf">Uniform Exponential Growth in Algebras</a></td>
+<td>May 1</td>
+<td>TBD</td>
+<td></td>
+<td></td>
 </tr>
 
 </tbody>
