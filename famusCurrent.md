@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Monty Hall Problem Redux  ###
+
+**Date:** January 26, 2018
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  The Monty Hall Problem is a simple probability problem - somewhat similar to the Sleeping Beauty Problem - and every bit as controversial.  The controversy surrounds a Parade Magazine column on this problem written by the infamous Marilyn Vos Savant in the 1990s.  In this column, she offered a solution that was rejected by many mathematicians (but she was actually correct!).  Anyways, I'll explain the problem, show the correct solution, explain why many math geeks were mistaken, and discuss some generalizations.  
+
+The faculty guest this week is Ian Williams.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-01-26.pdf)]
+
 ###  The Sleeping Beauty Problem  ###
 
 **Date:** January 19, 2018
