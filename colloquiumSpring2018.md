@@ -54,8 +54,15 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>February 6</td>
+<td>Matthew Reyna</td>
+<td>Princeton University</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>February 13</td>
 <td>Nandor Sieben</td>
-<td></td>
+<td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180206.pdf">TBA</a></td>
 </tr>
 
