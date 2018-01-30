@@ -6,6 +6,20 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Envelope Problem  ###
+
+**Date:** February 1, 2018
+
+**Speaker:** Roy St. Laurent (NAU)
+
+**Abstract:**  The Envelope Problem is another probability-based paradox - sort of - in the theme of both the Sleeping Beauty Problem and the Monty Hall Problem, the topics of our last two FAMII.  Here is a description of The Envelope Problem:
+
+> You are given two indistinguishable envelopes, each containing money, one contains twice as much as the other. You may pick one envelope and keep the money it contains.  Having chosen an envelope at will, but before inspecting it, you are given the chance to switch envelopes. Should you switch?
+
+Dr. St. Laurent will present the history of the problem and explain why resolving it is so controversial.   
+
+The faculty guest this week is David Deville.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-01.pdf)]
+
 ### The Monty Hall Problem Redux  ###
 
 **Date:** January 26, 2018
