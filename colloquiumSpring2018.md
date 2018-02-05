@@ -49,14 +49,15 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>January 30</td>
 <td>Michael Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180130.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180130.pdf">The topology of complex hyperplane arrangements</a></td>
 </tr>
 
 <tr>
 <td>February 6</td>
 <td>Matthew Reyna</td>
 <td>Princeton University</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180206.pdf">From differential equations to computational biology:
+mathematical models and methods</a></td>
 </tr>
 
 <tr>
