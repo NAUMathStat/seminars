@@ -64,7 +64,8 @@ mathematical models and methods</a></td>
 <td>February 13</td>
 <td>Nandor Sieben</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180206.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180213.pdf">Impartial Avoidance and Achievement Games in Closure Systems
+</a></td>
 </tr>
 
 <tr>
