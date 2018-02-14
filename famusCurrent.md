@@ -6,13 +6,27 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Faculty who want to mentor undergraduate research in 2018-2019  ###
+
+**Date:** February 16, 2018
+
+**Abstract:** This week's FAMUS will be kind of like a beauty pageant: several faculty will be on display, pitching possible projects, and students will decide whether they like a particular project and will then communicate their interest to that faculty member.  On the other hand, this won't be like a beauty pageant, because in the end the faculty decide who does/doesn't work with them.  The faculty who will be hawking their wares, so to speak, include:
+
+    - Dana Ernst
+    - Nandor Sieben
+    - Roy St. Laurent
+    - John Neuberger
+    - Jeff Rushall
+
+Come see what projects faculty have in mind for next year.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-16.pdf)]
+
 ### Cops and Robbers  ###
 
 **Date:** February 9, 2018
 
 **Speaker:** Dylan King (former student at the University of Nebraska Omaha)
 
-**Abstract:**  Cops and Robbers is traditionally a pursuit game played on a finite, connected graph; $K$ cops and a single robber are placed on the vertices of a graph and take turns moving to adjacent vertices.  If a cop occupies the same vertex as the robber then the cops win, but if the robber is always able to avoid that situation then he wins.  Much of the literature is focused on determining the cop number of a graph, which is the minimum number of cops needed to always capture the robber.  My research focused on the infinite analog to the traditional Cops and Robbers game.   
+**Abstract:**  Cops and Robbers is traditionally a pursuit game played on a finite, connected graph; $K$ cops and a single robber are placed on the vertices of a graph and take turns moving to adjacent vertices.  If a cop occupies the same vertex as the robber then the cops win, but if the robber is always able to avoid that situation then he wins.  Much of the literature is focused on determining the cop number of a graph, which is the minimum number of cops needed to always capture the robber.  My research focused on the infinite analog to the traditional Cops and Robbers game.
 
 The guest to be interviewed is also Dylan King.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-09.pdf)]
 
@@ -26,7 +40,7 @@ The guest to be interviewed is also Dylan King.  [[PDF of Flyer]({{ site.baseurl
 
 > You are given two indistinguishable envelopes, each containing money, one contains twice as much as the other. You may pick one envelope and keep the money it contains.  Having chosen an envelope at will, but before inspecting it, you are given the chance to switch envelopes. Should you switch?
 
-Dr. St. Laurent will present the history of the problem and explain why resolving it is so controversial.   
+Dr. St. Laurent will present the history of the problem and explain why resolving it is so controversial.
 
 The faculty guest this week is David Deville.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-01.pdf)]
 
@@ -36,7 +50,7 @@ The faculty guest this week is David Deville.  [[PDF of Flyer]({{ site.baseurl }
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:**  The Monty Hall Problem is a simple probability problem - somewhat similar to the Sleeping Beauty Problem - and every bit as controversial.  The controversy surrounds a Parade Magazine column on this problem written by the infamous Marilyn Vos Savant in the 1990s.  In this column, she offered a solution that was rejected by many mathematicians (but she was actually correct!).  Anyways, I'll explain the problem, show the correct solution, explain why many math geeks were mistaken, and discuss some generalizations.  
+**Abstract:**  The Monty Hall Problem is a simple probability problem - somewhat similar to the Sleeping Beauty Problem - and every bit as controversial.  The controversy surrounds a Parade Magazine column on this problem written by the infamous Marilyn Vos Savant in the 1990s.  In this column, she offered a solution that was rejected by many mathematicians (but she was actually correct!).  Anyways, I'll explain the problem, show the correct solution, explain why many math geeks were mistaken, and discuss some generalizations.
 
 The faculty guest this week is Ian Williams.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-01-26.pdf)]
 
