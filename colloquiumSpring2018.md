@@ -69,16 +69,9 @@ mathematical models and methods</a></td>
 </tr>
 
 <tr>
-<td>February 13</td>
-<td>TBD</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
 <td>February 20</td>
-<td>TBD</td>
-<td></td>
+<td>Steve Wilson</td>
+<td>NAU</td>
 <td></td>
 </tr>
 
@@ -112,8 +105,8 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>March 27</td>
-<td>TBD</td>
-<td></td>
+<td>Zachary Parker</td>
+<td>University of Vermont</td>
 
 </tr>
 
