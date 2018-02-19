@@ -72,7 +72,8 @@ mathematical models and methods</a></td>
 <td>February 20</td>
 <td>Steve Wilson</td>
 <td>NAU</td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180220.pdf">Walecki tournaments
+</a></td>
 </tr>
 
 <tr>
