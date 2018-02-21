@@ -87,7 +87,7 @@ mathematical models and methods</a></td>
 <td>March 6</td>
 <td>Charles Katerba</td>
 <td>University of Montana</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180306.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180306.pdf">Searching for closed surfaces in knot complements</a></td>
 </tr>
 
 <tr>
