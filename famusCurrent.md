@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Hilbert Matrices ###
+
+**Date:** February 23, 2018
+
+**Speaker:** Dylan King (former student at the University of Nebraska Omaha)
+
+**Abstract:**  A Hilbert matrix is a nice, square matrix whose entries are a nice pattern of nice fractions of the form 1/n, where n is any positive integer.  Originally developed as a tool in approximation theory, Hilbert matrices are now interesting all by themselves, especially because their inverses have a rather bizarre and surprising structure.  I will explain how Hilbert matrices and their inverses are constructed, and then state some open questions about these inverses that are going to make excellent undergraduate research projects.  
+
+The faculty guest this week is new department member Ye Chen.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-23.pdf)]
+
 ### Faculty who want to mentor undergraduate research in 2018-2019  ###
 
 **Date:** February 16, 2018
