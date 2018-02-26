@@ -78,9 +78,9 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>February 27</td>
-<td>TBD</td>
-<td></td>
-<td></td>
+<td>Bahattin Yildiz</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180227.pdf">A new approach to codes: centralizer, twisted centralizer and general linear transformation codes</a></td>
 </tr>
 
 <tr>
