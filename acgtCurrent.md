@@ -4,6 +4,12 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Weak maps of matroids and higher resonance
+
+**Speaker:** [Mike Falk](https://www.cefns.nau.edu/~falk/) (NAU)
+
+**Date:** 2/28/18
+
 ### Structure of braid graphs for reduced words in Coxeter groups
 
 **Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
