@@ -98,6 +98,13 @@ mathematical models and methods</a></td>
 </tr>
 
 <tr>
+<td>March 15<sup>+</sup></td>
+<td>Zachary Parker</td>
+<td>University of Vermont</td>
+<td></td>
+</tr>
+
+<tr>
 <td>March 20</td>
 <td>Spring Break</td>
 <td></td>
@@ -106,9 +113,9 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>March 27</td>
-<td>Zachary Parker</td>
-<td>University of Vermont</td>
-
+<td>TBD</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
@@ -146,5 +153,9 @@ mathematical models and methods</a></td>
 <td></td>
 </tr>
 
+
 </tbody>
 </table>
+
+
++  special Thursday colloquium.
