@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### A Tree of Primitive Pythagorean Quadruples ###
+
+**Date:** March 2, 2018
+
+**Speaker:** Marcela Gutierrez and Viola McCarty (NAU undergrads)
+
+**Abstract:**  Marcela and Viola have been working on a generalization of this problem: Can one find and organize every single set of integer solutions to the Pythagorean Theorem?  You know some of these solutions: $(3,4,5)$, $(5,12,13)$, etc.  It turns out that there is a clever way to depict ALL such solutions to $a^2 + b^2 = c^2$ in a pretty "tree," a fact that has been known since 1970.  Marcela and Viola have been trying to depict ALL integer solutions to an equation that looks a lot like the Pythagorean Theorem, namely: $a^2 + b^2 + c^2 = d^2$. There are lots of solutions to this equation; they include $(1,2,2,3)$, $(2,3,6,7)$, etc.  In fact, Marcela and Viola have found a way to organize and display all such solutions in a beautiful tree graph.  Their result is very, very pretty.
+
+The faculty guest this week is Sarah Watson.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-03-02.pdf)]
+
 ### Hilbert Matrices ###
 
 **Date:** February 23, 2018
 
 **Speaker:** Dylan King (former student at the University of Nebraska Omaha)
 
-**Abstract:**  A Hilbert matrix is a nice, square matrix whose entries are a nice pattern of nice fractions of the form 1/n, where n is any positive integer.  Originally developed as a tool in approximation theory, Hilbert matrices are now interesting all by themselves, especially because their inverses have a rather bizarre and surprising structure.  I will explain how Hilbert matrices and their inverses are constructed, and then state some open questions about these inverses that are going to make excellent undergraduate research projects.  
+**Abstract:**  A Hilbert matrix is a nice, square matrix whose entries are a nice pattern of nice fractions of the form 1/n, where n is any positive integer.  Originally developed as a tool in approximation theory, Hilbert matrices are now interesting all by themselves, especially because their inverses have a rather bizarre and surprising structure.  I will explain how Hilbert matrices and their inverses are constructed, and then state some open questions about these inverses that are going to make excellent undergraduate research projects.
 
 The faculty guest this week is new department member Ye Chen.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-23.pdf)]
 
