@@ -158,7 +158,7 @@ Some Interesting Mathematics from History
 <td>April 18th</td>
 <td>Tenure-Track Math Candidate</td>
 <td>4:00</td>
-<td>#164</td>
+<td>AMB164</td>
 </tr>
 
 <tr>
@@ -167,8 +167,7 @@ Some Interesting Mathematics from History
 </td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/doi_042517.pdf" target="_blank">
-M.S. Thesis<br><strong>12:45 AMB146<\strong>
-</a></td>
+M.S. Thesis</a><br>12:45-1:45PM</td>
 </tr>
 
 
@@ -182,7 +181,7 @@ Honors Week Schedule
 </td>
 <td>Sam Houston State University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/puente_042717.pdf" target="_blank">
-Colloquium<br>12:45 AMB164<br>Modern Algebra Techniques in Theoretical Neuroscience 
+Colloquium<br>12:45 AMB164<br>Modern Algebra Techniques in Theoretical Neuroscience
 </a></td>
 </tr>
 
