@@ -6,6 +6,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Catalan's Constant, and How I got Here
+
+**Date:** March 9, 2018
+
+**Speaker:** Charlie Katerba (Montana State University)
+
+**Abstract:** This is actually a 2-part talk.  
+
+Part I: Catalan's Constant is a funny number that pops up all over the place in mathematics and the sciences: in number theory, in computational mathematics, in topology,... The list goes on and on.  Charlie will explain what it is, how it is computed, and why it is interesting.  
+
+Part II: How I got here is a short tale of how one person traveled from high school, to studying abroad, to college and a math degree, to graduate school and a Ph.D., and beyond.  Several pictures might be shown, and several stories (most not inappropriate) might be told.  
+
 ### A Tree of Primitive Pythagorean Quadruples ###
 
 **Date:** March 2, 2018
