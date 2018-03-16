@@ -94,14 +94,14 @@ mathematical models and methods</a></td>
 <td>March 13</td>
 <td>Noah Aydin</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180313.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180313.pdf">The legacy of Islamic science and math: Why does it matter in the 21st century?</a></td>
 </tr>
 
 <tr>
 <td>March 15<sup>+</sup></td>
 <td>Zachary Parker</td>
 <td>University of Vermont</td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180315.pdf">On the maximum cardinality of braid classes</a></td>
 </tr>
 
 <tr>
