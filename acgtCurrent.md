@@ -4,13 +4,27 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+## Weak maps of matroids and higher resonance II
+
+**Date:** 3/27/18, 4/3/18
+
+**Speaker:** [Mike Falk](https://www.cefns.nau.edu/~falk/) (NAU)
+
+**Abstract:** I’ll recap part I, in which the various aspects of degree-one resonance were surveyed. Then I’ll define weak maps of matroids, and construct a weak map of the braid matroid based on a representation via bit strings, and examine the consequences for higher resonance in the braid arrangement. This talk is independent of part I.
+
+## Error-correcting codes
+
+**Date:** 3/13/18
+
+**Speaker:** Noah Aydin (Kenyon College)
+
 ### Modules, fields of definition, and the Culler-Shalen norm
 
 **Date:** 3/6/18
 
 **Speaker:** Charlie Katerba (Montana State University)
 
-### Weak maps of matroids and higher resonance
+### Weak maps of matroids and higher resonance I
 
 **Date:** 2/27/18
 
