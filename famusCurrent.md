@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Constructing Quaternary Complex Hadamard Matrices, Parts I and II
+
+**Date:** March 30, 2018
+
+**Speaker:** Kaitlyn Lee and Mason Sargent (NAU)
+
+**Abstract:** A Hadamard matrix is a square matrix with entries of 1 or -1, that has the biggest possible determinant among all such matrices.  Although first created as the solution to a pure math problem, Hadamard matrices now have zillions of interesting and important applications.  A quaternary complex Hadamard matrix is a square matrix with entries of $1, -1, i$, or $-i$, that again has maximal determinant.  It turns out that these types of Hadamard matrices are fundamental components of quantum computing machines, which makes them both interesting and important.  Mason and Kaitlyn have spend the past 6 months trying to modify techniques for building Hadamard matrices to instead build complex Hadamard matrices.  Their progress along these lines will be the focus of these two short talks.  
+
+The faculty guest this week is Bianca Luedeker.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-03-30.pdf)]
+
 ### A Special Case of Fermat's Last Theorem: An Introduction to Algebraic Number Theory
 
 **Date:** March 16, 2018
