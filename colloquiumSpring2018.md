@@ -113,16 +113,16 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>March 27</td>
-<td>TBD</td>
+<td>no meeting</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
 <td>April 3</td>
-<td>TBD</td>
-<td></td>
-<td></td>
+<td>Ye Chen</td>
+<td>Northern Arizona University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180403.pdf">On r-hued colorings of graphs</a></td>
 </tr>
 
 <tr>
@@ -141,15 +141,15 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>April 24</td>
-<td>TBD</td>
+<td>Evelyn Lamb (Honors Day Lecture)<sup>#</sup></td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>May 1</td>
-<td>TBD</td>
-<td></td>
+<td>April 26</td>
+<td>Emanuele Delucchi<sup>+</sup></td>
+<td>University of Fribourg</td>
 <td></td>
 </tr>
 
@@ -159,3 +159,4 @@ mathematical models and methods</a></td>
 
 
 <l>+</l>  special Thursday colloquium.
+<l>#</l>  3:00 - 4:00 pm, Room TBA
