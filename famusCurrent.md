@@ -6,13 +6,31 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### On Prime Vertex Labelings of Perfect Ternary Trees, Parts I and II
+
+**Date:** April 6, 2018
+
+**Speaker:** Justin Sima and Riley Waechter (NAU)
+
+**Abstract:** A graph is a bunch of dots/vertices and lines/edges. A perfect ternary tree looks like the family tree that would be drawn if:
+
+    1. Adam and Eve had 3 kids,
+    2. who each had 3 kids,
+    3. who then each had 3 kids,
+    4. who in turn then each had 3 kids,
+    5. etc. ...
+
+A prime vertex labeling of the dots/vertices is a game: label each of the $n$ dots in a graph with one of the integers $1, 2, 3, \ldots, n$, so that any pair of vertices connected by an edge are given integer labels that share no common factors aside from 1.  This game/problem has been around for about 30 years, and Riley and Justin think they have an idea that solves the puzzle.  Their progress along these lines will be the focus of these two short talks.  Does their idea work?  Come and see.  And then...
+
+Instead of a faculty guest, any in the audience who wish to stick around and help with the construction of a life-size Menger Sponge will be rewarded with all of the **pizza and icream they can eat**.  
+
 ### Constructing Quaternary Complex Hadamard Matrices, Parts I and II
 
 **Date:** March 30, 2018
 
 **Speaker:** Kaitlyn Lee and Mason Sargent (NAU)
 
-**Abstract:** A Hadamard matrix is a square matrix with entries of 1 or -1, that has the biggest possible determinant among all such matrices.  Although first created as the solution to a pure math problem, Hadamard matrices now have zillions of interesting and important applications.  A quaternary complex Hadamard matrix is a square matrix with entries of $1, -1, i$, or $-i$, that again has maximal determinant.  It turns out that these types of Hadamard matrices are fundamental components of quantum computing machines, which makes them both interesting and important.  Mason and Kaitlyn have spend the past 6 months trying to modify techniques for building Hadamard matrices to instead build complex Hadamard matrices.  Their progress along these lines will be the focus of these two short talks.  
+**Abstract:** A Hadamard matrix is a square matrix with entries of 1 or -1, that has the biggest possible determinant among all such matrices.  Although first created as the solution to a pure math problem, Hadamard matrices now have zillions of interesting and important applications.  A quaternary complex Hadamard matrix is a square matrix with entries of $1, -1, i$, or $-i$, that again has maximal determinant.  It turns out that these types of Hadamard matrices are fundamental components of quantum computing machines, which makes them both interesting and important.  Mason and Kaitlyn have spend the past 6 months trying to modify techniques for building Hadamard matrices to instead build complex Hadamard matrices.  Their progress along these lines will be the focus of these two short talks.
 
 The faculty guest this week is Bianca Luedeker.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-03-30.pdf)]
 
@@ -32,9 +50,9 @@ The faculty guest this week is Bianca Luedeker.  [[PDF of Flyer]({{ site.baseurl
 
 **Abstract:** This is actually a 2-part talk.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-03-09.pdf)]
 
-Part I: Catalan's Constant is a funny number that pops up all over the place in mathematics and the sciences: in number theory, in computational mathematics, in topology,... The list goes on and on.  Charlie will explain what it is, how it is computed, and why it is interesting.  
+Part I: Catalan's Constant is a funny number that pops up all over the place in mathematics and the sciences: in number theory, in computational mathematics, in topology,... The list goes on and on.  Charlie will explain what it is, how it is computed, and why it is interesting.
 
-Part II: How I got here is a short tale of how one person traveled from high school, to studying abroad, to college and a math degree, to graduate school and a Ph.D., and beyond.  Several pictures might be shown, and several stories (most not inappropriate) might be told.  
+Part II: How I got here is a short tale of how one person traveled from high school, to studying abroad, to college and a math degree, to graduate school and a Ph.D., and beyond.  Several pictures might be shown, and several stories (most not inappropriate) might be told.
 
 ### A Tree of Primitive Pythagorean Quadruples ###
 

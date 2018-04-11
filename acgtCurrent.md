@@ -4,9 +4,25 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+## Weak maps of matroids and higher resonance IV
+
+**Date:** 4/10/18
+
+**Speaker:** [Mike Falk](https://www.cefns.nau.edu/~falk/) (NAU)
+
+**Abstract:** Coming soon.
+
+## Weak maps of matroids and higher resonance III
+
+**Date:** 4/3/18
+
+**Speaker:** [Mike Falk](https://www.cefns.nau.edu/~falk/) (NAU)
+
+**Abstract:** I’ll define weak maps of matroids and Orlik-Solomon algebras, I’ll construct a weak map of the braid matroid based on a representation via bit strings, and examine the consequences for higher resonance in the braid arrangement. This talk is independent of the previous parts.
+
 ## Weak maps of matroids and higher resonance II
 
-**Date:** 3/27/18, 4/3/18
+**Date:** 3/27/18
 
 **Speaker:** [Mike Falk](https://www.cefns.nau.edu/~falk/) (NAU)
 
