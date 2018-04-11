@@ -127,9 +127,9 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>April 10</td>
-<td>TBD</td>
-<td></td>
-<td></td>
+<td>Michael Falk</td>
+<td>Northern Arizona University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180410.pdf">Higher resonance in the braid arrangement</a></td>
 </tr>
 
 <tr>
@@ -141,9 +141,9 @@ mathematical models and methods</a></td>
 
 <tr>
 <td>April 24</td>
-<td>Evelyn Lamb (Honors Day Lecture)<sup>#</sup></td>
-<td></td>
-<td></td>
+<td>Evelyn Lamb (Honors Day Lecture)</td>
+<td>University of Utah</td>
+<td>Visualizing hyperbolic geometry</td>
 </tr>
 
 <tr>
@@ -158,5 +158,5 @@ mathematical models and methods</a></td>
 </table>
 
 
-<l>+</l>  special Thursday colloquium.
+<l>+</l>  special Thursday colloquium, 4:00-5:00 in Room 164.
 <l>#</l>  3:00 - 4:00 pm, Room TBA
