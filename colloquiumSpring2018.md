@@ -143,7 +143,7 @@ mathematical models and methods</a></td>
 <td>April 24</td>
 <td>Evelyn Lamb (Honors Day Lecture)</td>
 <td>University of Utah</td>
-<td>Visualizing hyperbolic geometry</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180424.pdf">Visualizing hyperbolic geometry</a></td>
 </tr>
 
 <tr>
