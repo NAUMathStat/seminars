@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Constructing a Multiplayer Rating System, Parts I and II
+
+**Date:** April 20, 2018
+
+**Speaker:** Mike Rozinski and Jordan Wright (NAU)
+
+**Abstract:** The Elo rating system is most widely known for its use in tournament chess.  This system produces numerical ratings which represent the measure of a player’s skill set.  The system, named after its creator Arpad Elo, is utilized for many purposes, including the pairing of players in a tournament and predicting the outcome of a two-player game.  We will outline all relevant characteristics of Elo’s rating system and examine key features of the algorithm it uses.  We will then deduce potential issues by cross-referencing current multi-player rating systems that use rudimentary paired comparisons, and construct a fairness criteria that addresses these issues.  With this fairness criteria, we will assemble a rating system that extends Elo’s two-player algorithm to multi-players and discuss its success in accurately predicting a players ability.
+
+The faculty guest is John Hagood.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-04-20.pdf)]
+
 ### On Prime Vertex Labelings of Perfect Ternary Trees, Parts I and II
 
 **Date:** April 6, 2018
@@ -22,7 +32,7 @@ Note that talks are listed in reverse chronological order.
 
 A prime vertex labeling of the dots/vertices is a game: label each of the $n$ dots in a graph with one of the integers $1, 2, 3, \ldots, n$, so that any pair of vertices connected by an edge are given integer labels that share no common factors aside from 1.  This game/problem has been around for about 30 years, and Riley and Justin think they have an idea that solves the puzzle.  Their progress along these lines will be the focus of these two short talks.  Does their idea work?  Come and see.  And then...
 
-Instead of a faculty guest, any in the audience who wish to stick around and help with the construction of a life-size Menger Sponge will be rewarded with all of the **pizza and icream they can eat**.  
+Instead of a faculty guest, any in the audience who wish to stick around and help with the construction of a life-size Menger Sponge will be rewarded with all of the **pizza and icream they can eat**.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-04-06.pdf)]
 
 ### Constructing Quaternary Complex Hadamard Matrices, Parts I and II
 
