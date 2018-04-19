@@ -24,11 +24,11 @@ The faculty guest is John Hagood.  [[PDF of Flyer]({{ site.baseurl }}/famus_file
 
 **Abstract:** A graph is a bunch of dots/vertices and lines/edges. A perfect ternary tree looks like the family tree that would be drawn if:
 
-    1. Adam and Eve had 3 kids,
-    2. who each had 3 kids,
-    3. who then each had 3 kids,
-    4. who in turn then each had 3 kids,
-    5. etc. ...
+1. Adam and Eve had 3 kids,
+2. who each had 3 kids,
+3. who then each had 3 kids,
+4. who in turn then each had 3 kids,
+5. etc. ...
 
 A prime vertex labeling of the dots/vertices is a game: label each of the $n$ dots in a graph with one of the integers $1, 2, 3, \ldots, n$, so that any pair of vertices connected by an edge are given integer labels that share no common factors aside from 1.  This game/problem has been around for about 30 years, and Riley and Justin think they have an idea that solves the puzzle.  Their progress along these lines will be the focus of these two short talks.  Does their idea work?  Come and see.  And then...
 
