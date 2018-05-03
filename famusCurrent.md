@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Othello Distribution
+
+**Date:** May 4, 2018
+
+**Speaker:** Matthew Daunt (NAU)
+
+**Abstract:** Inspired by the board game, Othello is a game in which a 4 by 8 board of disks are each chosen randomly to be either white or black (0 or 1). The color of each disk is an independent Bernoulli random variable with probability of white being .5. The score in the game is determined by the number of lines connected from the top to the bottom of the board. These lines can either be vertical, diagonal, or skew diagonal. I generalized this game to a board of size r by c, allowing multiple colors, and unequal probability of the colors. My research focuses on understanding patterns in the general structure of the probability distribution, including the mean and variance of the score for each version of the game.
+
+The faculty guest is Todd Wolford.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-05-04.pdf)]
+
 ### Constructing a Multiplayer Rating System, Parts I and II
 
 **Date:** April 20, 2018
