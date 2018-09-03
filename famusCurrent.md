@@ -100,11 +100,11 @@ The faculty guest this week is new department member Ye Chen.  [[PDF of Flyer]({
 
 **Abstract:** This week's FAMUS will be kind of like a beauty pageant: several faculty will be on display, pitching possible projects, and students will decide whether they like a particular project and will then communicate their interest to that faculty member.  On the other hand, this won't be like a beauty pageant, because in the end the faculty decide who does/doesn't work with them.  The faculty who will be hawking their wares, so to speak, include:
 
-    - Dana Ernst
-    - Nandor Sieben
-    - Roy St. Laurent
-    - John Neuberger
-    - Jeff Rushall
+1. Dana Ernst
+2. Nandor Sieben
+3. Roy St. Laurent
+4. John Neuberger
+5. Jeff Rushall
 
 Come see what projects faculty have in mind for next year.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-02-16.pdf)]
 
