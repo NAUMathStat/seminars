@@ -7,6 +7,7 @@ Note that pages and posts are listed in reverse chronological order.
 
 ### Seminars ###
 - Department Colloquium
+    - [Fall 2018]({{ site.baseurl }}/colloquiumFall2018)
     - [Spring 2018]({{ site.baseurl }}/colloquiumSpring2018)
     - [Fall 2017]({{ site.baseurl }}/colloquiumFall2017)
     - [Spring 2017]({{ site.baseurl }}/colloquiumSpring2017)
@@ -15,6 +16,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
+    - [Fall 2018]({{ site.baseurl }}/acgtFall2018)
     - [Spring 2018]({{ site.baseurl }}/acgtSpring2018)
     - [Fall 2017]({{ site.baseurl }}/acgtFall2017)
     - [Spring 2017]({{ site.baseurl }}/acgtSpring2017)
@@ -23,6 +25,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/acgtFall2015)
     - [Spring 2015]({{ site.baseurl }}/acgtSpring2015)
 - Applied Math Seminar (AMS)
+    - [Fall 2018]({{ site.baseurl }}/amsFall2018)
     - [Spring 2018]({{ site.baseurl }}/amsSpring2018)
     - [Fall 2017]({{ site.baseurl }}/amsFall2017)
     - [Spring 2017]({{ site.baseurl }}/amsSpring2017)
@@ -31,6 +34,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Fall 2018]({{ site.baseurl }}/famusFall2018)
     - [Spring 2018]({{ site.baseurl }}/famusSpring2018)
     - [Fall 2017]({{ site.baseurl }}/famusFall2017)
     - [Spring 2017]({{ site.baseurl }}/famusSpring2017)
