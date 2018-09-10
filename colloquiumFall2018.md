@@ -46,7 +46,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>September 27, THURSDAY!</td>
+<td>September 27<sup>+</sup></td>
 <td>Mark Meyer</td>
 <td>Georgetown University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180927.pdf">Examining Rhesus Macaques Computer-usage using Functional Regression Models</a></td>
@@ -82,79 +82,49 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>March 6</td>
-<td>Charles Katerba</td>
-<td>University of Montana</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180306.pdf">Searching for closed surfaces in knot complements</a></td>
-</tr>
-
-<tr>
-<td>March 13</td>
-<td>Noah Aydin</td>
+<td>October 30</td>
+<td>Angie Hodge</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180313.pdf">The legacy of Islamic science and math: Why does it matter in the 21st century?</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181030.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>March 15<sup>+</sup></td>
-<td>Zachary Parker</td>
-<td>University of Vermont</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180315.pdf">On the maximum cardinality of braid classes</a></td>
+<td>November 6</td>
+<td>Amirhossein Arzani</td>
+<td>NAU, Mechanical Engineering</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181106.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>March 20</td>
-<td>Spring Break</td>
-<td></td>
-<td></td>
+<td>November 13</td>
+<td>Robert Buscaglia</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181113.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>March 27</td>
-<td>no meeting</td>
-<td></td>
-<td></td>
+<td>November 20</td>
+<td>Barbara Boschmans</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181120.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>April 3</td>
+<td>November 27</td>
 <td>Ye Chen</td>
-<td>Northern Arizona University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180403.pdf">On r-hued colorings of graphs</a></td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181127.pdf">TBD</a></td>
 </tr>
 
 <tr>
-<td>April 10</td>
-<td>Michael Falk</td>
-<td>Northern Arizona University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180410.pdf">Higher resonance in the braid arrangement</a></td>
+<td>December 5</td>
+<td>Brian Beaudrie</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181204.pdf">TBA</a></td>
 </tr>
-
-<tr>
-<td>April 17</td>
-<td>TBD</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>April 24</td>
-<td>Evelyn Lamb (Honors Day Lecture)</td>
-<td>University of Utah</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180424.pdf">Visualizing hyperbolic geometry</a></td>
-</tr>
-
-<tr>
-<td>April 26</td>
-<td>Emanuele Delucchi<sup>+</sup></td>
-<td>University of Fribourg</td>
-<td></td>
-</tr>
-
 
 </tbody>
 </table>
 
 
 <l>+</l>  special Thursday colloquium, 4:00-5:00 in Room 164.
-<l>#</l>  3:00 - 4:00 pm, Room TBA
