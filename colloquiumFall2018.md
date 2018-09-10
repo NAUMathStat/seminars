@@ -127,4 +127,4 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </table>
 
 
-<l>+</l>  special Thursday colloquium, 4:00-5:00 in Room 164.
+<l>+</l>special Thursday colloquium, 4:00-5:00 in Room 164.
