@@ -46,7 +46,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>Thursday, September 27</td>
+  <td><b>Thursday</b>, September 27</td>
 <td>Mark Meyer</td>
 <td>Georgetown University</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180927.pdf">Examining Rhesus Macaques Computer-usage using Functional Regression Models</a></td>
