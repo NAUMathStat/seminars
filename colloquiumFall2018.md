@@ -32,24 +32,24 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>January 16</td>
-<td>Marco Lopez</td>
-<td>University of North Texas</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180116.pdf">Hausdorff dimension of shrinking-target sets: Fractal geometry and dynamical systems.</a></td>
+<td>September 11</td>
+<td>Bahattin Yildiz</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180911.pdf">p-ary local Frobenius rings, their homogeneous weights and a class of Griesmer-optimal codes.</a></td>
 </tr>
 
 <tr>
-<td>January 23</td>
-<td>Sudipta Mallik</td>
+<td>September 18</td>
+<td>Jin Wang</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170123.pdf">The Matrix tree Theorem and beyond</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180918.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>January 30</td>
-<td>Michael Falk</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180130.pdf">The topology of complex hyperplane arrangements</a></td>
+<td>September 27, THURSDAY!</td>
+<td>Mark Meyer</td>
+<td>Georgetown University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180927.pdf">Examining Rhesus Macaques Computer-usage using Functional Regression Models</a></td>
 </tr>
 
 <tr>
