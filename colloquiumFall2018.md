@@ -53,34 +53,32 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>February 6</td>
-<td>Matthew Reyna</td>
-<td>Princeton University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180206.pdf">From differential equations to computational biology:
-mathematical models and methods</a></td>
+<td>October 2</td>
+<td>Toby Hocking</td>
+<td>NAU, SICCS</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181002.pdf">TBA</a></td>
 </tr>
 
 <tr>
-<td>February 13</td>
-<td>Nandor Sieben</td>
+<td>October 9</td>
+<td>Krishna Subedi</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180213.pdf">Impartial Avoidance and Achievement Games in Closure Systems
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf">TBA</a></td>
+</tr>
+
+<tr>
+<td>October 16</td>
+<td>Natalie Coston</td>
+<td>NAU Alum, new PhD</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181016.pdf">TBA
 </a></td>
 </tr>
 
 <tr>
-<td>February 20</td>
-<td>Steve Wilson</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180220.pdf">Walecki tournaments
-</a></td>
-</tr>
-
-<tr>
-<td>February 27</td>
-<td>Bahattin Yildiz</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180227.pdf">A new approach to codes: centralizer, twisted centralizer and general linear transformation codes</a></td>
+<td>October 23</td>
+<td>Robert McCulloch</td>
+<td>ASU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181023.pdf">TBD</a></td>
 </tr>
 
 <tr>
