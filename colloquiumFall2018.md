@@ -78,7 +78,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 23</td>
 <td>Robert McCulloch</td>
 <td>ASU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181023.pdf">TBD</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181023.pdf">TBA</a></td>
 </tr>
 
 <tr>
@@ -113,7 +113,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>November 27</td>
 <td>Ye Chen</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181127.pdf">TBD</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181127.pdf">TBA</a></td>
 </tr>
 
 <tr>
