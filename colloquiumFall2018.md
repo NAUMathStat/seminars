@@ -49,8 +49,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
   <td><b>Thursday</b>, September 27</td>
 <td>Mark Meyer</td>
 <td>Georgetown University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180927.pdf">Examining Rhesus Macaques Computer-usage using Functional Regression Models</a>
-  and <a href="{{ site.baseurl }}/colloquium_files/Flyer_Bayes(MarkMeyer).pdf">Talk to Linguistics Department</a>.</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180927.pdf">Examining Rhesus Macaques Computer-usage using Functional Regression Models</a>. Dr. Meyer will also give an intro to Baysian Statistics to the Linguistics Department on
+ <a href="{{ site.baseurl }}/colloquium_files/Flyer_Bayes(MarkMeyer).pdf">Friday</a> at 10:10.</td>
 </tr>
 
 <tr>
