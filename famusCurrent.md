@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### NSF REU @ MCMCS
+
+**Date:** September 21, 2018
+
+**Speaker:** Riley Waechter (NAU)
+
+**Abstract:** This past summer I traveled to Muhlenberg College in Allentown, Pennsylvania to participate in a Research Experience for Undergraduates (REU) program (now that you know what REU stands for, gold star to anybody who can figure out all 3 acronyms in the title). I will detail what the program was like in many aspects: day-to-day life, "extracurricular" activities, and of course, the math. As far as the math is concerned, I worked on two different projects this summer. We will begin by briefly diving into combinatorial game theory to discuss nimbers (or Sprague-Grundy values) of the game of Node-Kayles played on certain families of graphs. We will then switch gears to discuss the domination number of permutation graphs on n vertices. Finally, we will conclude by examining the application process for REU programs.  
+
+This week's guest is Ian Williams (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-09-21.pdf)]
+
 ### The Dating Game
 
 **Date:** September 14, 2018
