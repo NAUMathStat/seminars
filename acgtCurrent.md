@@ -4,6 +4,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Cyclic and Constacyclic self-dual codes over R_k
+
+**Date:** 9/25/18
+
+**Speaker:** Bahattin Yildiz (NAU)
+
+**Abstract:** In this work, we consider constacyclic and cyclic self-dual codes over the rings $R_k$. We start with theoretical existence results for constacyclic and cyclic self-dual codes of any length over $R_k$ and then construct cyclic self-dual codes over $R_1 = F_2 + uF_2$ of even lengths from lifts of binary cyclic self-dual codes. We classify all free cyclic self-dual codes over R_1 of even lengths for which non-trivial such codes exist. In particular we demonstrate that our constructions provide a counter example to a claim made by Batoul et al. in 2014 and we explain why their claim fails.
+
 ### Exploring signed permutations of maximal reversal length
 
 **Date:** 9/4/18, 9/11/18
