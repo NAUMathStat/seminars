@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Sexy Primes
+
+**Date:** September 28, 2018
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Prime numbers are positive integers greater than 1 with exactly two distinct positive integer divisors.  The distribution of primes amongst the rest of the natural numbers is something of a mystery, but some types of primes are easy and fun to ponder. One semi-interesting subset of primes are integer pairs of the form $(n, n+6)$ where both $n$ and $n+6$ are prime, which are known as "sexy primes."  I will present some entertaining facts about primes in general, and sexy primes in particular.
+
+This week's guest is Ellie Kennedy (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-09-28.pdf)]
+
 ### NSF REU @ MCMCS
 
 **Date:** September 21, 2018
 
 **Speaker:** Riley Waechter (NAU)
 
-**Abstract:** This past summer I traveled to Muhlenberg College in Allentown, Pennsylvania to participate in a Research Experience for Undergraduates (REU) program (now that you know what REU stands for, gold star to anybody who can figure out all 3 acronyms in the title). I will detail what the program was like in many aspects: day-to-day life, "extracurricular" activities, and of course, the math. As far as the math is concerned, I worked on two different projects this summer. We will begin by briefly diving into combinatorial game theory to discuss nimbers (or Sprague-Grundy values) of the game of Node-Kayles played on certain families of graphs. We will then switch gears to discuss the domination number of permutation graphs on n vertices. Finally, we will conclude by examining the application process for REU programs.  
+**Abstract:** This past summer I traveled to Muhlenberg College in Allentown, Pennsylvania to participate in a Research Experience for Undergraduates (REU) program (now that you know what REU stands for, gold star to anybody who can figure out all 3 acronyms in the title). I will detail what the program was like in many aspects: day-to-day life, "extracurricular" activities, and of course, the math. As far as the math is concerned, I worked on two different projects this summer. We will begin by briefly diving into combinatorial game theory to discuss nimbers (or Sprague-Grundy values) of the game of Node-Kayles played on certain families of graphs. We will then switch gears to discuss the domination number of permutation graphs on n vertices. Finally, we will conclude by examining the application process for REU programs.
 
 This week's guest is Ian Williams (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-09-21.pdf)]
 
@@ -32,6 +42,6 @@ This week's guest is also Dana Ernst - but his interview is going to be more of 
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** I will talk about the math I did, the traveling I did (to some semi-exotic places), and show you some really neat pictures (involving both math and traveling).  
+**Abstract:** I will talk about the math I did, the traveling I did (to some semi-exotic places), and show you some really neat pictures (involving both math and traveling).
 
 The guests this week are department staff Bea Gallegos, Melina Miller and Mary Fule.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-09-07.pdf)]
