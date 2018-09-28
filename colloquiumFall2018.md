@@ -57,7 +57,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 2</td>
 <td>Toby Hocking</td>
 <td>NAU, SICCS</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181002.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181002.pdf">Why does functional pruning yield such fast algorithms for optimal changepoint detection?</a></td>
 </tr>
 
 <tr>
