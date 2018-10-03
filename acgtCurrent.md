@@ -4,9 +4,25 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### Cyclic and Constacyclic self-dual codes over R_k
+### The Existence of Bandedly Nonsingular Matrices and the Connection to the Quasi-Cayleyness of the Praeger-Xu Graphs
 
-**Date:** 9/25/18
+**Date:** 10/9/18
+
+**Speaker:** Steve Wilson (NAU)
+
+**Abstract:** I think that wins the competition for the most Jargon in a single talk title!   First, for $k < n$, a *band* in a $k\times n$ matrix $M$ is one of the  $k\times k$ submatrices, $n$  in  number, formed by $k$ consecutive columns, including going around the corner.   So, for example, if $M$ is $3\times 5$  with columns $x_1, x_2, x_3, x_4, x_5$, each of length 3, then the bands of $M$ are the matrices $[x_1 x_2 x_3], [x_2 x_3 x_4], [x_3 x_4 x_5], [x_4 x_5 x_1], [x_5 x_1 x_1]$.  A matrix is *bandedly nonsingular* provided that each of its bands is nonsingular.  We conjectured that for each $k < n$, there exists a  $k\times n$ matrix which is bandedly non-singular.  If the entries are from $\RR$, this is trivial. (Homework 1: Prove that.)  But I want this to be true when the entries are from a finite field, particularly $\mathbb{Z}_2$.
+
+We will prove this theorem.
+
+Why?
+
+The why has to do with an important family of graphs, the Praeger-Xu graphs.  In this talk, I will describe these graphs with pictures and definitions.    In a series of papers with Primoz Potocnik and Robert Jajcay, we have investigated the question of which of the Praeger-Xu graphs qualifies as 'Cayley', and considered a related idea, that of a graph being 'Quasi-Cayley'.  We will say what both of these mean.
+
+And then, finally!, we will show that the existence of a bandedly nonsingular $k\times n$ matrix over $\ZZ_2$ proves that $\it every$ Praeger-Xu graph is Quasi-Cayley.
+
+### Cyclic and Constacyclic self-dual codes over $R_k$
+
+**Date:** 9/25/18, 10/2/18
 
 **Speaker:** Bahattin Yildiz (NAU)
 
