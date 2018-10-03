@@ -10,7 +10,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Steve Wilson (NAU)
 
-**Abstract:** I think that wins the competition for the most Jargon in a single talk title!   First, for $k < n$, a *band* in a $k\times n$ matrix $M$ is one of the  $k\times k$ submatrices, $n$  in  number, formed by $k$ consecutive columns, including going around the corner.   So, for example, if $M$ is $3\times 5$  with columns $x_1, x_2, x_3, x_4, x_5$, each of length 3, then the bands of $M$ are the matrices $[x_1 x_2 x_3], [x_2 x_3 x_4], [x_3 x_4 x_5], [x_4 x_5 x_1], [x_5 x_1 x_1]$.  A matrix is *bandedly nonsingular* provided that each of its bands is nonsingular.  We conjectured that for each $k < n$, there exists a  $k\times n$ matrix which is bandedly non-singular.  If the entries are from $\RR$, this is trivial. (Homework 1: Prove that.)  But I want this to be true when the entries are from a finite field, particularly $\mathbb{Z}_2$.
+**Abstract:** I think that wins the competition for the most Jargon in a single talk title!   First, for $k < n$, a *band* in a $k\times n$ matrix $M$ is one of the  $k\times k$ submatrices, $n$  in  number, formed by $k$ consecutive columns, including going around the corner.   So, for example, if $M$ is $3\times 5$  with columns $x_1, x_2, x_3, x_4, x_5$, each of length 3, then the bands of $M$ are the matrices $[x_1 x_2 x_3], [x_2 x_3 x_4], [x_3 x_4 x_5], [x_4 x_5 x_1], [x_5 x_1 x_1]$.  A matrix is *bandedly nonsingular* provided that each of its bands is nonsingular.  We conjectured that for each $k < n$, there exists a  $k\times n$ matrix which is bandedly non-singular.  If the entries are from $\mathbb{R}$, this is trivial. (Homework 1: Prove that.)  But I want this to be true when the entries are from a finite field, particularly $\mathbb{Z}_2$.
 
 We will prove this theorem.
 
@@ -18,7 +18,7 @@ Why?
 
 The why has to do with an important family of graphs, the Praeger-Xu graphs.  In this talk, I will describe these graphs with pictures and definitions.    In a series of papers with Primoz Potocnik and Robert Jajcay, we have investigated the question of which of the Praeger-Xu graphs qualifies as 'Cayley', and considered a related idea, that of a graph being 'Quasi-Cayley'.  We will say what both of these mean.
 
-And then, finally!, we will show that the existence of a bandedly nonsingular $k\times n$ matrix over $\ZZ_2$ proves that $\it every$ Praeger-Xu graph is Quasi-Cayley.
+And then, finally!, we will show that the existence of a bandedly nonsingular $k\times n$ matrix over $\mathbb{Z}_2$ proves that $\it every$ Praeger-Xu graph is Quasi-Cayley.
 
 ### Cyclic and Constacyclic self-dual codes over $R_k$
 
@@ -26,7 +26,7 @@ And then, finally!, we will show that the existence of a bandedly nonsingular $k
 
 **Speaker:** Bahattin Yildiz (NAU)
 
-**Abstract:** In this work, we consider constacyclic and cyclic self-dual codes over the rings $R_k$. We start with theoretical existence results for constacyclic and cyclic self-dual codes of any length over $R_k$ and then construct cyclic self-dual codes over $R_1 = F_2 + uF_2$ of even lengths from lifts of binary cyclic self-dual codes. We classify all free cyclic self-dual codes over R_1 of even lengths for which non-trivial such codes exist. In particular we demonstrate that our constructions provide a counter example to a claim made by Batoul et al. in 2014 and we explain why their claim fails.
+**Abstract:** In this work, we consider constacyclic and cyclic self-dual codes over the rings $R_k$. We start with theoretical existence results for constacyclic and cyclic self-dual codes of any length over $R_k$ and then construct cyclic self-dual codes over $R_1 = F_2 + uF_2$ of even lengths from lifts of binary cyclic self-dual codes. We classify all free cyclic self-dual codes over $R_1$ of even lengths for which non-trivial such codes exist. In particular we demonstrate that our constructions provide a counter example to a claim made by Batoul et al. in 2014 and we explain why their claim fails.
 
 ### Exploring signed permutations of maximal reversal length
 
