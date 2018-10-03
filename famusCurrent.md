@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Urinal Problem, Part I
+
+**Date:** October 5, 2018
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Many real-life scenarios involving "public" privacy situations have been mathematized.  These include where to sit in a theater to avoid having people beside or in front of you, where to sit on an open-seat flight to maximize the chances of having an extra/empty seat next to you, etc.  Another such situation is urinal selection in a bathroom.  I will discuss how this situation gets mathematized, its connection to other math problems, and show plenty of pictures (the result of exhaustive fieldwork on my part).  And yes, there will be a "Part II" sometime in the not-too-distant future.
+
+This week's guest is Sal Vera (NAU). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-10-05.pdf)]
+
 ### Sexy Primes
 
 **Date:** September 28, 2018
