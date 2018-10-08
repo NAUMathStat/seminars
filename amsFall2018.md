@@ -3,11 +3,12 @@ layout: page
 title: Applied Mathematics Seminar
 ---
 
-The AMS typically meets 12:45-1:45PM on Thursdays in Room 164 of the Adel Mathematics Building.  Any faculty, students, or friends of the department are welcome to attend. Seminar talks are typically rotated between faculty (and on occasion students or visitors) with research interests related to applied mathematics, widely defined to include almost anything from ordinary and partial differential equations, dynamical systems, nonlinear and linear functional analysis, numerical analysis, optimization, operations research, scientific computing, modeling, and advanced physics. If you are interested/willing to give a talk, please contact [John Neuberger](mailto:John.Neuberger@nau.edu), Colloquium Chair and AMS Coordinator.
+The AMS typically meets 12:45-1:45PM on Thursdays in Room 164 of the Adel Mathematics Building.  Any faculty, students, or friends of the department are welcome to attend. Seminar talks are typically rotated between faculty (and on occasion students or visitors) with research interests related to applied mathematics, widely defined to include almost anything from ordinary and partial differential equations, dynamical systems, nonlinear and linear functional analysis, numerical analysis, optimization, operations research, scientific computing, modeling, and advanced physics. 
 
-# Schedule Fall 2018 #
+# Fall 2018 #
 
-Coming soon.
+The seminar is very informal and we don't post a schedule here. To find out this week's talk see the email sent out weekly,
+or contact [Jim Swift](mailto:Jim.Swfit@nau.edu).
 
 <!--
 - 9/8/2016		Jeffrey Covington, on his research with Neuberger on
