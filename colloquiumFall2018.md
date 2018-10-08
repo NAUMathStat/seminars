@@ -64,7 +64,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 9</td>
 <td>Krishna Subedi</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf">Positivity of truncated Toeplitz operators via Berezin transform on certain model subspaces of the Hardy space</a></td>
 </tr>
 
 <tr>
