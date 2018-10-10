@@ -4,9 +4,17 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Gaussian Fluctuations for Linear Eigenvalue Statistics of Products of Independent Random Matrices
+
+**Date:** Thursday, 10/19/18
+
+**Speaker:** Natalie Coston
+
+**Abstract:** After covering some background material and historical results, I fix an integer $m\geq 1$ and consider the product of $m$ independent $n\times n$ random matrices with independent and identically distributed (iid) entries. I then present results characterizing the limiting fluctuation of a linear statistic of the spectrum of the product as $n\rightarrow\infty$. I show the limiting variance of this test statistic is Gaussian and that the limiting variance is universal in the sense that it does not depend on m (the number of factor matrices) or on the distribution of the entries of the matrices. The main result generalizes and improves upon previous limit statements for the linear spectral statistics of a single iid matrix by Rider and Silverstein as well as Renfrew and O'Rourke.
+
 ### The Existence of Bandedly Nonsingular Matrices and the Connection to the Quasi-Cayleyness of the Praeger-Xu Graphs
 
-**Date:** 10/9/18
+**Date:** 10/9/18, 10/16/18
 
 **Speaker:** Steve Wilson (NAU)
 
