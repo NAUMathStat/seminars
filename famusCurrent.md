@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Hamilton and the Quaternions
+
+**Date:** October 12, 2018
+
+**Speaker:** Brent Pohlmann (Cal State University Maritime Academy.)
+
+**Abstract:** In this talk we will give an overview of number systems, eventually dening the quaternions. There is very interesting, current research involving the quaternions, which will also be presented. Along the way we'll talk about Sir William Rohan Hamilton, perhaps the only famous mathematician to come from Ireland.  
+
+This week's guest is also Brent Pohlmann. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-10-12.pdf)]
+
 ### The Urinal Problem, Part I
 
 **Date:** October 5, 2018
