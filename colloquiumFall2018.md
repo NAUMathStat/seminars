@@ -71,7 +71,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 16</td>
 <td>Natalie Coston</td>
 <td>NAU Alum, new PhD</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181016.pdf">TBA
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181016.pdf">
+Outliers in the Spectrum of Products of Independent Random Matrices
 </a></td>
 </tr>
 
