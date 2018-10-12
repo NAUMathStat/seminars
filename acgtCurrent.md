@@ -6,7 +6,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Gaussian Fluctuations for Linear Eigenvalue Statistics of Products of Independent Random Matrices
 
-**Date:** Thursday, 10/19/18
+**Date:** <strong>Thursday</strong>, 10/18/18
 
 **Speaker:** Natalie Coston
 
