@@ -6,11 +6,21 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Mitsy Markov: The Tale of a Delirious Math Grad Student
+
+**Date:** October 19, 2018
+
+**Speaker:** Natalie Coston
+
+**Abstract:** Have you ever walked into a room and thought "What did I come in here for?" Well, for Mitsy Markov, this is a way of life. Mitsy is deep into her first semester of graduate school in math, and between classes and teaching, she is getting pretty delirious. Follow Mitsy on a memoryless journey from room to room as she learns about Markov Chains first hand.
+
+This week's guest is also Natalie Coston. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-10-19.pdf)]
+
 ### Hamilton and the Quaternions
 
 **Date:** October 12, 2018
 
-**Speaker:** Brent Pohlmann (Cal State University Maritime Academy.)
+**Speaker:** Brent Pohlmann (Cal State University Maritime Academy)
 
 **Abstract:** In this talk we will give an overview of number systems, eventually dening the quaternions. There is very interesting, current research involving the quaternions, which will also be presented. Along the way we'll talk about Sir William Rohan Hamilton, perhaps the only famous mathematician to come from Ireland.  
 
