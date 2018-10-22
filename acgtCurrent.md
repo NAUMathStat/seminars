@@ -10,11 +10,11 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Steve Wilson (NAU)
 
-**Abstract:** Something old and something new:  answering a question from last week and returning to the topic of last spring. 
+**Abstract:** Something old and something new:  answering a question from last week and returning to the topic of last spring.
 
 ### Gaussian Fluctuations for Linear Eigenvalue Statistics of Products of Independent Random Matrices
 
-**Date:** 10/18/18, Special <strong>Thursday</strong> seminar, usual time and room.
+**Date:** 10/18/18 (Special <strong>Thursday</strong> seminar, usual time and room)
 
 **Speaker:** Natalie Coston
 
