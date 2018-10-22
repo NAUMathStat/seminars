@@ -4,6 +4,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Half-cyclic codes and semi-divisors of $t^n-1$
+
+**Date:** 10/23/18
+
+**Speaker:** Steve Wilson (NAU)
+
+**Abstract:** Something old and something new:  answering a question from last week and returning to the topic of last spring. 
+
 ### Gaussian Fluctuations for Linear Eigenvalue Statistics of Products of Independent Random Matrices
 
 **Date:** 10/18/18, Special <strong>Thursday</strong> seminar, usual time and room.
