@@ -80,7 +80,8 @@ Outliers in the Spectrum of Products of Independent Random Matrices
 <td>October 23</td>
 <td>Robert McCulloch</td>
 <td>ASU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181023.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181023.pdf">
+  Multidimensional Monotonicity Discovery with mBART</a></td>
 </tr>
 
 <tr>
