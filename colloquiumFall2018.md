@@ -86,7 +86,7 @@ Outliers in the Spectrum of Products of Independent Random Matrices
 
 <tr>
 <td>October 30</td>
-  <td>Angie Hodge <i>et al</i></td>
+  <td>Angie Hodge <i>et al.</i></td>
 <td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181030.pdf">The NAU/CCC Noyce Ambassador Program</a></td>
 </tr>
