@@ -6,7 +6,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Half-cyclic codes and semi-divisors of $t^n-1$
 
-**Date:** 10/23/18
+**Date:** 10/23/18, 10/30/18
 
 **Speaker:** Steve Wilson (NAU)
 

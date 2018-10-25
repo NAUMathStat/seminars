@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Super Heronian Triangles
+
+**Date:** October 26, 2018
+
+**Speaker:** Jeff Rushall
+
+**Abstract:** A Heronian triangle is a planar triangle whose side lengths AND area are all integers.  For example, every integral Pythagorean right triangle is Heronian.  Are there others?  Yes - lots.  A Super Heronian triangle is a Heronian triangle whose side lengths are CONSECUTIVE integers.  One example is a 13-14-15 triangle (I'll let you figure out the area).  How many Super Heronian triangles exist?  Are there higher-dimensional analogues? Come to FAMUS and see...
+
+This week's guest is also Bahattin Yildiz. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-10-26.pdf)]
+
 ### Mitsy Markov: The Tale of a Delirious Math Grad Student
 
 **Date:** October 19, 2018
