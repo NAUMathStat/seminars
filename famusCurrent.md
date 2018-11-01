@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Signed permutations and their connection to genetics
+
+**Date:** November 2, 2018
+
+**Speaker:** Tanner Rosenberg (NAU undergrad)
+
+**Abstract:** One can model a configuration of genes as a permutation of the numbers 1 through n, where each number can be right-side-up or upside-down. In this model, one type of mutation corresponds to performing a 180-degree reversal. The reversal distance between two configurations of genes is the minimum number of reversals needed to convert the permutation corresponding to one gene configuration to the other. Although there are other types of mutations, we focus on reversals since they are the most common mutation and reversal distance provides a good estimate for genetic distance. While the maximal reversal distance among all permutations of 1 through n and the identity permutation is known, in this presentation we discuss our progress toward describing the structure of permutations that attain the maximal reversal distance.
+
+This week's guest is also Nethali Fernando. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-11-02.pdf)]
+
 ### Super Heronian Triangles
 
 **Date:** October 26, 2018
@@ -32,7 +42,7 @@ This week's guest is also Natalie Coston. [[PDF of Flyer]({{ site.baseurl }}/fam
 
 **Speaker:** Brent Pohlmann (Cal State University Maritime Academy)
 
-**Abstract:** In this talk we will give an overview of number systems, eventually dening the quaternions. There is very interesting, current research involving the quaternions, which will also be presented. Along the way we'll talk about Sir William Rohan Hamilton, perhaps the only famous mathematician to come from Ireland.  
+**Abstract:** In this talk we will give an overview of number systems, eventually dening the quaternions. There is very interesting, current research involving the quaternions, which will also be presented. Along the way we'll talk about Sir William Rohan Hamilton, perhaps the only famous mathematician to come from Ireland.
 
 This week's guest is also Brent Pohlmann. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-10-12.pdf)]
 
