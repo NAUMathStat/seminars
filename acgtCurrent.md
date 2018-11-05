@@ -1,4 +1,4 @@
-The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesdays at 12:45-2:00pm in Room 164 of the Adel Mathematics Building. If you are interested in giving a talk, please contact [Dana C. Ernst](http://danaernst.com), ACGT coordinators.
+The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesdays at 12:45-2:00pm in Room 164 of the Adel Mathematics Building. If you are interested in giving a talk, please contact [Dana C. Ernst](http://danaernst.com), ACGT coordinator.
 
 # Schedule Fall 2018 #
 
