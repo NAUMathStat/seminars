@@ -95,7 +95,9 @@ Outliers in the Spectrum of Products of Independent Random Matrices
 <td>November 6</td>
 <td>Amirhossein Arzani</td>
 <td>NAU, Mechanical Engineering</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181106.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181106.pdf">
+Mathematical Modeling of Blood Flow:
+Numerical Analysis and Dynamical Systems</a></td>
 </tr>
 
 <tr>
