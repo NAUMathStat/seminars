@@ -4,6 +4,15 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Braid shadows in simply-laced Coxeter systems
+
+**Date:** 11/6/18
+
+**Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
+
+**Abstract:** Every element $w$ of a Coxeter group $W$ can be written as an expression in the generators, and if the number of generators in an expression (including multiplicity) is minimal, we say that the expression is reduced. Every pair of reduced expressions for the same group element are related by a sequence of commutations and so-called braid moves.  We say that two reduced expressions are braid equivalent if they are related by a sequence of braid moves. A Coxeter group is said to be simply-laced if every braid move is of the form $sts\mapsto tst$.
+Let $\overline{w} = s_{x_1}s_{x_2}\dots s_{x_n}$ be a reduced expression for $w$ in a simply-laced Coxeter group. Then the ordered triple $(i,i+1,i+2)$ is a called a *braid shadow* for $\overline{w}$ if and only if $s_{x_i}s_{x_{i+1}}s_{x_{i+2}}$ provides an opportunity to apply a braid move. If $(i,i+1,i+2)$ is a braid shadow for $\overline{w}$ such that $s_{x_i}s_{x_{i+1}}s_{x_{i+2}}=sts$, then we say that the *support* of $(i,i+1,i+2)$ relative to $\overline{w}$ is $\{s,t\}$. Suppose $\overline{w}_1$ and $\overline{w}_2$ are two braid equivalent reduced expressions for $w$ in a simply-laced Coxeter group $W$ such that $(i,i+1,i+2)$ is a braid shadow for both $\overline{w}_1$ and $\overline{w}_2$. We will prove that the supports of $(i,i+1,i+2)$ relative to both $\overline{w}_1$ and $\overline{w}_2$ are the equal as long as the Coxeter graph corresponding to $W$ does not have a three cycle.
+
 ### Half-cyclic codes and semi-divisors of $t^n-1$
 
 **Date:** 10/23/18, 10/30/18
