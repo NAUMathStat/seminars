@@ -104,7 +104,7 @@ Numerical Analysis and Dynamical Systems</a></td>
 <td>November 13</td>
 <td>Robert Buscaglia</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181113.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181113.pdf">Data Science in Action: Connecting Biochemistry and Statistics</a></td>
 </tr>
 
 <tr>
