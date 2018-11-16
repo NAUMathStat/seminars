@@ -4,9 +4,25 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### The Complexities of Simplifying Addition: How DGHV Use Hamming Weights, Elementary Symmetric Polynomials, and "Three-For-Two", to Make Their Encryption Scheme Fully Homomorphic
+
+**Date:** 11/27/18
+
+**Speaker:** Mark Haferkamp (NAU)
+
+**Abstract:** Continuing from the previous talk, we first review [van Dijk, Gentry, Halevi, and Vaikuntanathan's (DGHV's)](https://eprint.iacr.org/2009/616) somewhat homomorphic encryption scheme and outline how they convert it into a fully homomorphic encryption scheme. Then we work thru the details of why addition is so hard and how they do it. Finally, we tie up as many loose ends as time permits.
+
+### Bounded Computations Over Encrypted Data: DGHV's Somewhat Homomorphic Encryption Scheme Over the Integers, and Why It's not Fully Homomorphic
+
+**Date:** 11/20/18
+
+**Speaker:** Mark Haferkamp (NAU)
+
+**Abstract:** Want to have the convenience of having the cloud process your data but don't want the privacy loss of the cloud knowing your data? Though inefficient, this is possible! We explore [van Dijk, Gentry, Halevi, and Vaikuntanathan's (DGHV's)](https://eprint.iacr.org/2009/616) conceptually simple somewhat homomorphic encryption scheme which allows untrusted servers to compute certain functions over encrypted data. Then we look at why the scheme fails to handle certain functions and preview how DGHV extend their somewhat homomorphic encryption scheme into a fully homomorphic encryption scheme which can handle arbitrary binary computations.
+
 ### Braid shadows in simply-laced Coxeter systems
 
-**Date:** 11/6/18
+**Date:** 11/6/18, 11/13/18
 
 **Speaker:** [Dana Ernst](http://danaernst.com) (NAU)
 
