@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Euler Bricks and Perfect Cuboids
+
+**Date:** November 16, 2018
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** A Pythagorean triangle is a right triangle - so the triangle side lengths satisfy the Pythagorean Theorem - with INTEGER side lengths.  One hypothetical 3-D analogue of a Pythagorean triangle is a "box" whose sides are all pairs of Pythagorean triangles.  That is, each of the 6 sides is a rectangle whose diagonal is the hypotenuse of two right triangles - a.k.a. an Euler Brick - provided such a thing even exists.  Come and find out if Euler Bricks exist.  We will also see if an Euler Brick with an integer internal diagonal - a.k.a. a Perfect Cuboid - exists.  And all comers can criticize my use of hyphens - if you dare - during FAMUS.
+
+This week's guest is Gina Nabours. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-11-16.pdf)]
+
 ### Signed permutations and their connection to genetics
 
 **Date:** November 2, 2018
@@ -14,7 +24,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** One can model a configuration of genes as a permutation of the numbers 1 through n, where each number can be right-side-up or upside-down. In this model, one type of mutation corresponds to performing a 180-degree reversal. The reversal distance between two configurations of genes is the minimum number of reversals needed to convert the permutation corresponding to one gene configuration to the other. Although there are other types of mutations, we focus on reversals since they are the most common mutation and reversal distance provides a good estimate for genetic distance. While the maximal reversal distance among all permutations of 1 through n and the identity permutation is known, in this presentation we discuss our progress toward describing the structure of permutations that attain the maximal reversal distance.
 
-This week's guest is also Nethali Fernando. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-11-02.pdf)]
+This week's guest is Nethali Fernando. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-11-02.pdf)]
 
 ### Super Heronian Triangles
 
