@@ -110,7 +110,7 @@ Numerical Analysis and Dynamical Systems</a></td>
 <tr>
 <td>November 20</td>
 <td>Barbara Boschmans</td>
-<td>NAU</td>
+<td>A Sabbatical Analyzing LMC Data and Improving LMC Success Rates for First Generation Students</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181120.pdf">TBA</a></td>
 </tr>
 
