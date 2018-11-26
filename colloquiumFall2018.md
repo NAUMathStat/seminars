@@ -118,7 +118,8 @@ Numerical Analysis and Dynamical Systems</a></td>
 <td>November 27</td>
 <td>Ye Chen</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181127.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181127.pdf">Inferring Microbial Co-occurrence Network
+  from 16s rRNA-seq Data</a></td>
 </tr>
 
 <tr>
