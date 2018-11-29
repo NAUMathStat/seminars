@@ -6,6 +6,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Thinking Outside the Box (and Supply Chain): Opportunities in Industrial Engineering for Math Students
+
+**Date:** November 30, 2018
+
+**Speaker:** Adolfo Escobedo (School of Computing Informatics and Decision Systems Engineering, ASU)
+
+**Abstract:** In this talk, I will give an overview of the diverse research areas (and their mathematical underpinnings) I have worked on formerly as a PhD student and currently an assistant professor. Then, I will give an overview of the School of Computing, Informatics and Decision Systems Engineering (CIDSE) at Arizona State University (ASU), including opportunities for students to enter the PhD program in Industrial Engineering.
+
+**Biography:** Adolfo R. Escobedo joined CIDSE at ASU in 2016 as an assistant professor. Escobedo received a BA in Mathematics from California State University, Los Angeles and a PhD in Industrial and Systems Engineering from Texas A&M University. His research interests are in the theory and application of mathematical programming and algorithm design for computational social choice, power systems operations and planning, circular economy, and optimization software development.  
+
+The faculty guest interviewee this week is Adolfo Escobedo - but we won't do the usual formal interview; we'll have a more open and loose Q&A related to his presentation. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS18-11-30.pdf)]
+
 ### Euler Bricks and Perfect Cuboids
 
 **Date:** November 16, 2018
