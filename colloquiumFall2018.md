@@ -126,7 +126,7 @@ Numerical Analysis and Dynamical Systems</a></td>
 <td>December 5</td>
 <td>Brian Beaudrie</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181204.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181204.pdf">A Tale of Two Sabbaticals</a></td>
 </tr>
 
 </tbody>
