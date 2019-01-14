@@ -115,9 +115,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 16</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190416.pdf">
+<td>Roxy Peck</td>
+<td>Cal Poly</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190416.pdf">Honors Day
 </a></td>
 </tr>
 
@@ -126,6 +126,14 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>TBD</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190423.pdf">
+</a></td>
+</tr>
+
+<tr>
+<td>April 30</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190430.pdf">
 </a></td>
 </tr>
 
