@@ -34,23 +34,22 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>January 22</td>
 <td>Bertrand Cambou</td>
-<td>NAU</td>
+<td>SICCS, NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190122.pdf">Hash-based Cryptography as a solution against quantum computer attacks</a></td>
 </tr>
 
 <tr>
-<td>September 18</td>
-<td>Jin Wang</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180918.pdf">Sabbatical Report</a></td>
+<td>January 29</td>
+<td>TBA</td>
+<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf">TBA</a></td>
 </tr>
 
 <tr>
-  <td><b>Thursday</b>, September 27</td>
-<td>Mark Meyer</td>
-<td>Georgetown University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180927.pdf">Examining Rhesus Macaques Computer-usage using Functional Regression Models</a>. Dr. Meyer will also give an intro to Bayesian Statistics to the Linguistics Department on
- <a href="{{ site.baseurl }}/colloquium_files/Flyer_Bayes(MarkMeyer).pdf">Friday</a> at 10:10.</td>
+  <td>February 5</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190205.pdf"></a></td>
 </tr>
 
 <tr>
