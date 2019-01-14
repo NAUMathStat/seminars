@@ -53,17 +53,17 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>October 2</td>
-<td>Toby Hocking</td>
-<td>NAU, SICCS</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181002.pdf">Why does functional pruning yield such fast algorithms for optimal changepoint detection?</a></td>
+<td>February 12</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190212.pdf"></a></td>
 </tr>
 
 <tr>
-<td>October 9</td>
-<td>Krishna Subedi</td>
+<td>February 19</td>
+<td>TBD</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf">Positivity of truncated Toeplitz operators via Berezin transform on certain model subspaces of the Hardy space</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf"></a></td>
 </tr>
 
 <tr>
