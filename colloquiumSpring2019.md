@@ -67,65 +67,66 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>October 16</td>
-<td>Natalie Coston</td>
-<td>NAU Alum, new PhD</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181016.pdf">
-Outliers in the Spectrum of Products of Independent Random Matrices
+<td>February 26</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190226.pdf">
 </a></td>
 </tr>
 
 <tr>
-<td>October 23</td>
-<td>Robert McCulloch</td>
-<td>ASU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181023.pdf">
-  Multidimensional Monotonicity Discovery with mBART</a></td>
+<td>March 5</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190205.pdf">
+</a></td>
 </tr>
 
 <tr>
-<td>October 30</td>
-  <td>Angie Hodge <i>et al.</i></td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181030.pdf">The NAU/CCC Noyce Ambassador Program</a></td>
+<td>March 12</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf"></a></td>
 </tr>
 
 <tr>
-<td>November 6</td>
-<td>Amirhossein Arzani</td>
-<td>NAU Mechanical Engineering</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181106.pdf">
-Mathematical Modeling of Blood Flow:
-Numerical Analysis and Dynamical Systems</a></td>
+<td>March 26</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">
+</a></td>
 </tr>
 
 <tr>
-<td>November 13</td>
-<td>Robert Buscaglia</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181113.pdf">Data Science in Action: Connecting Biochemistry and Statistics</a></td>
+<td>April 2</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190402.pdf">
+</a></td>
 </tr>
 
 <tr>
-<td>November 20</td>
-<td>Barbara Boschmans</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181120.pdf">A Sabbatical Analyzing LMC Data and Improving LMC Success Rates for First Generation Students</a></td>
+<td>April 9</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190409.pdf">
+</a></td>
 </tr>
 
 <tr>
-<td>November 27</td>
-<td>Ye Chen</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181127.pdf">Inferring Microbial Co-occurrence Network
-  from 16s rRNA-seq Data</a></td>
+<td>April 16</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190416.pdf">
+</a></td>
 </tr>
 
 <tr>
-<td>December 5</td>
-<td>Brian Beaudrie</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181204.pdf">A Tale of Two Sabbaticals</a></td>
+<td>April 23</td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190423.pdf">
+</a></td>
 </tr>
 
 </tbody>
