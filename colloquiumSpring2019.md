@@ -32,10 +32,10 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>September 11</td>
-<td>Bahattin Yildiz</td>
+<td>January 22</td>
+<td>Bertrand Cambou</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180911.pdf">p-ary local Frobenius rings, their homogeneous weights and a class of Griesmer-optimal codes.</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190122.pdf">Hash-based Cryptography as a solution against quantum computer attacks</a></td>
 </tr>
 
 <tr>
