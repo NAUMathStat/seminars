@@ -62,7 +62,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>February 19</td>
 <td>TBD</td>
-<td>NAU</td>
+<td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf"></a></td>
 </tr>
 
