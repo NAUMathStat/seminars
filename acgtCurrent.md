@@ -4,10 +4,10 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### Tetravalent Tricirculant Graphs and the Woolly Hat graphs
 
-**Date:** TBA
+**Date:** Tuesday, January 22
 
-**Speaker:** TBA
+**Speaker:** Steve Wilson (NAU)
 
-**Abstract:** TBA
+**Abstract:** Starting with the basics of graph symmetry, we will zoom into semi-regular symmetries and discuss diagrams of these symmetries.   We will consider existing classifications of trivalent circulant, bicirculant and tricirculant graphs, of tetravalent  circulant and bicirculant graphs and enter into the not-yet finished classification of tricirculant tetravalent graphs, including the most recalcitrant case, the Woolly hat graphs.
