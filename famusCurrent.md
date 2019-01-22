@@ -10,7 +10,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** Friday, January 18
 
-The speakers are the undergraduate math majors who will be attending and presenting at the upcoming Nebraska Conference for Undergraduate Women in Mathematics.  Belo are the speakers/titles/abstracts.
+The speakers are the undergraduate math majors who will be attending and presenting at the upcoming Nebraska Conference for Undergraduate Women in Mathematics.  Below are the speakers/titles/abstracts.
 
 #### A Geometric Approach to Generalized Frobenius Numbers
 
