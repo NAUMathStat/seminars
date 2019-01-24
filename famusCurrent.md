@@ -6,6 +6,10 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Should you consider graduate school in statistics or mathematics education or mathematics?
+
+We will have a single talk, given by Dana Ernst, that advertises our graduate programs in mathematics, mathematics education and statistics.  We will hear testimonials, from a smattering of current and former NAU grad students, on how fun and challenging and rewarding (FREE PIZZA) our graduate programs are. We will EAT PIZZA.  FREE PIZZA.  Pizza paid for BY THE DEPARTMENT.  Pizza paid for by faculty who REALLY WANT our students to think about pursuing graduate work in our department.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-01-25.pdf)] 
+
 ### Speakers for Upcoming Nebraska Conference for Undergraduate Women in Mathematics
 
 **Date:** Friday, January 18
