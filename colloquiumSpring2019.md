@@ -42,7 +42,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>January 29</td>
 <td>TBD</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf"></a></td>
 </tr>
 
 <tr>
