@@ -116,7 +116,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>April 16</td>
 <td>Roxy Peck</td>
-<td>Cal Poly</td>
+<td>Cal Poly SLO</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190416.pdf">Honors Day
 </a></td>
 </tr>
