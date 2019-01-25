@@ -41,7 +41,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>January 29</td>
 <td>Nethali Fernando</td>
-<td></td>
+<td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf">Modulus Metrics on Networks</a></td>
 </tr>
 
