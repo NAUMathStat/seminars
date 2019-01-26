@@ -123,7 +123,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 23</td>
-<td>TBD</td>
+<td>Bhagya Athukorallage</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190423.pdf">
 </a></td>
