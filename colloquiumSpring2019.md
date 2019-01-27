@@ -42,7 +42,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>January 29</td>
 <td>Nethali Fernando</td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf">Modulus Metrics on Networks</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf">New metrics on networks arising from modulus and applications of Fulkerson duality</a></td>
 </tr>
 
 <tr>
