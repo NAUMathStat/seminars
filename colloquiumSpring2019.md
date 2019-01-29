@@ -54,16 +54,16 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>February 12</td>
-<td>Kurt Herzinger</td>
-<td>USAF Academy, Colorado Springs</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190212.pdf">Date might move!</a></td>
+<td>TBD</td>
+<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf"></a></td>
 </tr>
 
 <tr>
 <td>February 19</td>
-<td>TBD</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_181009.pdf"></a></td>
+<td>Kurt Herzinger</td>
+<td>USAF Academy, Colorado Springs</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190212.pdf">Date might move!</a></td>
 </tr>
 
 <tr>
@@ -84,9 +84,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>March 12</td>
-<td>TBD</td>
+<td>Justin Sima and Riley Waechter</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf">Diophantine Approximations</a></td>
 </tr>
 
 <tr>
