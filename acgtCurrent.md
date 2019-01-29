@@ -4,6 +4,22 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### An Alternative Approach to Hierarchical Secret Sharing
+
+**Date:** Tuesday, February 26
+
+**Speaker:** Jonathan Wheelter (undergraduate at NAU)
+
+**Abstract:** TBA
+
+### TBA
+
+**Date:** Tuesday, February 5
+
+**Speaker:** Davide Deville (NAU)
+
+**Abstract:** TBA
+
 ### Tetravalent Tricirculant Graphs and the Woolly Hat graphs
 
 **Date:** Tuesday, January 22
