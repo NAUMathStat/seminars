@@ -91,7 +91,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>March 26</td>
-<td>TBD</td>
+<td>possible job talks</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">
 </a></td>
@@ -99,7 +99,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 2</td>
-<td>TBD</td>
+<td>possible job talks</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190402.pdf">
 </a></td>
@@ -107,7 +107,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 9</td>
-<td>TBD</td>
+<td>possible job talks</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190409.pdf">
 </a></td>
