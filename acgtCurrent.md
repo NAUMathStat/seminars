@@ -12,13 +12,13 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** TBA
 
-### TBA
+### Covering Spaces and the Fundamental Group
 
 **Date:** Tuesday, February 5
 
 **Speaker:** Davide Deville (NAU)
 
-**Abstract:** TBA
+**Abstract:** In this talk I will introduce the fundamental group of a topological space, define covering spaces and outline a few basic connections between them. With a focus on explanatory examples from graph theory, this talk should be especially suitable for undergraduates.
 
 ### Tetravalent Tricirculant Graphs and the Woolly Hat graphs
 
