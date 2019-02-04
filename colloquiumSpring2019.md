@@ -49,7 +49,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
   <td>February 5</td>
 <td>Xiangming Wu</td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190205.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190205.pdf">Persistence and Characteristics of Calculus I Students in STEM Disciplines-A Comparative Study of Three Versions of Calculus I</a></td>
 </tr>
 
 <tr>
