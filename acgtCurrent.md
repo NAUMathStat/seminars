@@ -1,4 +1,4 @@
-The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesdays at 12:45-1:45PM in Room 146 of the Adel Mathematics Building. If you are interested in giving a talk, please contact [Dana C. Ernst](http://danaernst.com), ACGT coordinator.
+The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesdays at 1:00-1:50PM in Room 146 of the Adel Mathematics Building. If you are interested in giving a talk, please contact [Dana C. Ernst](http://danaernst.com), ACGT coordinator.
 
 # Schedule Spring 2019 #
 
@@ -16,7 +16,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** Tuesday, February 5
 
-**Speaker:** Davide Deville (NAU)
+**Speaker:** David Deville (NAU)
 
 **Abstract:** In this talk I will introduce the fundamental group of a topological space, define covering spaces and outline a few basic connections between them. With a focus on explanatory examples from graph theory, this talk should be especially suitable for undergraduates.
 
