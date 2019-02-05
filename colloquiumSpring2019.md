@@ -63,7 +63,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 19</td>
 <td>Kurt Herzinger</td>
 <td>USAF Academy, Colorado Springs</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190219.pdf">Date might move!</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190219.pdf">Title TBA</a></td>
 </tr>
 
 <tr>
