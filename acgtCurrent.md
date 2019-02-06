@@ -14,7 +14,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Covering Spaces and the Fundamental Group
 
-**Date:** Tuesday, February 5
+**Date:** February 5, February 12
 
 **Speaker:** David Deville (NAU)
 
@@ -22,7 +22,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Tetravalent Tricirculant Graphs and the Woolly Hat graphs
 
-**Date:** Tuesday, January 22
+**Date:** January 22
 
 **Speaker:** Steve Wilson (NAU)
 
