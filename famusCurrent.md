@@ -20,7 +20,7 @@ At least 3 faculty in the math department have birthdays this week: Katie Loucha
 
 **Date:** Friday, February 1
 
-**Speakers:** Stephanie McCoy, Adeline Moll, Rebecca Broschat, &amp; Alyssa Stenberg (NAU)
+**Speakers:** Stephanie McCoy, Adeline Moll, Rebecca Broschat, &amp; Alyssa Stenberg
 
 We will have a single talk, featuring undergraduate math majors Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg; the presentation is a description of their experiences attending last week's Nebraska Conference for Undergraduate Women in Mathematics.  There will a combination of pictures and stories from the conference. Two subthemes of this FAMUS are "How does a person get involved in undergraduate research?  And how does one attend a math conference?"  Throughout the presentation, questions and inquiries are welcome, especially from undergrads who might be curious about pursuing undergrad research in mathematics, and ESPECIALLY especially from female math majors who might be curious about pursuing undergrad research in mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-01.pdf)]
 
