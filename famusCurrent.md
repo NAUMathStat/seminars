@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Magic Squares
+
+**Date:** Friday, February 8
+
+**Speaker:** Jeff Rushall (NAU)
+
+A magic square is an $n\times n$ grid filled with the integers $1, 2, 3,\ldots, n^2$ such that each row, column and diagonal sum is the same.  How are they built?  Do they exist for every possible size?  How many distinct magic squares of a given size exist?  Do 3D versions of magic squares exist?  The list of questions about them goes on and on - but this talk will only last about 30 minutes.  
+
+At least 3 faculty in the math department have birthdays this week: Katie Louchart, Jeff Rushall, and Dana Ernst.  In lieu of a faculty interview, we will sing happy birthday and serve birthday cake.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-08.pdf)] 
+
 ### A Report on the 2019 NCUWM
 
 **Date:** Friday, February 1
 
-**Speakers:** Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg
+**Speakers:** Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg (NAU)
 
-We will have a single talk, featuring undergraduate math majors Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg; the presentation is a description of their experiences attending last week's Nebraska Conference for Undergraduate Women in Mathematics.  There will a combination of pictures and stories from the conference. Two subthemes of this FAMUS are "How does a person get involved in undergraduate research?  And how does one attend a math conference?"  Throughout the presentation, questions and inquiries are welcome, especially from undergrads who might be curious about pursuing undergrad research in mathematics, and ESPECIALLY especially from female math majors who might be curious about pursuing undergrad research in mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-01.pdf)] 
+We will have a single talk, featuring undergraduate math majors Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg; the presentation is a description of their experiences attending last week's Nebraska Conference for Undergraduate Women in Mathematics.  There will a combination of pictures and stories from the conference. Two subthemes of this FAMUS are "How does a person get involved in undergraduate research?  And how does one attend a math conference?"  Throughout the presentation, questions and inquiries are welcome, especially from undergrads who might be curious about pursuing undergrad research in mathematics, and ESPECIALLY especially from female math majors who might be curious about pursuing undergrad research in mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-01.pdf)]
 
 ### Should you consider graduate school in statistics or mathematics education or mathematics?
 
