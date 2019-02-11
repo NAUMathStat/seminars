@@ -56,7 +56,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 12</td>
 <td>Stephen Wilson</td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_180212.pdf">The man who drowned irrationally</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190212.pdf">The man who drowned irrationally</a></td>
 </tr>
 
 <tr>
