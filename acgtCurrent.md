@@ -8,13 +8,13 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** Tuesday, February 26
 
-**Speaker:** Jonathan Wheelter (undergraduate at NAU)
+**Speaker:** Jonathan Wheeler (undergraduate at NAU)
 
 **Abstract:** TBA
 
 ### Covering Spaces and the Fundamental Group
 
-**Date:** February 5, February 12
+**Date:** February 5, February 12, February 19
 
 **Speaker:** David Deville (NAU)
 
