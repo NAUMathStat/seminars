@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The 10958 Problem
+
+**Date:** Friday, February 15
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The 10958 problem is simple to state: using each of the digits 1, 2, 3, 4, 5, 6, 7, 8, 9 in that order, can you "build" 10,958 using simple operations like addition, subtraction, multiplication, division, etc?  You can insert parenthesis wherever you like.  So some possibilities are $(1+2+3)^4 +(5\cdot 6)-7 +(8\cdot 9)$ or $(1+2+3+4)/5 + (6\cdot 7+8)^9$.  Hint: neither of those simplify to 10,958.  Can you solve this puzzle?  Come to FAMUS and see if a solution exists.   
+
+The faculty guest is Tyler Brock.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-15.pdf)]
+
 ### Magic Squares
 
 **Date:** Friday, February 8
 
 **Speaker:** Jeff Rushall (NAU)
 
-A magic square is an $n\times n$ grid filled with the integers $1, 2, 3,\ldots, n^2$ such that each row, column and diagonal sum is the same.  How are they built?  Do they exist for every possible size?  How many distinct magic squares of a given size exist?  Do 3D versions of magic squares exist?  The list of questions about them goes on and on - but this talk will only last about 30 minutes.  
+**Abstract:** A magic square is an $n\times n$ grid filled with the integers $1, 2, 3,\ldots, n^2$ such that each row, column and diagonal sum is the same.  How are they built?  Do they exist for every possible size?  How many distinct magic squares of a given size exist?  Do 3D versions of magic squares exist?  The list of questions about them goes on and on - but this talk will only last about 30 minutes.  
 
 At least 3 faculty in the math department have birthdays this week: Katie Louchart, Jeff Rushall, and Dana Ernst.  In lieu of a faculty interview, we will sing happy birthday and serve birthday cake.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-08.pdf)]
 
@@ -22,7 +32,7 @@ At least 3 faculty in the math department have birthdays this week: Katie Loucha
 
 **Speakers:** Stephanie McCoy, Adeline Moll, Rebecca Broschat, &amp; Alyssa Stenberg
 
-We will have a single talk, featuring undergraduate math majors Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg; the presentation is a description of their experiences attending last week's Nebraska Conference for Undergraduate Women in Mathematics.  There will a combination of pictures and stories from the conference. Two subthemes of this FAMUS are "How does a person get involved in undergraduate research?  And how does one attend a math conference?"  Throughout the presentation, questions and inquiries are welcome, especially from undergrads who might be curious about pursuing undergrad research in mathematics, and ESPECIALLY especially from female math majors who might be curious about pursuing undergrad research in mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-01.pdf)]
+**Abstract:** We will have a single talk, featuring undergraduate math majors Stephanie McCoy, Adeline Moll, Rebecca Broschat and Alyssa Stenberg; the presentation is a description of their experiences attending last week's Nebraska Conference for Undergraduate Women in Mathematics.  There will a combination of pictures and stories from the conference. Two subthemes of this FAMUS are "How does a person get involved in undergraduate research?  And how does one attend a math conference?"  Throughout the presentation, questions and inquiries are welcome, especially from undergrads who might be curious about pursuing undergrad research in mathematics, and ESPECIALLY especially from female math majors who might be curious about pursuing undergrad research in mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-01.pdf)]
 
 ### Should you consider graduate school in statistics or mathematics education or mathematics?
 
