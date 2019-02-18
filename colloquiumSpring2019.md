@@ -63,7 +63,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 19</td>
 <td>Kurt Herzinger</td>
 <td>USAF Academy, Colorado Springs</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190219.pdf">Title TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190219.pdf">Numerical Semigroups and the Game of Sylver Coinage</a></td>
 </tr>
 
 <tr>
