@@ -10,7 +10,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Jonathan Wheeler (undergraduate at NAU)
 
-**Abstract:** TBA
+**Abstract:** We look to understand “Hierarchical Secret Sharing Schemes” and work on new methods of creating them. We begin with understanding Shamir’s secret sharing schemes and analyzing the incidence structures of fully democratic Shamir schemes. Matrices are constructed whose rows are labeled with scheme participants and whose columns represent the supports of minimal access sets of secret sharing schemes. These matrices allow a greater understanding of many properties of secret sharing schemes; using these matrices, we can consider complex structures such as weighted and multilevel hierarchical schemes. From understanding the properties of these types of hierarchical secret sharing schemes, we can use trees to express and construct hierarchical and weighted secret sharing schemes that consist of nested fully democratic Shamir schemes.
 
 ### Covering Spaces and the Fundamental Group
 
