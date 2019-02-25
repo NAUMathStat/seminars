@@ -69,8 +69,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>February 26</td>
 <td>Jim Swift</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190226.pdf">
+<td>NAU Math/Stat</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190226.pdf">Dynamical Systems Art
 </a></td>
 </tr>
 
