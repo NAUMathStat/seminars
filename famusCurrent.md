@@ -12,12 +12,12 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** After brief announcements, we will have a few short presentations by faculty members on potential undergraduate research projects for the upcoming 2019-2020 academic year. The faculty who will present - or will have surrogates present for them - include:
 
-    1. Dana Ernst
-    2. Nandor Sieben
-    3. Bahattin Yildiz
-    4. Jeff Rushall
-    5. Roy St. Laurent
-    6. Michael Falk
+1. Dana Ernst
+2. Nandor Sieben
+3. Bahattin Yildiz
+4. Jeff Rushall
+5. Roy St. Laurent
+6. Michael Falk
 
 Many of the faculty will stick around to discuss said projects, so there will be no faculty interview.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-03-01.pdf)]
 
