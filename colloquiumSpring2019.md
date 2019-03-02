@@ -85,7 +85,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>March 12</td>
 <td>Justin Sima and Riley Waechter</td>
-<td></td>
+<td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf">Diophantine Approximations</a></td>
 </tr>
 
