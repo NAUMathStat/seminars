@@ -78,8 +78,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>March 5</td>
 <td>Terry Blows</td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190305.pdf">
-</a>It's Still Diff Eq To Me</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190305.pdf">It's Still Diff Eq To Me
+</a></td>
 </tr>
 
 <tr>
