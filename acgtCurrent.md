@@ -6,7 +6,7 @@ Note that talks are listed in reverse chronological order.
 
 ### An Alternative Approach to Hierarchical Secret Sharing
 
-**Date:** Tuesday, February 26
+**Date:** February 26, March 5
 
 **Speaker:** Jonathan Wheeler (undergraduate at NAU)
 
