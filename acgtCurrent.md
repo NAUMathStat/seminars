@@ -4,9 +4,19 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### The Rapidly Changing Landscape in Statistics Education—Implications for the Preparation of Future Teachers
+
+**Note:** This talk will be one of two talks that are given as part of our Honor's Day celebration.
+
+**Date:** April 16
+
+**Speaker:** Roxy Peck (Professor Emeritus at California Poly)
+
+**Abstract:** A careful look at changes over the last decade in the K-12 mathematics curriculum reveals a dramatic increase in statistical content. But higher education has been slow to recognize or respond to these changes, even though there are important implications for the college-level introductory statistics course and for the preparation of future teachers. This talk will explore these implications and the challenges mathematics and statistics faculty face in addressing them.
+
 ### An Alternative Approach to Hierarchical Secret Sharing
 
-**Date:** February 26, March 5
+**Date:** February 26, March 5, March 12
 
 **Speaker:** Jonathan Wheeler (undergraduate at NAU)
 

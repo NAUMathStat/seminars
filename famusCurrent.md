@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Sylver Coinage
+
+**Date:** Friday, March 8
+
+**Speaker:** Kurt Herzinger (US Air Force Academy)
+
+**Abstract:** We will have 30-minute talk by Dr. Kurt Herzinger, who will discuss a fun problem called "Sylver Coinage."  Sylver Coinage is a game played with whole numbers; it is simple to explain, but devilishly difficult to analyze.  It will also be fun to see how Dr. Herzinger gives his talk, since he will not be in Flagstaff tomorrow.  But technology is magical!
+
+After the talk, all present are invited to stay and FINALLY/HOPEFULLY finish the gigantic "Menger Sponge" project from last year.  To entice you to participate, all present will be fed pizza, courtesy of the math club and a few faculty members.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-03-08.pdf)]
+
 ### Faculty who want to mentor undergraduate research in 2019-2020
 
 **Date:** Friday, March 1
@@ -27,7 +37,7 @@ Many of the faculty will stick around to discuss said projects, so there will be
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** The 10958 problem is simple to state: using each of the digits 1, 2, 3, 4, 5, 6, 7, 8, 9 in that order, can you "build" 10,958 using simple operations like addition, subtraction, multiplication, division, etc?  You can insert parenthesis wherever you like.  So some possibilities are $(1+2+3)^4 +(5\cdot 6)-7 +(8\cdot 9)$ or $(1+2+3+4)/5 + (6\cdot 7+8)^9$.  Hint: neither of those simplify to 10,958.  Can you solve this puzzle?  Come to FAMUS and see if a solution exists.   
+**Abstract:** The 10958 problem is simple to state: using each of the digits 1, 2, 3, 4, 5, 6, 7, 8, 9 in that order, can you "build" 10,958 using simple operations like addition, subtraction, multiplication, division, etc?  You can insert parenthesis wherever you like.  So some possibilities are $(1+2+3)^4 +(5\cdot 6)-7 +(8\cdot 9)$ or $(1+2+3+4)/5 + (6\cdot 7+8)^9$.  Hint: neither of those simplify to 10,958.  Can you solve this puzzle?  Come to FAMUS and see if a solution exists.
 
 The faculty guest is Tyler Brock.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-15.pdf)]
 
@@ -37,7 +47,7 @@ The faculty guest is Tyler Brock.  [[PDF of Flyer]({{ site.baseurl }}/famus_file
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** A magic square is an $n\times n$ grid filled with the integers $1, 2, 3,\ldots, n^2$ such that each row, column and diagonal sum is the same.  How are they built?  Do they exist for every possible size?  How many distinct magic squares of a given size exist?  Do 3D versions of magic squares exist?  The list of questions about them goes on and on - but this talk will only last about 30 minutes.  
+**Abstract:** A magic square is an $n\times n$ grid filled with the integers $1, 2, 3,\ldots, n^2$ such that each row, column and diagonal sum is the same.  How are they built?  Do they exist for every possible size?  How many distinct magic squares of a given size exist?  Do 3D versions of magic squares exist?  The list of questions about them goes on and on - but this talk will only last about 30 minutes.
 
 At least 3 faculty in the math department have birthdays this week: Katie Louchart, Jeff Rushall, and Dana Ernst.  In lieu of a faculty interview, we will sing happy birthday and serve birthday cake.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-02-08.pdf)]
 
