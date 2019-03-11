@@ -86,7 +86,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>March 12</td>
 <td>Justin Sima and Riley Waechter</td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf">Diophantine Approximations</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf">On constructing Greek ladders to approximate algebraic numbers</a></td>
 </tr>
 
 <tr>
