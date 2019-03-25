@@ -14,6 +14,14 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** A careful look at changes over the last decade in the K-12 mathematics curriculum reveals a dramatic increase in statistical content. But higher education has been slow to recognize or respond to these changes, even though there are important implications for the college-level introductory statistics course and for the preparation of future teachers. This talk will explore these implications and the challenges mathematics and statistics faculty face in addressing them.
 
+### On Generalizing the Scarpis Construction to Quaternary Complex Hadamard Matrices
+
+**Date:** March 26
+
+**Speaker:** Kaitlyn Lee and Mason Sargent (undergraduates at NAU)
+
+**Abstract:** A complex Hadamard matrix H is a matrix of order n, with complex roots of unity for entries, that satisfies $H\cdot{\overline{H}^{T}}=n\cdot{I_{n}}$, where $\overline{H}^{T}$ denotes the complex conjugate transpose of H. In this talk, we will show that the Scarpis technique for constructing classic Hadamard matrices generalizes to Butson-type complex Hadamard matrices.
+
 ### An Alternative Approach to Hierarchical Secret Sharing
 
 **Date:** February 26, March 5, March 12
