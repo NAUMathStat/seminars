@@ -20,7 +20,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Kaitlyn Lee and Mason Sargent (undergraduates at NAU)
 
-**Abstract:** A complex Hadamard matrix H is a matrix of order n, with complex roots of unity for entries, that satisfies $H\cdot{\overline{H}^{T}}=n\cdot{I_{n}}$, where $\overline{H}^{T}$ denotes the complex conjugate transpose of H. In this talk, we will show that the Scarpis technique for constructing classic Hadamard matrices generalizes to Butson-type complex Hadamard matrices.
+**Abstract:** A complex Hadamard matrix H is a matrix of order n, with complex roots of unity for entries, that satisfies $H\cdot{\overline{H}^{T}}=n\cdot{I_{n}}$, where $\overline{H}^{T}$ denotes the complex conjugate transpose of $H$. In this talk, we will show that the Scarpis technique for constructing classic Hadamard matrices generalizes to Butson-type complex Hadamard matrices.
 
 ### An Alternative Approach to Hierarchical Secret Sharing
 
