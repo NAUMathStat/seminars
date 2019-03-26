@@ -98,9 +98,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>March 26</td>
-<td>possible job talks</td>
+<td>Adeline Moll, Rebecca Broschat, Alyssa Stenberg and Viola McCarty</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">The Game of Switch, and Generalized Frobenius Numbers
 </a></td>
 </tr>
 
