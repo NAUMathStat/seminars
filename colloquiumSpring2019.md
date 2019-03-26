@@ -138,7 +138,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 30</td>
-<td>TBD</td>
+<td>Nathan Diefenderfer</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190430.pdf">
 </a></td>
