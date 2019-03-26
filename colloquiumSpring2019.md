@@ -100,7 +100,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>March 26</td>
 <td>Adeline Moll, Rebecca Broschat, Alyssa Stenberg and Viola McCarty</td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">One Light, Two Light, Red Light, Green Light, and On Estimating Generalized Frobenius Numbers Using Numerical Semigroup Element Representations
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">One Light, Two Light, Red Light, Green Light, <br>and<br>On Estimating Generalized Frobenius Numbers Using Numerical Semigroup Element Representations
 </a></td>
 </tr>
 
