@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Stochastics of Chutes and Ladders
+
+**Date:** Friday, March 29
+
+**Speaker:** Robert Buscaglia (NAU)
+
+**Abstract:** The study of stochastic processes allows one to describe random events through mathematical objects.  Stochastic processes can be used to study systems that change randomly over time, and have become common place in the investigation of biology, chemistry, and engineering.  The board game Chutes and Ladders will be explored as a random processes on a closed system.  By considering the movement along the board as a finite discrete-time Markov chain, stochastic models are prepared to evaluate the expectation of winning from every spot.  Several sub-games will be explored: games that contain only Chutes, which push a player back down the board.  Games including only Ladders, which allow for one to move forward.  A third sub-game combining Chutes and Ladders is explored to evaluate how expectation changes with board size, placement of chutes, placement of ladders, the size of the dice, and the position on the board.  Simulations for the different sub-games will be run during the presentation to demonstrate how stochastic processes can be studied through the use of computational methods.  Finally, a logistic growth model will be used to compose a mathematical expressions for the expected numbers of turns needed to win a game from any spot.  These concepts will then be extended to describe the original game of Chutes and Ladders.  The agreement between simulations and the theoretical composition will be discussed.  Additional open problems involving the design of specific games will be provided.
+
+The faculty guest is Amy Rangel.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-03-29.pdf)]
+
 ### Sylver Coinage
 
 **Date:** Friday, March 8
