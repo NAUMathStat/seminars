@@ -14,11 +14,19 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** A careful look at changes over the last decade in the K-12 mathematics curriculum reveals a dramatic increase in statistical content. But higher education has been slow to recognize or respond to these changes, even though there are important implications for the college-level introductory statistics course and for the preparation of future teachers. This talk will explore these implications and the challenges mathematics and statistics faculty face in addressing them.
 
+### Codes with a compact description: Linear transformation codes, Transpolizer codes
+
+**Date:** April 2
+
+**Speaker:** Bahattin Yildiz (NAU)
+
+**Abstract:** Centralizer and twisted centralizer codes are special cases of what we now call linear transformation codes, codes that have a compact description and a new approach to the classical problems in coding theory. We will give some cryptographic motivation for such codes and then give the general properties of them. In particular we will talk about a new example of linear transformation codes, which we call “Transpolizer Codes” together with why we think they are important.
+
 ### On Generalizing the Scarpis Construction to Quaternary Complex Hadamard Matrices
 
 **Date:** March 26
 
-**Speaker:** Kaitlyn Lee and Mason Sargent (undergraduates at NAU)
+**Speakers:** Kaitlyn Lee and Mason Sargent (undergraduates at NAU)
 
 **Abstract:** A complex Hadamard matrix H is a matrix of order n, with complex roots of unity for entries, that satisfies $H\cdot{\overline{H}^{T}}=n\cdot{I_{n}}$, where $\overline{H}^{T}$ denotes the complex conjugate transpose of $H$. In this talk, we will show that the Scarpis technique for constructing classic Hadamard matrices generalizes to Butson-type complex Hadamard matrices.
 
