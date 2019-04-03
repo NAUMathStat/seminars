@@ -106,7 +106,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 2</td>
-<td>possible job talks</td>
+<td>cancelled</td>
 <td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190402.pdf">
 </a></td>
@@ -114,8 +114,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 9</td>
-<td>possible job talks</td>
-<td></td>
+<td>Bahattin Yildiz</td>
+<td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190409.pdf">
 </a></td>
 </tr>
@@ -131,7 +131,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>April 23</td>
 <td>Bhagya Athukorallage</td>
-<td></td>
+<td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190423.pdf">
 </a></td>
 </tr>
@@ -139,7 +139,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>April 30</td>
 <td>Nathan Diefenderfer</td>
-<td></td>
+<td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190430.pdf">
 </a></td>
 </tr>
