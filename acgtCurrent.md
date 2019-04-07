@@ -16,7 +16,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Codes with a compact description: Linear transformation codes, Transpolizer codes
 
-**Date:** April 2
+**Date:** April 2, April 9
 
 **Speaker:** Bahattin Yildiz (NAU)
 

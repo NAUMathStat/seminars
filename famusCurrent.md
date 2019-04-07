@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Generalizing The Scarpis Construction
+
+**Date:** Friday, April 5
+
+**Speakers:** Kaitlyn Lee and Mason Sargent (undergraduates at NAU)
+
+**Abstract:** The speakers this week are Kaitlyn Lee and Mason Sargent, fellow undergrads here at NAU.  They have been working on an undergraduate research project that has shown how to modify an existing algorithm for building classic Hadamard matrices to instead create complex Hadamard matrices.  That might not sound sexy, but complex Hadamard matrices are used to build quantum computers.  Is that awesome or what?   
+
+The "faculty guests" will be 2-4 current graduate students here at NAU who will regale those present with tales of how amazing it is be a graduate student in our department.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-04-05.pdf)]
+
 ### Stochastics of Chutes and Ladders
 
 **Date:** Friday, March 29
