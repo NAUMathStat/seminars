@@ -117,6 +117,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>Bahattin Yildiz</td>
 <td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190409.pdf">
+New extremal binary self-dual codes and designs from a Baumert-Hall array
 </a></td>
 </tr>
 
