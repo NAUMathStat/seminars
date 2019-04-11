@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Probability Distribution of the Score for the Generalized Othello Bonus Game
+
+**Date:** Friday, April 12
+
+**Speakers:** Luis Diaz and Jake Heneman (undergraduates at NAU)
+
+**Abstract:** The Othello Bonus Game is played on a $6\times 6$ board consisting of a square of black disks, surrounded by a ring of white disks, surrounded by an outer ring of playable (blank) spaces. The game is played by randomly placing a black disk in a playable space and flipping white disks ‘sandwiched’ between black disks (as in Othello). The game terminates when placement of a black disk does not flip any white disks. The score is the total number of black disks on the board. In this project, we generalize the game to an $n\times n$ board. We determine properties of this game including: classification of initial playable spaces, all achievable scores, and the probability distribution of scores by enumeration and simulation.
+
+The faculty guest is Roy St. Laurent.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-04-12.pdf)]
+
 ### Generalizing The Scarpis Construction
 
 **Date:** Friday, April 5
