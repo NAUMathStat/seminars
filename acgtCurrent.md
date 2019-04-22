@@ -4,6 +4,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Balanced partitions of cell networks supported by Cayley digraphs
+
+**Date:** April 23
+
+**Speaker:** Nandor Sieben (NAU)
+
+**Abstract:** I am going to attempt to prove that the balanced partitions of a cell network on a Cayley color digraphs of the group $G$ are exactly the coset partitions of $G$.
+
 ### The Rapidly Changing Landscape in Statistics Education—Implications for the Preparation of Future Teachers
 
 **Note:** This talk will be one of two talks that are given as part of our Honor's Day celebration.
