@@ -134,6 +134,7 @@ New extremal binary self-dual codes and designs from a Baumert-Hall array
 <td>Bhagya Athukorallage</td>
 <td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190423.pdf">
+The Mathematics of Capillary Interfaces
 </a></td>
 </tr>
 
