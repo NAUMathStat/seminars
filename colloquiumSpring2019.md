@@ -140,10 +140,9 @@ The Mathematics of Capillary Interfaces
 
 <tr>
 <td>April 30</td>
-<td>Nathan Diefenderfer</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190430.pdf">
-</a></td>
+<td>Canceled</td>
+<td></td>
+<td>Everett Walter's Funeral, 2:00 at Federated Community Church</td>
 </tr>
 
 </tbody>
