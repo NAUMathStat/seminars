@@ -6,6 +6,20 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Impossible Sum That Physicists Love to Love
+
+**Date:** Friday, May 3
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** I will be talking about this weird equation:
+\[
+1 + 2 + 3 + 4 + \cdots= -1/12
+\]
+This looks impossible - but is it?  I'll show why it might be true, and then open the floor for arguments.
+
+The faculty guest is John Hagood.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-05-03.pdf)]
+
 ### ICM at Rio de Janeiro: my experiences
 
 **Date:** Friday, April 19
@@ -14,7 +28,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** I attended ICM 2018 (International Congress of Mathematicians) in Rio de Janeiro, Brazil. ICM happens every four years; among other things, it is where Fields medals are awarded. There were also interesting talks and events. I will share my experiences, stories, pictures, videos of ICM and Rio.
 
-The faculty guest is Matt Fahy. .  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-04-19.pdf)]
+The faculty guest is Matt Fahy.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-04-19.pdf)]
 
 ### The Probability Distribution of the Score for the Generalized Othello Bonus Game
 
