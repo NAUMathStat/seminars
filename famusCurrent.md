@@ -13,9 +13,9 @@ Note that talks are listed in reverse chronological order.
 **Speakers:** Jeff Rushall (NAU)
 
 **Abstract:** I will be talking about this weird equation:
-\[
+\\[
 1 + 2 + 3 + 4 + \cdots= -1/12
-\]
+\\]
 This looks impossible - but is it?  I'll show why it might be true, and then open the floor for arguments.
 
 The faculty guest is John Hagood.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-05-03.pdf)]
