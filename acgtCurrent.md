@@ -4,10 +4,10 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### Colorings for BGCG Constructions
 
 **Date:** September 3
 
 **Speaker:** Steve Wilson (NAU)
 
-**Abstract:** TBA
+**Abstract:** This talk will touch on edge-colorings of graphs, particularly tetravalent graphs.  We can think of these colorings as equivalence relations on the set of edges, or as functions from the set of edges to some fixed color set.  We are particularly interested in ones whose symmetry group is large enough to be transitive on darts (i.e., directed edges) in the graph.   We will show some of the variety of possibilities, motivated by their uses in BGCG constructions.
