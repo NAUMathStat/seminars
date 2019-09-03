@@ -70,8 +70,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 8</td>
 <td></td>
 <td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190226.pdf">Dynamical Systems Art
-</a></td>
+<td></td>
 </tr>
 
 <tr>
