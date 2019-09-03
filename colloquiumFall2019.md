@@ -33,117 +33,103 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>September 3</td>
-<td>???</td>
+<td>no meeting</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>September 10</td>
+<td>Michael Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190903.pdf">????</a></td>
+<td>TBA</td>
 </tr>
 
 <tr>
-<td>January 29</td>
-<td>Nethali Fernando</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190129.pdf">New metrics on networks arising from modulus and applications of Fulkerson duality</a></td>
+  <td>September 17</td>
+<td>Derek Sonderegger</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
-  <td>February 5</td>
-<td>Xiangming Wu</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190205.pdf">Persistence and Characteristics of Calculus I Students in STEM Disciplines-A Comparative Study of Three Versions of Calculus I</a></td>
+<td>September 24</td>
+<td>John Neuberger</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
-<td>February 12</td>
-<td>Stephen Wilson</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190212.pdf">The man who drowned irrationally</a></td>
+<td>October 1</td>
+<td>Angie Hodge</td>
+<td>NAU</td>
+<td>TBA</td>
 </tr>
 
 <tr>
-<td>February 19</td>
-<td>Kurt Herzinger</td>
-<td>USAF Academy, Colorado Springs</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190219.pdf">Numerical Semigroups and the Game of Sylver Coinage</a></td>
-</tr>
-
-<tr>
-<td>February 26</td>
-<td>Jim Swift</td>
+<td>October 8</td>
+<td></td>
 <td>NAU Math/Stat</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190226.pdf">Dynamical Systems Art
 </a></td>
 </tr>
 
 <tr>
-<td>March 5</td>
-<td>Terry Blows</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190305.pdf">It's Still Diff Eq To Me
-</a></td>
-</tr>
-
-<tr>
-<td>March 12</td>
-<td>Justin Sima and Riley Waechter</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190312.pdf">On constructing Greek ladders to approximate algebraic numbers</a></td>
-</tr>
-
-<tr>
-<td>March 19</td>
-<td>Spring Break</td>
+<td>October 15</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190319.pdf"></a></td>
-</tr>
-
-<tr>
-<td>March 26</td>
-<td>Adeline Moll, Rebecca Broschat, Alyssa Stenberg and Viola McCarty</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190326.pdf">One Light, Two Light, Red Light, Green Light <br>and<br>On Estimating Generalized Frobenius Numbers Using Numerical Semigroup Element Representations
-</a></td>
-</tr>
-
-<tr>
-<td>April 2</td>
-<td>cancelled</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190402.pdf">
-</a></td>
-</tr>
-
-<tr>
-<td>April 9</td>
-<td>Bahattin Yildiz</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190409.pdf">
-New extremal binary self-dual codes and designs from a Baumert-Hall array
-</a></td>
-</tr>
-
-<tr>
-<td>April 16</td>
-<td>Roxy Peck</td>
-<td>Cal Poly, San Luis Obispo</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190416.pdf">Honors Day
-</a></td>
-</tr>
-
-<tr>
-<td>April 23</td>
-<td>Bhagya Athukorallage</td>
-<td>NAU Math/Stat</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190423.pdf">
-The Mathematics of Capillary Interfaces
-</a></td>
-</tr>
-
-<tr>
-<td>April 30</td>
-<td>Canceled</td>
 <td></td>
-<td>Everett Walter's Funeral, 2:00 at Federated Community Church</td>
 </tr>
+
+<tr>
+<td>October 22</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>October 29</td>
+<td>Robert Buscaglia</td>
+<td>NAU</td>
+<td></td>
+</tr>
+
+<tr>
+<td>November 5</td>
+<td>Ye Chen</td>
+<td>NAU</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>November 12</td>
+<td>Dana Ernst</td>
+<td>NAU</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>November 19</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>November 26</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>December 3</td>
+<td>Jeff Hovermill</td>
+<td>NAU</td>
+<td>TBA</td>
+</tr>
+
 
 </tbody>
 </table>
