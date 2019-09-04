@@ -69,7 +69,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>October 8</td>
 <td></td>
-<td>NAU Math/Stat</td>
+<td></td>
 <td></td>
 </tr>
 
