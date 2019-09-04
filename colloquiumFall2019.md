@@ -91,7 +91,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 29</td>
 <td>Robert Buscaglia</td>
 <td>NAU</td>
-<td></td>
+<td>TBA</td>
 </tr>
 
 <tr>
