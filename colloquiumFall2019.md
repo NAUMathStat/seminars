@@ -42,7 +42,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>September 10</td>
 <td>Michael Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170910.pdf">Arrangements, hypergraphs, and polymatroids,  GAGs, and other stories (sabbatical report)</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190910.pdf">Arrangements, hypergraphs, and polymatroids,  GAGs, and other stories (sabbatical report)</a></td>
 </tr>
 
 <tr>
@@ -56,7 +56,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>September 24</td>
 <td>Bertrand Cambou</td>
 <td>NAU (SICCS)</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170924.pdf">Statistical analysis of the response-based cryptography</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190924.pdf">Statistical analysis of the response-based cryptography</a></td>
 </tr>
 
 <tr>
