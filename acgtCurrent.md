@@ -6,7 +6,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Colorings for BGCG Constructions
 
-**Date:** September 3
+**Date:** September 3, September 10
 
 **Speaker:** Steve Wilson (NAU)
 
