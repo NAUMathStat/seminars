@@ -42,11 +42,11 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>September 10</td>
 <td>Michael Falk</td>
 <td>NAU</td>
-<td>TBA</td>
+<td>a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170910.pdf">Arrangements, hypergraphs, and polymatroids, \\ GAGs, and other stories (sabbatical report)</a></td>
 </tr>
 
 <tr>
-  <td>September 17</td>
+<td>September 17</td>
 <td>Derek Sonderegger</td>
 <td>NAU</td>
 <td>TBA</td>
@@ -54,9 +54,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>September 24</td>
-<td>John Neuberger</td>
-<td>NAU</td>
-<td>TBA</td>
+<tdBertrand Cambou></td>
+<td>NAU (SICCS)</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170924.pdf">Statistical analysis of the response-based cryptography</a></td>
 </tr>
 
 <tr>
@@ -68,8 +68,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>October 8</td>
-<td></td>
-<td></td>
+<td>John Neuberger</td>
+<td>NAU</td>
 <td></td>
 </tr>
 
