@@ -6,12 +6,19 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### What did I do this summer?  
 
 **Date:** Friday, September 6
 
 **Speakers:** Jeff Rushall (NAU)
 
-**Abstract:** TBA
+**Abstract:** During the summer of 2019, I did some interesting things.  I took some trips, did some math, did some GRADING, etc.  I'll show pictures and explain how I filled my summer, focusing occasionally on mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-09-06.pdf)]
+
+After my talk, there will be a parade of important people who talk about important things.  They include:
+
+- Gina Nabours talking about being a Math Jack.  
+- Zoe Escarcega talking giving/receiving tutoring in the ASC and the MAP room.  
+- Derek Sonderreger talking about the new BS in Data Science.  
+- Kameron Filardi talking about the NAU Math Club.  
 
 <!-- The faculty guest is John Hagood.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-05-03.pdf)] -->
