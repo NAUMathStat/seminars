@@ -42,7 +42,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>September 10</td>
 <td>Michael Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170910.pdf">Arrangements, hypergraphs, and polymatroids, \\ GAGs, and other stories (sabbatical report)</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_170910.pdf">Arrangements, hypergraphs, and polymatroids,  GAGs, and other stories (sabbatical report)</a></td>
 </tr>
 
 <tr>
