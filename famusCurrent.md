@@ -6,11 +6,21 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Circulant Hadamard Matrix Conjecture
+
+**Date:** Friday, September 13
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** A Hadamard matrix is an $n\times n$ matrix $M$ with $1$'s or $-1$'s for entries that satisfies a specific matrix equation, namely $MM^T = nI_n$.  Equivalently, $M$ has a biggest possible determinant value, namely $|n^{n/2}|$. In this talk I will present/explain all of this is a much different, down-to-earth way (you won't need to know anything about matrix equations or matrix determinants), and I'll discuss recent developments concerning a very famous conjecture about a specific type of Hadamard matrix.  
+
+The faculty guest is Jim Swift.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-09-13.pdf)]
+
 ### What did I do this summer?  
 
 **Date:** Friday, September 6
 
-**Speakers:** Jeff Rushall (NAU)
+**Speaker:** Jeff Rushall (NAU)
 
 **Abstract:** During the summer of 2019, I did some interesting things.  I took some trips, did some math, did some GRADING, etc.  I'll show pictures and explain how I filled my summer, focusing occasionally on mathematics. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-09-06.pdf)]
 
