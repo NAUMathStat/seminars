@@ -4,10 +4,10 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### Colorings for BGCG Constructions
+### Graphic braid groups and tilings
 
-**Date:** September 3, September 10
+**Date:** September 17
 
-**Speaker:** Steve Wilson (NAU)
+**Speaker:** Michael Falk (NAU)
 
-**Abstract:** This talk will touch on edge-colorings of graphs, particularly tetravalent graphs.  We can think of these colorings as equivalence relations on the set of edges, or as functions from the set of edges to some fixed color set.  We are particularly interested in ones whose symmetry group is large enough to be transitive on darts (i.e., directed edges) in the graph.   We will show some of the variety of possibilities, motivated by their uses in BGCG constructions.
+**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group, called a graphic braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way from the path of length two. I will also use part of the period to flesh out my sabbatical report from last Tuesday’s colloquium, with pictures and stories.
