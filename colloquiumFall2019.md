@@ -49,7 +49,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>September 17</td>
 <td>Derek Sonderegger</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190917.pdf">Three sabbatical projects</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190917.pdf">Three sabbatical pathogen projects</a></td>
 </tr>
 
 <tr>
