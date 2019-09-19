@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Proving a Claim: Mathematicians who were too persuasive
+
+**Date:** Friday, September 20
+
+**Speakers:** Zachary Parker (NAU)
+
+**Abstract:** In this talk, Zachary will present some well-known (and a few not-so-well-known) examples of mistakes made by some well-known (and a few not-so-well-known) mathematicians.
+
+The faculty guest is Mike Falk.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-09-20.pdf)]
+
 ### The Circulant Hadamard Matrix Conjecture
 
 **Date:** Friday, September 13
