@@ -4,10 +4,10 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### Graphic braid groups and tilings
+### Graphic braid groups and tilings, part 2
 
-**Date:** September 17
+**Date:** September 24
 
 **Speaker:** Michael Falk (NAU)
 
-**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group, called a graphic braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way from the path of length two. I will also use part of the period to flesh out my sabbatical report from last Tuesday’s colloquium, with pictures and stories.
+**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way. Last week I discussed the braid and pure braid groups; this week we’ll explore the GAG and graphic braid group associated with a graph, and work out an example together. I will also tell a share a few more stories and pictures from my sabbatical.
