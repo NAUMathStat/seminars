@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Problem of the Calissons
+
+**Date:** Friday, September 27
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** A calisson is a delightful French candy/cookie, often shaped as a rhombus.  Over a century ago, French bakers discovered a curious fact about hexagonal arrangements of calissons, namely this: when filling the hexagon, there are equal numbers of all three rhombus orientations (see the attached flyer for a visual example).  But mathematicians didn't come around to investigate the problem until the late 1980s.  In this talk, I'll discuss the problem, show a couple of solutions, and possibly even serve some calissons.  
+
+The faculty guest is Robert Buscaglia.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-09-27.pdf)]
+
 ### Proving a Claim: Mathematicians who were too persuasive
 
 **Date:** Friday, September 20
