@@ -10,4 +10,4 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Michael Falk (NAU)
 
-**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way. Last week I discussed the braid and pure braid groups; this week we’ll explore the GAG and graphic braid group associated with a graph, and work out an example together.
+**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way. In part 2 I defined the graphic full braid group associated with a graph. In part 3 we'll work out an example together, arriving at an interesting answer, and proceed to an open problem concerning GAGs.
