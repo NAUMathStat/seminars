@@ -63,7 +63,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 1</td>
 <td>Angie Hodge</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191001.pdf">The Use and Misuse of Worksheets in the Mathematics Classroom</a>
+</td>
 </tr>
 
 <tr>
