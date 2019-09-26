@@ -75,14 +75,14 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>October 15</td>
-<td><Alexandra Graf/td>
+<td>Alexandra Graf</td>
 <td>University of Waterloo</td>
 <td></td>
 </tr>
 
 <tr>
 <td>October 22</td>
-<td>Tolga Yal&ccdel in</td>
+<td>Tolga Yalcin</td>
 <td>NAU (SICCS)</td>
 <td>TBA</td>
 </tr>
