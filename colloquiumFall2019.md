@@ -120,7 +120,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>November 26</td>
 <td>John Hagood</td>
 <td>NAU</td>
-<td></td>
+<td>Relieving Banach-Tarski Anxiety.  What could go wrong</td>
 </tr>
 
 <tr>
