@@ -71,7 +71,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 8</td>
 <td>John Neuberger</td>
 <td>NAU</td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191008.pdf">Tricomi's Equation</a></td>
 </tr>
 
 <tr>
@@ -118,8 +118,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>November 26</td>
-<td></td>
-<td></td>
+<td>John Hagood</td>
+<td>NAU</td>
 <td></td>
 </tr>
 
