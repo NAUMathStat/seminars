@@ -76,7 +76,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>October 15</td>
-<td>Alexandra Graf</td>
+<td>Alessandra Graf</td>
 <td>University of Waterloo</td>
 <td></td>
 </tr>
