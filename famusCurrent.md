@@ -8,6 +8,14 @@ Note that talks are listed in reverse chronological order.
 
 ### The Congruent Number Problem
 
+**Date:** Friday, October 11
+
+**Speakers:** Jonathan Wheeler, Alyssa Stenberg, and Jonathan Hillman (NAU)
+
+**Abstract:**  The speakers are Jonathan Wheeler, Alyssa Stenberg, and Jonathan Hillman.  They all spent summer 2019 at REUs.  They will each give a short-ish presentation on the what, when, where, how and why of their respective REUs.  Afterwards we will have an open Q&A and then call it a day.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-10-11.pdf)]
+
+### The Congruent Number Problem
+
 **Date:** Friday, October 4
 
 **Speakers:** Jeff Rushall (NAU)
