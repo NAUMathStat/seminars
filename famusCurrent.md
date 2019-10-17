@@ -6,6 +6,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### A Cool Card Trick
+
+**Date:** Friday, October 18
+
+**Speaker:** Alessandra Graf (University of Waterloo in Canada)
+
+**Abstract:**  Suppose you shuffle a standard deck of 52 cards and deal them into 13 equal sized piles. Is it possible to pick a single card from each pile in such a way that each card has a different rank? Will it always be possible? In this talk, we will discuss how graph theory and the famous Hall's Theorem can be used to answer such questions.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-10-18.pdf)]
+
 ### The Congruent Number Problem
 
 **Date:** Friday, October 11
