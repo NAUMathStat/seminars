@@ -4,10 +4,10 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### Graphic braid groups and tilings, part 3
+### On graphic arrangement groups
 
-**Date:** October 1
+**Date:** October 22
 
 **Speaker:** Michael Falk (NAU)
 
-**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way. In part 2 I defined the graphic full braid group associated with a graph. In part 3 we'll work out an example together, arriving at an interesting answer, and proceed to an open problem concerning GAGs.
+**Abstract:** A simple graph determines a "graphic hyperplane arrangement," the complement of which is a "partial configuration space," whose fundamental group is a "GAG" (graphic arrangement group) or graphic pure braid group. This is a natural quotient of the pure braid group, with generators corresponding to edges of the graph and relations arising from 3- and 4-cliques. Not so much is known in general about these groups. We'll state a theorem and present an example supporting a conjecture that GAGs are isomorphic to subgroups of direct products of pure braid groups. (Joint work with Dan Cohen.)

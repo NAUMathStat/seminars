@@ -78,14 +78,14 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 15</td>
 <td>Alessandra Graf</td>
 <td>University of Waterloo</td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191015.pdf">Algorithmic Applications of Efficiently Finding Independent Transversals</a></td>
 </tr>
 
 <tr>
 <td>October 22</td>
-<td>Tolga Yalcin</td>
-<td>NAU (SICCS)</td>
-<td>TBA</td>
+<td>John Hagood</td>
+<td>NAU (emeritus)</td>
+<td>Relieving Banach-Tarski Anxiety.  What could go wrong</td>
 </tr>
 
 <tr>
@@ -118,9 +118,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>November 26</td>
-<td>John Hagood</td>
-<td>NAU</td>
-<td>Relieving Banach-Tarski Anxiety.  What could go wrong</td>
+<td>TBA</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
