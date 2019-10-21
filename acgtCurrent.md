@@ -4,7 +4,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### On graphic arrangement groups
+### Graphic arrangement groups, II
 
 **Date:** October 22
 
