@@ -85,7 +85,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 22</td>
 <td>John Hagood</td>
 <td>NAU (emeritus)</td>
-<td>Relieving Banach-Tarski Anxiety.  What could go wrong</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191022.pdf">Relieving Banach-Tarski Anxiety.  What could go wrong?</a></td>
 </tr>
 
 <tr>
