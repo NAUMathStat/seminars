@@ -6,6 +6,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### What's it Like?
+
+**Date:** Friday, October 25
+
+**Speaker:** Brian Beaudrie (NAU)
+
+**Abstract:**  During the summer of 2019, the presenter did something he hasn’t done in 20 years…took a college class. And it wasn’t a math class. And it was offered in Verona, Italy. Come to find out ‘what it’s like’ to be a college student in a foreign country.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-10-25.pdf)]
+
 ### A Cool Card Trick
 
 **Date:** Friday, October 18
