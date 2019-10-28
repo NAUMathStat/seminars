@@ -92,7 +92,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>October 29</td>
 <td>Robert Buscaglia</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191029.pdf">Introduction to Functional Data Analysis: Applications in R</a></td>
 </tr>
 
 <tr>
