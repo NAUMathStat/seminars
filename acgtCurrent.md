@@ -19,3 +19,54 @@ Note that talks are listed in reverse chronological order.
 **Speaker:** Michael Falk (NAU)
 
 **Abstract:** A simple graph determines a "graphic hyperplane arrangement," the complement of which is a "partial configuration space," whose fundamental group is a "GAG" (graphic arrangement group) or graphic pure braid group. This is a natural quotient of the pure braid group, with generators corresponding to edges of the graph and relations arising from 3- and 4-cliques. Not so much is known in general about these groups. We'll state a theorem and present an example supporting a conjecture that GAGs are isomorphic to subgroups of direct products of pure braid groups. (Joint work with Dan Cohen.)
+
+### Algorithmic Applications of Efficiently Finding Independent Transversals
+
+**Date:** October 15
+
+**Speaker:** Alessandra Graf, University of Waterloo
+
+**Abstract:** Let G be a graph and (V_1,...,V_m) be a vertex partition of G. An independent transversal (IT) of G with respect to (V_1,...,V_m) is an independent set {v_1,...,v_m} in G such that v_i is in V_i for each i in {1,...,m}. There exist various theorems that give sufficient conditions for the existence of ITs. These theorems have been used to solve problems in graph theory, hypergraphs, group theory, and theoretical computer science.
+In this talk, we discuss a new poly-time algorithm for finding an IT under certain conditions and some applications of this algorithm to graph colorings and hypergraph matchings.
+
+### Graphic arrangement groups
+
+**Date:** October 8
+
+**Speaker:** Michael Falk (NAU)
+
+**Abstract:** One can associate to a graph G a natural quotient of the pure braid group, called a GAG (for graphic arrangement group). I'll present a theorem and conjecture about injectivity of the natural map from a GAG to the product of the pure braid groups corresponding to the maximal cliques of the  underlying graph, and then focus on establishing this property in one very interesting example.
+
+### Graphic braid groups, part 3
+
+**Date:** October 1
+
+**Speaker:** Michael Falk (NAU)
+
+**Abstract:** Graphic braid groups, part 3.
+Abstract: One can associate to a graph G a natural (sub)quotient of the full braid group. In this episode we will examine the graphic braid group associated with the path of length two, and perhaps work through another example together, and then I will proceed to a discussion of GAGs and their properties.
+
+
+### Graphic braid groups, part 2
+
+**Date:** September 24
+
+**Speaker:** Michael Falk (NAU)
+
+**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way. Last week I discussed the braid and pure braid groups; this week we’ll explore the GAG and graphic braid group associated with a graph, and work out an example together. I will also tell a share a few more stories and pictures from my sabbatical.
+
+### Graphic braid groups
+
+**Date:** September 17
+
+**Speaker:** Michael Falk (NAU)
+
+**Abstract:** One can associate to a graph G a natural (sub)quotient of the full braid group. We will define this notion, and illustrate how the symmetry group of the isosceles right triangle tiling of the plane arises in this way. I will also use part of the period to flesh out my sabbatical report from last Tuesday’s colloquium, with pictures and stories.
+
+### Colorings for BGCG Constructions
+
+**Date:** September 3, 10
+
+**Speaker:** Steve Wilson (NAU emeritus)
+
+**Abstract:** This talk will touch on edge-colorings of graphs, particularly tetravalent graphs.  We can think of these colorings as equivalence relations on the set of edges, or as functions from the set of edges to some fixed color set.  We are particularly interested in ones whose symmetry group is large enough to be transitive on darts (i.e., directed edges) in the graph.   We will show some of the variety of possibilities, motivated by their uses in BGCG constructions.
