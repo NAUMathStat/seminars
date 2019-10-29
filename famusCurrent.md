@@ -64,7 +64,7 @@ The faculty guest is Mike Falk.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/
 
 **Speakers:** Jeff Rushall (NAU)
 
-**Abstract:** A Hadamard matrix is an $n\times n$ matrix $M$ with $1$'s or $-1$'s for entries that satisfies a specific matrix equation, namely $MM^T = nI_n$.  Equivalently, $M$ has a biggest possible determinant value, namely $|n^{n/2}|$. In this talk I will present/explain all of this is a much different, down-to-earth way (you won't need to know anything about matrix equations or matrix determinants), and I'll discuss recent developments concerning a very famous conjecture about a specific type of Hadamard matrix.  
+**Abstract:** A Hadamard matrix is an $n\times n$ matrix $M$ with $1$'s or $-1$'s for entries that satisfies a specific matrix equation, namely $MM^T = nI_n$.  Equivalently, $M$ has a biggest possible determinant value. In this talk I will present/explain all of this is a much different, down-to-earth way (you won't need to know anything about matrix equations or matrix determinants), and I'll discuss recent developments concerning a very famous conjecture about a specific type of Hadamard matrix.  
 
 The faculty guest is Jim Swift.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-09-13.pdf)]
 
