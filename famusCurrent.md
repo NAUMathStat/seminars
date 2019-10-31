@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Factoring (and other such activities that children often meet with disdain)
+
+**Date:** Friday, November 1
+
+**Speaker:** Tyler Brock (NAU)
+
+**Abstract:** It is no secret that plenty of folks don't enjoy factoring polynomials. Can teachers make the topic of factoring more accessible and interesting for their students? Are there other methods of factoring that we are not making use of that could help youngsters enjoy the process a bit more? And, let us not forget the question: Why do we care? All of these will be answered, and more!     [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-11-01.pdf)]
+
 ### What's it Like?
 
 **Date:** Friday, October 25
 
 **Speaker:** Brian Beaudrie (NAU)
 
-**Abstract:**  During the summer of 2019, the presenter did something he hasn’t done in 20 years…took a college class. And it wasn’t a math class. And it was offered in Verona, Italy. Come to find out ‘what it’s like’ to be a college student in a foreign country.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-10-25.pdf)]
+**Abstract:**  During the summer of 2019, the presenter did something he hasn’t done in 20 years…took a college class. And it wasn’t a math class. And it was offered in Verona, Italy. Come to find out ‘what it’s like’ to be a college student in a foreign country.  
+
+The faculty guest is Nellie Gopaul. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-10-25.pdf)]
 
 ### A Cool Card Trick
 
