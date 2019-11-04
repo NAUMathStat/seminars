@@ -6,7 +6,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Taxonomy of braid graphs in Coxeter systems of types $A$ and $D$
 
-**Date:** October 29
+**Date:** October 29, November 5
 
 **Speaker:** [Dana C. Ernst](http:/danaernst.com) (NAU)
 
