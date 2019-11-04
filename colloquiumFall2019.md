@@ -99,7 +99,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>November 5</td>
 <td>Ye Chen</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191105.pdf">Hued coloring on graphs without certain minors</a></td>
 </tr>
 
 <tr>
