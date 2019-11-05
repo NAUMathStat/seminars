@@ -104,9 +104,9 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>November 12</td>
-<td>Dana Ernst</td>
-<td>NAU</td>
 <td>TBA</td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
