@@ -4,6 +4,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Locating-chromatic number of generalized Petersen graph
+
+**Date:** November 12
+
+**Speaker:** Ye Chen (NAU)
+
+**Abstract:** A graph has a k-locating-coloring if the vertices of the graph can be partitioned into k sets such that (1) the adjacent vertices are not in the same set and, (2) the distance coordinates vector which consists of the distances between the vertex and the k sets are different between any pair of vertices. The smallest k such that the graph G has a k-locating-coloring is the locating-chromatic number of G. I will go through some examples and results on paths and cycles in this seminar. Hopefully we can touch base on the locating chromatic number of generalized Petersen graph.
+
 ### Taxonomy of braid graphs in Coxeter systems of types $A$ and $D$
 
 **Date:** October 29, November 5
