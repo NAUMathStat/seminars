@@ -16,9 +16,9 @@ Note that talks are listed in reverse chronological order.
 
 In lieu of a faculty interview, we will do three things:
 
-    1. Become members of AATM!  I have an agreement with the President of the AATM (Arizona Association of Teachers of Mathematics) that anyone who comes to FAMUS on Friday and fills out a membership form gets a FREE membership!  This gives you free copies of their publications, free registration to their meetings/conferences, and more.  
-    2. Work on the "Menger Sponge."  The NAU Math Club is still completing their huge Menger sponge.  We'll put some time into it on Friday.
-    3. Eat some snacks.  
+1. Become members of AATM!  I have an agreement with the President of the AATM (Arizona Association of Teachers of Mathematics) that anyone who comes to FAMUS on Friday and fills out a membership form gets a FREE membership!  This gives you free copies of their publications, free registration to their meetings/conferences, and more.  
+2. Work on the "Menger Sponge."  The NAU Math Club is still completing their huge Menger sponge.  We'll put some time into it on Friday.
+3. Eat some snacks.  
 
 ### Factoring (and other such activities that children often meet with disdain)
 
