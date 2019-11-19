@@ -113,7 +113,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>November 19</td>
 <td>Derek Sonderegger</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191119.pdf">Measuring Hospital Acquired Infection Rates Under Incomplete Sampling</a></td>
 </tr>
 
 <tr>
