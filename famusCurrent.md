@@ -6,13 +6,27 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Mrs. Perkins' Quilts
+
+**Date:** Friday, November 15
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Quilters often make quilts with different sizes of squares.  A "perfect squared square" is a square quilt made by stitching together a bunch of different sized squares, with all squares having whole number side lengths.  Do they even exist?  How are they found?  And who is Mrs. Perkins?  Come to FAMUS - all of this will be explained, and more. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-11-15.pdf)]
+
+In lieu of a faculty interview, we will do three things:
+
+1. Become members of AATM!  I have an agreement with the President of the AATM (Arizona Association of Teachers of Mathematics) that anyone who comes to FAMUS on Friday and fills out a membership form gets a FREE membership!  This gives you free copies of their publications, free registration to their meetings/conferences, and more.  
+2. Work on the "Menger Sponge."  The NAU Math Club is still completing their huge Menger sponge.  We'll put some time into it on Friday.
+3. Eat some snacks.  
+
 ### Factoring (and other such activities that children often meet with disdain)
 
 **Date:** Friday, November 1
 
 **Speaker:** Tyler Brock (NAU)
 
-**Abstract:** It is no secret that plenty of folks don't enjoy factoring polynomials. Can teachers make the topic of factoring more accessible and interesting for their students? Are there other methods of factoring that we are not making use of that could help youngsters enjoy the process a bit more? And, let us not forget the question: Why do we care? All of these will be answered, and more!     [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-11-01.pdf)]
+**Abstract:** It is no secret that plenty of folks don't enjoy factoring polynomials. Can teachers make the topic of factoring more accessible and interesting for their students? Are there other methods of factoring that we are not making use of that could help youngsters enjoy the process a bit more? And, let us not forget the question: Why do we care? All of these will be answered, and more!  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-11-01.pdf)]
 
 ### What's it Like?
 
