@@ -6,6 +6,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Should you consider grad school in math, statistics or math education?
+
+**Date:** Friday, November 22
+
+**Speaker:** Angie Hodge (NAU)
+
+**Abstract:** During the talk, information will be provided about grad school, including who should consider it, and why, and how, etc.  Several current grad students will provide first hand testimonials about life as a grad student.  The talk will be followed by FREE PIZZA and and grad school comments. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-11-22.pdf)]
+
 ### Mrs. Perkins' Quilts
 
 **Date:** Friday, November 15
