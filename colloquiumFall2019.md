@@ -120,14 +120,15 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>November 26</td>
 <td>Tolga Yalçin</td>
 <td>NAU (SICCS)</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191126.pdf">Involutive S-Boxes over GF((2<sup>3</sup>)<sup>n</sup>) for n in {2,3,4}</a></td>
 </tr>
 
 <tr>
 <td>December 3</td>
 <td>Jeff Hovermill</td>
 <td>NAU</td>
-<td>TBA</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191203.pdf">Jeff Hovermill’s Sabbatical Talk
+</a></td>
 </tr>
 
 

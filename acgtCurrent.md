@@ -4,6 +4,15 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Homogeneous weights for rings and finite geometries
+
+**Date:** November 26, December 3
+
+**Speaker:** Bahattin Yildiz (NAU)
+
+**Abstract:** A We will consider the homogeneous weights for several finite rings and explore the contribution of finite geometries into the construction of Gray maps for these homogeneous weights. We will try in the end to get a sense of what rings and weights would be appropriate to consider within the context of finite geometries.
+
+
 ### Locating-chromatic number of generalized Petersen graph, Part II
 
 **Date:** November 19
