@@ -105,8 +105,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <tr>
 <td>November 12</td>
 <td>Michael Falk</td>
+<td>NAU</td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191112.pdf">Resonance varieties and Dilworth truncations</a></td>
-<td></td>
 </tr>
 
 <tr>
