@@ -32,104 +32,118 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 <tr>
-<td>September 3</td>
-<td>no meeting</td>
+<td>January 14</td>
+<td>Organizational meeting</td>
 <td></td>
 <td></td>
 </tr>
 
 <tr>
-<td>September 10</td>
-<td>Michael Falk</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190910.pdf">Arrangements, hypergraphs, and polymatroids,  GAGs, and other stories (sabbatical report)</a></td>
+<td>January 21</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>September 17</td>
-<td>Derek Sonderegger</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190917.pdf">Three sabbatical pathogen projects</a></td>
+<td>January 28</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>September 24</td>
-<td>Bertrand Cambou</td>
-<td>NAU (SICCS)</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_190924.pdf">Statistical analysis of the response-based cryptography</a></td>
+<td>February 4</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>October 1</td>
-<td>Angie Hodge</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191001.pdf">The Use and Misuse of Worksheets in the Mathematics Classroom</a>
-</td>
+<td>February 11</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>October 8</td>
-<td>John Neuberger</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191008.pdf">Tricomi's Equation</a></td>
+<td>February 18</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>October 15</td>
-<td>Alessandra Graf</td>
-<td>University of Waterloo</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191015.pdf">Algorithmic Applications of Efficiently Finding Independent Transversals</a></td>
+<td>February 25</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>October 22</td>
-<td>John Hagood</td>
-<td>NAU (emeritus)</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191022.pdf">Relieving Banach-Tarski Anxiety.  What could go wrong?</a></td>
+<td>March 3</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>October 29</td>
-<td>Robert Buscaglia</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191029.pdf">Introduction to Functional Data Analysis: Applications in R</a></td>
+<td>March 10</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>November 5</td>
-<td>Ye Chen</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191105.pdf">Hued coloring on graphs without certain minors</a></td>
+<td>March 24</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>November 12</td>
-<td>Michael Falk</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191112.pdf">Resonance varieties and Dilworth truncations</a></td>
+<td>March 24</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>November 19</td>
-<td>Derek Sonderegger</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191119.pdf">Measuring Hospital Acquired Infection Rates Under Incomplete Sampling</a></td>
+<td>March 31</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>November 26</td>
-<td>Tolga Yalçin</td>
-<td>NAU (SICCS)</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191126.pdf">Involutive S-Boxes over GF((2<sup>3</sup>)<sup>n</sup>) for n in {2,3,4}</a></td>
+<td>April 7</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
-<td>December 3</td>
-<td>Jeff Hovermill</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_191203.pdf">Jeff Hovermill’s Sabbatical Talk
-</a></td>
+<td>April 14</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
+
+<tr>
+<td>April 21</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>April 28</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
 
 
 </tbody>
