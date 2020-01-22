@@ -50,7 +50,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>January 28</td>
 <td>Michael Falk</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200128.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200128.pdf"></a></td>
 </tr>
 
 
@@ -58,7 +58,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 4</td>
 <td>Jim Swift</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200204.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200204.pdf"></a></td>
 </tr>
 
 
@@ -66,7 +66,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 11</td>
 <td>Bahattin Yildiz</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_2002011.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_2002011.pdf"></a></td>
 </tr>
 
 
@@ -74,7 +74,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 20</td>
 <td>Geoff Wild</td>
 <td>University of Western Ontario</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200218.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200218.pdf"></a></td>
 </tr>
 
 
@@ -90,7 +90,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>March 3</td>
 <td>Jin Wang</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200303.pdf">TBA</a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200303.pdf"></a></td>
 </tr>
 
 
