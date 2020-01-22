@@ -8,7 +8,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Binary Linear Codes from Graphs
 
-**Date:** January 14
+**Date:** January 14, January 21
 
 **Speaker:** Sudipta Mallik (NAU)
 

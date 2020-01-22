@@ -40,108 +40,109 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>January 21</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Terence Blows</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200121.pdf">The Pentagonal Tiling Problem</a></td>
 </tr>
+
 
 <tr>
 <td>January 28</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Michael Falk</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200128.pdf">TBA</a></td>
 </tr>
+
 
 <tr>
 <td>February 4</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Jim Swift</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200204.pdf">TBA</a></td>
 </tr>
+
 
 <tr>
 <td>February 11</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Bahattin Yildiz</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_2002011.pdf">TBA</a></td>
 </tr>
 
+
 <tr>
-<td>February 18</td>
-<td></td>
-<td></td>
-<td></td>
+<td>February 20</td>
+<td>Geoff Wild</td>
+<td>University of Western Ontario</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200218.pdf">TBA</a></td>
 </tr>
+
 
 <tr>
 <td>February 25</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Ye Chen</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200225.pdf">The Pentagonal Tiling Problem</a></td>
 </tr>
+
 
 <tr>
 <td>March 3</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Jin Wang</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200303.pdf">TBA</a></td>
 </tr>
+
 
 <tr>
 <td>March 10</td>
+<td>TBA</td>
 <td></td>
-<td></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200310.pdf"></a></td>
 </tr>
+
 
 <tr>
 <td>March 24</td>
+<td>TBA</td>
 <td></td>
-<td></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200324.pdf"></a></td>
 </tr>
 
-<tr>
-<td>March 24</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>March 31</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 
 <tr>
 <td>April 7</td>
+<td>TBA</td>
 <td></td>
-<td></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200407.pdf"></a></td>
 </tr>
 
+
 <tr>
-<td>April 14</td>
-<td></td>
-<td></td>
-<td></td>
+<td>April 16</td>
+<td>Chris Rasmussen</td>
+<td>San Diego State University</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200414.pdf"></a></td>
 </tr>
+
 
 <tr>
 <td>April 21</td>
+<td>TBA</td>
 <td></td>
-<td></td>
-<td></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200121.pdf"></a></td>
 </tr>
+
 
 <tr>
 <td>April 28</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Shannon Guerrero</td>
+<td>NAU</td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200428.pdf"></a></td>
 </tr>
+
+
+
 
 
 
