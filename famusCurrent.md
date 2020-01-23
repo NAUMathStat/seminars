@@ -6,14 +6,12 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### Sylver Coinage Digraphs
 
 **Date:** Friday, January 24
 
-**Speaker:** Jeff Rushall (NAU)
+**Speaker:** Chloe Frechette (NAU)
 
-**Abstract:** TBA
+**Abstract:** In the talk, we will explain the game of Sylver Coinage, how the game translates nicely into a graph theory context, and the progress we have made analyzing families of graphs in terms of finding winning strategies in Sylver Coinage.  This talk is "practice" for my poster presentation at the Nebraska Conference for Undergraduate Women in Mathematics.  
 
-<!-- I'll explain how pi has been computed, estimated, and expressed through the centuries.  It will be insanely entertaining.  I normally like to give talks on pi on "Pi Day" (March 14th) (3-14)(get it?).  But Pi Day falls on spring break these days.  So we will pretend it is Pi Day and eat pie!  Everyone is welcome to bring some pie.  I will bring a pie.  I'm told that NAU Math Club representatives will attend and bring pie.  
-
-The faculty guest will be Tyler Brock.  Tyler will also bring a pie.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS19-12-06.pdf)] -->
+The faculty guest will be Ian Williams.  Tyler will also bring a pie.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-01-24.pdf)]
