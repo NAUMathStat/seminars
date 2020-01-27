@@ -6,6 +6,17 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Hypergraphic polymatroids and Dilworth truncation
+
+**Date:** January 28, February 4, February 11
+
+**Speaker:** Michael Falk (NAU)
+
+**Abstract:** Matroids capture the combinatorial structure of vector or line configurations (or, equivalently, linear subspaces). Graphs (allowing loops and multiple edges) naturally give rise to line configurations and matroids, which reflect the graph structure to a large degree. For instance, planarity of a graph is detected by realizability (over the field of two elements) of the dual matroid. Whitney's 2-isomorphism theorem states that graphs with isomorphic matroids are related by splitting, joining, or twisting. 
+
+Polymatroids capture the combinatorial structure of configurations of subspaces, and hypergraphs naturally give rise to such. The purpose of these talks is to examine the generalization of Whitney's Theorem to hypergraphs, due to Vertigan and Whittle, which involves a very interesting operation on subspace arrangements or polymatroids known as Dilworth truncation.
+
+
 ### Binary Linear Codes from Graphs
 
 **Date:** January 14, January 21
