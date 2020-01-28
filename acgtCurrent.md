@@ -23,4 +23,4 @@ Polymatroids capture the combinatorial structure of configurations of subspaces,
 
 **Speaker:** Sudipta Mallik (NAU)
 
-**Abstract:** A binary linear code of length $n$ is a subspace of $\mathbb{F}_2^n$. I will start with a brief introduction to binary linear codes. Then I will present a construction of binary linear codes from graphs, in particular, by the generator matrix $[I_n|A]$ where A is the adjacency matrix of a graph on n vertices. Finally a graph theoretic interpretation of the minimum distance of such codes will be given.
+**Abstract:** A binary linear code of length $n$ is a subspace of $\mathbb{F}_2^n$. I will start with a brief introduction to binary linear codes. Then I will present a construction of binary linear codes from graphs, in particular, by the generator matrix $[I_n\mid A]$ where A is the adjacency matrix of a graph on n vertices. Finally a graph theoretic interpretation of the minimum distance of such codes will be given.
