@@ -58,7 +58,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 4</td>
 <td>Jim Swift</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200204.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200204.pdf">Generalized Eigenvectors and the Sturm-Liouville Eigenvalue Problem</a></td>
 </tr>
 
 
