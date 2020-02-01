@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Pentagonal Planar Tilings
+
+**Date:** Friday, January 31
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  Inspired by Dr. Blows' recent colloquium on this topic, I will give a similar presentation, describing the history of the problem of finding all monohedral pentagonal planar tilings.
+
+The faculty guest will be Derek Sonderegger.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-01-31.pdf)]
+
 ### Sylver Coinage Digraphs
 
 **Date:** Friday, January 24
@@ -14,4 +24,4 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** In the talk, we will explain the game of Sylver Coinage, how the game translates nicely into a graph theory context, and the progress we have made analyzing families of graphs in terms of finding winning strategies in Sylver Coinage.  This talk is "practice" for my poster presentation at the Nebraska Conference for Undergraduate Women in Mathematics.  
 
-The faculty guest will be Ian Williams.  Tyler will also bring a pie.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-01-24.pdf)]
+The faculty guest will be Ian Williams.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-01-24.pdf)]
