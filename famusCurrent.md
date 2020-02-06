@@ -6,6 +6,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Platonic Solids et al.
+
+**Date:** Friday, February 7
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** In the presentation I will define the Platonic solids, mention their development historically, explain (with hand waving) why there are only 5 such solids, and discuss variations (Johnson solids, Archimedean solids, etc.).  Amusing pictures will be shown.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-02-07.pdf)]
+
 ### Pentagonal Planar Tilings
 
 **Date:** Friday, January 31
