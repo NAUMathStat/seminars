@@ -66,7 +66,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 11</td>
 <td>Bahattin Yildiz</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_2002011.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_2002011.pdf">Modified Quadratic Residue Constructions and New Extremal Binary Self-dual Codes of Lengths 64, 66 and 68</a></td>
 </tr>
 
 
@@ -122,7 +122,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>April 16</td>
 <td>Chris Rasmussen</td>
 <td>San Diego State University</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200414.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200416.pdf"></a></td>
 </tr>
 
 
