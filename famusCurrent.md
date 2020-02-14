@@ -8,6 +8,16 @@ Note that talks are listed in reverse chronological order.
 
 ### The Platonic Solids et al.
 
+**Date:** Friday, February 14
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** In the presentation I will explain a humorous puzzle created by David Hilbert, who died on "Valentine's Day" in 1943.  The puzzle deals with the following: if a normal/finite hotel is full, there are no vacancies.  But if we are talking about an infinite hotel, well, even if the hotel is full, it isn't full.  The consequences are fun.  Amusing pictures will be shown.
+
+The faculty guests are David Deville and Sarah Watson, rather appropriate for Valentine's Day, eh?  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-02-14.pdf)]
+
+### The Platonic Solids et al.
+
 **Date:** Friday, February 7
 
 **Speaker:** Jeff Rushall (NAU)
