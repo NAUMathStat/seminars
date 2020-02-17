@@ -74,7 +74,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 20</td>
 <td>Geoff Wild</td>
 <td>University of Western Ontario</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200218.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200220.pdf">Modelling kindness</a></td>
 </tr>
 
 
