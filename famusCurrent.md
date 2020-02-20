@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Happy Ending Problem
+
+**Date:** Friday, February 21
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** In the presentation I will tell a tale that SHOULD be better known.  It features the four key ingredients for any good story: math, love, tragedy, and Paul Erdos.  The math is a simple geometry problem that remains unsolved. The love, tragedy and Erdos connections?  Come and find out!
+
+The faculty guest is Shannon Guerrero  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-02-21.pdf)]
+
 ### The Platonic Solids et al.
 
 **Date:** Friday, February 14
