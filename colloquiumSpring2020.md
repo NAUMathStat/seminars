@@ -82,7 +82,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>February 25</td>
 <td>Ye Chen</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200225.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200225.pdf">How cells make decisions – identifying master regulators by Boolean network</a></td>
 </tr>
 
 

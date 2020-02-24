@@ -8,7 +8,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Hypergraphic polymatroids and Dilworth truncation
 
-**Date:** January 28, February 4, February 11, February 18
+**Date:** January 28, February 4, February 11, February 18, February 25
 
 **Speaker:** Michael Falk (NAU)
 
