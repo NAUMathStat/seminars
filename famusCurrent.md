@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Friedman Numbers
+
+**Date:** Friday, March 6
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  Friedman numbers are positive integers that can be formed by combining the digits of the integer using any of addition, subtraction, multiplication, division and exponentiation.  For instance, 25 and 688 are Friedman numbers because 25 = 5^2 and 688 = 86x8.  In the presentation I will show interesting examples of Friedman numbers, and discuss the various variations of Friedman numbers (via adding more operations, or insisting on non-repeating digits, or searching for PRIME Friedman numbers, etc.). The processes involved border on numerology, but they are certainly entertaining.  A flyer is attached for your perusal.
+
+The faculty guest is John Neuberger.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-03-06.pdf)]
+
 ### The Moving Sofa Problem
 
 **Date:** Friday, February 28
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** In the presentation I will explain the titular problem: what is the largest "sofa" that can be moved around a 90-degree corner (with no tilting or twisting allowed)?  This is essentially the 2-D version of the classic "ladder problem" from calc I.  It turns out that this 2-D version is not so easy to solve. 
+**Abstract:** In the presentation I will explain the titular problem: what is the largest "sofa" that can be moved around a 90-degree corner (with no tilting or twisting allowed)?  This is essentially the 2-D version of the classic "ladder problem" from calc I.  It turns out that this 2-D version is not so easy to solve.
 
 The faculty guest is Gina Nabors.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS20-02-28.pdf)]
 
