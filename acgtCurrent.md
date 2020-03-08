@@ -6,6 +6,8 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+No meeting March 3 or March 10.
+
 ### Hypergraphic polymatroids and Dilworth truncation
 
 **Date:** January 28, February 4, February 11, February 18, February 25
