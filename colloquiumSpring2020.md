@@ -115,8 +115,8 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>April 16</td>
-<td>Chris Rasmussen</td>
-<td>San Diego State University</td>
+<td>TBA</td>
+<td></td>
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200416.pdf"></a></td>
 </tr>
 
