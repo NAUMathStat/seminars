@@ -94,26 +94,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 </tr>
 
 
-<tr>
-<td>March 10</td>
-<td>John Jasper</td>
-<td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200310.pdf">Equiangular tight frames</a></td>
-</tr>
 
-<tr>
-<td>March 12</td>
-<td>Houssam Abdul-Rahman</td>
-<td>University of Arizona</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200312.pdf">TBA</a></td>
-</tr>
-\<tr>
-
-<td>March 13</td>
-<td>Rachel Neville</td>
-<td>Universoty of Arizona</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200313.pdf">TBA</a></td>
-</tr>
 
 
 <tr>
