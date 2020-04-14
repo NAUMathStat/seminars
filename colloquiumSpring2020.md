@@ -90,7 +90,7 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td>March 3</td>
 <td>Jin Wang</td>
 <td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200303.pdf"></a></td>
+<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200303.pdf">On Performances of Some Algorithms for Nonparametric Multivariate Analysis</a></td>
 </tr>
 
 
@@ -99,41 +99,41 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 
 <tr>
 <td>March 24</td>
-<td>TBA</td>
+<td>cancelled</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200324.pdf"></a></td>
+<td></td>
 </tr>
 
 
 <tr>
 <td>April 7</td>
-<td>TBA</td>
+<td>cancelled</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200407.pdf"></a></td>
+<td></a></td>
 </tr>
 
 
 <tr>
 <td>April 16</td>
-<td>TBA</td>
+<td>cancelled</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200416.pdf"></a></td>
+<td></td>
 </tr>
 
 
 <tr>
 <td>April 21</td>
-<td>TBA</td>
+<td>cancelled</td>
 <td></td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200121.pdf"></a></td>
+<td></td>
 </tr>
 
 
 <tr>
 <td>April 28</td>
-<td>Shannon Guerrero</td>
-<td>NAU</td>
-<td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200428.pdf"></a></td>
+<td>cancelled</td>
+<td></td>
+<td></td>
 </tr>
 
 
