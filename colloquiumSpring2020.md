@@ -93,10 +93,6 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td><a href="{{ site.baseurl }}/colloquium_files/ColloquiumFlyer_200303.pdf">On Performances of Some Algorithms for Nonparametric Multivariate Analysis</a></td>
 </tr>
 
-
-
-
-
 <tr>
 <td>March 24</td>
 <td>cancelled</td>
@@ -104,14 +100,12 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td></td>
 </tr>
 
-
 <tr>
 <td>April 7</td>
 <td>cancelled</td>
 <td></td>
-<td></a></td>
+<td></td>
 </tr>
-
 
 <tr>
 <td>April 16</td>
@@ -120,7 +114,6 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td></td>
 </tr>
 
-
 <tr>
 <td>April 21</td>
 <td>cancelled</td>
@@ -128,19 +121,12 @@ Titles and abstracts uploaded as available.  Schedule subject to change.
 <td></td>
 </tr>
 
-
 <tr>
 <td>April 28</td>
 <td>cancelled</td>
 <td></td>
 <td></td>
 </tr>
-
-
-
-
-
-
 
 </tbody>
 </table>
