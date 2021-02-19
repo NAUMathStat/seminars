@@ -5,11 +5,9 @@ title: Spring 2021 Department Colloquium
 
 Due to the pandemic, the NAU Department of Mathematics and Statistics Colloquium will be held via Zoom. The talks will typically take place on Tuesdays at 4:00-5:00pm. Please contact <a href="mailto:nandor.sieben@nau.edu">Nandor Sieben</a> to obtain the Zoom information or to be added to the mailing list that includes the Zoom information.
 
-# Schedule Spring 2021 #
-
 ### Thursday 2/25 at 4:00-4:50
 
-**Speaker:** (University of Colorado Boulder)
+**Speaker:** Janos Englander (University of Colorado Boulder)
 
 **Title:** Turning a coin instead of tossing it
 
