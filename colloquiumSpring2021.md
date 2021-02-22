@@ -16,9 +16,9 @@ Due to the pandemic, the NAU Department of Mathematics and Statistics Colloquium
 ## Thursday 3/4 at 4:00-4:50
 **Speaker:** Steve Wilson (NAU emeritus)
 
-**Title:** TBA
+**Title:** The Diagram Quest
 
-**Abstract:**TBA
+**Abstract:** A semiregular symmetry in a graph is a symmetry which moves all the vertices in cycles of the same length. The ‘diagram’ of such a symmetry has one ’node’ for each cycle and ‘links’ joining nodes, one for each orbit of edges joining vertices of those cycles. We will see what we can learn about the graph from the diagram, and how to re-construct the graph from the diagram. We will discuss what makes a diagram ‘good’ and how to find ‘good’ diagrams.
 
 ## Thursday 3/11 at 4:00-4:50
 **Speaker:** Jim Swift (NAU)
