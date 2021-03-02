@@ -27,6 +27,13 @@ Due to the pandemic, the NAU Department of Mathematics and Statistics Colloquium
 
 **Abstract:** TBA
 
+## Thursday 3/18 at 4:00-4:50
+**Speaker:** László Erdős
+
+**Title:** Order and disorder in mathematical physics
+
+**Abstract:** We review a few mathematical problems that were motivated from the quantum physics of disordered systems. They have inspired entirely new directions in mathematics such as quantum chaos and random matrices. In this talk we will present some basic results and major open conjectures in these areas. The talk will be accessible without physics background.
+
 ## Thursday 4/8 at 4:00-4:50
 **Speaker:** Glenn Hurlbert (Virginia Commonwealth University)
 
