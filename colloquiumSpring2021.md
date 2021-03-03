@@ -28,7 +28,7 @@ Due to the pandemic, the NAU Department of Mathematics and Statistics Colloquium
 **Abstract:** TBA
 
 ## Thursday 3/18 at 4:00-4:50
-**Speaker:** László Erdős
+**Speaker:** László Erdős (Institute of Science and Technology, Austria)
 
 **Title:** Order and disorder in mathematical physics
 
