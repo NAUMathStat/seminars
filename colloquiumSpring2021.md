@@ -34,9 +34,33 @@ Due to the pandemic, the NAU Department of Mathematics and Statistics Colloquium
 
 **Abstract:** We review a few mathematical problems that were motivated from the quantum physics of disordered systems. They have inspired entirely new directions in mathematics such as quantum chaos and random matrices. In this talk we will present some basic results and major open conjectures in these areas. The talk will be accessible without physics background.
 
+## Thursday 3/25
+No colloquium (Department Meeting)
+
+## Thursday 4/1 at 4:00-4:50
+**Speakers:** Weston Loucks and Stephanie McCoy (NAU graduate students)
+
+**Title 1:** TBA
+
+**Abstract 1:** TBA
+
+**Title 2:** Impartial Achievement Games on Convex Geometries
+
+**Abstract 2:** We study a game where two players take turns selecting points of a convex geometry until the convex closure of the jointly selected points contains all the points of a given winning set. The winner of the game is the last player able to move. We develop a structure theory for these games and use it to determine the nim number for several classes of convex geometries, including one-dimensional affine geometries, vertex geometries of trees, and games with a winning set consisting of extreme points.
+
 ## Thursday 4/8 at 4:00-4:50
 **Speaker:** Glenn Hurlbert (Virginia Commonwealth University)
 
 **Title:** TBA
+
+**Abstract:** TBA
+
+## Thursday 4/15
+No colloquium (Department Meeting)
+
+## Thursday 4/22 at 4:00-4:50
+**Speaker:** Richard Nowakowski (Dalhousie University, Halifax)
+
+**Title:** Combinatorial game theory
 
 **Abstract:** TBA
