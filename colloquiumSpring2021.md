@@ -21,11 +21,13 @@ Due to the pandemic, the NAU Department of Mathematics and Statistics Colloquium
 **Abstract:** A semiregular symmetry in a graph is a symmetry which moves all the vertices in cycles of the same length. The ‘diagram’ of such a symmetry has one ’node’ for each cycle and ‘links’ joining nodes, one for each orbit of edges joining vertices of those cycles. We will see what we can learn about the graph from the diagram, and how to re-construct the graph from the diagram. We will discuss what makes a diagram ‘good’ and how to find ‘good’ diagrams.
 
 ## Thursday 3/11 at 4:00-4:50
-**Speaker:** Jim Swift (NAU)
+**Speaker:** Jim Swift (NAU) and Michael Swift (U.S. Naval Research Laboratory, Washington, D.C.)
 
-**Title:** TBA
+**Title:** Solving the Poisson-Fermi-Dirac equation: the electrical double layer in solid-state batteries
 
-**Abstract:** TBA
+**Abstract:** The Poisson-Boltzmann equation has long been used to model the changing potential in a battery at the interface between an electrode and the liquid electrolyte. A self-consistent solution of the ion concentration (given by a Boltzmann distribution) and the electrostatics (governed by the Poisson equation) gives a simple exponential decay with a characteristic “Debye” length. This basic model has been used with only slight modifications for over 100 years. However, recent advances in battery technology improve safety and reduce the size and weight of the battery by replacing the flammable liquid electrolyte with a solid. The simple Boltzmann distribution for ion concentration in liquid electrolytes no longer describes solid electrolytes, calling the applicability of the old models into question for new solid-state batteries.
+
+In this work, we propose a model which replaces the Boltzmann distribution with a Fermi-Dirac distribution for the solid electrolyte. This leads to a new “Poisson-Fermi-Dirac” equation. We solve the Poisson-Fermi-Dirac equation by exploiting an emergent conserved quantity. The intuition is guided by an analogy to a fiendish hole of miniature golf: how hard do you hit the ball so that it comes to rest exactly at the top of a nearby hill without rolling down the other side? In addition to a numerical solution, we identify regimes in which the solution can be approximated analytically. One approximation holds for six orders of magnitude of the independent variable. The solution is then applied to various solid-state battery materials, with implications for improving the performance of future solid-state batteries.
 
 ## Thursday 3/18 at 4:00-4:50
 **Speaker:** László Erdős (Institute of Science and Technology, Austria)
