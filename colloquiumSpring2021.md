@@ -42,9 +42,9 @@ No colloquium (Department Meeting)
 ## Thursday 4/1 at 4:00-4:50
 **Speakers:** Weston Loucks and Stephanie McCoy (NAU graduate students)
 
-**Title 1:** TBA
+**Title 1:** Codes with The Extended Binary Hamming Code and Other Double-Circulant Minors
 
-**Abstract 1:** TBA
+**Abstract 1:** Minors play an important role in matroid and graph theory, but have not been widely studied in the context of linear codes. In this work we establish necessary and sufficient conditions for a binary code to have another binary code as a minor, and in particular, we consider linear binary codes which have a minor isomorphic to the binary extended Hamming code, the code analogue of the identically self-dual matroid AG(3,2). We show that all optimal self-dual codes of minimum distance 4 or greater, up to length 32, have an extended binary Hamming code minor. We also study sufficient conditions with regard to substrings which indicate the presence of pure double-circulant code minors in double-circulant codes. The extended binary Golay code is given specific attention as we search for double-circulant self-dual codes which contain it as a minor 4.
 
 **Title 2:** Impartial Achievement Games on Convex Geometries
 
@@ -53,7 +53,7 @@ No colloquium (Department Meeting)
 ## Thursday 4/8 at 4:00-4:50
 **Speaker:** Glenn Hurlbert (Virginia Commonwealth University)
 
-**Title:** TBA
+**Title:** On Erdős–Ko–Rado Graphs and the Search for a Conjecture
 
 **Abstract:** TBA
 
