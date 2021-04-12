@@ -76,6 +76,8 @@ No colloquium (Department Meeting)
 ## Thursday 4/22 at 4:00-4:50
 **Speaker:** Richard Nowakowski (Dalhousie University, Halifax)
 
-**Title:** Combinatorial game theory
+**Title:** Is there a smallest positive combinatorial game? And what is it?
 
-**Abstract:** TBA
+**Abstract:** Short answers to the first question: knee jerk reaction is ‘Yes; Then with more thought, ‘No’; But then on careful reflection, ‘Yes’; on even more reflection that was wrong, and the final, Final Answer is, ‘Yes’.
+
+How do we get those answers? Combinatorial games are played between the players, Left and Right. If a game, $G$, has a positive game value this indicates how many moves advantage Left has. Games with integer-number-of-moves are easy to understand and boring to play — this is the knee-jerk answer. With more and more thought about what games are actually played, we get rest of the sequence of answers, and the games that go with them. No previous knowledge will be assumed.
