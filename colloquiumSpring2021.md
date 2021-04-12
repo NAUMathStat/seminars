@@ -55,14 +55,14 @@ No colloquium (Department Meeting)
 
 **Title:** On Erdős–Ko–Rado Graphs and the Search for a Conjecture
 
-**Abstract:** One of the cornerstones of extremal set theory is the following 1961 theorem of Paul Erdos, Chao Ko, and Richard Rado: if $\cal F$ is a family of $r$-subsets of $\{1,...,n\}$, with $r\le n/2$, such that every pair of sets of $\cal F$ intersect, then $|{\cal F}|\le \binom{n-1}{r-1}$.
+**Abstract:** One of the cornerstones of extremal set theory is the following 1961 theorem of Paul Erdős, Chao Ko, and Richard Rado: if $\cal F$ is a family of $r$-subsets of $\{1,...,n\}$, with $r\le n/2$, such that every pair of sets of $\cal F$ intersect, then $|{\cal F}|\le \binom{n-1}{r-1}$.
 The family of all $r$-subsets containing a fixed element $x$ achieves this bound and is called a *star* with *center* $x$.
 There are many clever and beautiful proofs of this result; we recently discovered an injective proof.
 
 In 2005, Fred Holroyd and John Talbot introduced a generalization to graphs, in which $\cal F$ is an intersecting family of independent $r$-sets of vertices of a graph.
 For a given graph, we ask if no such family is bigger than the largest star; if so, the graph is called $r$-*EKR*.
 Their conjecture is that every graph $G$ is $r$-EKR for all $r\le \mu(G)/2$, where $\mu(G)$ is the size of the smallest maximal independent set in $G$.
-(The Erd\H{o}s-Ko-Rado theorem is the case in which $G$ is empty.)
+(The Erdős-Ko-Rado theorem is the case in which $G$ is empty.)
 
 We verified this conjecture when $G$ is a chordal graph (*every cycle on at least four vertices has a chord*) with an isolated vertex, and have begun to investigate graphs with few edges but no isolated vertices, such as trees and unions of paths.
 A central question arises as to where the center of the largest star is located.
