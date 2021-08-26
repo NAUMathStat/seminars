@@ -13,3 +13,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Abstract:** If you’d like to or are willing to give a talk this semester, or have guests coming who might, please attend or email <a href="mailto:nandor.sieben@nau.edu">Nandor Sieben</a> before the meeting.
 
+## Thursday 10/12 at 4:00-4:50
+**Speaker:** Angie Hodge-Zickerman (NAU)
+
+**Title:** 
+
+**Abstract:** 
