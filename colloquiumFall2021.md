@@ -28,7 +28,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### Tuesday at 4:00-4:50
+### Tuesday 9/14 at 4:00-4:50
 
 **Speaker:** Ye Chen
 
