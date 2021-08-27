@@ -7,16 +7,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### Tuesday 9/7 at 4:00-4:20
-
-**Speaker:** Mitch Hamidi (Embry-Riddle Aeronautical University)
-
-**Title:** 
-
-**Abstract:** 
-
-<hr>
-
 ### Tuesday 8/31 at 4:00-4:20
 
 **Speaker:** None
@@ -24,6 +14,17 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Title:** Organizational meeting
 
 **Abstract:** If you’d like to or are willing to give a talk this semester, or have guests coming who might, please attend or email <a href="mailto:nandor.sieben@nau.edu">Nandor Sieben</a> before the meeting.
+
+<hr>
+
+### Tuesday 9/7 at 4:00-4:50
+
+**Speaker:** Mitch Hamidi (Embry-Riddle Aeronautical University)
+
+**Title:** 
+
+**Abstract:** 
+
 
 <hr>
 
