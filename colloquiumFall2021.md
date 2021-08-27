@@ -7,6 +7,16 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
+### Tuesday 9/7 at 4:00-4:20
+
+**Speaker:** Mitch Hamidi (Embry-Riddle Aeronautical University)
+
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
 ### Tuesday 8/31 at 4:00-4:20
 
 **Speaker:** None
