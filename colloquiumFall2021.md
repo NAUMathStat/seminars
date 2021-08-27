@@ -13,7 +13,16 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Abstract:** If you’d like to or are willing to give a talk this semester, or have guests coming who might, please attend or email <a href="mailto:nandor.sieben@nau.edu">Nandor Sieben</a> before the meeting.
 
-### Thursday 10/12 at 4:00-4:50
+### Tuesday  at 4:00-4:50
+
+**Speaker:** Ye Chen
+
+**Title:** Impacts of vaccination, Alpha and Delta variants on COVID-19 transmission dynamics in the 15 most populous metropolitan statistical areas in the United States
+
+**Abstract:** 
+
+
+### Tuesday 10/12 at 4:00-4:50
 
 **Speaker:** Angie Hodge-Zickerman (NAU)
 
