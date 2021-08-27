@@ -17,7 +17,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### Tuesday  at 4:00-4:50
+### Tuesday at 4:00-4:50
 
 **Speaker:** Ye Chen
 
@@ -29,9 +29,19 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 10/12 at 4:00-4:50
 
-**Speaker:** Angie Hodge-Zickerman (NAU)
+**Speaker:** Angie Hodge-Zickerman
 
 **Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 11/2 or 11/16 at 4:00-4:50
+
+**Speaker:** Gina Nabours
+
+**Title:** LMC curriculum
 
 **Abstract:** 
 
