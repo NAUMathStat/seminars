@@ -63,7 +63,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Spring 2015]({{ site.baseurl }}/teachingSpring2015)
     - [Fall 2014]({{ site.baseurl }}/teachingFall2014)
 
-### Weekly Posts ###
+<!-- ### Weekly Posts ###
 {% for post in site.posts %}
 - {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ site.baseurl }}/{{ post.url }})
-{% endfor %}
+{% endfor %} -->

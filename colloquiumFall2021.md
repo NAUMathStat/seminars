@@ -21,9 +21,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Speaker:** Mitch Hamidi (Embry-Riddle Aeronautical University)
 
-**Title:** 
+**Title:**
 
-**Abstract:** 
+**Abstract:**
 
 
 <hr>
@@ -32,9 +32,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Speaker:** Ye Chen
 
-**Title:** Impacts of vaccination, Alpha and Delta variants on COVID-19 transmission dynamics in the 15 most populous metropolitan statistical areas in the United States
+**Title:** Impacts of vaccination, Alpha and Delta variants on COVID-19 transmission dynamics in the 15 most populous metropolitan statistical areas in the United States.
 
-**Abstract:** 
+**Abstract:**
 
 <hr>
 
@@ -42,9 +42,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Speaker:** Angie Hodge-Zickerman
 
-**Title:** 
+**Title:**
 
-**Abstract:** 
+**Abstract:**
 
 <hr>
 
@@ -54,6 +54,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Title:** LMC curriculum
 
-**Abstract:** 
+**Abstract:**
 
 <hr>
