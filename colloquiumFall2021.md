@@ -81,7 +81,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 10/19 at 4:00-4:50
 
-**Speaker:** Robert Buscaglia's student
+**Speaker:** Ryan Blackburn (student of Robert Buscaglia)
 
 **Title:**
 
