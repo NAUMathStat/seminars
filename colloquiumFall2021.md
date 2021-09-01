@@ -83,7 +83,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Speaker:** Ryan Blackburn (student of Robert Buscaglia)
 
-**Title:**
+**Title:** Boruta Feature Selection for Forestry Predictions
 
 **Abstract:**
 
