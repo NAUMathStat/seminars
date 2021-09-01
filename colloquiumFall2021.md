@@ -36,6 +36,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Abstract:**
 
+<hr>
+
 ### Tuesday 9/21 at 4:00-4:50
 
 **Speaker:** Jim Swift
@@ -43,6 +45,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Title:** BLIS
 
 **Abstract:**
+
+<hr>
 
 ### Tuesday 9/28 at 4:00-4:50
 
@@ -52,7 +56,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Abstract:**
 
-**Abstract:**
+<hr>
+
 
 ### Tuesday 10/5 at 4:00-4:50
 
@@ -72,6 +77,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Abstract:**
 
+<hr>
+
 ### Tuesday 10/19 at 4:00-4:50
 
 **Speaker:** Robert Buscaglia's student
@@ -79,6 +86,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Title:**
 
 **Abstract:**
+
+<hr>
 
 ### Tuesday 10/26 at 4:00-4:50
 
@@ -97,6 +106,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Title:** LMC curriculum
 
 **Abstract:**
+
+<hr>
 
 ### Tuesday 11/16 or 11/23 at 4:00-4:50
 
