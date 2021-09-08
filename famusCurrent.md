@@ -14,4 +14,4 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** The topic this week is the Collatz Conjecture, a simple yet devilishly difficult unsolved problem in number theory. See the flyer linked below for more information.
 
-The faculty guest will be [Dana Ernst](http://danaernst.com).  Tyler will also bring a pie.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-09-10.pdf)]
+The faculty guest will be [Dana Ernst](http://danaernst.com).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-09-10.pdf)]
