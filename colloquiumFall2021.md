@@ -123,9 +123,9 @@ I will discuss how and why operator algebraists have been returning to crossed p
 
 <hr>
 
-### Tuesday 11/16 or 11/23 at 4:00-4:50
+### Tuesday 11/16 at 4:00-4:50
 
-**Speaker:** Alyssa Whittemore
+**Speaker:** Shafiu Jibrin
 
 **Title:** 
 
@@ -133,7 +133,7 @@ I will discuss how and why operator algebraists have been returning to crossed p
 
 <hr>
 
-### Tuesday 11/16 or 11/23 at 4:00-4:50
+### Tuesday 11/23 at 4:00-4:50
 
 **Speaker:** Mike Falk
 
