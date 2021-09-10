@@ -9,7 +9,9 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 o
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
-**Sept 9: Jonathan Olson**, "Tricomi's Equation and the (so-called) Polar Laplacian"
+**September 16: Arthur Boggs**, "The Shannon-Hartley theorem"
+
+**September 9: Jonathan Olson**, "Tricomi's Equation and the (so-called) Polar Laplacian"
 
 **September 2: Ryan Kelly**, "One-Dimensional Birkhoff Interpolation"
 
