@@ -11,7 +11,7 @@ In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Ma
 
 **September 16: Arthur Boggs**, "The Mathematics behind Modern Digital Communications"
 
-**September 9: Jonathan Olson**, "Tricomi's Equation and the (so-called) Polar Laplacian"
+**September 9: Jonathan Olson**, "Tricomi's Equation and the (so-called) Polar Wave Equation"
 
 **September 2: Ryan Kelly**, "One-Dimensional Birkhoff Interpolation"
 
