@@ -29,7 +29,6 @@ In the 1960s, W. Arveson determined that the action of a homeomorphism on a topo
 
 I will discuss how and why operator algebraists have been returning to crossed products in the context of groups acting on non-adjoint closed operator algebras, and I will discuss a recent partial solution to when dynamics are encoded fully in this crossed product context.
 
-
 <hr>
 
 ### Tuesday 9/14 at 4:00-4:50
@@ -39,6 +38,7 @@ I will discuss how and why operator algebraists have been returning to crossed p
 **Title:** Impacts of vaccination, Alpha and Delta variants on COVID-19 transmission dynamics in the 15 most populous metropolitan statistical areas in the United States.
 
 **Abstract:**
+To predict the future course of COVID-19 pandemic in each of the 15 most populous metropolitan statistical areas (MSA) in the US, we extended the SIR model to a comprehensive dynamical system with 42 ODEs accounting for the following impacts, multiple periods of social distancing, vaccination rate, transmissibility of Alpha and Delta variants, vaccine effectiveness for different variants. For each MSA, we used the adaptive MCMC approach to generate samples of the posterior distribution for the adjustable parameters and performed uncertainty quantification. In the process, we obtained estimates of the relative infectiousness of Alpha and Delta as well as their takeoff times in each MSA. With the daily reports of new COVID-19 cases available from January 21, 2020 to August 24, 2021, the region-specific models predict that the current surge will plateau in September, 2021 for most cities. Model parameterizations and the predictions are being updated daily as new surveillance and vaccination data become available, prediction results can be found in the following  <a href="https://github.com/lanl/COVID-19-Predictions/tree/master/dailyForecasts/MSA">GitHub site</a>.
 
 <hr>
 
