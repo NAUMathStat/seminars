@@ -9,7 +9,17 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 o
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
-**September 16: Arthur Boggs**, "The Mathematics behind Modern Digital Communications"
+**September 16: Arthur Boggs**, "The Mathematics behind Modern Digital Communications"\
+We apply radio theory, information theory, sampling theory, and coding theory to modern digital
+communications, which, understandably, relies heavily on digital signal processing. One might say Henry
+Morse sent the first digital signal in 1844 via his invention of the telegraph. Soon after, James Clerk
+Maxwell laid out the theory of electromagnetic radiation in 1865 with his famous set of partial
+differential equations combining electricity and magnetism. Heinrich Hertz applied Maxwell’s equations
+and built the first digital radio, the spark-gap transmitter and receiver in 1889. This leads us to the
+modern era where wireless communications are ubiquitous. We now use most of the electromagnetic
+spectrum from DC to light for all manner of communications. We will combine the relevant mathematics
+behind radio theory, information theory, sampling theory, and coding theory to gain a mathematical
+understanding of modern digital communications.
 
 **September 9: Jonathan Olson**, "Tricomi's Equation and the (so-called) Polar Wave Equation"
 
