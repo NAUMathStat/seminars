@@ -11,3 +11,13 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 **Title:** Introduction to graph pebbling
 
 **Abstract:** Graph pebbling is a model for the transport of consumable resources like fuel. Consider a country where some of the towns have fuel reserves. To transfer a barrel from a town to a neighboring town requires the use of one barrel. We will consider questions like: How many barrels will guarantee that a barrel can be transported to any town having an emergency? What is the best placement of the fuel repositories? The talk will start with the basics and will progress slowly. It will be accessible to undergraduates.
+
+<hr>
+
+### Tuesday 9/21 at 2:20-3:10
+
+**Speaker:** Nandor Sieben
+
+**Title:** Introduction to graph pebbling (continued)
+
+**Abstract:** We barely made any progress. It's not too late to join.
