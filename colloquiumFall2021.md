@@ -46,9 +46,10 @@ To predict the future course of COVID-19 pandemic in each of the 15 most populou
 
 **Speaker:** Jim Swift
 
-**Title:** BLIS
+**Title:** BLIS: A Bifurcation Lemma for Invariant Subspaces
 
 **Abstract:**
+The Equivariant Branching Lemma (EBL) is an important tool in equivariant (symmetric) bifurcation theory. The study of coupled cell networks is a hot topic in dynamical systems. It has been noticed in recent years that the structure of networks can cause invariant subspaces in the dynamics that are not caused by symmetry. As a result, the EBL does not describe some of the observed bifurcations. We present a generalization of the EBL that predicts the branching of solutions in a wide variety of situations, and lends itself to implementation as a numerical algorithm. We call this a Bifurcation Lemma for Invariant Subspaces (BLIS).
 
 <hr>
 
