@@ -9,7 +9,7 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 o
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
-**September 23: John Neuberger**
+**September 23: John Neuberger**, "Spline ODE Solvers"
 
 **September 16: Arthur Boggs**, "The Mathematics behind Modern Digital Communications"\
 We apply radio theory, information theory, sampling theory, and coding theory to modern digital
