@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Tragic Deaths in Mathematics History
+
+**Date:** Friday, September 24
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** This week's talk deals with just a few of the historic figures in our discipline that met untimely and/or gross and/or tragic ends.
+
+The faculty guest will be Gina Nabours. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-09-24.pdf)]
+
 ### Ramanujan's Impossible Sum
 
 **Date:** Friday, September 17
