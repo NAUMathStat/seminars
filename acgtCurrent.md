@@ -21,3 +21,11 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 **Title:** Introduction to graph pebbling (continued)
 
 **Abstract:** We barely made any progress. It's not too late to join.
+
+<hr>
+
+### Tuesday 9/28 at 2:20-3:10
+
+**Speaker:** Nandor Sieben
+
+**Title:** Introduction to graph pebbling (continued)
