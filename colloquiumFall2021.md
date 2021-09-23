@@ -58,11 +58,13 @@ The Equivariant Branching Lemma (EBL) is an important tool in equivariant (symme
 **Speaker:** Rachel Neville
 
 **Title:** 
+Topological Techniques for Characterizing Patterns
 
 **Abstract:**
+Examples of complex spatial-temporal patterns are ubiquitous. Irregular time-varying structures, complexity of patterns, and sensitivity to initial conditions, among other things can make quantifying and distinguishing patterns difficult. In recent years, topological data analysis (TDA) has emerged with a promising set of tools for characterizing such systems. These techniques provide a low-dimensional summary of the geometric and topological structure of data. This can be used to quantify of order, for parameters to be learned and studied, and for the evolution of pattern defects to be studied.
 
+In this talk, I will give a brief introduction to persistent homology and discuss how persistence can be leveraged to study pattern forming systems. In particular, I will highlight some of the utility of some of these techniques in studying the formation of disordered hexagonal arrays of nanodots and crystalline structures that emerge in ion bombarded surfaces.
 <hr>
-
 
 ### Tuesday 10/5 at 4:00-4:50
 
