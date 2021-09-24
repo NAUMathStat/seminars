@@ -9,6 +9,9 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 o
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
+**September 30: Shafiu Jibrin**, "The Weighted Analytic Center for Linear Matrix Inequalities"\
+We study the problem of computing the weighted analytic center for linear matrix inequality constraints. We apply and compare conjugate gradient (CG) methods to find the weighted analytic center.  We use Newton's method exact line search and Quadratic Interpolation inexact line search.  The results indicate that both line searches work well with the methods, but exact line search handles weights better than the inexact line search when some weight is relatively much larger than the other weights. 
+
 **September 23: John Neuberger**, "Spline ODE Solvers"
 
 **September 16: Arthur Boggs**, "The Mathematics behind Modern Digital Communications"\
