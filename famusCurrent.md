@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Shoelacing Counting Problem
+
+**Date:** Friday, October 1
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** There are MANY different ways to lace up shoes.  After explaining the rules associated with "lacing up" a pair of shoes, we will see how many ways there are  to lace up shoes.  No prior knowledge of shoe lacing is required.
+
+The faculty guest will be Tyler Brock. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-01.pdf)]
+
 ### Tragic Deaths in Mathematics History
 
 **Date:** Friday, September 24
