@@ -71,8 +71,10 @@ In this talk, I will give a brief introduction to persistent homology and discus
 **Speaker:** Dana Ernst
 
 **Title:** 
+Isomorphisms in mathematics
 
 **Abstract:**
+Loosely speaking, an isomorphism is a structure-preserving mapping between two structures of the same type that can be reversed by an inverse mapping that also preserves the structure. Sometimes we get the inverse mapping for free and sometimes we don’t.  Two mathematical structures are isomorphic if an isomorphism exists between them.  In this talk, we will tinker with examples of isomorphisms in a variety of contexts and explore unifying themes.  This talk will be appropriate for undergraduate mathematics majors and mathematics graduate students.
 
 <hr>
 
