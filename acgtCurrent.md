@@ -29,3 +29,27 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 **Speaker:** Nandor Sieben
 
 **Title:** Introduction to graph pebbling (continued)
+
+<hr>
+
+### Tuesday 10/05 at 2:20-3:10
+
+**Speaker:** Michael Falk
+
+**Title:** Hypergraphs, matroids, and graded algebras
+
+**Abstract:** Given a simple graph, or more generally a matroid, there is an
+associated graded algebra, the Orlik-Solomon (OS) algebra, and its quadratic
+closure, the quadratic OS algebra, that carry a lot of combinatorial information about the original graph or matroid, as well as topological and geometric
+information about associated topological spaces and algebraic varieties. It is
+an unsolved problem to determine necessary and sufficient conditions for two
+matroids, even two graphs, to have isomorphic OS algebras.
+We will first sketch the proof that two matroids have isomorphic quadratic
+OS algebras if and only if the hypergraphs formed by their nontrivial ranktwo flats are 2-isomorphic. The proof uses a result of Vertigan and Whittle
+concerning Dilworth truncation of hypergraphic polymatroids, generalizing the
+well-known Whitney 2-isomorphism theorem. We will proceed to describe how
+the argument generalizes to classify OS algebras using filtered 2-isomorphisms,
+using a construction of Lovasz, and observe connections with exterior StanleyReisner rings and small covers, as time permits. This is a report on work in
+progress with Geoff Whittle. All notions will be explained and illustrated; no
+familiarity with any of the above will be assumed.
+
