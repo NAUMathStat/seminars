@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Cantor Sets, Sierpinski Carpets and Menger Sponges
+
+**Date:** Friday, October 8
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Is it possible for a 3-D object to have finite volume but infinite surface area?  The answer is YES.  We will talk about such an object, along with 2-D and 1-D versions of the same counterintuitive beast.  We will also see pictures of egg dishes and cookies that are inspired by the same ideas.  
+
+The faculty guest will be Shannon Guerrero. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-08.pdf)]
+
 ### The Shoelacing Counting Problem
 
 **Date:** Friday, October 1
