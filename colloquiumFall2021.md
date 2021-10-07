@@ -83,8 +83,10 @@ Loosely speaking, an isomorphism is a structure-preserving mapping between two s
 **Speaker:** Angie Hodge-Zickerman
 
 **Title:**
+Using technology to think creatively about engaging mathematics learners
 
 **Abstract:**
+Remote learning brought about many challenges to engage learners in the virtual mathematics classroom. What did we learn from using technology in the virtual classroom that can be beneficial to any mathematics classroom? In this session, I will share some technologies that can be used to enhance the classroom be it virtual or in person. Please bring a laptop or a personal device if possible.
 
 <hr>
 
