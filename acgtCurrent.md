@@ -53,3 +53,11 @@ using a construction of Lovasz, and observe connections with exterior StanleyRei
 progress with Geoff Whittle. All notions will be explained and illustrated; no
 familiarity with any of the above will be assumed.
 
+<hr>
+
+### Tuesday 10/12 at 2:20-3:10
+
+**Speaker:** Michael Falk
+
+**Title:** Hypergraphs, matroids, and graded algebras (continued)
+
