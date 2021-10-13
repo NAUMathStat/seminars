@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Ramanujan
+
+**Date:** Friday, October 15
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The talk will delve into Ramanujan's mysterious life and his even more mysterious mathematics.  I'll do my best to show some of his more amazing formulas.  The faculty guest is Ellie Blair.
+
+The faculty guest will be Ellie Blair. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-15.pdf)]
+
 ### Cantor Sets, Sierpinski Carpets and Menger Sponges
 
 **Date:** Friday, October 8
