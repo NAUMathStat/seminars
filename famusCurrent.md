@@ -6,13 +6,24 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Turan's Brick Factory Problem
+
+**Date:** Friday, October 22
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** During World War II, Hungarian mathematician Paul Turan, being Jewish, was forced to work in labor camps.  At one of these camps - a brick factory - he encountered a situation that led to a new mathematical idea and lots of subsequent research in graph theory.  Come for the drama, stay for the math and
+free candy.
+
+The faculty guest will be Ian Williams. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-22.pdf)]
+
 ### Ramanujan
 
 **Date:** Friday, October 15
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** The talk will delve into Ramanujan's mysterious life and his even more mysterious mathematics.  I'll do my best to show some of his more amazing formulas.  The faculty guest is Ellie Blair.
+**Abstract:** The talk will delve into Ramanujan's mysterious life and his even more mysterious mathematics.  I'll do my best to show some of his more amazing formulas.
 
 The faculty guest will be Ellie Blair. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-15.pdf)]
 
