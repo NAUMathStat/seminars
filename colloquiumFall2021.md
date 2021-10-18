@@ -103,11 +103,14 @@ Current and historic land practices (e.g., monoculture, livestock, logging, fire
 
 ### Tuesday 10/26 at 4:00-4:50
 
-**Speaker:** Brent Burch
+**Speaker:** 
+Brent Burch and Jesse Egbert
 
 **Title:**
+Zero-inflated beta distribution applied to word frequency and lexical dispersion in corpus linguistics
 
 **Abstract:**
+Corpus linguistics is the study of language as expressed in a body of texts or documents. The relative frequency of a word within a text and the dispersion of the word across the collection of texts provide information about the word’s prominence and diffusion, respectively. The zero-inflated beta distribution enables one to model the relative frequency of a word in a text since some texts may not even contain the word under study. We discuss the expected values of word prominence and dispersion under the zero-inflated beta model. In addition, we compute estimates of a word’s prominence and dispersion for words in the British National Corpus, a 100 million-word collection of written and spoken language of British English.
 
 <hr>
 
@@ -115,7 +118,7 @@ Current and historic land practices (e.g., monoculture, livestock, logging, fire
 
 **Speaker:** Gina Nabours
 
-**Title:** LMC curriculum
+**Title:** 
 
 **Abstract:**
 
