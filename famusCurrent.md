@@ -6,6 +6,17 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Amicable Pairs
+
+**Date:** Friday, October 29
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Amicable pairs are pairs of whole numbers believed to share a mystical connection (according to the Ancient Greeks).  One such pair is on the attached poster!  I'll present a brief history of amicable pairs, show you how to find a few, and state some questions about amicable pairs that do not yet have answers.
+
+The faculty guest will be Rachel Neville. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-29.pdf)]
+
+
 ### Turan's Brick Factory Problem
 
 **Date:** Friday, October 22
