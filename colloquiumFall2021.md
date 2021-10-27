@@ -116,11 +116,13 @@ Corpus linguistics is the study of language as expressed in a body of texts or d
 
 ### Tuesday 11/2 at 4:00-4:50 (11/16 is possible)
 
-**Speaker:** Gina Nabours
+**Speaker:** Gina Nabours and Marietta E Fule
 
-**Title:** 
+**Title:**
+Summer Bridge Programs and the Department of Mathematics and Statistics
 
 **Abstract:**
+While many faculty may choose to take some much-needed rest and relaxation over the summer, department staff and administration are busy running or supporting five different summer bridge programs meant to increase student success in mathematics at the university level. Learn about the ins and outs of these programs to better understand the department's efforts in helping students achieve their academic goals at NAU. 
 
 <hr>
 
