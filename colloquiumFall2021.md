@@ -128,9 +128,11 @@ While many faculty may choose to take some much-needed rest and relaxation over 
 
 ### Tuesday 11/9 4:00-4:50
 
-**Speaker:** Toby D Hocking joint work with Jonathan Hillman
+**Speaker:** 
+Toby D Hocking joint work with Jonathan Hillman
 
-**Title:** Optimizing ROC Curves with a Sort-Based Surrogate Loss Function for Binary Classification and Changepoint Detection
+**Title:** 
+Optimizing ROC Curves with a Sort-Based Surrogate Loss Function for Binary Classification and Changepoint Detection
 
 **Abstract:** Receiver Operating Characteristic (ROC) curves are plots of true positive rate versus false positive rate which are useful for evaluating binary classification models, but difficult to use for learning since the Area Under the Curve (AUC) is non-convex. ROC curves can also be used in other problems that have false positive and true positive rates such as changepoint detection. We show that in this more general context, the ROC curve can have loops, points with highly sub-optimal error rates, and AUC greater than one. This observation motivates a new optimization objective: rather than maximizing the AUC, we would like a monotonic ROC curve with AUC=1 that avoids points with large values for Min(FP,FN). We propose a convex relaxation of this objective that results in a new surrogate loss function called the AUM, short for Area Under Min(FP, FN). Whereas previous loss functions are based on summing over all labeled examples or pairs, the AUM requires a sort and a sum over the sequence of points on the ROC curve. We show that AUM directional derivatives can be efficiently computed and used in a gradient descent learning algorithm. In our empirical study of supervised binary classification and changepoint detection problems, we show that our new AUM minimization learning algorithm results in improved AUC and comparable speed relative to previous baselines.
 
@@ -141,8 +143,12 @@ While many faculty may choose to take some much-needed rest and relaxation over 
 **Speaker:** Shafiu Jibrin
 
 **Title:** 
+Conjugate Gradient Methods for Computing Weighted Analytic Center for Linear Matrix Inequalities
 
-**Abstract:**
+**Abstract:** 
+We study the problem of computing the weighted analytic center linear matrix inequality constraints. In this talk, we apply conjugate gradient (CG) methods to find the weighted analytic center. Conjugate gradient methods are known to have low memory requirements and strong local and global convergence properties. The methods considered are the classical methods by Hestenes-Stiefel (HS), Fletcher and Reeves (FR), Polak and Ribiere (PRP) and a relatively new method by Rivaie, Abashar, Mustafa and Ismail (RAMI). We compare the performance of each method on random test problems by observing the number of iterations and time required by the method to find the weighted analytic center. We use Newton's method exact line search and Quadratic Interpolation inexact line search. Our numerical results show that PRP is the best method, followed by HS, then RAMI, and then FR. They also indicate that both line searches work well, but the exact line search handles weights better than the inexact line search when some weight is relatively much larger than the other weights. We find that all the CG methods with Quadratic interpolation inexact line search failed when some weight is relatively much larger than the remaining weights.
+
+
 
 <hr>
 
