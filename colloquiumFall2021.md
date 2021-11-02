@@ -148,16 +148,16 @@ Conjugate Gradient Methods for Computing Weighted Analytic Center for Linear Mat
 **Abstract:** 
 We study the problem of computing the weighted analytic center linear matrix inequality constraints. In this talk, we apply conjugate gradient (CG) methods to find the weighted analytic center. Conjugate gradient methods are known to have low memory requirements and strong local and global convergence properties. The methods considered are the classical methods by Hestenes-Stiefel (HS), Fletcher and Reeves (FR), Polak and Ribiere (PRP) and a relatively new method by Rivaie, Abashar, Mustafa and Ismail (RAMI). We compare the performance of each method on random test problems by observing the number of iterations and time required by the method to find the weighted analytic center. We use Newton's method exact line search and Quadratic Interpolation inexact line search. Our numerical results show that PRP is the best method, followed by HS, then RAMI, and then FR. They also indicate that both line searches work well, but the exact line search handles weights better than the inexact line search when some weight is relatively much larger than the other weights. We find that all the CG methods with Quadratic interpolation inexact line search failed when some weight is relatively much larger than the remaining weights.
 
-
-
 <hr>
 
 ### Tuesday 11/23 at 4:00-4:50
 
-**Speaker:** Mike Falk
+**Speaker:** Zachariah Etienne
 
-**Title:** 
+**Title:**
+Next-Generation Black Hole and Neutron Star Collision Simulations
 
 **Abstract:**
+Perhaps the most significant astronomical discovery of our lifetimes, code-named GW170817, involved the collision of two incredibly dense dead stars called neutron stars. Notably the collision was detected both by gravitational wave observatories (including LIGO), and by traditional telescopes (that detect light). These stars are similar in many ways to gigantic atomic nuclei, and this "multimessenger" collision alone has yielded unprecedented insights into matter and gravity at their most extreme, far beyond what we can study in laboratories on Earth. However our sparse theoretical understanding of such collisions limit scientific insights gained from such discoveries both now and in the future. There is a critical need to improve existing theoretical models built upon supercomputer simulations of colliding neutron stars and black holes. Such simulations generate full, non-perturbative solutions of the general relativistic field equations (numerical relativity). After a gentle introduction to multimessenger astrophysics and the challenges associated with multimessenger source modeling, I will outline a new approach aimed at greatly reducing the cost of these simulations. With the reduced cost comes the potential to both perform colliding black hole simulations on the consumer-grade desktop computer and add unprecedented levels of physical realism to colliding neutron star supercomputer simulations.
 
 <hr>
