@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### $\pi$
+
+**Date:** Friday, November 5
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** You all probably know what $\pi$ is (that geometry constant thingee).  But you might not know how it is computed, or who computed it when, or alternative ways to describe its value.  These and more will be discussed at FAMUS.  In addition to discussing pi, we will EAT pie.  There will be at least 4 pies served.  Honest!  Come for the pi, stay for the pie.  
+
+It will be a short-ish FAMUS (no faculty guest this week).  We'll eat pie while we learn about pi, and then the weekend begins. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-11-05.pdf)]
+
 ### Amicable Pairs
 
 **Date:** Friday, October 29
