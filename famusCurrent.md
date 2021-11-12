@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Tree of Pythagorean Triples (and Quadruples)
+
+**Date:** Friday, November 12
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** This talk will explain a cute way to depict all primitive Pythagorean triples as the vertices of a rooted perfect ternary tree.  I will also explain a NOT cute way to depict all primitive Pythagorean quadruples (but the method found led to two NAU undergrads, Marcela Guttierez and Viola McCarty, getting published!).
+
+The faculty guest will be David Deville. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-11-12.pdf)]
+
 ### $\pi$
 
 **Date:** Friday, November 5
@@ -25,7 +35,6 @@ It will be a short-ish FAMUS (no faculty guest this week).  We'll eat pie while 
 **Abstract:** Amicable pairs are pairs of whole numbers believed to share a mystical connection (according to the Ancient Greeks).  One such pair is on the attached poster!  I'll present a brief history of amicable pairs, show you how to find a few, and state some questions about amicable pairs that do not yet have answers.
 
 The faculty guest will be Rachel Neville. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-10-29.pdf)]
-
 
 ### Turan's Brick Factory Problem
 
