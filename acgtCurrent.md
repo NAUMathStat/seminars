@@ -101,7 +101,7 @@ familiarity with any of the above will be assumed.
 
 <hr> -->
 
-### Tuesday 11/2 at 2:20-3:10
+### Tuesdays 11/2, 11/9, 11/16 at 2:20-3:10
 
 **Speaker:** Dana C. Ernst
 
