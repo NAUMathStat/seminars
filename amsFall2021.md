@@ -14,10 +14,10 @@ In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Ma
 **November 11:** Veterans Day
 
 **October 28, November 4: Jim Swift**, "Finite Difference Approximations of the Eigenvalues of the Laplacian"\
-We focus on eigenvalues the Laplacian on regions in the plane, with either 0 Dirichlet or 0 Neumann boundary conditions.
+We focus on eigenvalues the Laplacian on the interval, and on regions in the plane, with either 0 Dirichlet or 0 Neumann boundary conditions.
 (This means that either u = 0, or the normal derivative of u = 0.) An outline of a way to get an order h^2 computation of the Neumann eigenvalues 
 for a general region in the plane is presented.
-One of our former Master's students have tried and failed to do this.
+One of our former Master's students tried and failed to do this.
 
 **October 14, 21: Rachel Neville**, "Topological Data Analysis"
 
