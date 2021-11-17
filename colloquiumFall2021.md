@@ -148,6 +148,8 @@ Conjugate Gradient Methods for Computing Weighted Analytic Center for Linear Mat
 **Abstract:** 
 We study the problem of computing the weighted analytic center linear matrix inequality constraints. In this talk, we apply conjugate gradient (CG) methods to find the weighted analytic center. Conjugate gradient methods are known to have low memory requirements and strong local and global convergence properties. The methods considered are the classical methods by Hestenes-Stiefel (HS), Fletcher and Reeves (FR), Polak and Ribiere (PRP) and a relatively new method by Rivaie, Abashar, Mustafa and Ismail (RAMI). We compare the performance of each method on random test problems by observing the number of iterations and time required by the method to find the weighted analytic center. We use Newton's method exact line search and Quadratic Interpolation inexact line search. Our numerical results show that PRP is the best method, followed by HS, then RAMI, and then FR. They also indicate that both line searches work well, but the exact line search handles weights better than the inexact line search when some weight is relatively much larger than the other weights. We find that all the CG methods with Quadratic interpolation inexact line search failed when some weight is relatively much larger than the remaining weights.
 
+<a href="colloquium_files/Jibrin_F2021.pdf">slides</a>
+
 <hr>
 
 ### Tuesday 11/23 at 4:00-4:50
