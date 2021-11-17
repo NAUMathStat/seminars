@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Euler Bricks
+
+**Date:** Friday, November 19
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  This talk will present an overview of the search for both Euler Bricks (3-D blocks whose dimensions and face diagonals are integers) and perfect cuboids (Euler Bricks whose internal diagonal is also an integer).
+
+Come for the math, stay for the drama and free candy.  The faculty guest this week is Sarah Watson. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS21-11-19.pdf)]
+
 ### The Tree of Pythagorean Triples (and Quadruples)
 
 **Date:** Friday, November 12
