@@ -9,6 +9,10 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 o
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
+**December 2:** Ryan Kelly
+
+**November 25:** Thanksgiving
+
 **November 18: Ye Chen**, "An introduction to adaptive MCMC for parameter estimation of nonlinear dynamical systems"\
 In our recent work of COVID-19 case number prediction, a comprehensive SEIRV (susceptible, exposed, infected, recovered, vaccinated) model is developed to explore the disease dynamic in US. Parameter estimation of this nonlinear SEIRV model (in general, any nonlinear dynamical system) remains a very challenging inverse problem due to its nonconvexity and ill-conditioning. In particular, Markov chain Monte Carlo (MCMC) methods have become increasingly popular as they allow for a rigorous analysis of parameter and prediction uncertainties without the need for assuming parameter identifiability. A broad spectrum of MCMC algorithms have been proposed, including various adaptive MCMC algorithms.  I am going to review the theoretical criteria and the framework of stochastic approximation, and analyses the properties of an adaptive MCMC algorithm with vanishing adaptation.
 
