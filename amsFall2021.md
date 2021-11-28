@@ -9,7 +9,13 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 o
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
-**December 2: Ryan Kelly**
+**December 2: Ryan Kelly**, "Finite Difference Methods from Birkhoff Polynomials"\
+Given a differential equation, one can approximate solutions with a collection of polynomials that satisfy the differential equation, 
+and have internal continuity conditions. These conditions, when well posed, naturally give rise to finite difference matrices. 
+We study a \(C^3\) spline which enforces a second order ODE at midpoints and breakpoints. 
+We attempt to analytically establish the numerically observed \(O(h^6)\) convergence to solutions of \(y'' = -y^3\) 
+and \(y'' = \lambda y\) with zero Dirichlet boundary conditions. 
+We first analyze the local behavior of each (Birkhoff) polynomial in the spline, then extend this to global behavior.
 
 **November 25:** Thanksgiving
 
