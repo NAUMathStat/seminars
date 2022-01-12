@@ -20,17 +20,27 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 ### Tuesday 1/18 at 4:00-4:50
 
 **Speaker:** 
+Steve Wilson
 
 **Title:** 
+Families of Regular Hypergraphs in Regular Hypermaps
 
 **Abstract:** 
+The study of which regular (i.e. symmetric) graphs can be the skeleton of a regular
+map (an embedding into a surface) has a long-ish history.  We have theorems saying
+for which values of $n$ the complete graph $K_n$ is symmetrically embeddable. Ditto for
+$K_n,n$ and the $n$-dimensional cube.
+
+The generalizations to HYPERgraphs and HYPERmaps are much less familiar.  We
+will examine symmetry in these more general cases, and we will find, after a suitable
+introduction, that they have an unexpected charm.
 
 <hr>
 
 ### Tuesday 1/25 at 4:00-4:50
 
 **Speaker:** 
-Ye Chen
+Christina
 
 **Title:** 
 
