@@ -61,6 +61,7 @@ Christina
 ### Tuesday 2/08 at 4:00-4:50
 
 **Speaker:** 
+Eddie Nijholt
 
 **Title:**
 
