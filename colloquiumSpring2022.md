@@ -162,3 +162,15 @@ Eddie Nijholt
 **Abstract:**
 
 <hr>
+
+### Tuesday 4/26 at 4:00-4:50
+
+**Speaker:** 
+BSDS capstone presentations
+
+**Title:**
+
+**Abstract:**
+
+<hr>
+
