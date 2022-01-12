@@ -50,11 +50,14 @@ Christina
 
 ### Tuesday 2/01 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
+Angie Hodge-Zickerman
 
 **Title:** 
+Living Proof: Lessons learned from Black mathematicians
 
 **Abstract:**
+Historically, Black students have been both underrepresented and marginalized in the field of mathematics. The research project I will talk about seeks to understand the stories of Black Americans who have been successful in the field of mathematics. With an understanding of the obstacles each Black mathematician in this study has faced and the tools that have helped them to overcome these hurdles, I will discuss how the findings can help support Black mathematicians and other underrepresented groups in mathematics programs.
 
 <hr>
 
