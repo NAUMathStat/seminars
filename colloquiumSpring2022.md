@@ -75,6 +75,7 @@ Eddie Nijholt
 ### Tuesday 2/15 at 4:00-4:50
 
 **Speaker:** 
+Tyler Diggans
 
 **Title:**
 
