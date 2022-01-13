@@ -7,6 +7,7 @@ Note that pages and posts are listed in reverse chronological order.
 
 ### Seminars ###
 - Department Colloquium
+    - [Fall 2021]({{ site.baseurl }}/colloquiumFall2021)
     - [Spring 2021]({{ site.baseurl }}/colloquiumSpring2021)
     - [Spring 2020]({{ site.baseurl }}/colloquiumSpring2020)
     - [Fall 2019]({{ site.baseurl }}/colloquiumFall2019)
@@ -20,7 +21,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
-    - [Spring 2021]({{ site.baseurl }}/acgtSpring2021)
+    - [Fall 2021]({{ site.baseurl }}/acgtFall2021)
     - [Spring 2020]({{ site.baseurl }}/acgtSpring2020)
     - [Fall 2019]({{ site.baseurl }}/acgtFall2019)
     - [Spring 2019]({{ site.baseurl }}/acgtSpring2019)
@@ -33,6 +34,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/acgtFall2015)
     - [Spring 2015]({{ site.baseurl }}/acgtSpring2015)
 - Applied Math Seminar (AMS)
+    - [Fall 2021]({{ site.baseurl }}/amsFall2021)
     - [Spring 2021]({{ site.baseurl }}/amsSpring2021)
     - [Spring 2020]({{ site.baseurl }}/amsSpring2020)
     - [Fall 2019]({{ site.baseurl }}/amsFall2019)
@@ -46,7 +48,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
-    - [Spring 2021]({{ site.baseurl }}/famusSpring2021)
+    - [Fall 2021]({{ site.baseurl }}/famusFall2021)
     - [Spring 2020]({{ site.baseurl }}/famusSpring2020)
     - [Fall 2019]({{ site.baseurl }}/famusFall2019)
     - [Spring 2019]({{ site.baseurl }}/famusSpring2019)

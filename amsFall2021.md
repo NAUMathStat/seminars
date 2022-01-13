@@ -5,17 +5,12 @@ title: Applied Mathematics Seminar
 
 The Applied Mathematics Seminar (AMS) typically meets on Thursdays in Room 164 of the Adel Mathematics Building.  Any faculty, students, or friends of the department are welcome to attend. Seminar talks are typically rotated between faculty (and on occasion students or visitors) with research interests related to applied mathematics, widely defined to include almost anything from ordinary and partial differential equations, dynamical systems, nonlinear and linear functional analysis, numerical analysis, optimization, operations research, scientific computing, modeling, and advanced physics.
 
-### Fall, 2021 Schedule
+### Fall 2021 Schedule
 
 In Fall 2021 we are meeting from **3:00 to 4:00** in room **164** of the Adel Mathematics Building.
 
 **December 2: Ryan Kelly**, "Finite Difference Methods from Birkhoff Polynomials"\
-Given a differential equation, one can approximate solutions with a collection of polynomials that satisfy the differential equation, 
-and have internal continuity conditions. These conditions, when well posed, naturally give rise to finite difference matrices. 
-We study a C^3 spline which enforces a second order ODE at midpoints and breakpoints. 
-We attempt to analytically establish the numerically observed O(h^6) convergence to solutions of y'' = -y^3
-and y'' = lambda y with zero Dirichlet boundary conditions. 
-We first analyze the local behavior of each (Birkhoff) polynomial in the spline, then extend this to global behavior.
+Given a differential equation, one can approximate solutions with a collection of polynomials that satisfy the differential equation, and have internal continuity conditions. These conditions, when well posed, naturally give rise to finite difference matrices. We study a $C^3$ spline which enforces a second order ODE at midpoints and breakpoints. We attempt to analytically establish the numerically observed O(h^6) convergence to solutions of $y'' = -y^3$ and $y'' = \lambda y$ with zero Dirichlet boundary conditions. We first analyze the local behavior of each (Birkhoff) polynomial in the spline, then extend this to global behavior.
 
 **November 25:** Thanksgiving
 
@@ -26,7 +21,7 @@ In our recent work of COVID-19 case number prediction, a comprehensive SEIRV (su
 
 **October 28, November 4: Jim Swift**, "Finite Difference Approximations of the Eigenvalues of the Laplacian"\
 We focus on eigenvalues the Laplacian on the interval, and on regions in the plane, with either 0 Dirichlet or 0 Neumann boundary conditions.
-(This means that either u = 0, or the normal derivative of u = 0.) An outline of a way to get an order h^2 computation of the Neumann eigenvalues 
+(This means that either u = 0, or the normal derivative of u = 0.) An outline of a way to get an order h^2 computation of the Neumann eigenvalues
 for a general region in the plane is presented.
 One of our former Master's students tried and failed to do this.
 
@@ -35,7 +30,7 @@ One of our former Master's students tried and failed to do this.
 **October 7: Mikhail Baltushkin**, "A Numerical Investigation of the Double Pendulum"
 
 **September 30: Shafiu Jibrin**, "The Weighted Analytic Center for Linear Matrix Inequalities"\
-We study the problem of computing the weighted analytic center for linear matrix inequality constraints. We apply and compare conjugate gradient (CG) methods to find the weighted analytic center.  We use Newton's method exact line search and Quadratic Interpolation inexact line search.  The results indicate that both line searches work well with the methods, but exact line search handles weights better than the inexact line search when some weight is relatively much larger than the other weights. 
+We study the problem of computing the weighted analytic center for linear matrix inequality constraints. We apply and compare conjugate gradient (CG) methods to find the weighted analytic center.  We use Newton's method exact line search and Quadratic Interpolation inexact line search.  The results indicate that both line searches work well with the methods, but exact line search handles weights better than the inexact line search when some weight is relatively much larger than the other weights.
 
 **September 23: John Neuberger**, "Spline ODE Solvers"
 
