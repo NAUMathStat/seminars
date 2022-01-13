@@ -43,8 +43,10 @@ introduction, that they have an unexpected charm.
 Christina
 
 **Title:** 
+The impact of instructional model and instructor rank on our Precalculus course
 
 **Abstract:**
+From Fall 2008 to Spring 2019, NAU utilized four different instructional models to deliver its Precalculus course. This descriptive- comparative study utilized students' final grade in the Precalculus course to understand the effect of the different instructional models on students' achievement in our Precalculus course and the subsequent mathematics course, Calculus I, in addition to the effect of instructor rank on students' achievement.
 
 <hr>
 
