@@ -142,6 +142,7 @@ Robert Buscaglia
 ### Tuesday 4/05 at 4:00-4:50
 
 **Speaker:** 
+Shafiu Jibrin ?
 
 **Title:**
 
@@ -152,6 +153,7 @@ Robert Buscaglia
 ### Tuesday 4/12 at 4:00-4:50
 
 **Speaker:** 
+Jillian and Shaugn ?
 
 **Title:**
 
@@ -161,7 +163,8 @@ Robert Buscaglia
 
 ### Tuesday 4/19 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
+Honors week
 
 **Title:**
 
