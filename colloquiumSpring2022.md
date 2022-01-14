@@ -88,6 +88,7 @@ Tyler Diggans
 ### Tuesday 2/22 at 4:00-4:50
 
 **Speaker:** 
+Ye Chen
 
 **Title:**
 
@@ -99,6 +100,7 @@ Tyler Diggans
 ### Tuesday 3/01 at 4:00-4:50
 
 **Speaker:** 
+Bahattin Yildiz
 
 **Title:** 
 
@@ -109,6 +111,7 @@ Tyler Diggans
 ### Tuesday 3/08 at 4:00-4:50
 
 **Speaker:**
+Robert Buscaglia
 
 **Title:**
 
