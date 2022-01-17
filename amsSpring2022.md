@@ -7,7 +7,6 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in the Adel M
 
 ### Spring 2022 Schedule
 
-For Spring 2022 we are meeting from 12:45-1:45PM in room 162 of the Adel Mathematics Building.
+For Spring 2022 we are meeting from 12:45-1:45PM in room 147(?) of the Adel Mathematics Building.
 
 **January 20: Ryan Kelly**, TBA
-TBA
