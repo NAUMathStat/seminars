@@ -6,17 +6,17 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note:  The ACGT seminar is taking a hiatus while the omicron variant surges.
 
-### Tuesday TBA
+### Tuesday February n, n+7, n+14
 
-**Speaker:** TBA
+**Speaker:** Jim Swift
 
-**Title:** TBA
+**Title:** Polydiagonal subspaces, coupled cell networks, and Cayley digraphs
 
 **Abstract:** TBA
 
 <hr>
 
-### Tuesday TBA + 1 week
+### Tuesday TBA
 
 **Speaker:** TBA
 
