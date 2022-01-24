@@ -7,7 +7,7 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays in the Adel M
 
 ### Spring 2022 Schedule
 
-For Spring 2022 we are meeting from 12:45-1:45 PM in room TBA of the Adel Mathematics Building.
+For Spring 2022 we are meeting from 12:45-1:45 PM in room 224 of the Adel Mathematics Building.
 
 **January 20: Ryan Kelly**, A Birkhoff Polynomial Interpolation Theorem with Applications
 
