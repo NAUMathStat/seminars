@@ -11,4 +11,4 @@ For Spring 2022 we are meeting from 12:45-1:45 PM in room 224 of the Adel Mathem
 
 **January 20: Ryan Kelly**, A Birkhoff Polynomial Interpolation Theorem with Applications
 
-**January 27: Jonathan Olson**, TBA
+**February 3: Jonathan Olson**, TBA
