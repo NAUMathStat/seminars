@@ -13,9 +13,10 @@ Note:  The ACGT seminar is taking a hiatus while the omicron variant surges.
 **Title:** Polydiagonal subspaces, coupled cell networks, and Cayley digraphs
 
 **Abstract:** A polydiagonal subspace of $\mathbb R^n$ is a linear subspace defined by equations of the form $x_i = \pm x_j$.
-Such subspaces form a patially ordered set, which is also a lattice.  In coupled cell networks with linear coupling of the cells determined by an $n \times n$ matrix $A$,
+Such subspaces form a patially ordered set, which is also a lattice.  In coupled cell networks with the linear coupling of the $n$ cells determined by an $n \times n$ matrix $A$,
 the lattice of $A$-invariant polydiagonal subspaces describes the possible synchrony and anti-synchrony of the cells.
-We consider examples where $A$ is the adjacency matrix of a weighted digraph obtained from the colored Cayley digraph of the groups $Z_2$, $Z_2 \times Z_2$, and $Q_8$ (the 8-element group of quaternions).  These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
+Among other examples, we let $A$ be the adjacency matrix of a weighted digraph obtained from a Cayley digraph of the group $Q_8$ (the 8-element group of quaternions).  
+These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 <hr>
 
 ### Tuesday TBA
