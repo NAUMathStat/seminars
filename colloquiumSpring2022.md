@@ -69,8 +69,10 @@ Historically, Black students have been both underrepresented and marginalized in
 Eddie Nijholt
 
 **Title:**
+Networks have much more symmetry than you think
 
 **Abstract:**
+Symmetry has always played a prominent role in the analysis of network dynamical systems. If nodes can be switched around in the graph, corresponding maps can be found in phase space sending solutions to solutions. At the same time, networks tend to have far more structure than this, and examples abound of network systems without any classical symmetry, yet with surprising dynamical behavior. We will see that many structural properties of network graphs can in fact be seen as a kind of symmetry, provided one expands the definition. As a result, such properties can be preserved in established dynamical techniques, most notably in various reduction methods.
 
 <hr>
 
