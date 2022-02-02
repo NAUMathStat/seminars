@@ -6,7 +6,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note:  The ACGT seminar is taking a hiatus while the omicron variant surges.
 
-### Tuesday February 8 (via zoom), 15 (mode TBA), 22 (mode TBA)
+### Tuesday February 8 (via zoom, 12:45 to 1:30), 15 (mode TBA), 22 (mode TBA)
 
 **Speaker:** Jim Swift
 
