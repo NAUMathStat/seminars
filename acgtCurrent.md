@@ -1,4 +1,4 @@
-The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesdays at 12:45-2:00PM in Room 164 of the Adel Mathematics Building. If you are interested in giving a talk, please contact [Mike Falk](mailto:Michael.Falk@nau.edu) or [Dana C. Ernst](http://danaernst.com), ACGT coordinators.
+The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesdays at 12:40-1:30PM in Room 164 of the Adel Mathematics Building. If you are interested in giving a talk, please contact [Mike Falk](mailto:Michael.Falk@nau.edu) or [Dana C. Ernst](http://danaernst.com), ACGT coordinators.
 
 # Schedule Spring 2022 #
 
@@ -6,7 +6,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note:  The ACGT seminar is on zoom while the omicron variant surges.
 
-### Tuesday February 8 (via zoom, 12:45 to 1:30), 15 (mode TBA), 22 (mode TBA)
+### Tuesday February 8 (via zoom, 12:40 to 1:30), 15 (mode TBA), 22 (mode TBA)
 
 **Speaker:** Jim Swift
 
