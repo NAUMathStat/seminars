@@ -82,8 +82,11 @@ Symmetry has always played a prominent role in the analysis of network dynamical
 Tyler Diggans
 
 **Title:**
+The Essential Synchronization Backbone Problem
 
 **Abstract:**
+A new optimization problem is defined for the synchronization of networked oscillator systems with applications to power grid hardening and information flow systems.  Given a system of networked oscillators that achieves synchronization, we seek a minimal-edge subgraph of the original network such that the synchronization manifold has conjugate stability. In some applications of synchronization, the size of the basin of stability and the average time to synchronization are not as important as whether the system can achieve similar synchronization states. For example, how many transmission lines of a power grid can be disrupted or destroyed, before synchronization is no longer possible under any parameter settings.  The solutions to this problem vary widely with the type of oscillators used and coupling implemented: for the most basic oscillator systems, solutions are spanning trees, but for certain linear couplings of chaotic oscillators, we find complicated interwoven central cycles with the potential for pendant vertices as well.  I will also use this opportunity to update my former academic family on the progress of my career since leaving NAU and plans for the future. 
+
 
 <hr>
 
