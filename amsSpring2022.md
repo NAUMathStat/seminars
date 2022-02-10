@@ -11,6 +11,6 @@ For Spring 2022 we are meeting from 12:45-1:45 PM via Zoom, until we deem it saf
 
 **January 20, February 10: Ryan Kelly**, A Birkhoff Polynomial Interpolation Theorem with Applications
 
-<!--
-**February 3: Jonathan Olson**, Preliminary Solutions of The 'Polar' Wave Equation
--->
+**February 17, 24: Shafiu Jibrin**, Title TBA
+
+**March 3, 10: Ye Chen**, Title TBA
