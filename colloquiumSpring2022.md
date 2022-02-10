@@ -159,7 +159,6 @@ Shafiu Jibrin ?
 ### Tuesday 4/12 at 4:00-4:50
 
 **Speaker:** 
-Jillian and Shaugn ?
 
 **Title:**
 
@@ -170,7 +169,7 @@ Jillian and Shaugn ?
 ### Tuesday 4/19 at 4:00-4:50
 
 **Speaker:**
-Honors week
+Jillian and Jonathan ?
 
 **Title:**
 
