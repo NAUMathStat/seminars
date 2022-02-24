@@ -13,4 +13,4 @@ For Spring 2022 we are meeting from 12:45-1:45 PM via Zoom, until we deem it saf
 
 **February 24: Shafiu Jibrin**, Conjugate Gradient Methods
 
-**Date TBA: Ye Chen**, Title TBA
+**March 3, 10: Ye Chen**, Title TBA
