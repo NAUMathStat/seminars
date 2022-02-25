@@ -20,6 +20,7 @@ These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 <hr>
 
 ### We plan to resume the ACGT Seminar in person, after Spring Break
+<hr>
 ### Tuesday TBA
 
 **Speaker:** TBA
