@@ -6,7 +6,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note:  The ACGT seminar is on zoom while the omicron variant surges.
 
-### Tuesday February 8 (via zoom, 12:40 to 1:30), 15 (mode TBA), 22 (mode TBA)
+### Tuesday February 8, 15, and 22 (via zoom, 12:40 to 1:30)
 
 **Speaker:** Jim Swift
 
@@ -19,6 +19,7 @@ Among other examples, we let $A$ be the adjacency matrix of a weighted digraph o
 These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 <hr>
 
+### We plan to resume the ACGT Seminar in person, after Spring Break
 ### Tuesday TBA
 
 **Speaker:** TBA
