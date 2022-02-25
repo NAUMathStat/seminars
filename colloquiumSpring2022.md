@@ -96,9 +96,10 @@ A new optimization problem is defined for the synchronization of networked oscil
 Ye Chen
 
 **Title:**
-
+Rule-based modeling and data assimilation by pyBioNetFit
 
 **Abstract:**
+Rule-based modeling is a modeling approach that uses rules to generate a system of ODEs. It was first developed to solve the combinatorial complexity when modeling  chemical kinetics in cell signaling systems, and now a general purpose ODE generator that can be applied to other fields, such as epidemiology modeling and land carbon cycle modeling. With rules that generate ODE model, the python package pyBioNetFit can be used to do data assimilation. In this talk, I will demonstrate examples of how to use the rule-based modeling and pyBioNetFit on COVID modeling and land carbon cycle modeling.
 
 <hr>
 
@@ -107,9 +108,12 @@ Ye Chen
 **Speaker:** 
 Bahattin Yildiz
 
-**Title:** 
+**Title:**
+Improving Future Cryptosystems in the Quantum Era
 
 **Abstract:**
+In this talk , I will go over some of the recent work I have done on Classical McEliece Cryptosystem and the NTRU cryptosystem, two of the finalists in NIST's Post-quantum Competition.
+In the first part of the talk I will talk about how we were able to integrate PUFs into generation of matrices for the McEliece cryptosystem. We also demonstrate how to efficiently generate non-singular matrices using circulant matrices and how significantly this improves the efficiency of the key generation phase for the McEliece Cryptosystem. In the second part of the talk, I will talk about our recent improvement to the security of NTRU, without a computational overhead, inspired by an idea from cyclic codes. 
 
 <hr>
 
