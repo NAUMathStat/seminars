@@ -123,8 +123,19 @@ In the first part of the talk I will talk about how we were able to integrate PU
 Robert Buscaglia
 
 **Title:**
+Clinical DSC for Lung Cancer Diagnosis
 
 **Abstract:**
+Differential scanning calorimetry (DSC) is being developed for its potential as a clinical diagnostic. DSC
+thermograms offer reproducible signatures of the thermal denaturation of human blood plasma. The
+plasma thermogram has been correlated with disease over a variety of studies in the last decade. The
+plasma thermogram of healthy patients corresponds with the abundance of proteins within the plasma
+proteome. Changes from a healthy signature occur when the patient is suffering from an illness. Recent
+publication and grant work dedicated to developing the field of clinical DSC will be presented. Discussion
+will focus on statistical results related to analysis of plasma thermograms. A recently published study of
+Lung Cancer patients found that several thermogram metrics have distinct behaviors dependent on cancer
+type, stage, and progression. This is one of many studies that has shown the ability for thermograms to
+differentiate patient status. Exciting new areas of study will be introduced.
 
 <hr>
 
