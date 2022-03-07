@@ -15,4 +15,6 @@ For Spring 2022 we are meeting from 12:45-1:45 PM via Zoom, until we deem it saf
 
 ### We plan to meet in person, in AMB 224, starting on March 10 ###
 
-**March 10: Ye Chen**, Title TBA
+**March 10: Ye Chen**, Statistical Calibration in Epedemiological Forecast
+<br>
+Abstract: Statistical calibration is a method that adjusts the prediction of a model to match the empirical data as close as possible. It is applied in some forecast models to increase  prediction accuracy. I will go through the details of a calibration method I used in flu and COVID-19 prediction.
