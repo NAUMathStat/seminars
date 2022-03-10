@@ -142,6 +142,7 @@ differentiate patient status. Exciting new areas of study will be introduced.
 ### Tuesday 3/22 at 4:00-4:50
 
 **Speaker:** 
+Paul Phillips 
 
 **Title:**
 
@@ -152,7 +153,6 @@ differentiate patient status. Exciting new areas of study will be introduced.
 ### Tuesday 3/29 4:00-4:50
 
 **Speaker:**
-Paul Phillips ?
 
 **Title:**
 
