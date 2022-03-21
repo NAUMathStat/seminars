@@ -145,8 +145,10 @@ differentiate patient status. Exciting new areas of study will be introduced.
 Paul Phillips 
 
 **Title:**
+Genome-wide association studies using machine learning to unmask novel antimicrobial resistance mechanisms in B. pseudomallei
 
 **Abstract:**
+Genome-wide association studies (GWAS) have been used to uncover the link between genotype and phenotype. While GWAS has been conducted for more than a decade, it is only recently that this method has been applied to bacteria. Here we discuss and analyze a promising machine learning (ML) workflow designed for GWAS. The focus of this method was for identifying antimicrobial-resistant (AMR) mechanisms in Burkholderia pseudomallei. Benchmarking the method on data generated in this study identified an SNP mutation that has been demonstrated to confer amoxicillin/clavulanate acid resistance in B. pseudomallei. Specifically, the ML workflow was able to correctly identify the DNA mutation responsible for the S72F amino-acid mutation in the ambler domain of the penA β-lactamase enzyme associated with amoxicillin/clavulanate acid resistance.
 
 <hr>
 
