@@ -6,7 +6,7 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note:  The ACGT seminar is on zoom while the omicron variant surges.
 
-### Tuesday February 8, 15, and 22 (via zoom, 12:40 to 1:30)
+### Tuesday, February 8, 15, and 22 (via zoom, 12:40 to 1:30)
 
 **Speaker:** Jim Swift
 
@@ -21,9 +21,9 @@ These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 
 ### We plan to resume the ACGT Seminar in person, after Spring Break
 <hr>
-### Tuesday TBA
+### Tuesday, March 21
 
-**Speaker:** TBA
+**Speaker:** Mike Falk
 
 **Title:** TBA
 
