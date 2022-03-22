@@ -21,12 +21,13 @@ These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 
 ### We plan to resume the ACGT Seminar in person, after Spring Break
 <hr>
-### Tuesday, March 21
+### Tuesday, March 22
 
 **Speaker:** Mike Falk
 
-**Title:** TBA
+**Title:** Models for braid-like groups and their pure subgroups
 
-**Abstract:** TBA
+**Abstract:** We will start by describing a construction that produces a model for the braid group, starting from the graph of the permutahedron, and show how it can be generalized to graphic braid groups. The latter arise from consideration of fundamental groups of graphic hyperplane arrangements, which are "pure graphic braid groups." We describe some partial structure theorems for those groups, ending with an open problem. This talk is based on joint work with various people including Dan Cohen, Emanuele Delucchi, Dana Ernst, and Sonja Riedel.
+
 
 <hr>
