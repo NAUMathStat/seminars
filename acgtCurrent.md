@@ -16,6 +16,7 @@ Note:  The ACGT seminar is on zoom while the omicron variant surges.
 Such subspaces form a patially ordered set, which is also a lattice.  In coupled cell networks with the linear coupling of the $n$ cells determined by an $n \times n$ matrix $A$,
 the lattice of $A$-invariant polydiagonal subspaces describes the possible synchrony and anti-synchrony of the cells.
 Among other examples, we let $A$ be the adjacency matrix of a weighted digraph obtained from a Cayley digraph of the group $Q_8$ (the 8-element group of quaternions).  
+
 These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 <hr>
 
