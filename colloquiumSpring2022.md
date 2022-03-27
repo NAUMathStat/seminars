@@ -19,13 +19,13 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 1/18 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Steve Wilson
 
-**Title:** 
+**Title:**
 Families of Regular Hypergraphs in Regular Hypermaps
 
-**Abstract:** 
+**Abstract:**
 The study of which regular (i.e. symmetric) graphs can be the skeleton of a regular
 map (an embedding into a surface) has a long-ish history.  We have theorems saying
 for which values of $n$ the complete graph $K_n$ is symmetrically embeddable. Ditto for
@@ -39,10 +39,10 @@ introduction, that they have an unexpected charm.
 
 ### Tuesday 1/25 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Christina
 
-**Title:** 
+**Title:**
 The impact of instructional model and instructor rank on our Precalculus course
 
 **Abstract:**
@@ -55,7 +55,7 @@ From Fall 2008 to Spring 2019, NAU utilized four different instructional models 
 **Speaker:**
 Angie Hodge-Zickerman
 
-**Title:** 
+**Title:**
 Living Proof: Lessons learned from Black mathematicians
 
 **Abstract:**
@@ -65,7 +65,7 @@ Historically, Black students have been both underrepresented and marginalized in
 
 ### Tuesday 2/08 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Eddie Nijholt
 
 **Title:**
@@ -78,21 +78,21 @@ Symmetry has always played a prominent role in the analysis of network dynamical
 
 ### Tuesday 2/15 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Tyler Diggans
 
 **Title:**
 The Essential Synchronization Backbone Problem
 
 **Abstract:**
-A new optimization problem is defined for the synchronization of networked oscillator systems with applications to power grid hardening and information flow systems.  Given a system of networked oscillators that achieves synchronization, we seek a minimal-edge subgraph of the original network such that the synchronization manifold has conjugate stability. In some applications of synchronization, the size of the basin of stability and the average time to synchronization are not as important as whether the system can achieve similar synchronization states. For example, how many transmission lines of a power grid can be disrupted or destroyed, before synchronization is no longer possible under any parameter settings.  The solutions to this problem vary widely with the type of oscillators used and coupling implemented: for the most basic oscillator systems, solutions are spanning trees, but for certain linear couplings of chaotic oscillators, we find complicated interwoven central cycles with the potential for pendant vertices as well.  I will also use this opportunity to update my former academic family on the progress of my career since leaving NAU and plans for the future. 
+A new optimization problem is defined for the synchronization of networked oscillator systems with applications to power grid hardening and information flow systems.  Given a system of networked oscillators that achieves synchronization, we seek a minimal-edge subgraph of the original network such that the synchronization manifold has conjugate stability. In some applications of synchronization, the size of the basin of stability and the average time to synchronization are not as important as whether the system can achieve similar synchronization states. For example, how many transmission lines of a power grid can be disrupted or destroyed, before synchronization is no longer possible under any parameter settings.  The solutions to this problem vary widely with the type of oscillators used and coupling implemented: for the most basic oscillator systems, solutions are spanning trees, but for certain linear couplings of chaotic oscillators, we find complicated interwoven central cycles with the potential for pendant vertices as well.  I will also use this opportunity to update my former academic family on the progress of my career since leaving NAU and plans for the future.
 
 
 <hr>
 
 ### Tuesday 2/22 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Ye Chen
 
 **Title:**
@@ -105,7 +105,7 @@ Rule-based modeling is a modeling approach that uses rules to generate a system 
 
 ### Tuesday 3/01 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Bahattin Yildiz
 
 **Title:**
@@ -113,7 +113,7 @@ Improving Future Cryptosystems in the Quantum Era
 
 **Abstract:**
 In this talk , I will go over some of the recent work I have done on Classical McEliece Cryptosystem and the NTRU cryptosystem, two of the finalists in NIST's Post-quantum Competition.
-In the first part of the talk I will talk about how we were able to integrate PUFs into generation of matrices for the McEliece cryptosystem. We also demonstrate how to efficiently generate non-singular matrices using circulant matrices and how significantly this improves the efficiency of the key generation phase for the McEliece Cryptosystem. In the second part of the talk, I will talk about our recent improvement to the security of NTRU, without a computational overhead, inspired by an idea from cyclic codes. 
+In the first part of the talk I will talk about how we were able to integrate PUFs into generation of matrices for the McEliece cryptosystem. We also demonstrate how to efficiently generate non-singular matrices using circulant matrices and how significantly this improves the efficiency of the key generation phase for the McEliece Cryptosystem. In the second part of the talk, I will talk about our recent improvement to the security of NTRU, without a computational overhead, inspired by an idea from cyclic codes.
 
 <hr>
 
@@ -141,8 +141,8 @@ differentiate patient status. Exciting new areas of study will be introduced.
 
 ### Tuesday 3/22 at 4:00-4:50
 
-**Speaker:** 
-Paul Phillips 
+**Speaker:**
+Paul Phillips
 
 **Title:**
 Genome-wide association studies using machine learning to unmask novel antimicrobial resistance mechanisms in B. pseudomallei
@@ -158,14 +158,16 @@ Genome-wide association studies (GWAS) have been used to uncover the link betwee
 Dana Ernst
 
 **Title:**
+Some enumeration results for sorting signed permutations by reversals
 
-**Abstract:** 
+**Abstract:**
+A signed permutation is a permutation of the numbers 1 through $n$ in which each number is signed. A reversal of a signed permutation is the act of swapping the order of a consecutive subsequence of numbers and changing the sign of each number in the subsequence. Given a signed permutation $\pi$, it is always possible to transform $\pi$ into the identity permutation using a sequence of reversals. This process of transforming a signed permutation into the identity permutation is referred to as sorting by reversals. The reversal distance of signed permutation $\pi$ is the minimum number of reversals required to transform $\pi$ into the identity permutation. Signed permutations, and their reversals, are useful tools in the comparative study of genomes. Different species often share similar genes that were inherited from common ancestors. However, these genes have been shuffled by mutations that modified the content of the chromosomes, the order of genes within a particular chromosome, and/or the orientation of a gene. Comparing two sets of similar genes appearing along a chromosome in two different species yields two signed permutations. The reversal distance between these two signed permutations provides a good estimate of the genetic distance between the two species. For example, the genomes for cabbage and turnip differ by three reversals while the genomes for a human and a mouse differ by 251 rearrangements, 149 of which are reversals.  In this talk, we will discuss several enumeration results concerning the number of signed permutations of a fixed reversal distance.  
 
 <hr>
 
 ### Tuesday 4/05 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 Shafiu Jibrin ?
 
 **Title:**
@@ -176,7 +178,7 @@ Shafiu Jibrin ?
 
 ### Tuesday 4/12 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 
 **Title:**
 
@@ -197,7 +199,7 @@ Jillian and Jonathan ?
 
 ### Tuesday 4/26 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:**
 BSDS capstone presentations
 
 **Title:**
@@ -205,4 +207,3 @@ BSDS capstone presentations
 **Abstract:**
 
 <hr>
-
