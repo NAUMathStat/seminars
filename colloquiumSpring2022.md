@@ -155,7 +155,7 @@ Genome-wide association studies (GWAS) have been used to uncover the link betwee
 ### Tuesday 3/29 4:00-4:50
 
 **Speaker:**
-Dana Ernst
+Dana C. Ernst
 
 **Title:**
 Some enumeration results for sorting signed permutations by reversals
