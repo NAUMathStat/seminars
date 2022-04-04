@@ -33,4 +33,12 @@ These talks describe work with Nandor Sieben, Eddie Nijholt, and Jack Eigen.
 
 ### Tuesday, March 29 seminar is cancelled
 
+### Tuesday, April 5
+
+**Speaker:** Mike Falk
+
+**Title:** Coxeter complexes and Davis complexes
+
+**Abstract:** Episode 1: We construct the Coxeter complex of a Coxeter system.
+
 <hr>
