@@ -168,11 +168,13 @@ A signed permutation is a permutation of the numbers 1 through $n$ in which each
 ### Tuesday 4/05 at 4:00-4:50
 
 **Speaker:**
-Shafiu Jibrin ?
+Shafiu Jibrin
 
 **Title:**
+A Weighted Analytic Center for Second-Order Cone Constraints
 
 **Abstract:**
+This talk introduces a weighted analytic center for a system of second order cone constraints. We study properties of the weighted analytic center and use conjugate gradient (CG) methods to compute it. The methods considered are the HPRP and ZA with exact and inexact line searches. The exact line search uses Newton's method and quadratic interpolation is used for the inexact line search. Our numerical methods indicate that ZA is better than HPRP in terms of the number of iterations and time to find the weighted analytic center. Quadratic interpolation line search gives the best success rate and fewest number of iterations for the CG methods considered. On the other hand, the fastest time for the CG methods is found with the Newton's exact line search.
 
 <hr>
 
