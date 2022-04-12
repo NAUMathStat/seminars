@@ -181,11 +181,7 @@ This talk introduces a weighted analytic center for a system of second order con
 ### Tuesday 4/12 at 4:00-4:50
 
 **Speaker:**
-Mike Falk or Faculty candidate
-
-**Title:**
-
-**Abstract:**
+No colloquium.
 
 <hr>
 
