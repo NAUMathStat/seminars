@@ -188,11 +188,7 @@ No colloquium.
 ### Tuesday 4/19 at 4:00-4:50
 
 **Speaker:**
-Jillian and Jonathan ?
-
-**Title:**
-
-**Abstract:**
+No colloquium.
 
 <hr>
 
