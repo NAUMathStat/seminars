@@ -25,4 +25,4 @@ Abstract: Statistical calibration is a method that adjusts the prediction of a m
 
 **April 7: John Neuberger**, Using the variational method for proving the existence of a sign changing solution to a superlinear elliptic BVP
 
-**April 14: Jim Swift**, Coupled Cell Networks, Synchrony and Anti-Synchrony
+**April 14, 21, 28: Cancelled**, due to the many talks by job candidates.
