@@ -2,14 +2,16 @@ The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly eve
 
 Come join us for some entertaining talks!  Refreshments always served.
 
-# Schedule Spring 2022 #
+# Schedule Fall 2022 #
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### The Happy Ending Problem
 
-**Date:** Friday, January 14
+**Date:** Friday, September 16
 
-**Speaker:** TBA
+**Speaker:** Jeff Rushall (NAU)
 
-**Abstract:**  TBA
+**Abstract:**  The talk topic this week is "The Happy Ending Problem," so coined by Paul Erdos.  This topic is a mix of math, tragedy, and a love story.  The math revolves around a problem in planar geometry that involves convex polygons.  
+
+The faculty guest interviewee is Tyler Brock, who will answer a prearranged set of humorous questions and show humorous pictures from his past.  In addition to being the first FAMUS of AY 2022-2023, both Math Club and the Putnam Exam will recruit from the students in attendance. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-09-16.pdf)]

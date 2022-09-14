@@ -7,6 +7,7 @@ Note that pages and posts are listed in reverse chronological order.
 
 ### Seminars ###
 - Department Colloquium
+    - [Spring 2022]({{ site.baseurl }}/colloquiumSpring2022)
     - [Fall 2021]({{ site.baseurl }}/colloquiumFall2021)
     - [Spring 2021]({{ site.baseurl }}/colloquiumSpring2021)
     - [Spring 2020]({{ site.baseurl }}/colloquiumSpring2020)
@@ -21,6 +22,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
+    - [Spring 2022]({{ site.baseurl }}/acgtSpring2022)
     - [Fall 2021]({{ site.baseurl }}/acgtFall2021)
     - [Spring 2020]({{ site.baseurl }}/acgtSpring2020)
     - [Fall 2019]({{ site.baseurl }}/acgtFall2019)
