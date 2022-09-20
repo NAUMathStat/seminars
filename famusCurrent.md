@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The 10958 Problem
+
+**Date:** Friday, September 23
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  The 10958 Problem involves the following puzzle: using the digits $1, 2, 3, 4, 5, 6, 7, 8$ and $9$, in that order, and using any of the standard arithmetic operations (addition, subtraction, multiplication, division, exponentiation, factorials and concatenation), what natural numbers can you build?  Some answers are easy: you can build $45$ ($45 = 1+2+3+4+5+6+7+8+9$), you can build $43$ ($43 = 1^2 + 3+4+5+6+7+8+9$), and so on.  Some are not so obvious, like: $10957 = (1 + 2)^(3+4) × 5 - 67 + 89$.  It turns out you can build every natural number up through about $11,000$ according to these rules - except for one special integer (look closely at the talk title for a hint).  
+
+The faculty guest interviewee is Robert Buscaglia, who in addition to being interviewed will HAVE HIS HEAD SHAVEN DURING FAMUS FOR CHARITY.  Others are welcome to also have their heads shaven. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-09-23.pdf)]
+
 ### The Happy Ending Problem
 
 **Date:** Friday, September 16
