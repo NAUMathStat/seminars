@@ -2,4 +2,12 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 # Schedule Fall 2022 #
 
-Coming soon.
+Note that talks are listed in reverse chronological order.
+
+### Twin groups, right-angled Coxeter groups, and braid classes
+
+**Date:** September 27
+
+**Speaker:** Group discussion
+
+**Abstract:** We will have a discussion of twin groups, right-angled Coxeter groups, braid classes, and related topics. All are welcome to listen in or contribute.
