@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 9/27 at 4:00-4:50
+
+**Speaker:** John Neuberger (NAU)
+
+**Title:** Splines, Direction Fields, and ODE Solvers
+
+**Abstract:** We will start with an introduction to the famous cubic spline interpolator from MAT 362 Intro to Numerical Analysis, which we implement as a single linear system defined with block matrices. We will see how to modify the linear system to approximate solutions to linear ODE. For nonlinear ODE we obtain a nonlinear system, which can be solved by Newton’s method. The talk concludes with some ideas about various algorithms derived from this way of thinking, along with some open questions and ongoing research topics.
+
+<hr>
+
 ### Tuesday 9/13 at 4:00-4:50
 
 **Speaker:** Michael Falk (NAU)
