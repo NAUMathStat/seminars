@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Graph Labeling
+
+**Date:** Friday, September 30
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**   Graph labeling is a fun game played on graphs: given a specific kind of graph, and given a set of labeling rules, find a way to label the vertices and/or the edges of the graph that obeys the given rules.  Some known theorems and known open problems will be presented.  
+
+The faculty guest interviewee is new faculty member Hannah Prawzinsky.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-09-30.pdf)]
+
 ### The 10958 Problem
 
 **Date:** Friday, September 23
