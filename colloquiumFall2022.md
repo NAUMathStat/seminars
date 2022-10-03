@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 10/3 at 4:00-4:50
+
+**Speaker:** Angie Hodge (NAU)
+
+**Title:** Math Pathways: Arizona and Beyond
+
+**Abstract:** In August 2022, Arizona was selected to be a part of the Dana Center’s Launch Years Initiative. Come find out what all of this means to Arizona and specifically to the NAU Department of Mathematics and Statistics. In this talk, I will share the work I’ve been doing with the Arizona Pathways statewide team (including monthly virtual meetings and a meeting in DC with the Conference Board of Mathematical Sciences). I will also gather feedback from attendees on their thoughts about the initiative.
+
+<hr>
+
 ### Tuesday 9/27 at 4:00-4:50
 
 **Speaker:** John Neuberger (NAU)
