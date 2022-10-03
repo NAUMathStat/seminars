@@ -6,7 +6,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Twin groups, right-angled Coxeter groups, and braid classes
 
-**Date:** September 27
+**Date:** September 27, October 4
 
 **Speaker:** Group discussion
 
