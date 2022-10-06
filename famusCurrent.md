@@ -6,13 +6,23 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Ramanujan's Ternary Quadratic Form
+
+**Date:** Friday, October 7
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The title sounds scary, but the topic boils down to this: what integer values does the expression $x^2 + y^2 + 10z^2$ take on (or NOT take on) if the variables can be any integers?  Despite being a computational genius, Ramanujan wasn't sure about the answer to that question, which remains open to this day.  In addition to presenting this fun puzzle, I get to discuss the life of Ramanujan, which never ceases to be entertaining.    
+
+The faculty guest interviewee is [Dana Ernst](http://danaernst.com).   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-10-07.pdf)]
+
 ### Graph Labeling
 
 **Date:** Friday, September 30
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:**   Graph labeling is a fun game played on graphs: given a specific kind of graph, and given a set of labeling rules, find a way to label the vertices and/or the edges of the graph that obeys the given rules.  Some known theorems and known open problems will be presented.  
+**Abstract:**  Graph labeling is a fun game played on graphs: given a specific kind of graph, and given a set of labeling rules, find a way to label the vertices and/or the edges of the graph that obeys the given rules.  Some known theorems and known open problems will be presented.  
 
 The faculty guest interviewee is new faculty member Hannah Prawzinsky.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-09-30.pdf)]
 
