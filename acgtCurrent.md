@@ -4,6 +4,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Introduction to Shepherd groups
+
+**Date:** October 11
+
+**Speaker:** Michael Falk
+
+**Abstract:** We will have an informal discussion about Shepherd groups.
+
 ### Twin groups, right-angled Coxeter groups, and braid classes
 
 **Date:** September 27, October 4

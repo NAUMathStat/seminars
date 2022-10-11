@@ -9,6 +9,17 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 10/11 at 4:00-4:50
+
+**Speaker:** Jaechoul Lee (NAU)
+
+**Title:** Lag time between state-level policy interventions and changepoints in U.S. COVID-19 outcomes
+
+**Abstract:** Public health policy implemented at the state level has been important in managing the spread of
+COVID-19. State governments have had to balance the need to reduce the spread of COVID-19 with the public's desire to return to normal life. As a result, there are both restrictive policies and reopening policies that influence social behavior and consequentially the spread of COVID-19. Here, we describe the relationship between changes in the trajectory of COVID-19 cases and deaths and policy implementations. For this, we first detect changepoints in the COVID-19 outcomes using a data-driven search algorithm and then relate these changepoints to implemented policies. Particularly, we show that there is a change in COVID-19 outcomes approximately 10–14 days after state-level policy implementation. This work can help health officials understand the time it will take for state-level policies to have an impact on the trajectory of a highly infectious illness like COVID-19. Knowing that there is a significant lag time between policy implementation and its effect on the spread of disease can help officials be more proactive in responding to health crises. Limitations and further research opportunities will be discussed at the end of the talk.
+
+<hr>
+
 ### Tuesday 10/3 at 4:00-4:50
 
 **Speaker:** Angie Hodge (NAU)
