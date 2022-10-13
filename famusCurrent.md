@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Odd Perfect Numbers
+
+**Date:** Friday, October 14
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  A perfect number is a positive integer equal to the sum of it's proper positive integer divisors.  Only a few are known to exist, and all of these are even.  In this talk, I'll present a short history of the search for perfect numbers, and I might even show the audience an odd perfect number.  Or will I?  Come and see for yourself!  
+
+The faculty guest interviewee is Ian Williams.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-10-14.pdf)]
+
 ### Ramanujan's Ternary Quadratic Form
 
 **Date:** Friday, October 7
