@@ -9,6 +9,21 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 10/18 at 4:00-4:50
+
+**Speaker:** Natali Hritonenko (Prairie View A&M, Texas)
+
+**Title:** To Mitigate or Adapt to Climate Change: Modeling approach
+
+**Abstract:** The presentation will start with a brief introduction of ongoing and prospective research directions. The talk will focus on mathematical modelling and analysis of two related contemporary issues (a) modernization of industrial equipment under fast technological development and (b) environment adaptation and pollution mitigation as two main strategies to deal with climate change and industrial contamination.
+
+The considered deterministic ODE model that portrays complex interrelations of production, pollution, and the environmental protection is a result of intensive collaborative efforts of mathematicians, economists, and environmentalists.
+Volterra integral equations of the second kind are used to model rational capital replacement under scientific and technological innovations, government quotas, and environmental constraints.
+
+Different extensions and modifications of the models as well as developed methods of their investigation and applied interpretation of obtained results will be presented. A short survey of other quantitative and qualitative modelling approaches to solve these problems will be provided.
+
+<hr>
+
 ### Tuesday 10/11 at 4:00-4:50
 
 **Speaker:** Jaechoul Lee (NAU)
