@@ -4,6 +4,14 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### Invariant polynomials and discriminants of finite complex reflection groups
+
+**Date:** October 18
+
+**Speaker:** Michael Falk
+
+**Abstract:** We will discuss the classical discriminant (e.g., in degree two: $b^2-4ac=0$) and invariant polynomials and discriminants of finite complex reflection groups.
+
 ### Introduction to Shepherd groups
 
 **Date:** October 11
