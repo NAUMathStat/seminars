@@ -6,6 +6,17 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Hadwiger-Nelson Problem
+
+**Date:** Friday, October 21
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  This problem is a graph theory puzzle: suppose every point in the plane is given a color, subject to the simple rule that any two points in the plane that are exactly one unit apart MUST have different colors.  How many colors do you need?  No one knows!  But there are crude upper and lower bounds on the number of colors needed.  It's a neat problem that is easy to understand and fun to think about.  
+
+The faculty guest interviewee is Ben Lucas.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-10-21.pdf)]
+
+
 ### Odd Perfect Numbers
 
 **Date:** Friday, October 14
