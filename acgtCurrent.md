@@ -4,11 +4,19 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
+### The Wooly Hat Problem Is Solved!
+
+**Date:** October 25
+
+**Speaker:** Steve Wilson (NAU retired)
+
+**Abstract:** A problem I posed concerning the vertex- and/or edge-transitive covers of a certain tetravalent diagram on 3 nodes has been solved, though, alas, not by me.
+
 ### Invariant polynomials and discriminants of finite complex reflection groups
 
 **Date:** October 18
 
-**Speaker:** Michael Falk
+**Speaker:** Michael Falk (NAU)
 
 **Abstract:** We will discuss the classical discriminant (e.g., in degree two: $b^2-4ac=0$) and invariant polynomials and discriminants of finite complex reflection groups.
 
@@ -16,7 +24,7 @@ Note that talks are listed in reverse chronological order.
 
 **Date:** October 11
 
-**Speaker:** Michael Falk
+**Speaker:** Michael Falk (NAU)
 
 **Abstract:** We will have an informal discussion about Shepherd groups.
 
