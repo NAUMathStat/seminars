@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 10/25 at 4:00-4:50
+
+**Speaker:** Ye Chen (NAU)
+
+**Title:** Compartmental epidemiological models and Bayesian inference for parameter estimation
+
+**Abstract:** Epidemiological models play a vital role in understanding the spread and severity of a pandemic of infectious disease, such as the COVID-19. The mathematical modeling of infectious diseases in the form of compartmental models are often employed in studying the probable outbreak growth. Such models heavily rely on a good estimation of the epidemiological parameters for simulating the outbreak trajectory. Bayesian estimation is a commonly used technique in parameters inference of compartmental models. However, the high computational cost of inferring from a complicated and often intractable ‘true posterior distribution’ has always been an obstacle in the Bayesian framework. In this talk, I will give an overview of some epidemiological models and a new Bayesian estimation approach I have been working on.
+
+<hr>
+
 ### Tuesday 10/18 at 4:00-4:50
 
 **Speaker:** Natali Hritonenko (Prairie View A&M, Texas)
