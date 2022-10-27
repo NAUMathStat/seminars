@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The St. Petersburg Paradox
+
+**Date:** Friday, October 28
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  The "paradox" is a gambling puzzle: it involves a relatively simple game that you'll never see in Las Vegas because no one knows a fair way to create a wagering system for it.  Sound intriguing?  Bring some students to FAMUS and let them find out what all the fuss is about.  
+
+The guest interviewees are two undergraduate students, Maddy Cox and Kaylee Freudenthal, who will talk about, and answer questions about, their summer REU programs. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-10-28.pdf)]
+
 ### The Hadwiger-Nelson Problem
 
 **Date:** Friday, October 21
@@ -15,7 +25,6 @@ Note that talks are listed in reverse chronological order.
 **Abstract:**  This problem is a graph theory puzzle: suppose every point in the plane is given a color, subject to the simple rule that any two points in the plane that are exactly one unit apart MUST have different colors.  How many colors do you need?  No one knows!  But there are crude upper and lower bounds on the number of colors needed.  It's a neat problem that is easy to understand and fun to think about.  
 
 The faculty guest interviewee is Ben Lucas.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-10-21.pdf)]
-
 
 ### Odd Perfect Numbers
 
