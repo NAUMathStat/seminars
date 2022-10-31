@@ -9,6 +9,19 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 11/1 at 4:00-4:50
+
+**Speaker:** Bianca Luedeker (NAU)
+
+**Title:** Compositional Data Analysis and the Nested Dirichlet Distribution
+
+**Abstract:** Compositional data is a special type of multivariate data where each component of the data vector is sandwiched between 0 and 1 and the sum of the components must be 1. For example, the proportion of time that each of 7 mice spend in one of four quadrants of a circular water maze is between 0 and 1,
+and the total proportion of time spent in the maze is 1. In this case, the proportion of time spent in each quadrant of the maze is a "component". If there are two sets of mice, one set of normal mice and one set of cognitively impaired mice, the experiment has a two-sample design. Such data is frequently analyzed incorrectly by comparing the two samples via a t-test (or ANOVA for multiple samples) on one component of the vector at a time.
+
+In this dissertation, this problem is corrected by analyzing compositional datasets using nested Dirichlet distributions, generalized versions of Dirichlet distributions that allow for positive correlations among components. Specifically, we extend a previous result of two-sample comparisons using Dirichlet distributions and nested Dirichlet distributions to multi-sample comparisons. The performance of the new test in terms of type I error rates and power is established using simulation studies. In addition, to use a nested model, an appropriate tree which describes the relationship between components must first be found. An existing data driven tree finding algorithm is improved upon by including an extra step that prunes unnecessary nodes using confidence intervals for the differences between parameters at each level of the tree. The tree finding algorithm and multi-sample test are demonstrated on two datasets. The first dataset measures the proportion of home runs, triples, doubles, singles, outs, and other events for batters on professional baseball teams from three age groups. The second dataset compares the composition of job types in the United States by region.
+
+<hr>
+
 ### Tuesday 10/25 at 4:00-4:50
 
 **Speaker:** Ye Chen (NAU)
