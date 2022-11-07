@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 11/8 at 4:00-4:50
+
+**Speaker:** Bertrand Cambou (NAU)
+
+**Title:** Introducing Lattice for Post Quantum Cryptography
+
+**Abstract:** The asymmetrical cryptographic algorithms such as RSA, and Elliptic Curve Cryptography, are we think vulnerable to powerful quantum computers. The program lead by NIST on post quantum cryptography (PQC) is currently considering algorithms based on lattices as strong candidates to replace legacy codes. In this talk, we are going to briefly review some of the mathematical elements describing lattices, and the arithmetic of truncated polynomials. The scheme called "learning with error (LWE)" will be presented, as well as its use in cryptography Finally, we will discuss the implementation of "Dilithium" and "Kyber", the two LWE-based PQC algorithms under consideration by NIST for standardization, and some of the research work conducted at NAU in the field.
+
+<hr>
+
 ### Tuesday 11/1 at 4:00-4:50
 
 **Speaker:** Bianca Luedeker (NAU)
