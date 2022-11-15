@@ -9,6 +9,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Thursday 11/17 at 4:00-4:50
+
+**Speaker:** Levi Heath (University of Nebraska-Lincoln)
+
+**Title:** Enumerative geometry in physics and quantum Serre duality for quasimaps
+
+**Abstract:** An aim of enumerative geometry is to count intersection numbers. As a first example, given two distinct points in the complex projective plane, there is a unique line that intersects both points. Surprisingly, similar enumerative questions are related to a conjecture made by Edward Witten in theoretical physics. In 1992, the mathematician Maxim Kontsevich proved Witten's conjecture in his thesis and created a new area of mathematics called Gromov-Witten theory.
+
+Let $X$ be a smooth variety and let $Z$ be a complete intersection in $X$ defined by a section of a vector bundle $E$ over $X$. Gromov-Witten and quasimap invariants of $X$ are integrals over Kontsevich's moduli space of stable maps to $X$ and Ciocan-Fontanine and Kim's moduli space of stable quasimaps respectively. Originally proposed by Givental, quantum Serre duality refers to a precise relationship between the Gromov-Witten invariants of $Z$ and those of the dual vector bundle $E^V$. In this talk, we motivate the study of Gromov-Witten and quasimap invariants, which have applications in theoretical physics, and present a quantum Serre duality statement for quasimap invariants. We describe how working with quasimaps allows us to obtain a comparison that is simpler, and that also holds in greater generality than previous quantum Serre duality results in Gromov-Witten theory. This is joint work with Mark Shoemaker.
+
+<hr>
+
 ### Tuesday 11/8 at 4:00-4:50
 
 **Speaker:** Bertrand Cambou (NAU)
