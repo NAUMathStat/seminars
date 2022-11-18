@@ -6,6 +6,20 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Kontsevich's Formula
+
+**Date:** Friday, November 19
+
+**Speaker:** Levi Heath (University of Nebraska-Lincoln)
+
+**Abstract:**  In his PhD thesis, Maxim Kontsevich used geometry to prove a conjecture in theoretical physics. His work also answered another outstanding question that eluded mathematicians for centuries. We will introduce this question, which involves counting geometric objects, and present Kontsevich's solution.
+
+Levi will also be the "faculty guest," for which he has prepared a slide presentation.  Here are his title and abstract for this second portion of FAMUS:
+
+**Title:** NAU to PhD
+
+Abstract:  In the second part of the seminar, I will talk about my journey to become a PhD in Mathematics. My story is not a guidebook by any means; however, I will offer some advice and discuss some of things you do and don't need to go to graduate school. I will also share plenty of photos...one of which may depict an injury I sustained while attending an undergraduate math conference. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-11-18.pdf)]
+
 ### The Monty Hall Problem
 
 **Date:** Friday, November 4
@@ -14,7 +28,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:**  The Monty Hall Problem is a classic probability controversy associated with the TV game show "Let's Make a Deal" and its host Monty Hall.  Monty would let a contestant choose one of 3 doors; behind one of the doors was a great prize (big trip, new car, etc.) and behind the other 2 doors were not so great prizes.  After the contestant chose a door, Monty would open one door, which would always reveal one of the lesser prizes, and then give the contestant the option of keeping their original choice or switching choices.  Some say the probability of winning is the same regardless of keeping or switching; others say otherwise.  I'll talk about the problem, explain how to analyze it, and show some foolish comments about the Monty Hall Problem made by several smart people, many of whom regretted their actions.  
 
-The faculty guest interviewee is Roy St. Laurent.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-1104.pdf)]
+The faculty guest interviewee is Roy St. Laurent.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-11-04.pdf)]
 
 ### The St. Petersburg Paradox
 
