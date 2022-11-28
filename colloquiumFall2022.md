@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Thursday 11/29 at 4:00-4:50
+
+**Speaker:** Ryan Blackburn (NAU)
+
+**Title:** Lidar-driven deep learning accurately classifies species in a southwestern mixed conifer forest
+
+**Abstract:** Tree species classification using remotely sensed data is a challenge that has yet to be overcome. However, tree species classification is essential for forest monitoring and studying ecosystem dynamics especially over large spatial extents. Light detection and ranging (lidar) has shown promise in species classification but fails in complex forests or is limited to small extents. Recent advances of lidar processing and machine learning have provided an opportunity to take advantage of tree structural information. In this study, Deep learning was used to create a classification model for 7 species from lidar data within the Mogollon Rim Ranger District. This study demonstrates that ALS and UAV-LS acquisition types provide similar accuracies despite large differences in point densities and lays the groundwork for datasets to be modeled in different regions.
+
+<hr>
+
 ### Thursday 11/17 at 4:00-4:50
 
 **Speaker:** Levi Heath (University of Nebraska-Lincoln)
