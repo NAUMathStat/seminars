@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Sleeping Beauty Problem
+
+**Date:** Friday, December 2
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  Here's the situation: when you flip a fair coin, most people think the probability of getting heads is 1/2.  But a very strong argument has been made by some very smart people that the probability is actually 1/3.  The Sleeping Beauty Problem is a puzzle that might lead some of you to conclude that the probability really IS 1/3.  Wanna learn what the controversy is all about?  Come to FAMUS and see!  
+
+The "faculty guest" will be a small subset of department faculty who will argue the merits of both sides of this Sleeping Beauty Problem paradox.  I will umpire the debate: verbal punches may be thrown but no fisticuffs will be allowed. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS22-12-02.pdf)]
+
 ### Kontsevich's Formula
 
 **Date:** Friday, November 19
