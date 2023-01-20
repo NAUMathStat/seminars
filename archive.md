@@ -50,6 +50,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Fall 2022]({{ site.baseurl }}/famusFall2022)
     - [Fall 2021]({{ site.baseurl }}/famusFall2021)
     - [Spring 2020]({{ site.baseurl }}/famusSpring2020)
     - [Fall 2019]({{ site.baseurl }}/famusFall2019)
