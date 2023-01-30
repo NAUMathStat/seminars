@@ -7,4 +7,4 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays.  Any faculty
 
 ### Spring 2023 Schedule
 
-For Spring 2023 we are meeting from 3:00-4:00PPM in room ??? of the ??? building.
+For Spring 2023 we are meeting from 12:45-1:45PPM in room 207 of the Adel Mathematics building.
