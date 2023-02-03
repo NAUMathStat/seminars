@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### A Topological Property of Fullerenes
+
+**Date:** Friday, February 3
+
+**Speaker:** Maddy Cox (NAU undergraduate math major)
+
+**Abstract:** Maddy will present progress on her undergraduate research project (joint work with Kaylee Freudenthal).  The research project involves analyzing fullerene graphs, and in particular seeing if they possess a specific topological/graph theoretic property.  
+
+Maddy will also be the "guest."  She will discuss her recent experience attending the Nebraska Conference for Undergraduate Women in Mathematics.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-02-03.pdf)]
+
 ### What are Random Graphs?
 
 **Date:** Friday, January 20
