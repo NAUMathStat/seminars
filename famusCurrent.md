@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Hackenbush
+
+**Date:** Friday, February 10
+
+**Speaker:** Matt Fahy (NAU)
+
+**Abstract:** A brief glimpse into combinatorial game theory.  We'll show how analyzing a simple game can lead to a number system beyond the real numbers.
+
+Matt will also be the faculty guest. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-02-10.pdf)]
+
 ### A Topological Property of Fullerenes
 
 **Date:** Friday, February 3
