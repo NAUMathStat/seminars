@@ -9,11 +9,21 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 2/14 at 4:00-4:50
+
+**Speaker:** Dr. Peter Vadasz (NAU Department of Mechanical Engineering)
+
+**Title:** Deterministic Quantum Mechanics
+
+**Abstract:** A deterministic quantum mechanics theory is presented. The proposed theory is shown to be consistent with the current mainstream statistical quantum theory as well as with classical physics. It produces solutions, which demonstrate that causality, physical reality, and determinism are restored and can explain in simple form concerns that are raised by results from the current mainstream statistical quantum theory. The meaning of particle-wave duality and complementarity, the possibility of a particle, like the electron, to cross through the nucleus as it does when the angular momentum of the electron is zero at the ground state of the hydrogen atom, the possibility of a point-size particle to have an “intrinsic spin”, the possibility of “quantum jumps” as the electron transitions instantaneously from one stable orbital to another without passing through the space in between the orbitals and does that at irregular time intervals, and the natural collapse of the wave function as part of the solution are some of the results that emerge from the proposed deterministic quantum mechanics theory. The phenomenon of entanglement is also discussed in connection to the proposed theory and linked to the EPR paper and the Bell inequality violation by experiments demonstrating how non-locality and reality can coexist in realistic and classical form. Actual analytical solutions that are consistent with current mainstream quantum theory as well as with classical physics are presented via a linear stability method.
+
+<hr>
+
 ### Thursday 1/19 at 4:00-4:50
 
 **Speaker:** Dr. Robert Lund (University of California, Santa Cruz)
 
-**Title:** Correlated Statistical Count Structures.
+**Title:** Correlated Statistical Count Structures
 
 **Abstract:** This talk overviews the statistical modeling of correlated count structures, including time series, spatial random fields, and space-time processes. In the time series setting, which constitutes the majority of this talk, some history and recent breakthroughs are presented. Classical approaches to the problem and their drawbacks are first reviewed. Next, a Gaussian copula is used to produce an extremely flexible count time series model that is naturally parsimonious, can have negative autocorrelations and/or long-memory features, can easily accommodate covariates, and can be statistically fitted by likelihood methods. An application to annual no-hitter counts in Major League baseball is given. The talk closes with extensions of the methods to the spatial and space-time settings.
 
