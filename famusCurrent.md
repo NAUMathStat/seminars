@@ -6,6 +6,12 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Why should you think about grad school in math/stat/math ed?
+
+**Date:** Friday, February 17
+
+**Abstract:** Robert Buscaglia will be the point person discussing our graduate programs; some other faculty and a few grad students will offer testimonials about why grad school is so rewarding; and FREE PIZZA will be served as an enticement.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-02-17.pdf)]
+
 ### Hackenbush
 
 **Date:** Friday, February 10
