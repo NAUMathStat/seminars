@@ -4,9 +4,19 @@ The Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar meets on Tuesd
 
 Note that talks are listed in reverse chronological order.
 
-### codelassification of circle bundles over the two-dimensional sphere
+### Chromatic numbers of graphs and "quantum" relaxations of these quantities
 
-**Date:** January 31, 2023
+**Date:** January 31 and February 7, 2023
+
+**Speaker:** Samuel Harris (NAU)
+
+**Abstract:** As the title suggests, I’ll present on the chromatic numbers of graphs and quantum relaxations of these quantities. All welcome!
+
+<hr>
+
+### Codelassification of circle bundles over the two-dimensional sphere
+
+**Date:** January 31 and February 7, 2023
 
 **Speaker:** Michael Falk (NAU)
 

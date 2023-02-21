@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 2/21 at 4:00-4:50
+
+**Speaker:** Dr. Brian Beaudrie and Dr. Angie Hodge-Zickerman (NAU)
+
+**Title:** The Southwestern Section of the Mathematical Association of America: Past, Present, and Future
+
+**Abstract:** In this interactive colloquium, you will learn about the MAA’s Southwestern Section. You will find out about its past, its present, and its future. When discussing the future of the Section, ample time will be allotted for the audience to voice what they would like to see from our MAA section. We encourage all to attend! We would like to hear from as many voices as possible in this session. Zoom option available.
+
+<hr>
+
 ### Tuesday 2/14 at 4:00-4:50
 
 **Speaker:** Dr. Peter Vadasz (NAU Department of Mechanical Engineering)
