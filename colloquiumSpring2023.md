@@ -9,6 +9,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 2/28 at 4:00-4:50
+
+**Speaker:** Dr. Steve Wilson (NAU-Emeritus)
+
+**Title:** Transitive and Symmetric Cornerations in Maps
+
+**Abstract:** When you're looking for one thing, you find another. Sometimes it’s something even better. In trying to generalize “cycle structures”, we have found a simpler and maybe richer combinatorial object, based on “corners” in a map on a surface. In this talk, we will describe our motivating example, introduce corners and collections of corners (cornerations), prove a few results with entertaining proofs, and present interesting pictures throughout.
+
+*Note:* The speaker will be giving a remote talk over Zoom (see email announcement for link). Many/most of us will be watching the presentation in Adel 164 as usual.
+
+<hr>
+
 ### Tuesday 2/21 at 4:00-4:50
 
 **Speaker:** Dr. Brian Beaudrie and Dr. Angie Hodge-Zickerman (NAU)
