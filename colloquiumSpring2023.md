@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 3/21 at 4:00-4:50
+
+**Speaker:** Dr. Peter Vadasz (NAU Mechanical Engineering)
+
+**Title:** Deterministic Quantum Mechanics
+
+**Abstract:** A deterministic quantum mechanics theory is presented. The proposed theory is shown to be consistent with the current mainstream statistical quantum theory as well as with classical physics. It produces solutions, which demonstrate that causality, physical reality, and determinism are restored and can explain in simple form concerns that are raised by results from the current mainstream statistical quantum theory. The meaning of particle-wave duality and complementarity, the possibility of a particle, like the electron, to cross through the nucleus as it does when the angular momentum of the electron is zero at the ground state of the hydrogen atom, the possibility of a point-size particle to have an “intrinsic spin”, the possibility of “quantum jumps” as the electron transitions instantaneously from one stable orbital to another without passing through the space in between the orbitals and does that at irregular time intervals, and the natural collapse of the wave function as part of the solution are some of the results that emerge from the proposed deterministic quantum mechanics theory. The phenomenon of entanglement is also discussed in connection to the proposed theory and linked to the EPR paper and the Bell inequality violation by experiments demonstrating how non-locality and reality can coexist in realistic and classical form. Actual analytical solutions that are consistent with current mainstream quantum theory as well as with classical physics are presented via a linear stability method.
+
+<hr>
+
 ### Tuesday 2/28 at 4:00-4:50
 
 **Speaker:** Dr. Steve Wilson (NAU-Emeritus)
