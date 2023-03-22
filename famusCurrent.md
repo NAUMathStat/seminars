@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Cannonball Problem
+
+**Date:** Friday, March 24
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The Cannonball Problem is an old-ish problem about stacking cannonballs that can be asked like this: "When considering the number of identical cannonballs needed to form a perfect square pyramid, which of these numbers is ALSO perfect squares?"  This is an entertaining problem: in addition to the neat math involved, it allows discussion of topics that include both wine barrels and pirates.  
+
+The faculty guest is the recently-doctorized Bianca Leudeker.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-03-24.pdf)]
+
 ### Why should you think about grad school in math/stat/math ed?
 
 **Date:** Friday, February 17
