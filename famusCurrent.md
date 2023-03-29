@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Mertens Conjecture
+
+**Date:** Friday, March 31
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** The Mertens Conjecture is a famous conjecture about the natural numbers which was verified up to 100,000,000,000,000 before a counterexample was shown to exist (although no one has actually FOUND a counterexample).  I'll explain and analyze the conjecture, show why it is so important (it's connected to the Riemann Hypothesis), and tell some jokes.  
+
+The faculty guest is the recently-doctorized Samuel Harris.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-03-31.pdf)]
+
 ### The Cannonball Problem
 
 **Date:** Friday, March 24
