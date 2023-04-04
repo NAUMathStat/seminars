@@ -9,6 +9,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tuesday 4/5 at 4:00-4:50
+
+**Speaker:** Guerrero, Louchart, et al (NAU)
+
+**Title:** Results of Two Placement Frameworks on Student Achievement in Entry-Level Mathematics and Statistics Courses
+
+**Abstract:** The Math Placement Committee has recently engaged in two separate activities that both have implications for student equity and access, as well as overall course enrollments. First, in the fall of 2018, we formed a group of randomly selected students formerly placed in the lowest developmental course, and placed them directly into the subsequent mathematics course (as dictated by their chosen major). Secondly, in the fall of 2022, we added High School Core GPA as a math placement indicator to our established multiple measures placement system. In this talk, we will share outcomes and insights from both activities, including the implications for STEM versus non-STEM math pathways, impacts on overall enrollments and course planning, and increased access to degree-required math courses for students, including students of color and first-generation college students.
+
+<hr>
+
 ### Tuesday 3/21 at 4:00-4:50
 
 **Speaker:** Dr. Peter Vadasz (NAU Mechanical Engineering)
