@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### A Chicken McNugget Research Problem
+
+**Date:** Friday, April 14
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I'll explain the chicken mcnugget problem (if mcnuggets are sold in contains of 6, 9 or 20 mcnuggets, what is the largest unpurchasable number?), it's connection to numerical semigroups, and how it leads to an open problem that I hope to work on next year with a couple of undergrads.  
+ 
+After the presentation, we'll watch some funny videos and call it a week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-04-14.pdf)]
+
 ### Undergraduate research in mathematics 
 
 **Date:** Friday, April 7
@@ -15,7 +25,6 @@ Note that talks are listed in reverse chronological order.
 **Abstract:** This week the presenter is Christina Zecher, the Assistant Director of the Office of Undergraduate Research and Creative Activity here at NAU.  She will discuss the many reasons that undergraduate research is a valuable experience for our undergraduates, as well as the various funding opportunities that are available to undergraduates who work on undergrad research projects.  
  
 After the presentation, I will show the audience the various undergrad research projects that faculty members in our department hope to work on with undergrads next fall (there are 5-8 such projects).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-04-07.pdf)]
-
 
 ### Mertens Conjecture
 
