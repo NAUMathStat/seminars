@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### An Undergrad Research Problem in Graph Theory
+
+**Date:** Friday, April 21
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I'll explain a graph theory problem I have been working on with two undergrads, show the progress we have made on said problem, and then advertise the fact that I have been given an I2S grant to fund 1-2 undergrads next year to continue working on this project.  
+
+After the presentation we'll watch some videos (some should be math-themed).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-04-21.pdf)]
+
 ### A Chicken McNugget Research Problem
 
 **Date:** Friday, April 14
