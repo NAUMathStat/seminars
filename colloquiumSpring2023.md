@@ -7,13 +7,23 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 Note that talks are listed in reverse chronological order.
 
+### Tuesday 4/25 at 4:00-4:50
+
+**Speaker:** Mikhail Baltushkin (NAU)
+
+**Title:** Applications of topological data analysis in the parameter estimation for the partial differential equations
+
+**Abstract:** TBA
+
+<hr>
+
 ### Tuesday 4/11 at 4:00-4:50
 
 **Speaker:** Shafiu Jibrin (NAU)
 
 **Title:** Minimizing a Weighted Barrier Function for Second-Order Cone Constraints Over a Hyperplane
 
-**Abstract:** TThis work concerns minimizing a weighted barrier function for second-order cone constraints system over a hyperplane. For a given weight vector, the barrier function is minimized using Newton's method. We apply both quadratic interpolation and backtracking line searches. The starting point for the method is found by finding a solution to the overdetermined linear system that defines the hyperplane. Then, the Dmax Constraint Consensus method (with backtracking) is used to find an interior point of the feasible region from the starting point. We use numerical experiments on randomly generated problems to investigate the effectiveness of the method in finding the weighted analytic center and to compare the two line searches. This a joint work with Jim Swift.
+**Abstract:** This work concerns minimizing a weighted barrier function for second-order cone constraints system over a hyperplane. For a given weight vector, the barrier function is minimized using Newton's method. We apply both quadratic interpolation and backtracking line searches. The starting point for the method is found by finding a solution to the overdetermined linear system that defines the hyperplane. Then, the Dmax Constraint Consensus method (with backtracking) is used to find an interior point of the feasible region from the starting point. We use numerical experiments on randomly generated problems to investigate the effectiveness of the method in finding the weighted analytic center and to compare the two line searches. This a joint work with Jim Swift.
 
 <hr>
 
