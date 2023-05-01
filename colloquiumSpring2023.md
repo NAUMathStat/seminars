@@ -7,6 +7,14 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 Note that talks are listed in reverse chronological order.
 
+## Tuesday 5/2 at 4:00-4:50
+
+**Speaker:** Ryan Kelly (NAU)
+
+**Title:** One Dimensional Birkhoff Interpolation
+
+**Abstract:** Birkhoff interpolation was introduced in 1906 by George Birkhoff as a generalization of Lagrange and Taylor interpolation. This talk provides a brief introduction to Birkhoff interpolation. A general error formula for interpolation is presented in terms of a minimal remainder polynomial. An algorithm to compute the minimal remainder polynomial is shown, along with a useful corollary. Some motivating examples are given.
+
 ### Tuesday 4/25 at 4:00-4:50
 
 **Speaker:** Mikhail Baltushkin (NAU)
