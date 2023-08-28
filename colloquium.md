@@ -27,7 +27,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 9/19 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:** Robert Buscaglia ?
 
 **Title:** 
 
@@ -37,7 +37,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 9/26 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:** Kayode Isaac Oshinubi (SICCS)
 
 **Title:** 
 
