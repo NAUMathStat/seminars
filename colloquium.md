@@ -14,7 +14,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/12 at 4:00-4:50
-
 **Speaker:** Jim Swift joint work with Shafiu Jibrin (NAU)
 **Title:** Second-Order Cone Functions
 
@@ -23,7 +22,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/19 at 4:00-4:50
-
 **Speaker:** Robert Buscaglia ?
 **Title:** 
 
@@ -32,7 +30,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/26 at 4:00-4:50
-
 **Speaker:** Kayode Isaac Oshinubi (SICCS)
 **Title:** 
 
@@ -42,7 +39,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/3 at 4:00-4:50
-
 **Speaker:** Nandor Sieben
 **Title:** Sabbatical report
 
@@ -51,7 +47,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/10 at 4:00-4:50
-
 **Speaker:** Michele Torielli
 **Title:** 
 
@@ -60,7 +55,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/17 at 4:00-4:50
-
 **Speaker:** 
 **Title:** 
 
@@ -69,7 +63,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/24 at 4:00-4:50
-
 **Speaker:** Sam Harris
 **Title:** 
 
@@ -78,7 +71,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/31 at 4:00-4:50
-
 **Speaker:** Angie Hodge-Zickerman (NAU) and Cindy York (Zoom)
 **Title:** Mathematics Assessment in the Age of ChatGPT
 
@@ -87,7 +79,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/7 at 4:00-4:50
-
 **Speaker:** 
 **Title:** Elisa Palezzato
 
@@ -96,7 +87,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/14 at 4:00-4:50
-
 **Speaker:** 
 **Title:** 
 
@@ -105,7 +95,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/21 at 4:00-4:50
-
 **Speaker:** 
 **Title:** 
 
@@ -114,7 +103,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/28 at 4:00-4:50
-
 **Speaker:** 
 **Title:** 
 
