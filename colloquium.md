@@ -46,7 +46,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### Tuesday in 10/(not 17) at 4:00-4:50
+### Tuesday 10/(not 17) at 4:00-4:50
 
 **Speaker:** Angie Hodge-Zickerman (NAU) and Cindy York (Zoom)
 
