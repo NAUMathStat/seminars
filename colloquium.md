@@ -46,7 +46,47 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### Tuesday 10/(not 17) at 4:00-4:50
+### Tuesday 10/3 at 4:00-4:50
+
+**Speaker:** 
+
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 10/10 at 4:00-4:50
+
+**Speaker:** Michele Torielli
+
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 10/17 at 4:00-4:50
+
+**Speaker:** 
+
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 10/24 at 4:00-4:50
+
+**Speaker:** Sam Harris
+
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 10/31 at 4:00-4:50
 
 **Speaker:** Angie Hodge-Zickerman (NAU) and Cindy York (Zoom)
 
@@ -55,3 +95,14 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Abstract:** 
 
 <hr>
+
+### Tuesday 11/7 at 4:00-4:50
+
+**Speaker:** 
+
+**Title:** Elisa Palezzato
+
+**Abstract:** 
+
+<hr>
+
