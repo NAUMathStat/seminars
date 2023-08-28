@@ -48,9 +48,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 10/3 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:** Nandor Sieben
 
-**Title:** 
+**Title:** Sabbatical report
 
 **Abstract:** 
 
