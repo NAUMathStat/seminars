@@ -7,6 +7,7 @@ Note that pages and posts are listed in reverse chronological order.
 
 ### Seminars ###
 - Department Colloquium
+    - [Spring 2023]({{ site.baseurl }}/colloquiumSpring2023)
     - [Fall 2022]({{ site.baseurl }}/colloquiumFall2022)
     - [Spring 2022]({{ site.baseurl }}/colloquiumSpring2022)
     - [Fall 2021]({{ site.baseurl }}/colloquiumFall2021)
@@ -23,6 +24,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
+    - [Spring 2023]({{ site.baseurl }}/acgtSpring2023)
     - [Fall 2022]({{ site.baseurl }}/acgtFall2022)
     - [Spring 2022]({{ site.baseurl }}/acgtSpring2022)
     - [Fall 2021]({{ site.baseurl }}/acgtFall2021)
@@ -38,6 +40,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/acgtFall2015)
     - [Spring 2015]({{ site.baseurl }}/acgtSpring2015)
 - Applied Math Seminar (AMS)
+    - [Spring 2023]({{ site.baseurl }}/amsSpring2023)
     - [Fall 2022]({{ site.baseurl }}/amsFall2022)
     - [Fall 2021]({{ site.baseurl }}/amsFall2021)
     - [Spring 2021]({{ site.baseurl }}/amsSpring2021)
@@ -53,6 +56,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Spring 2023]({{ site.baseurl }}/famusSpring2023)
     - [Fall 2022]({{ site.baseurl }}/famusFall2022)
     - [Fall 2021]({{ site.baseurl }}/famusFall2021)
     - [Spring 2020]({{ site.baseurl }}/famusSpring2020)
@@ -66,7 +70,7 @@ Note that pages and posts are listed in reverse chronological order.
     - [Spring 2016]({{ site.baseurl }}/famusSpring2016)
     - [Fall 2015]({{ site.baseurl }}/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/famusSpring2015)
-- Teaching Showcase
+- Teaching Seminar
     - [Fall 2015]({{ site.baseurl }}/teachingFall2015)
     - [Spring 2015]({{ site.baseurl }}/teachingSpring2015)
     - [Fall 2014]({{ site.baseurl }}/teachingFall2014)
