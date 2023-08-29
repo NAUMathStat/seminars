@@ -3,7 +3,7 @@ layout: page
 title: Archive
 ---
 
-Note that pages and posts are listed in reverse chronological order.
+Note that pages are listed in reverse chronological order.
 
 ### Seminars ###
 - Department Colloquium
