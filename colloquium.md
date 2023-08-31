@@ -71,8 +71,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/31 at 4:00-4:50
-**Speaker:** Angie Hodge-Zickerman (NAU) and Cindy York (Zoom)
-**Title:** Mathematics Assessment in the Age of ChatGPT
+**Speaker:** 
+**Title:** 
 
 **Abstract:** 
 
@@ -87,8 +87,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/14 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Angie Hodge-Zickerman (NAU) and Cindy York (Zoom)
+**Title:** Mathematics Assessment in the Age of ChatGPT
 
 **Abstract:** 
 
