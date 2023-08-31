@@ -6,7 +6,7 @@ title: Fall 2023 Department Colloquium
 The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164. Please contact <a href="mailto:nandor.sieben@nau.edu">Nandor Sieben</a> if you would like to give a talk or have a question about the colloquium.
 
 ### Tuesday 9/5 at 4:00-4:50
-**Speaker:** Dana Ernst (NAU)
+**Speaker:** Dana Ernst
 **Title:** Sabbatical report
 
 **Abstract:** 
@@ -14,7 +14,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/12 at 4:00-4:50
-**Speaker:** Jim Swift joint work with Shafiu Jibrin (NAU)
+**Speaker:** Jim Swift joint work with Shafiu Jibrin
 **Title:** Second-Order Cone Functions
 
 **Abstract:** 
@@ -55,7 +55,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/17 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Jaechoul Lee
 **Title:** 
 
 **Abstract:** 
@@ -87,7 +87,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/14 at 4:00-4:50
-**Speaker:** Angie Hodge-Zickerman (NAU) and Cindy York (Zoom)
+**Speaker:** Angie Hodge-Zickerman and Cindy York (Zoom)
 **Title:** Mathematics Assessment in the Age of ChatGPT
 
 **Abstract:** 
