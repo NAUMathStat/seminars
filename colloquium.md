@@ -79,8 +79,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 11/7 at 4:00-4:50
-**Speaker:** 
-**Title:** Elisa Palezzato
+**Speaker:** Elisa Palezzato 
+**Title:** 
 
 **Abstract:** 
 
