@@ -10,6 +10,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Title:** Sabbatical report
 
 **Abstract:** 
+I'll spend the first several minutes summarizing my sabbatical experience and then dive into one of the projects I worked on. In particular, I'll discuss some recent results my collaborators and I obtained concerning the structure of impartial games and rulesets, as well as the structure preserving maps between them. In some sense this work can be thought of as formalizing and extending some folklore from combinatorial game theory. This work was initiated at the Combinatorial Game Theory Colloquium in the Azores that I attended in January, and is joint work with Bojan Bašić, Paul Ellis, Danijela Popović, and Nándor Sieben.
 
 <hr>
 
