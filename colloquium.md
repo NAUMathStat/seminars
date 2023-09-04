@@ -23,8 +23,8 @@ I'll spend the first several minutes summarizing my sabbatical experience and th
 <hr>
 
 ### Tuesday 9/19 at 4:00-4:50
-**Speaker:** Robert Buscaglia ?
-**Title:** 
+**Speaker:** Robert Buscaglia
+**Title:** ‘Activities in Data Science and Statistical Applications
 
 **Abstract:** 
 
