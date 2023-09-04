@@ -8,3 +8,7 @@ The Applied Mathematics Seminar (AMS) typically meets on Thursdays.  Any faculty
 ### Fall 2023 Schedule
 
 For Fall 2023 we are meeting from 12:45-1:45PM in room 163 of the Adel Mathematics building.
+
+### Thursday 9/7 
+**Speaker:** Lina Ellis
+**Title:** On Potentials Integrated by Nikiforov-Uvarov Method
