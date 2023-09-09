@@ -15,11 +15,14 @@ I'll spend the first several minutes summarizing my sabbatical experience and th
 <hr>
 
 ### Tuesday 9/12 at 4:00-4:50
-**Speaker:** Jim Swift joint work with Shafiu Jibrin
-**Title:** Second-Order Cone Functions
+**Speaker:** Jim Swift
+**Title:** Synchrony and Anti-Synchrony in Coupled Cell Networks
 
 **Abstract:** 
+The internal state of a cell in a coupled cell network is often described by an element of a vector space. Synchrony or anti-synchrony occurs when some of the cells are in the same or the opposite state. Of special interest are the evenly tagged anti-synchrony subspaces in which the number of cells in a certain state is equal to the number of cells in the opposite state.
+We apply these results to systems of coupled van der Pol oscillators, and coupled Lorenz equations.
 
+This is joint work with Eddie Nijholt and Nándor Sieben
 <hr>
 
 ### Tuesday 9/19 at 4:00-4:50
