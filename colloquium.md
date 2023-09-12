@@ -107,7 +107,7 @@ This is joint work with Eddie Nijholt and Nándor Sieben
 <hr>
 
 ### Tuesday 11/28 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Shafiu Jibrin
 **Title:** 
 
 **Abstract:** 
