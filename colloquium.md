@@ -75,7 +75,7 @@ This is joint work with Eddie Nijholt and Nándor Sieben
 <hr>
 
 ### Tuesday 10/31 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Nellie Gopaul
 **Title:** 
 
 **Abstract:** 
