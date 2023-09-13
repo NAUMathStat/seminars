@@ -30,6 +30,17 @@ This is joint work with Eddie Nijholt and Nándor Sieben
 **Title:** Activities in Data Science and Statistical Applications
 
 **Abstract:** 
+The discussion will include a survey of projects from the Buscaglia group conducted during the 2022-2023
+academic year. This includes results from collaborative projects with Forestry, Biology, Biochemistry, and
+Medicine. Important results will be discussed stemming from standard statistical methods, including
+linear modeling and generalized linear modeling, along with some non-traditional techniques such as
+Functional Data Analysis. Supervised and unsupervised machine learning methodologies and results will
+also be introduced. Key published findings, updates on current publications, and grant progress and
+upcoming submissions will be discussed for each major project. The presentation will include results from
+work completed with two NAU DoMS students (one undergraduate research, one graduate research) and
+the final product for the Hooper Undergraduate Research Award completed by Avery Bell, a BS Data
+Science student. A small review of the projects conducted in the Data Science capstone will also be
+presented.
 
 <hr>
 
