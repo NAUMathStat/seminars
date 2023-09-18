@@ -46,10 +46,16 @@ presented.
 
 ### Tuesday 9/26 at 4:00-4:50
 **Speaker:** Kayode Isaac Oshinubi (SICCS)
-**Title:** 
+**Title:** Predicting the changes and transition between endemic and epidemic phases of an infectious disease outbreak in some countries
 
 **Abstract:** 
+The objective of this study is to develop a robust method for predicting the changes and transition between endemic and epidemic phases of an infectious disease, using COVID-19 outbreak as an example.
 
+We define indicators for detecting changes and transitions between endemic and epidemic phases using seven scalars calculated from daily reported news cases: variation coefficient, entropy, dominant/subdominant spectral ratio, skewness, kurtosis, uniformity index, and normality index. The indicators chosen are related to the form of the empirical distribution of new cases seen over a fourteen-day period chosen to smooth out the influence of weekends when fewer new cases are registered.
+
+We used the Principal Component Analysis (PCA) to create a score from the seven proposed indicators that allows an acceptable level of forecasting performance by providing a realistic retro-predicted date for the rupture of the stationary endemic model corresponding to the entry into the epidemic exponential growth phase. The first principal component (a linear combination of the seven indicators) explains a considerable portion of the observed variance and can thus be used as a predictor of the event studied (in this case, the presence of an epidemic wave). This score is used to forecast the limits of the several phases of the COVID-19 outbreak in various nations following endemic and epidemic transitions and changes.
+
+We were able to build a new forecasting strategy for predicting an epidemic wave that comes after an infectious disease's endemic stationary period. This research offers a valuable tool for early epidemic detection, aiding in effective public health responses.
 
 <hr>
 
