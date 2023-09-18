@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Some quotients of exterior algebras and Grassmann geometry
 
-**Date:** Thursday, September 14
+**Dates:** Thursday, September 14; Thursday, September 21
 
 **Speaker:** Michael Falk (NAU)
 
