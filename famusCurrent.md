@@ -6,12 +6,12 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### TikTok Math: Paper Folding
 
-**Date:** TBA
+**Date:** Friday, September 22
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** TBA 
+**Abstract:** I saw a TikTok recently about paper folding, specifically, about how many times you need to fold a sheet of paper to make a stack tall enough to reach the moon.  I'll show the TikTok, explain why the scenario is sort of silly via another TikTok, explain the world record of paper folding via yet another TikTok, and then talk about cool math associated with paper folding.   
 
-<!-- After the presentation we'll watch some videos (some should be math-themed).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-04-21.pdf)] -->
+The faculty guest is Sarah Watson.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-09-22.pdf)]
