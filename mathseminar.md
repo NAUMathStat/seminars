@@ -9,6 +9,14 @@ The Mathematics Seminar typically meets on Thursdays at 12:45-1:45PM in Adel 163
 
 Note that talks are listed in reverse chronological order.
 
+### A Persistence-based distribution test
+
+**Dates:** Thursday, September 28
+
+**Speaker:** Rachel Neville (NAU)
+
+**Abstract:** A classical statistical problem is determining whether data is samples from the same probability distribution. When data is high dimensional, this can prove particularly challenging. I'll discuss an approach this problem using summaries of topological information about the data. Along the way, I'll note some interesting connections with work on minimal spanning trees and fractal dimensions. This culminates in a proposed persistence-based test for comparing samples. Some of this is joint work with John Leland.  
+
 ### Some quotients of exterior algebras and Grassmann geometry
 
 **Dates:** Thursday, September 14; Thursday, September 21
