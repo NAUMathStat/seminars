@@ -64,6 +64,16 @@ We were able to build a new forecasting strategy for predicting an epidemic wave
 **Title:** Sabbatical report
 
 **Abstract:** 
+The majority of the talk is going to be about impartial hypergraph games. These consists of two building games and 
+two removing games played on a finite hypergraph. In each game two
+players take turns selecting vertices of the hypergraph until the set of jointly selected vertices satisfies a condition
+related to the edges of the hypergraph. The winner is the last player able to move. The building achievement game
+ends as soon as the set of selected vertices contains an edge. In the building avoidance game the players are not
+allowed to select a set that contains an edge. The removing achievement game ends as soon as the complement
+of the set of selected vertices no longer contains an edge. In the removing avoidance game the players are not
+allowed to select a set whose complement does not contain an edge. We develop some generic tools for finding the
+nim-value of these games and show that the nim-value can be an arbitrary nonnegative integer. The outcome of
+many of these games were previously determined for several special cases in algebraic and combinatorial settings.
 
 <hr>
 
