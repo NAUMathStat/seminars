@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### TikTok Math: Fraction Fun
+
+**Date:** Friday, September 29
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I saw some TikToks recently about fraction rules: why they are good, why they are bad, why they lead to incorrect algorithms for adding fractions, etc.  I'll show some of these TikToks, and then explain how one of the incorrect addition algorithms (mediant addition of fractions) leads to some very neat math, namely the wonderful world of the Farey fractions.  
+
+The faculty guest is Tyler Brock.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-09-29.pdf)]
+
 ### TikTok Math: Paper Folding
 
 **Date:** Friday, September 22
