@@ -78,9 +78,11 @@ allowed to select a set whose complement does not contain an edge.
 
 ### Tuesday 10/10 at 4:00-4:50
 **Speaker:** Michele Torielli
-**Title:** 
+**Title:** Lefschetz properties and hyperplane arrangements
 
-**Abstract:** 
+**Abstract:**
+In this talk, we will discuss what it means for a graded ring to have the weak Lefchetz property (WLP) or the strong Lefschetz property (SLP). We will then see which other properties a ring with the WLP or SLP has, and discuss the case of 1 dimensional complete intersection and of the Jacobian algebra of a hyperplane arrangement. This is based on a joint work with S. Marchesi and E. Palezzato.
+
 
 <hr>
 
