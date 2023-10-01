@@ -9,6 +9,14 @@ The Mathematics Seminar typically meets on Thursdays at 12:45-1:45PM in Adel 163
 
 Note that talks are listed in reverse chronological order.
 
+### Magic Unitaries
+
+**Dates:** Thursday, October 5
+
+**Speaker:** Samuel Harris (NAU)
+
+**Abstract:** Some of the nicest unitary matrices to use are permutation matrices—these are square matrices with exactly one "1" in every row and column, and zeros everywhere else. When you relax this condition of "0's and 1's" to involve matrices instead, you get magic unitaries: these are block unitary matrices, where each block is a self-adjoint matrix equal to its own square (an "orthogonal projection"), and summing blocks over any row or column gives the identity matrix. In this talk I'll introduce magic unitaries, why they matter, and an important problem involving their stability.  
+
 ### A Persistence-based distribution test
 
 **Dates:** Thursday, September 28
