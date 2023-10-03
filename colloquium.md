@@ -127,7 +127,7 @@ In this talk, we will discuss what it means for a graded ring to have the weak L
 <hr>
 
 ### Tuesday 11/21 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Michael J. Falk
 **Title:** 
 
 **Abstract:** 
