@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### TikTok Math: Famous Math Blunders
+
+**Date:** Friday, October 6
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I saw some TikToks recently about "math mistakes."  Nearly all of them focused on math errors that math students make in math classes.  But there are many big math errors that have been made by famous mathematicians!  I thought a talk on mistakes made by experts could be entertaining.  So this talk is a little math history together with some big math mistakes made by some big-time mathematicians.  
+
+The faculty guest is Hannah Prawzinsky.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-10-06.pdf)]
+
 ### TikTok Math: Fraction Fun
 
 **Date:** Friday, September 29
