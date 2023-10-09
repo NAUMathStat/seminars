@@ -9,6 +9,11 @@ The Mathematics Seminar typically meets on Thursdays at 12:45-1:45PM in Adel 163
 
 Note that talks are listed in reverse chronological order.
 
+### Approximation of solutions to a PDE on the Sierpinski Gasket.
+
+**Dates:** Thursday, October 12
+
+**Speaker:** Jim Swift (NAU)
 ### Magic Unitaries
 
 **Dates:** Thursday, October 5
