@@ -88,9 +88,10 @@ In this talk, we will discuss what it means for a graded ring to have the weak L
 
 ### Tuesday 10/17 at 4:00-4:50
 **Speaker:** Jaechoul Lee
-**Title:** 
+**Title:** An efficient least squares algorithm for periodic time series regression
 
 **Abstract:** 
+Periodic and autoregressive data like daily temperatures or sales of seasonal products can be seen in periods fluctuating between highs and lows throughout the year. Generalized least squares (GLS) estimators are frequently computed for such periodic data, because these estimators are minimum variance unbiased estimators. However, the GLS solution can require extremely demanding computations when the data is large. We develop an efficient GLS algorithm in several periodic regression settings. The algorithm can substantially simplify GLS computations by compressing large sets of data into smaller sets. This is accomplished by constructing a structured matching matrix for dimension reduction. Simulations show that the new computation methods using our algorithm can drastically reduce the GLS computing time. Our algorithm can be easily adapted to many big data that shows periodic characteristics often pertinent to economics, environmental studies, and engineering practices. This talk should be accessible to any audience with knowledge on simple matrix operations.
 
 <hr>
 
