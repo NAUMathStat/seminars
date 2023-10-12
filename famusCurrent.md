@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Map coloring, high school geometry, and mathematical anomalies such as Michigan
+
+**Date:** Friday, October 13
+
+**Speaker:** Tyler Brock (NAU)
+
+**Abstract:** Using only four colors, can you color a map of the United States such that no states that share a border are the same color? Sure, if you're careful and have some free time. But...what if...THE WHOLE COUNTRY WAS MADE UP OF STATES LIKE MICHIGAN? Come find out! Additionally, I find myself constantly asking "How could we make high school math more fun and more enriching for students?" So, I'd also like to explore some neat connections between high school geometry and graph theory in an effort to minimize teenage disdain for mathematics.  
+
+The faculty guest is David Deville. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-10-13.pdf)]
+
 ### TikTok Math: Famous Math Blunders
 
 **Date:** Friday, October 6
