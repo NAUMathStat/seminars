@@ -86,7 +86,7 @@ In this talk, we will discuss what it means for a graded ring to have the weak L
 
 <hr>
 
-### Tuesday 10/17 at 4:00-4:50
+### Tuesday 10/17 at 4:00-4:50 (Cancelled)
 **Speaker:** Jaechoul Lee
 **Title:** An efficient least squares algorithm for periodic time series regression
 
