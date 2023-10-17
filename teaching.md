@@ -11,6 +11,22 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Mastery-Based Grading
+
+**Date:** October 12, 2023
+
+**Speaker:** Rachel Neville (NAU)
+
+**Abstract:** Rachel has implemented Mastery-Based Grading in her MAT 316 Linear Algebra and MAT 239 Differential Equations courses.  She will give a brief overview of Mastery-Based Grading, discuss how she has implemented it in her own courses, share some benefits and challenges, and leave time for questions and discussion.
+
+### Social/cultural changes and their impact on today's students
+
+**Date:** September 29, 2023
+
+**Speaker:** Amy Rangel (NAU)
+
+**Abstract:** Amy has taught at the high school level for the past few years and will lead a discussion of how the events and social/cultural changes of the last several years have impacted the social, emotional, and academic experiences and preparation of our current first- and second-year students. 
+
 ### All Things LMC
 
 **Date:** September 21, 2023
