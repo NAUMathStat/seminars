@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### An Introduction to Sylver Coinage
+
+**Date:** Friday, October 20
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Sylver Coinage is a 2-player game invented by John Conway in the 1970s.  The game is played on the natural numbers: the two players take turns naming integers greater than 1 that are not the sum of nonnegative multiples of previously named integers.  The player who is forced to choose 1 loses.  The game is mysterious because very little is known about achieving and maintaining winning strategies.  I'll give an overview of the game and then let audience members play the game.  
+
+The faculty guest is Matt Fahy.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-10-20.pdf)]
+
 ### Map coloring, high school geometry, and mathematical anomalies such as Michigan
 
 **Date:** Friday, October 13
