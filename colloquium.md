@@ -97,9 +97,11 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 
 ### Tuesday 10/24 at 4:00-4:50
 **Speaker:** Sam Harris
-**Title:** 
+**Title:** Quantum and algebraic versions of the chromatic number
 
 **Abstract:** 
+A great deal of attention has been given to quantum versions of the chromatic number for a classical graph in recent years. These quantities arise naturally in quantum information theory as a method for determining whether two spatially separated parties can perform certain tasks with the power of quantum mechanics. In this talk, we'll look at the algebraic definition of the quantum chromatic number, mostly focusing on examples with 3-colorings. At the end, we'll see a generalized version of Lovasz's reduction theorem of the k-coloring problem (k>3) to the 3-coloring problem.
+
 
 <hr>
 
