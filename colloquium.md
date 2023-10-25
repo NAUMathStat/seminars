@@ -106,7 +106,7 @@ A great deal of attention has been given to quantum versions of the chromatic nu
 <hr>
 
 ### Tuesday 10/31 at 4:00-4:50
-**Speaker:** Nellie Gopaul
+**Speaker:** 
 **Title:** 
 
 **Abstract:** 
