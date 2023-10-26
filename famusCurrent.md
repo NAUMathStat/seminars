@@ -8,6 +8,16 @@ Note that talks are listed in reverse chronological order.
 
 ### An Introduction to Sylver Coinage
 
+**Date:** Friday, October 27
+
+**Speaker:** Ian Williams (NAU)
+
+**Abstract:** In this presentation Ian discuss and justify his reasons for having, umm, 10 favorite numbers.  Expect hilarity and controversy.  
+
+The faculty guest is also Ian Williams.  But fear not: he will not interview himself.    [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-10-27.pdf)]
+
+### An Introduction to Sylver Coinage
+
 **Date:** Friday, October 20
 
 **Speaker:** Jeff Rushall (NAU)
