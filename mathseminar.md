@@ -9,11 +9,20 @@ The Mathematics Seminar typically meets on Thursdays at 12:45-1:45PM in Adel 163
 
 Note that talks are listed in reverse chronological order.
 
+### An introduction to species
+
+**Dates:** Thursday, November 2
+
+**Speaker:** Dana Ernst (NAU)
+
+**Abstract:** In combinatorics, the theory of species is a beautiful abstract, systematic method for deriving the generating functions of discrete structures. In this series of talks, we will introduce species, explore various properties, and tinker with a variety of examples.
+
 ### Approximation of solutions to a PDE on the Sierpinski Gasket.
 
 **Dates:** Thursday, October 12
 
 **Speaker:** Jim Swift (NAU)
+
 ### Magic Unitaries
 
 **Dates:** Thursday, October 5
