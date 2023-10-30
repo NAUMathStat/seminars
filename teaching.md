@@ -11,6 +11,14 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Creating inclusive and supportive learning environments
+
+**Date:** November 2, 2023
+
+**Speaker:** Sarah Watson (NAU)
+
+**Abstract:** Sarah has attended several university-wide professional development sessions and will share a few things she has gleaned from these sessions regarding creating an inclusive and supportive learning environment.  This will include discussion of specific items that can be incorporated into your course syllabi.
+
 ### Mastery-Based Grading
 
 **Date:** October 12, 2023
