@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Data Science in a Regulated Clinical Environment: Changing Acceptability Standards at the FDA
+
+**Date:** Friday, November 3
+
+**Speaker:** Derek Sonderegger (Gore employee)
+
+**Abstract:** The US Food and Drug Administration has historically been extremely risk averse and slow to accept new statistical methodology and tools.  First we'll discuss the FDA's current stance on open-source tools and particularly R packages developed by a consortium of large pharmaceutical companies.  Second, we'll look at a few resampling-base methodologies (win-ratio and sample size re-estimation) that require simulation results to be submitted to the FDA for trial design approval. 
+
+After the talk, we will have an open Q&A with Dr. Sonderegger. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-11-03.pdf)]
+
 ### An Introduction to Sylver Coinage
 
 **Date:** Friday, October 27
