@@ -113,9 +113,10 @@ No colloquium.
 
 ### Tuesday 11/7 at 4:00-4:50
 **Speaker:** Elisa Palezzato 
-**Title:** 
+**Title:** CoCoA, Posets and Hyperplane Arrangements
 
 **Abstract:** 
+In this talk, I will introduce the computer algebra system CoCoA and how to use it to do computations with posets and hyperplane arrangements. I will also talk about Terao's conjecture for free hyperplane arrangements.
 
 <hr>
 
