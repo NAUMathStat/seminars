@@ -145,9 +145,9 @@ In this talk, I will introduce the computer algebra system CoCoA and how to use 
 <hr>
 
 
-## Spring 2023 Department Colloquium
+## Spring 2024 Department Colloquium
 
-### Tuesday (first) at 4:00-4:50
+### Tuesday 1/23 at 4:00-4:50
 **Speaker:** Jaechoul Lee
 **Title:** An efficient least squares algorithm for periodic time series regression
 
