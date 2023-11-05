@@ -144,4 +144,8 @@ In this talk, I will introduce the computer algebra system CoCoA and how to use 
 
 <hr>
 
+---
+layout: page
+title: Spring 2023 Department Colloquium
+---
 
