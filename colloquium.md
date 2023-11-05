@@ -149,3 +149,23 @@ layout: page
 title: Spring 2023 Department Colloquium
 ---
 
+<hr>
+
+### Tuesday (first) at 4:00-4:50
+**Speaker:** Jaechoul Lee
+**Title:** An efficient least squares algorithm for periodic time series regression
+
+**Abstract:** 
+Periodic and autoregressive data like daily temperatures or sales of seasonal products can be seen in periods fluctuating between highs and lows throughout the year. Generalized least squares (GLS) estimators are frequently computed for such periodic data, because these estimators are minimum variance unbiased estimators. However, the GLS solution can require extremely demanding computations when the data is large. We develop an efficient GLS algorithm in several periodic regression settings. The algorithm can substantially simplify GLS computations by compressing large sets of data into smaller sets. This is accomplished by constructing a structured matching matrix for dimension reduction. Simulations show that the new computation methods using our algorithm can drastically reduce the GLS computing time. Our algorithm can be easily adapted to many big data that shows periodic characteristics often pertinent to economics, environmental studies, and engineering practices. This talk should be accessible to any audience with knowledge on simple matrix operations.
+
+<hr>
+
+<hr>
+
+### Tuesday 3/12 at 4:00-4:50 
+**Speaker:** Jeffrey Hovermill
+**Title:** 
+
+**Abstract:** 
+
+<hr>
