@@ -120,11 +120,12 @@ In this talk, I will introduce the computer algebra system CoCoA and how to use 
 
 <hr>
 
-### Tuesday 11/14 at 4:00-4:50
-**Speaker:** Angie Hodge-Zickerman and Cindy York (Zoom)
+### Tuesday 11/14 at 4:00-4:50 (on zoom, coordinates wil be sent out by email)
+**Speaker:** Angie Hodge-Zickerman and Cindy York
 **Title:** Mathematics Assessment in the Age of ChatGPT
 
 **Abstract:** 
+Generative Artificial Intelligence (AI) has sparked a paradigm shift in educational methodologies. We invite you to an interactive colloquium that explores the multifaceted role of AI in academic settings. In this talk, we will discuss the nature of AI as a pedagogical collaborator instead of just a catalyst for academic dishonesty. We will begin with a brief overview of the current state of generative AI and gauge participants’ stances on the use of AI in the mathematics classroom. Participants will be encouraged to engage with AI firsthand, experiencing its capabilities and limitations. The latter part of the colloquium will be aimed at identifying pertinent research questions that arise at the intersection of AI and mathematical studies. We seek to inspire a collaborative brainstorming session on how we can collectively tailor research agendas to address the implications of AI in curriculum development, teaching methodologies, and the broader scope of academic scholarship.
 
 <hr>
 
