@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### An Aperiodic Monotile
+
+**Date:** Friday, November 17
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I will talk about plane tilings and focus on the amazing monotile that aperiodically tiles the plane.  It was only "found" last November, and the story behind how it was found is kind of interesting.  
+
+After the talk, the audience will play with that monotile to see how it covers the plane using a neat online program - so if you come, try to bring a laptop!  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-11-17.pdf)]
+
 ### Data Science in a Regulated Clinical Environment: Changing Acceptability Standards at the FDA
 
 **Date:** Friday, November 3
@@ -16,7 +26,7 @@ Note that talks are listed in reverse chronological order.
 
 After the talk, we will have an open Q&A with Dr. Sonderegger. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-11-03.pdf)]
 
-### An Introduction to Sylver Coinage
+### My Ten Favorite Numbers
 
 **Date:** Friday, October 27
 
