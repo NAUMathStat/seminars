@@ -139,7 +139,7 @@ We define a closure operator on subspace arrangements using the geometry of the 
 <hr>
 
 ### Tuesday 11/28 at 4:00-4:50
-**Speaker:** No colloquim
+No colloquium.
 
 <hr>
 
