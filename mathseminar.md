@@ -11,7 +11,7 @@ Note that talks are listed in reverse chronological order.
 
 ### An introduction to species
 
-**Dates:** Thursday, November 2
+**Dates:** Thursday, November 2; Thursday, November 16; Thursday, November 30
 
 **Speaker:** Dana Ernst (NAU)
 

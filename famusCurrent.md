@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Grad School in Mathematics or Statistics or Mathematics Education?
+
+**Date:** Friday, December 1
+
+**Speaker:** Angie Hodge-Zickerman (NAU)
+
+**Abstract:** The talk this week is about graduate school opportunities in our department and is given by Angie Hodge-Zickerman.  She will advertise our programs and explain how and why grad school is a really good option for many students.  
+
+After the talk we will eat FREE PIZZA and hear testimonials from some current and former grad students.    [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-12-01.pdf)]
+
 ### An Aperiodic Monotile
 
 **Date:** Friday, November 17
