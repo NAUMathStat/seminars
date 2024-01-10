@@ -22,7 +22,46 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 
 <hr>
 
-### Tuesday 3/12 at 4:00-4:50 
+### Tuesday 2/6 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 2/13 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 2/20 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 2/27 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 3/12 at 4:00-4:50
+**Spring break** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 3/19? at 4:00-4:50 
 **Speaker:** Jeffrey Hovermill
 **Title:** 
 
@@ -37,3 +76,38 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 **Abstract:** 
 
 <hr>
+
+### Tuesday 4/2 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/9 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/16 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/23 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+
+
