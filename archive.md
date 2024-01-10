@@ -5,7 +5,6 @@ title: Archive
 
 Note that pages are listed in reverse chronological order.
 
-### Seminars ###
 - Department Colloquium
     - [Fall 2023]({{ site.baseurl }}/colloquiumFall2023)
     - [Spring 2023]({{ site.baseurl }}/colloquiumSpring2023)
