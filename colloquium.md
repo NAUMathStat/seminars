@@ -22,9 +22,16 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 
 <hr>
 
-
 ### Tuesday 3/12 at 4:00-4:50 
 **Speaker:** Jeffrey Hovermill
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 3/26 at 4:00-4:50
+**Speaker:** Rachel Neville
 **Title:** 
 
 **Abstract:** 
