@@ -7,6 +7,7 @@ Note that pages are listed in reverse chronological order.
 
 ### Seminars ###
 - Department Colloquium
+    - [Fall 2023]({{ site.baseurl }}/colloquiumFall2023)
     - [Spring 2023]({{ site.baseurl }}/colloquiumSpring2023)
     - [Fall 2022]({{ site.baseurl }}/colloquiumFall2022)
     - [Spring 2022]({{ site.baseurl }}/colloquiumSpring2022)
@@ -23,6 +24,8 @@ Note that pages are listed in reverse chronological order.
     - [Spring 2016]({{ site.baseurl }}/colloquiumSpring2016)
     - [Fall 2015]({{ site.baseurl }}/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/colloquiumSpring2015)
+- Mathematics Seminar
+    - [Fall 2023]({{ site.baseurl }}/mathseminarFall2023)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
     - [Spring 2023]({{ site.baseurl }}/acgtSpring2023)
     - [Fall 2022]({{ site.baseurl }}/acgtFall2022)
@@ -56,6 +59,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Fall 2023]({{ site.baseurl }}/famusFall2023)
     - [Spring 2023]({{ site.baseurl }}/famusSpring2023)
     - [Fall 2022]({{ site.baseurl }}/famusFall2022)
     - [Fall 2021]({{ site.baseurl }}/famusFall2021)
@@ -71,6 +75,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/famusSpring2015)
 - Teaching Seminar
+    - [Fall 2023]({{ site.baseurl }}/teachingFall2023)
     - [Fall 2015]({{ site.baseurl }}/teachingFall2015)
     - [Spring 2015]({{ site.baseurl }}/teachingSpring2015)
     - [Fall 2014]({{ site.baseurl }}/teachingFall2014)
