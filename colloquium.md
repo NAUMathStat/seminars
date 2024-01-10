@@ -54,10 +54,17 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 
 <hr>
 
-### Tuesday 3/12 at 4:00-4:50
-**Spring break** 
+### Tuesday 3/5 at 4:00-4:50
+**Speaker:** 
+**Title:** 
 
 **Abstract:** 
+
+<hr>
+
+
+### Tuesday 3/12 at 4:00-4:50
+**Spring break** 
 
 <hr>
 
