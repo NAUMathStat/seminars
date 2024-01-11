@@ -59,7 +59,7 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 **Title:** STEM Partnerships
 
 **Abstract:** 
-School/University Partnerships allow for a bidirectional flow of information, cooperation, and support.  This talk will describe several of the STEM Partnerships that NAU is involved in, highlighting the rationale, structure, and impact of these initiatives.
+School/University Partnerships allow for a bidirectional flow of information, cooperation, and support.  This talk will describe several NAU STEM Partnerships including the goals, structure, and impact of these various initiatives.
 
 <hr>
 
