@@ -55,21 +55,21 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 <hr>
 
 ### Tuesday 3/5 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Jeffrey Hovermill
+**Title:** STEM Partnerships
 
 **Abstract:** 
+School/University Partnerships allow for a bidirectional flow of information, cooperation, and support.  This talk will describe several of the STEM Partnerships that NAU is involved in, highlighting the rationale, structure, and impact of these initiatives.
 
 <hr>
-
 
 ### Tuesday 3/12 at 4:00-4:50
 **Spring break** 
 
 <hr>
 
-### Tuesday 3/19? at 4:00-4:50 
-**Speaker:** Jeffrey Hovermill
+### Tuesday 3/19 at 4:00-4:50 
+**Speaker:** 
 **Title:** 
 
 **Abstract:** 
