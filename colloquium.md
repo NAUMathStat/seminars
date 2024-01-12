@@ -15,15 +15,13 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 <hr>
 
 ### Tuesday 1/30 at 4:00-4:50
-**Speaker:** Shafiu Jibrin
-**Title:** 
 
-**Abstract:** 
+Most likely no colloquium because of faculty candidate visits.
 
 <hr>
 
 ### Tuesday 2/6 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Shafiu Jibrin
 **Title:** 
 
 **Abstract:** 
