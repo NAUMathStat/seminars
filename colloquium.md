@@ -14,7 +14,7 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 
 <hr>
 
-### Tuesday 1/30 at 4:00-4:50
+### Tuesday 1/30 
 
 Most likely no colloquium because of faculty candidate visits.
 
@@ -61,7 +61,7 @@ School/University Partnerships allow for a bidirectional flow of information, co
 
 <hr>
 
-### Tuesday 3/12 at 4:00-4:50
+### Tuesday 3/12 
 **Spring break** 
 
 <hr>
