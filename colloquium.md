@@ -29,7 +29,7 @@ Most likely no colloquium because of faculty candidate visits.
 <hr>
 
 ### Tuesday 2/13 at 4:00-4:50
-**Speaker:** 
+**Speaker:** John Neuberger
 **Title:** 
 
 **Abstract:** 
@@ -107,7 +107,15 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/23 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Ruth Perry 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/30 at 4:00-4:50
+**Speaker:** Hannah Golab 
 **Title:** 
 
 **Abstract:** 
