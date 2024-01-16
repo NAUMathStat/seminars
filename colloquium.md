@@ -30,9 +30,21 @@ Most likely no colloquium because of faculty candidate visits.
 
 ### Tuesday 2/13 at 4:00-4:50
 **Speaker:** John Neuberger
-**Title:** 
+**Title:** A Bifurcation Lemma for Invariant Subspaces
 
 **Abstract:** 
+The Bifurcation from a Simple Eigenvalue (BSE) Theorem is the foundation of steady-state
+bifurcation theory for one-parameter families of functions. When eigenvalues of multiplicity
+greater than one are caused by symmetry, the Equivariant Branching Lemma (EBL) can
+often be applied to predict the branching of solutions. The EBL can be interpreted as the
+application of the BSE Theorem to a fixed point subspace. There are functions which have
+invariant linear subspaces that are not caused by symmetry. For example, networks of
+identical coupled cells often have such invariant subspaces. We present a generalization of
+the EBL, where the BSE Theorem is applied to nested invariant subspaces. We call this the
+Bifurcation Lemma for Invariant Subspaces (BLIS). We give several examples of bifurcations
+and determine if BSE, EBL, or BLIS apply. We extend our previous automated bifurcation
+analysis algorithms to use the BLIS to simplify and improve the detection of branches
+created at bifurcations.
 
 <hr>
 
