@@ -99,7 +99,7 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/16 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Jeff Uyekawa
 **Title:** 
 
 **Abstract:** 
