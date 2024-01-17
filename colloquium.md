@@ -16,7 +16,7 @@ Periodic and autoregressive data like daily temperatures or sales of seasonal pr
 
 ### Tuesday 1/30 
 
-Most likely no colloquium because of faculty candidate visits.
+Most likely no colloquium because of faculty candidate visits. Please enjoy the candidate presentations.
 
 <hr>
 
