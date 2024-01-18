@@ -6,20 +6,12 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### New Results on Sylver Coinage
 
-**Date:** TBA
+**Date:** January 19, 2024
 
-**Speaker:** TBA
+**Speaker:** Natalie Burton and Tara Zurick (NAU undergraduates)
 
-**Abstract:** TBA
+**Abstract:** Sylver coinage is a game played on the natural numbers; if you want to know the game rules, come to FAMUS!  Natalie and Tara, along with fellow undergrads James Warner and Morgan Boyers, have been working together for about 5 months trying to prove some Sylver coinage "claims" made by (among others) John Conway and Richard Guy.  And they have been successful; come and see just how much they have proven!  
 
-<!-- ### An Aperiodic Monotile
-
-**Date:** Friday, November 17
-
-**Speaker:** Jeff Rushall (NAU)
-
-**Abstract:** I will talk about plane tilings and focus on the amazing monotile that aperiodically tiles the plane.  It was only "found" last November, and the story behind how it was found is kind of interesting.  
-
-After the talk, the audience will play with that monotile to see how it covers the plane using a neat online program - so if you come, try to bring a laptop!  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS23-11-17.pdf)] -->
+The faculty guest is Mikhail Baltushkin.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-01-19.pdf)]
