@@ -49,7 +49,7 @@ created at bifurcations.
 <hr>
 
 ### Tuesday 2/20 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Jin Wang
 **Title:** 
 
 **Abstract:** 
