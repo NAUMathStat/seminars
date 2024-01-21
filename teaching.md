@@ -11,10 +11,10 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### Mathematics Placement: Past, Present, and Future
 
-**Date:** TBA
+**Date:** Thursday, January 25, 2024
 
-**Speaker:** TBA
+**Speaker:** Matt Fahy (NAU)
 
-**Abstract:** TBA
+**Abstract:** I will lead a discussion of math placement’s past, present and future: a brief overview of the placement process, how it has changed in recent years, and modifications that might/should/could/better not be considered moving forward.
