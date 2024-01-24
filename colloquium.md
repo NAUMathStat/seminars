@@ -58,7 +58,7 @@ created at bifurcations.
 
 ### Tuesday 2/27 at 4:00-4:50
 **Speaker:** Nandor Sieben ?
-**Title:** 
+**Title:** Problem solving strategies for lazy mathematicians
 
 **Abstract:** 
 
