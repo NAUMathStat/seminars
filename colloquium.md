@@ -57,7 +57,7 @@ created at bifurcations.
 <hr>
 
 ### Tuesday 2/27 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Nandor Sieben ?
 **Title:** 
 
 **Abstract:** 
@@ -95,8 +95,13 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/2 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Jayden Chrzanowski (30 min) 
+**Title:** Machine Learning of Baseball strike zones
+
+**Abstract:**
+
+**Speaker:** Avery Bell (30 min)
+**Title:** Unsupervised analysis of mixed thermogram data
 
 **Abstract:** 
 
