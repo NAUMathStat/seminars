@@ -108,8 +108,8 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/9 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Keegan Line
+**Title:** Baseline Automation and Analysis of Urine Thermograms
 
 **Abstract:** 
 
