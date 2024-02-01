@@ -33,7 +33,7 @@ necessary and sufficient conditions for strict concavity of $f$.
 The parameters $A$ and $b$ are not uniquely determined.
 We show that every SOCF can be written in the 
 form
-$f(x) = c^T x + d -\sqrt{\delta^2 + (x-x_*)^TM(x-x_*)}$.
+$f(x) = c^T x + d -\sqrt{\delta^2 + (x-x_\star)^TM(x-x_\star)}$.
 We give necessary and sufficient conditions for the parameters $c$, $d$, $\delta$,
 $M = A^T A$, and $x_*$ to be uniquely determined.
 We also give necessary and sufficient conditions for $f$ to be bounded above.
