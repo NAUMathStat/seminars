@@ -25,9 +25,9 @@ Most likely no colloquium because of faculty candidate visits. Please enjoy the 
 **Title:** On Second-Order Cone Functions
 
 **Abstract:** 
-We consider the {\it second-order cone function} (SOCF) $f: \RL^n \to \RL$
+We consider the second-order cone function (SOCF) $f: \mathbb{R}^n \to \mathbb{R}$
 defined by $f(x)= c^T x + d -\|A x + b \|$, with parameters
-$c \in \RL^n$, $d \in \RL$, $A \in \RL^{m \times n}$, and $b \in \RL^m$.
+$c \in \mathbb{R}^n$, $d \in \mathbb{R}$, $A \in \mathbb{R}^{m \times n}$, and $b \in \mathbb{R}^m$.
 Every SOCF is concave. We give
 necessary and sufficient conditions for strict concavity of $f$. 
 The parameters $A$ and $b$ are not uniquely determined.
