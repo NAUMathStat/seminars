@@ -22,9 +22,25 @@ Most likely no colloquium because of faculty candidate visits. Please enjoy the 
 
 ### Tuesday 2/6 at 4:00-4:50
 **Speaker:** Shafiu Jibrin
-**Title:** 
+**Title:** On Second-Order Cone Functions
 
 **Abstract:** 
+We consider the {\it second-order cone function} (SOCF) $f: \RL^n \to \RL$
+defined by $f(x)= c^T x + d -\|A x + b \|$, with parameters
+$c \in \RL^n$, $d \in \RL$, $A \in \RL^{m \times n}$, and $b \in \RL^m$.
+Every SOCF is concave. We give
+necessary and sufficient conditions for strict concavity of $f$. 
+The parameters $A$ and $b$ are not uniquely determined.
+We show that every SOCF can be written in the 
+form
+$f(x) = c^T x + d -\sqrt{\delta^2 + (x-x_*)^TM(x-x_*)}$.
+We give necessary and sufficient conditions for the parameters $c$, $d$, $\delta$,
+$M = A^T A$, and $x_*$ to be uniquely determined.
+We also give necessary and sufficient conditions for $f$ to be bounded above.
+
+Our results have computational implications for convex optimization problems involving second-order constraints such as the problem of minimizing weighted barrier functions. They would allow one to recognize these optimization problems that can be solved efficiently, or to assist in reformulating those that are hard to solve.
+
+This research is a joint work with Dr. James W. Swift.
 
 <hr>
 
