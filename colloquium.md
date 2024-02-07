@@ -73,10 +73,11 @@ created at bifurcations.
 <hr>
 
 ### Tuesday 2/27 at 4:00-4:50
-**Speaker:** Nandor Sieben ?
-**Title:** Problem solving strategies for lazy mathematicians
+**Speaker:** Nandor Sieben
+**Title:** Problem solving for lazy mathematicians: the magic of constraint solvers
 
 **Abstract:** 
+Constraint programming often provides simple formulations of a wide variety of problems. We can simply describe what we want in a solution without knowing how to get it. State-of=art solvers can do the rest. We learn how to use a few lines of Python code to easily handle Jim's dress code puzzle, MAT 232 problems, Diophantine systems of inequalities, the send more money puzzle, and graph coloring.  
 
 <hr>
 
