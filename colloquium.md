@@ -77,7 +77,7 @@ created at bifurcations.
 **Title:** Problem solving for lazy mathematicians: Jim's dress code puzzle and the magic of constraint solvers
 
 **Abstract:** 
-Constraint programming often provides simple formulations of a wide variety of problems. We can simply describe what we want in a solution without knowing how to get it. State-of-the-art solvers can do the rest. We learn how to use a few lines of Python code to easily handle Jim's dress code puzzle, MAT 232 problems, Diophantine systems of inequalities, the send more money puzzle, and graph coloring. Einstein supposedly claimed that only 2% of the world could solve his zebra puzzle. With constraint solvers even lazy mathematicians can easily solve it. 
+Constraint programming often provides simple formulations of a wide variety of problems. We can simply describe what we want in a solution without knowing how to get it. State-of-the-art solvers can do the rest. We learn how to use a few lines of Python code to easily handle Jim's dress code puzzle, MAT 232 problems, Diophantine systems of inequalities, the send more money puzzle, and graph coloring. Einstein supposedly claimed that only 2% of the world could solve his zebra puzzle. This is no longer true. With constraint solvers, even lazy mathematicians can figure out who owns the zebra. 
 
 <hr>
 
