@@ -141,7 +141,7 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/23 at 4:00-4:50
-**Speaker:** Ruth Perry 
+**Speaker:** Hannah Golab and Ruth Perry 
 **Title:** 
 
 **Abstract:** 
@@ -149,7 +149,7 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/30 at 4:00-4:50
-**Speaker:** Hannah Golab 
+**Speaker:**  
 **Title:** 
 
 **Abstract:** 
