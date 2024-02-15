@@ -66,9 +66,10 @@ created at bifurcations.
 
 ### Tuesday 2/20 at 4:00-4:50
 **Speaker:** Jin Wang
-**Title:** 
+**Title:** Depth-Based Minimum Volume Ellipsoid Estimators for Multivariate Location, Spread, Skewness, and Kurtosis
 
 **Abstract:** 
+Multivariate descriptive measures for location, spread, skewness, and kurtosis are the foundation of multivariate statistics. Almost all multivariate statistical methods are based on them. The classical measures of these concepts are moment-based and are estimated by their sample versions. However, these estimators are not robust and are extremely sensitive to outliers. To eliminate or reduce the effects of outliers, we propose some depth-based minimum volume ellipsoid (DMVE) estimators for multivariate location, spread, skewness, and kurtosis. The important properties of the new estimators are studied.
 
 <hr>
 
