@@ -6,9 +6,19 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Euler Characteristics
+
+**Date:** February 16, 2024
+
+**Speakers:** Misha Baltushkin (NAU)
+
+**Abstract:** I will explain this graph theoretic invariant, show lots of examples, discuss the history of this famous number, etc.  This is a great topic for newbies at FAMUS, so please don't be shy about attending.  
+
+The faculty guest will be Ye Chen. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-02-16.pdf)]
+
 ### A report on the Nebraska Women's Conference Tara Zurick and Natalie Burton
 
-**Date:** January 19, 2024
+**Date:** February 2, 2024
 
 **Speakers:** Natalie Burton and Tara Zurick (NAU undergraduates)
 
