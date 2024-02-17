@@ -150,10 +150,11 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 4/30 at 4:00-4:50
-**Speaker:**  
-**Title:** 
+**Speaker:** Peter Vadasz 
+**Title:** Newtonian Gravitational Waves from a Continuum
 
 **Abstract:** 
+Gravitational waves are being shown to derive directly from Newtonian dynamics for a continuous mass distribution, e.g. compressible fluids or equivalent. It is shown that the equations governing a continuous mass distribution, i.e. the inviscid Navier-Stokes equations for a general variable gravitational field g(t,x), are equivalent to a form identical to Maxwell equations from electromagnetism, subject to a specified condition. The consequence of this equivalence is the creation of gravity waves that propagate at finite speed. The latter implies that Newtonian gravitation is not “spooky action at a distance” but rather is similar to electromagnetic waves propagating at finite speed, despite the apparent form appearing in the integrated field formula. In addition, this proves that in analogy to Maxwell equations the Newtonian gravitation equations are Lorentz invariant for waves propagating at the speed of light. Since gravitational waves were so far derived only from Einstein’s general relativity theory it becomes appealing to check if there is a connection between the Newtonian waves presented in this paper and the general relativity type of waves at least in a certain limit of overlapping validity. The latter is left for a follow-up research. 
 
 <hr>
 
