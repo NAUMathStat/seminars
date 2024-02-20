@@ -84,10 +84,10 @@ Constraint programming often provides simple formulations of a wide variety of p
 
 ### Tuesday 3/5 at 4:00-4:50
 **Speaker:** Jeffrey Hovermill
-**Title:** STEM Partnerships
+**Title:** STEM Education Partnerships
 
 **Abstract:** 
-School/University Partnerships allow for a bidirectional flow of information, cooperation, and support.  This talk will describe several NAU STEM Partnerships including the goals, structure, and impact of these various initiatives.
+School/University Partnerships allow for a bidirectional flow of information, cooperation, and support.  This talk will describe several NAU STEM Education Partnerships including the goals, structure, and impact of these various initiatives.
 
 <hr>
 
