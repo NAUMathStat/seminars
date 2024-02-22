@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Undergraduate Research Projects for 2024-2025
+
+**Date:** February 23, 2024
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** In this talk, I will provide the audience with a near-complete list of all undergrad research projects overseen by our faculty for AY 2024-2025.  Some are funded, some are not.  Some involve individual students, some involve groups.  There are 6-9 faculty involved.  This is a great chance for students to see all potential undergrad research topics for the upcoming year.
+
+The faculty guest will be Amy Rangel. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-02-23.pdf)]
+
 ### Euler Characteristics
 
 **Date:** February 16, 2024
