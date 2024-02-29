@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Urinal Problem
+
+**Date:** March 1, 2024
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** This topic addresses the following important question: when a person enters an empty bathroom with multiple urinals, which urinal should be selected to maximize this person's chances of having complete privacy if others enter the bathroom?  [note: a math paper was actually published on this problem a few years back]  I will analyze the problem - as well as explain what urinals look like, how they are used, etc., for those in the audience who perhaps do not know much about urinals - with the help of many pictures of urinals I have taken over the years.  
+
+The faculty guests will be a few soon-to-be-graduating grad students who will discuss their experiences in our grad programs and their future plans. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-01.pdf)]
+
 ### Undergraduate Research Projects for 2024-2025
 
 **Date:** February 23, 2024

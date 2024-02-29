@@ -9,10 +9,10 @@ The Mathematics Seminar typically meets on most Mondays at 4:00-5:00PM in Adel 1
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### All about assessment
 
-**Dates:** TBA
+**Date:** Thursay, March 7 
 
-**Speaker:** TBA
+**Speaker:** Katie Louchart and Shannon Guerrero (NAU)
 
-**Abstract:** TBA
+**Abstract:** Are you teaching an online course this summer and want to know details about online test proctoring?  Would you like to consider alternative assessments besides “traditional” paper-and-pencil tests (online or otherwise)?  Come to this Teaching Seminar session to hear all about these assessment topics and more.
