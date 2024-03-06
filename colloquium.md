@@ -97,7 +97,7 @@ School/University Partnerships allow for a bidirectional flow of information, co
 <hr>
 
 ### Tuesday 3/19 at 4:00-4:50 
-**Speaker:** Ye Chen
+**Speaker:** Jeffrey Covington
 **Title:** 
 
 **Abstract:** 
