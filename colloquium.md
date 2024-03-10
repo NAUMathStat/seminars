@@ -98,9 +98,12 @@ School/University Partnerships allow for a bidirectional flow of information, co
 
 ### Tuesday 3/19 at 4:00-4:50 
 **Speaker:** Jeffrey Covington
-**Title:** 
+**Title:** Data Assimilation, the Arctic, and Bridging the Gap Between Theory and Practice
 
 **Abstract:** 
+Data assimilation, where observations and a mathematical model are combined to estimate the state of a dynamical system, is widely used in weather prediction, climate science, industrial processes, robotics, and many more fields.
+This talk will present an elementary introduction to data assimilation, give an overview of different approaches and techniques that have been developed, and explore the challenges of applying theoretical tools in practical applications.
+In particular, a real application of data assimilation to remote sensing of the Arctic will be discussed, as well as the concrete considerations of applying these techniques to a high-dimensional and highly nonlinear system.
 
 <hr>
 
