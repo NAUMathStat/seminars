@@ -112,7 +112,7 @@ In particular, a real application of data assimilation to remote sensing of the 
 **Title:** A Topological Approach to Snowpack Roughness 
 
 **Abstract:** 
-
+Roughness of snowpack on mountainous terrain exhibits a high degree of spatiotemporal variance.  Accurate estimation of the snow surface roughness is a parameter of fundamental importance for estimating turbulent fluxes and is an input into all existing numerical models of surface-atmosphere interactions. However, it proves difficult to estimate numerically from real data. We’ll describe geometric and topological techniques to estimate roughness from airborne LIDAR measurements and share some advantages of taking a topological perspective.
 
 <hr>
 
