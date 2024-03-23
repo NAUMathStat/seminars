@@ -109,9 +109,10 @@ In particular, a real application of data assimilation to remote sensing of the 
 
 ### Tuesday 3/26 at 4:00-4:50
 **Speaker:** Rachel Neville
-**Title:** 
+**Title:** A Topological Approach to Snowpack Roughness 
 
 **Abstract:** 
+
 
 <hr>
 
