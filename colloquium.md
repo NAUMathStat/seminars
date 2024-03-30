@@ -117,15 +117,17 @@ Roughness of snowpack on mountainous terrain exhibits a high degree of spatiotem
 <hr>
 
 ### Tuesday 4/2 at 4:00-4:50
-**Speaker:** Jayden Chrzanowski (30 min) 
-**Title:** Machine Learning of Baseball strike zones
-
-**Abstract:**
 
 **Speaker:** Avery Bell (30 min)
 **Title:** Unsupervised analysis of mixed thermogram data
 
 **Abstract:** 
+
+**Speaker:** Jayden Chrzanowski (30 min) 
+**Title:** Exploring XGBoost 2.0 with Optimal Feature Selection and Baseball Applications
+
+**Abstract:**
+In this presentation, we explore the use of XGBoost 2.0 alongside modern feature selection methods like Boruta and SHAP, with a focus on baseball analytics. Through applying Boruta and BorutaSHAP for feature selection, we created and compared two models to predict the classification of pitches hit into play as either a ball or a strike. Our results highlight the potential over-simplification of models when using BorutaSHAP compared to Boruta. Furthermore, applications of our research integrate the idea of a theoretical strike zone for pitches hit into play.
 
 <hr>
 
