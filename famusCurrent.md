@@ -6,15 +6,25 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### New Results on Sylver Coinage
+
+**Date:** March 29, 2024
+
+**Speakers:** James Warner and Morgan Boyers (NAU undergraduate mathematics majors)
+
+**Abstract:** James and Morgan will explain some background information on Sylver coinage and then present some new results on Sylver coinage that they have found together with research partners Natalie Burton and Tara Zurick.  The highlight: when 4 and any odd integer $x > 5$ have been played, they have turned Sylver coinage into Tic-Tac-Toe (i.e., they will never lose).  If you want to know more, come to FAMUS on Friday!  
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-29.pdf)]
+
 ### The Calissons Problem
 
-**Date:** March 23, 2024
+**Date:** March 22, 2024
 
 **Speakers:** Jeff Rushall (NAU)
 
 **Abstract:** This topic addresses a funky problem that French bakers have dealt with for centuries.  Namely, when they put calissons (delightful little diamond-shaped cookies) into hexagonal boxes, an amazing geometric pattern was noticed.  What was this pattern?  And why was this pattern?  And what do calissons taste like?  Well, come to FAMUS on Friday, and all these questions will be answered.  
 
-There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-23.pdf)]
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-22.pdf)]
 
 ### The Urinal Problem
 
