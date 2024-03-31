@@ -118,12 +118,13 @@ Roughness of snowpack on mountainous terrain exhibits a high degree of spatiotem
 
 ### Tuesday 4/2 at 4:00-4:50
 
-**Speaker:** Avery Bell (30 min)
-**Title:** Unsupervised analysis of mixed thermogram data
+**Speaker:** Avery Bell
+**Title:** Exploring Foundations of Hierarchical Clustering with Applications
 
 **Abstract:** 
+Hierarchical clustering is a form of unsupervised machine learning that measures distances between observations to construct a hierarchy of clusters. The two variations of hierarchical clustering include agglomerative and divisive clustering and utilize a bottom-up or top-down approach to partition data. A one-dimensional agglomerative example is demonstrated, and the results of hierarchical clustering on thermal liquid biopsy is presented.
 
-**Speaker:** Jayden Chrzanowski (30 min) 
+**Speaker:** Jayden Chrzanowski
 **Title:** Exploring XGBoost 2.0 with Optimal Feature Selection and Baseball Applications
 
 **Abstract:**
