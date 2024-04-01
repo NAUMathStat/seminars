@@ -11,9 +11,17 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Elevating Excellence Grant and Embedded PMAs
+
+**Date:** Thursday, April 4, 2024
+
+**Speakers:** Katie Louchart, Shannon Guerrero, Sujey Ramos, Aaron Cirzan, Jacob Jasperson (NAU)
+
+**Abstract:** A team of folks will be leading a Teaching Seminar session regarding a joint project between our department and the Academic Success Centers supported by an Elevating Excellence grant to embed PMAs in several of our undergraduate MAT and STA courses.  The team will discuss the ins and outs of the project, share data regarding the project so far, and discuss directions for the future. Data analysis for this project has been done by Robert Buscaglia and an undergraduate Data Science major Peter Eng.
+
 ### AI in the Mathematics Classroom
 
-**Date:** Thursday, January 25, 2024
+**Date:** Thursday, March 28, 2024
 
 **Speaker:** Dane Jacobson (Yuma Unified High School District)
 
@@ -25,7 +33,7 @@ Dane is an alumnus of our department who currently teaches in the Yuma Unified H
 
 **Date:** Thursay, March 7 
 
-**Speaker:** Katie Louchart and Shannon Guerrero (NAU)
+**Speakers:** Katie Louchart and Shannon Guerrero (NAU)
 
 **Abstract:** Are you teaching an online course this summer and want to know details about online test proctoring?  Would you like to consider alternative assessments besides “traditional” paper-and-pencil tests (online or otherwise)?  Come to this Teaching Seminar session to hear all about these assessment topics and more.
 
