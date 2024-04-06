@@ -134,10 +134,10 @@ In this presentation, we explore the use of XGBoost 2.0 alongside modern feature
 
 ### Tuesday 4/9 at 4:00-4:50
 **Speaker:** Keegan Line
-**Title:** Baseline Automation and Analysis of Urine Thermograms
+**Title:** Streamlined Thermogram Analysis: Automated Baseline Extraction and Processing
 
 **Abstract:** 
-
+Thermograms hold the potential to be crucial in assessing patient health status. However, a major obstacle lies in the time-intensive manual processing of vast amounts of raw thermogram data. To address this challenge, we present an algorithm designed to expedite data processing by automating endpoint detection and baseline subtraction, resulting in analysis-ready thermogram curves. Our approach enables laboratories to handle substantially larger quantities of thermograms compared to technician methods. With this algorithm, various statistical methods can be applied to the curves, such as signal detection, identification of significant regions, and potentially approximation and categorization using normal curves. This automated methodology represents a massive step forward in thermographic data processing and gives a solution for the baseline dilemma.
 <hr>
 
 ### Tuesday 4/16 at 4:00-4:50
