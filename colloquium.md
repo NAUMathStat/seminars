@@ -142,9 +142,10 @@ Thermograms hold the potential to be crucial in assessing patient health status.
 
 ### Tuesday 4/16 at 4:00-4:50
 **Speaker:** Jeff Uyekawa
-**Title:** 
+**Title:** Robust Vector Equivalence of Synchronous and Bisynchronous Games
 
 **Abstract:** 
+Two player non-local games have gained attention in recent years because these games can be used as a helpful framework to study the potential advantages of using quantum entanglement as a resource. Synchronous and bisynchronous games are two types of non-local games with particularly nice structure, and hence have been well studied. When given a synchronous game with n inputs and k outputs, one can construct a bisynchronous game with nk inputs and nk outputs such that the players have a winning strategy in the synchronous game in one model of quantum mechanics if and only if they have a winning strategy in the bisynchronous game using the same model. We have found that this same result holds for a set of strategies called vector strategies. These are similar to strategies in quantum mechanics, but they are easier computationally. In addition, we present our finding that approximately winning strategies are also preserved between these two games so long as one considers synchronous strategies for the synchronous game and bisynchronous strategies for the bisynchronous game.
 
 <hr>
 
