@@ -6,6 +6,32 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Investigating the spread of measles in Arizona and disease surveillance of flu transmission
+
+**Date:** April 12, 2024
+
+The talks this week are given by a pair of undergraduate students, Alexander Nez and Avery Drennan.  They are working on an interdisciplinary project under Dr. Ye Chen that involves two related projects. Here are their official titles and abstracts.
+
+#### Measles Meta-population Model Dynamics: Developing Realistic Movement Models to Assess Measles Spatial Spread Potential
+
+**Speaker:** Alexander Nez  (NAU)
+
+**Abstract:** This study develops a stochastic compartmental model to understand measles transmission dynamics among individuals aged 0 to 18 years, utilizing 2019 Census data. The population was divided into seven compartments: Susceptible (S), Exposed (E), Infected (I), Recovered (R), First Vaccine-Prone (V$_{P1}$), First Vaccine-Responsive (V$_{R1}$), and Second Vaccine (V$_2$). We assess the impact of gravity and school commuter movement models on disease spread within the population. The gravity model, influenced by gravity weight $\phi$, predicts movement between census block groups. Conversely, the school commuter matrix, structured around student populations in census block groups and school enrollment data in Maricopa County, uses a Voronoi diagram to create an $n \times n$ commuter matrix. Incorporating school vaccine data, we identify areas of susceptibility, improving our understanding of at-risk populations.  To model measles spread, we use a tau-leaping algorithm that divides the day into parts: 1/3 for school, 1/2 for post-school movement and interaction, and the remaining time at home. This method provides insight into how susceptible individuals, exposed in various locations, can spread the virus within their census block group upon returning home. Our modeling captures the dynamics of disease transmission, offering insights into its trajectory and behavior.
+
+#### Integrative Forecasting of Flue Transmission: Merging Statistical Regression and Compartmental Models Through Advanced Particle Filtering 
+
+**Speaker:** Avery Drennan (NAU)
+
+**Abstract:** Disease surveillance is essential for proactive public health measures, due to its crucial role in making health decisions to respond to evolving disease propagation.  In this study, we develop a new forecasting framework that integrates the strengths of two disease modeling approaches, changepoint regression model and compartmental model, to capture both local trend changes and long-term persistent trends in disease transmission dynamics. For this, we first revise the particle filter algorithm to infer the time-dependent nonstationary transmission rates. To avoid sample degeneracy and impoverishment caused by numerical round-off of the likelihood, our revised particle filter algorithm incorporates a new weight computation and a resampling scheme, simultaneously estimating both time-dependent and static parameters for flu hospitalization data. We then use a penalized likelihood approach to detect multiple changepoints in the inferred time-dependent transmission rates, using a detection technique based on a genetic algorithm to optimize changepoint estimation. With the estimated number of changepoints and their associated time location estimates, we compute local trend changes in the transmission rates. Finally, we reincorporate the forecasted changepoint transmission rates into the SIR model, resulting in enhanced precision in our prediction for flu progression.
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-12.pdf)]
+
+**Speakers:** Misha Baltushkin (NAU)
+
+**Abstract:** We will define and play around with some simple neural networks. We will investigate the structure of a neural network, talk about the forward propagation process and discuss the "learning process" (back-propagation) that a network undergoes. We will cover some examples of activation functions and explore what they are used for. In the other half of the talk we will discuss the foundation of a transformer model and briefly discuss how it works and why it is so powerful. 
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-05.pdf)]
+
 ### Intro to neural networks and mathematical foundation of Generative Pre-trained Transformer (GPT)
 
 **Date:** April 5, 2024
