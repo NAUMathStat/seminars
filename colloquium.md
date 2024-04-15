@@ -158,7 +158,7 @@ Two player non-local games have gained attention in recent years because these g
 
 **Speaker:** Ruth Schroeder Perry 
 
-**Title:**  Braid Graphs in Coxeter Systems of Type $\Lambda$ Are Median
+**Title:**  Braid Graphs in Coxeter Systems of Type $\Lambda$ are Median
 
 **Abstract:**
 Any two reduced expressions for the same Coxeter group element are related
