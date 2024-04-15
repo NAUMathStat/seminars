@@ -150,10 +150,31 @@ Two player non-local games have gained attention in recent years because these g
 <hr>
 
 ### Tuesday 4/23 at 4:00-4:50
-**Speaker:** Hannah Golab and Ruth Perry 
+**Speaker:** Hannah Golab 
+
 **Title:** 
 
 **Abstract:** 
+
+**Speaker:** Ruth Schroeder Perry 
+
+**Title:**  Braid Graphs in Coxeter Systems of Type $\Lambda$ Are Median
+
+**Abstract:**
+Any two reduced expressions for the same Coxeter group element are related
+by a sequence of commutation and braid moves. Two reduced expressions are
+said to be braid equivalent if they are related via a sequence of braid moves, and
+the corresponding equivalence classes are called braid classes. Each braid class
+can be encoded in terms of a braid graph in a natural way. In a recent paper,
+Awik et al. proved that when the Coxeter system is simply-laced and triangle free
+(i.e., the corresponding Coxeter graph has no three-cycles), the braid graph for a
+reduced expression is a partial cube (i.e., isometric to a subgraph of a hypercube).
+In her MS thesis, Barnes provided an alternate version of this fact and provided
+a description of the minimal dimension hypercube into which a braid graph can
+be isometrically embedded. In this talk, we prove that every braid graph in a
+simply-laced triangle-free Coxeter system is median, which is a strengthening of
+previous results. We conjecture that every braid graph of a link corresponds to
+the Hasse diagram for a distributive lattice.
 
 <hr>
 
