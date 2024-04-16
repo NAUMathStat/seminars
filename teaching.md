@@ -11,6 +11,14 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### EACUE at NAU
+
+**Date:** Thursday, April 18, 2024
+
+**Speakers:** Katie Louchart, Shannon Guerrero, Sujey Ramos, Aaron Cirzan, Jacob Jasperson (NAU)
+
+**Abstract:** Gina, along with several other faculty from our department, has participated in a course offered by the Association of College and University Educators and will be sharing about the program as well as highlighting a few ideas and practices she has learned. 
+
 ### Elevating Excellence Grant and Embedded PMAs
 
 **Date:** Thursday, April 4, 2024
