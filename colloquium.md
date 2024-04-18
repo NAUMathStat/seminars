@@ -152,9 +152,31 @@ Two player non-local games have gained attention in recent years because these g
 ### Tuesday 4/23 at 4:00-4:50
 **Speaker:** Hannah Golab 
 
-**Title:** 
+**Title:** Pattern avoidance in Cayley permutations
 
 **Abstract:** 
+Any permutation of n may be written in one-line notation as a sequence of entries representing the result of applying the permutation to the sequence 1 2 ··· n.
+If p and q are two permutations, then p is said to contain q as a pattern if some
+subsequence of the entries of p has the same relative order as all of the entries
+of q. If p does not contain a pattern q, then p is said to avoid q. One of the first
+notable results in the field of permutation patterns was obtained by MacMahon in 1915 when he proved that the ubiquitous Catalan numbers count the
+123-avoiding permutations. The study of permutation patterns began receiving
+focused attention following Knuth’s introduction of stack-sorting in 1968. Knuth
+proved that a permutation can be sorted by a stack if and only if it avoids the
+pattern 231 and that the Catalan numbers also enumerate the stack-sortable
+permutations. In the subsequent years, the notion of pattern avoidance has
+been extended to numerous combinatorial objects, including multiset permutations, set partitions, ordered set partitions, compositions, and modified ascent
+sequences. In this talk, we study pattern avoidance in the context of Cayley
+permutations, which were introduced by Mor and Fraenkel in 1983. A Cayley
+permutation is a finite sequence of positive integers that include at least one copy
+of each integer between one and its maximum value. When possible we will take
+a combinatorial species-first approach to enumerating Cayley permutations that
+avoid patterns of length two, pairs of patterns of length two, patterns of length
+three, and pairs of patterns of length three with the goal of providing species,
+exponential generating functions, and counting formulas. We also briefly study
+pattern avoidance in a special class of Cayley permutations known as primitive
+Cayley permutations. Throughout the talk, we include several conjectures and
+open problems.
 
 **Speaker:** Ruth Schroeder Perry 
 
