@@ -6,6 +6,16 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Prime Number Spirals: They Might Save Your Life!
+
+**Date:** April 19, 2024
+
+**Speakers:** Ian Williams (NAU)
+
+**Abstract:** In this talk Ian will look at some interesting pictures of prime number configurations (including, not surprisingly, some spirals).  Ian anticipates that some bewildered attendees will ask "Uhh...what?" and "Why does it do that?" and he will attempt to answer these questions.  
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-19.pdf)]
+
 ### Investigating the spread of measles in Arizona and disease surveillance of flu transmission
 
 **Date:** April 12, 2024
@@ -26,17 +36,11 @@ The talks this week are given by a pair of undergraduate students, Alexander Nez
 
 There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-12.pdf)]
 
-**Speakers:** Misha Baltushkin (NAU)
-
-**Abstract:** We will define and play around with some simple neural networks. We will investigate the structure of a neural network, talk about the forward propagation process and discuss the "learning process" (back-propagation) that a network undergoes. We will cover some examples of activation functions and explore what they are used for. In the other half of the talk we will discuss the foundation of a transformer model and briefly discuss how it works and why it is so powerful. 
-
-There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-05.pdf)]
-
 ### Intro to neural networks and mathematical foundation of Generative Pre-trained Transformer (GPT)
 
 **Date:** April 5, 2024
 
-**Speakers:** Misha Baltushkin (NAU)
+**Speaker:** Misha Baltushkin (NAU)
 
 **Abstract:** We will define and play around with some simple neural networks. We will investigate the structure of a neural network, talk about the forward propagation process and discuss the "learning process" (back-propagation) that a network undergoes. We will cover some examples of activation functions and explore what they are used for. In the other half of the talk we will discuss the foundation of a transformer model and briefly discuss how it works and why it is so powerful. 
 
