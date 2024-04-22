@@ -16,6 +16,8 @@ Note that talks are listed in reverse chronological order.
 
 There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-19.pdf)]
 
+<hr>
+
 ### Investigating the spread of measles in Arizona and disease surveillance of flu transmission
 
 **Date:** April 12, 2024
@@ -36,6 +38,8 @@ The talks this week are given by a pair of undergraduate students, Alexander Nez
 
 There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-12.pdf)]
 
+<hr>
+
 ### Intro to neural networks and mathematical foundation of Generative Pre-trained Transformer (GPT)
 
 **Date:** April 5, 2024
@@ -45,6 +49,8 @@ There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/fa
 **Abstract:** We will define and play around with some simple neural networks. We will investigate the structure of a neural network, talk about the forward propagation process and discuss the "learning process" (back-propagation) that a network undergoes. We will cover some examples of activation functions and explore what they are used for. In the other half of the talk we will discuss the foundation of a transformer model and briefly discuss how it works and why it is so powerful. 
 
 There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-04-05.pdf)]
+
+<hr>
 
 ### New Results on Sylver Coinage
 
@@ -56,6 +62,8 @@ There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/fam
 
 There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-29.pdf)]
 
+<hr>
+
 ### The Calissons Problem
 
 **Date:** March 22, 2024
@@ -65,6 +73,8 @@ There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/fam
 **Abstract:** This topic addresses a funky problem that French bakers have dealt with for centuries.  Namely, when they put calissons (delightful little diamond-shaped cookies) into hexagonal boxes, an amazing geometric pattern was noticed.  What was this pattern?  And why was this pattern?  And what do calissons taste like?  Well, come to FAMUS on Friday, and all these questions will be answered.  
 
 There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-22.pdf)]
+
+<hr>
 
 ### The Urinal Problem
 
@@ -76,6 +86,8 @@ There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/fam
 
 The faculty guests will be a few soon-to-be-graduating grad students who will discuss their experiences in our grad programs and their future plans. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-03-01.pdf)]
 
+<hr>
+
 ### Undergraduate Research Projects for 2024-2025
 
 **Date:** February 23, 2024
@@ -85,6 +97,8 @@ The faculty guests will be a few soon-to-be-graduating grad students who will di
 **Abstract:** In this talk, I will provide the audience with a near-complete list of all undergrad research projects overseen by our faculty for AY 2024-2025.  Some are funded, some are not.  Some involve individual students, some involve groups.  There are 6-9 faculty involved.  This is a great chance for students to see all potential undergrad research topics for the upcoming year.
 
 The faculty guest will be Amy Rangel. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-02-23.pdf)]
+
+<hr>
 
 ### Euler Characteristics
 
@@ -96,6 +110,8 @@ The faculty guest will be Amy Rangel. [[PDF of Flyer]({{ site.baseurl }}/famus_f
 
 The faculty guest will be Ye Chen. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-02-16.pdf)]
 
+<hr>
+
 ### A report on the Nebraska Women's Conference Tara Zurick and Natalie Burton
 
 **Date:** February 2, 2024
@@ -105,6 +121,8 @@ The faculty guest will be Ye Chen. [[PDF of Flyer]({{ site.baseurl }}/famus_file
 **Abstract:** Natalie and Tara will discuss what happened at the conference, how they got there, show lots of pictures, tell us how their presentation went, and explain the impact NCUWM had on their futures.  
 
 The faculty guest will be Michele Torielli.  **Note:** This FAMUS will held in Adel 163 and will end at 3:55PM to allow folks to attend the math ed candidate talk in Adel 164.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-02-02.pdf)]
+
+<hr>
 
 ### New Results on Sylver Coinage
 
