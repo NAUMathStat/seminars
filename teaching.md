@@ -11,6 +11,14 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Mathematics Education Research Projects
+
+**Date:** Thursday, April 25, 2024
+
+**Speakers:** Lina Ellis and Emi Iwao (NAU)
+
+**Abstract:** Two graduate students in our MS in Math Education program will be sharing research they have completed during the Teaching Seminar.  This research was conducted through one of their mathematics education courses.  
+
 ### EACUE at NAU
 
 **Date:** Thursday, April 18, 2024
