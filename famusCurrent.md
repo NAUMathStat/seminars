@@ -6,6 +6,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Packing Coloring Problem
+
+**Date:** May 4, 2024
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** This problem, first posed in 2002, seeks the minimal number of natural numbers needed to fill an infinite planar grid of squares if the distance between occurrences of the same number is greater than the number itself.  [distance measured using the taxicab metric]  The problem was resolved just a few months ago by a faculty member + grad student at Carnegie-Mellon.  I'll explain some of the details behind how the problem was solved.  
+
+There will be no faculty guest this week.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-05-03.pdf)]
+
+<hr>
+
 ### Prime Number Spirals: They Might Save Your Life!
 
 **Date:** April 19, 2024
