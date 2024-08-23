@@ -72,7 +72,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 10/29 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Yu-Ju Kuo (Indiana University of Pennsylvania) (tentative) 
 **Title:** 
 
 **Abstract:** 
