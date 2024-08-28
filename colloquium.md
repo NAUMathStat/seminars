@@ -10,8 +10,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/3 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Jim Swift
+**Title:** Buckyballs
 
 **Abstract:** 
 
@@ -26,7 +26,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/17 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Roy St. Laurent
 **Title:** 
 
 **Abstract:** 
