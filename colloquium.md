@@ -10,10 +10,11 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/3 at 4:00-4:50
-**Speaker:** Jim Swift
-**Title:** Buckyballs
+**Speaker:** Shannon Guerrero
+**Title:** Teacher-authored culturally responsive mathematics curriculum: Lessons from the Diné Institute for Navajo Nation Educators
 
 **Abstract:** 
+This presentation shares research conducted with a long-term professional development program for teachers in Navajo-serving schools, with a focus on the mathematics curriculum developed by teachers in this program. We address the research question: To what extent and in what ways do teachers in DINÉ math seminars develop curriculum units that evidence culturally responsive principles and mathematics education best practices? We analyze teacher-authored mathematics curriculum from two years of this program and share key lessons learned in supporting teachers from Indigenous-serving schools to engage culturally responsive principles in their math teaching and learning.
 
 <hr>
 
@@ -34,8 +35,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 9/24 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Jim Swift
+**Title:** Buckyballs
 
 **Abstract:** 
 
