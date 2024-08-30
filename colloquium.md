@@ -65,7 +65,7 @@ This presentation shares research conducted with a long-term professional develo
 
 ### Tuesday 10/22 at 4:00-4:50
 
-**Speaker:** 
+**Speaker:** Rachel A Neville
 **Title:** 
 
 **Abstract:** 
