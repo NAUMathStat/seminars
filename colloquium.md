@@ -40,7 +40,7 @@ Probably no colloquium.
 <hr>
 
 ### Tuesday 10/1 at 4:00-4:50
-**Site visit** Probably no colloquium.
+**Site visit week.** Probably no colloquium.
 
 <hr>
 
