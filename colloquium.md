@@ -27,7 +27,7 @@ This presentation shares research conducted with a long-term professional develo
 <hr>
 
 ### Tuesday 9/17 at 4:00-4:50
-**Speaker:** Roy St. Laurent
+**Speaker:** Michele Torielli
 **Title:** 
 
 **Abstract:** 
@@ -35,7 +35,7 @@ This presentation shares research conducted with a long-term professional develo
 <hr>
 
 ### Tuesday 9/24 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Roy St. Laurent
 **Title:** 
 
 **Abstract:** 
