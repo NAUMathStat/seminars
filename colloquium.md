@@ -35,8 +35,8 @@ This presentation shares research conducted with a long-term professional develo
 <hr>
 
 ### Tuesday 9/24 at 4:00-4:50
-**Speaker:** Jim Swift
-**Title:** Buckyballs
+**Speaker:** 
+**Title:** 
 
 **Abstract:** 
 
