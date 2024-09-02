@@ -86,8 +86,7 @@ Probably no colloquium.
 <hr>
 
 ### Tuesday 11/12 at 4:00-4:50
-**Speaker:** 
-
+**Speaker:** Jim Swift
 **Title:** 
 
 **Abstract:** 
