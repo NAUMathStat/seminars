@@ -7,5 +7,10 @@ The Mathematics Seminar typically meets on Tuesdays at 12:45-1:45 in Adel Mathem
 
 ### Fall 2024 Schedule
 
-Organizational Meeting, Tuesday September 3, 12:45-? in AMB 225
+Note that talks are listed in reverse chronological order.
 
+### Organizational Meeting
+
+**Date:** Tuesday September 3
+
+**Plan:** We draft a plan for speakers for the semester.

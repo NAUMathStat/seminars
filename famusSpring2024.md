@@ -1,20 +1,27 @@
+---
+layout: page
+title: FAMUS
+---
+
 The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly event consisting of announcements, talks, and faculty interviews.  FAMUS takes place most Fridays at 3:00-4:00pm in Room 164 of the Adel Mathematics Building.  Typically the first half of FAMUS consists of a talk on a mathematical topic while an interview of a faculty member takes place in the second half. FAMUS is hosted by [Jeff Rushall](https://nau.edu/cefns/natsci/math/directory-full-time/rushall-jeff/).
 
 Come join us for some entertaining talks!  Refreshments always served.
 
-# Schedule Fall 2024 #
+# Schedule Spring 2024 #
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### The Packing Coloring Problem
 
-**Date:** TBA
+**Date:** May 4, 2024
 
-**Speakers:** TBA
+**Speakers:** Jeff Rushall (NAU)
 
-**Abstract:** TBA
+**Abstract:** This problem, first posed in 2002, seeks the minimal number of natural numbers needed to fill an infinite planar grid of squares if the distance between occurrences of the same number is greater than the number itself.  [distance measured using the taxicab metric]  The problem was resolved just a few months ago by a faculty member + grad student at Carnegie-Mellon.  I'll explain some of the details behind how the problem was solved.  
 
-<!-- <hr>
+There will be no faculty guest this week.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-05-03.pdf)]
+
+<hr>
 
 ### Prime Number Spirals: They Might Save Your Life!
 
@@ -142,4 +149,4 @@ The faculty guest will be Michele Torielli.  **Note:** This FAMUS will held in A
 
 **Abstract:** Sylver coinage is a game played on the natural numbers; if you want to know the game rules, come to FAMUS!  Natalie and Tara, along with fellow undergrads James Warner and Morgan Boyers, have been working together for about 5 months trying to prove some Sylver coinage "claims" made by (among others) John Conway and Richard Guy.  And they have been successful; come and see just how much they have proven!  
 
-The faculty guest is Mikhail Baltushkin.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-01-19.pdf)] -->
+The faculty guest is Mikhail Baltushkin.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-01-19.pdf)]
