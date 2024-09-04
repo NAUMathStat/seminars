@@ -57,7 +57,7 @@ Gaussian process regression, also known as Kriging, is a powerful curve fitting 
 <hr>
 
 ### Tuesday 10/15 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Peter Vadasz
 **Title:** 
 
 **Abstract:** 
