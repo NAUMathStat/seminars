@@ -58,9 +58,10 @@ Gaussian process regression, also known as Kriging, is a powerful curve fitting 
 
 ### Tuesday 10/15 at 4:00-4:50
 **Speaker:** Peter Vadasz
-**Title:** 
+**Title:** Magnetostrophic Flow and Electromagnetic Columns in Magneto-Fluid Dynamics and short updates on my previous presentations of Quantum Mechanics and Newtonian Gravitational Waves 
 
 **Abstract:** 
+An analogy between magneto-fluid dynamics (MFD/MHD) and geostrophic flow in a ro- 7 tating frame of reference including the existence of electromagnetic columns identical to Taylor- 8 Proudman columns is identified and demonstrated theoretically. The latter occurs in the limit of 9 large values of a dimensionless group representing the magnetic field number. Such conditions are 10 shown to be easily satisfied in reality. Consequently, the electromagnetic fluid flow subject to these 11 conditions is two dimensional and the streamlines are being shown to be identical to the pressure 12 lines in complete analogy to rotating geostrophic flows. An experimental setup is suggested to con- 13 firm the theoretical results experimentally. 
 
 <hr>
 
