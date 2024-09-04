@@ -19,7 +19,11 @@ This presentation shares research conducted with a long-term professional develo
 <hr>
 
 ### Tuesday 9/10 at 4:00-4:50
-Probably no colloquium.
+**Speaker:** Jeffrey Covington
+**Title:** Curve fitting and Gaussian process regression
+
+**Abstract:** 
+Gaussian process regression, also known as Kriging, is a powerful curve fitting and statistical regression tool which has grown in popularity over the past few years. I've found it to be a powerful tool in my own research in spatial and dynamical modeling. This talk will introduce (kernel-based) Gaussian processes and their applications, relate them to curve fitting through Gaussian process regression, and explore the power and pitfalls of the methods.
 
 <hr>
 
