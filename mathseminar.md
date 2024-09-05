@@ -7,7 +7,7 @@ The Mathematics Seminar typically meets on Tuesdays at 12:45-1:45 in Adel Mathem
 
 ### Fall 2024 Schedule
 
-Note that talks are listed in reverse chronological order.
+<hr>
 
 ### Organizational Meeting
 
@@ -15,9 +15,12 @@ Note that talks are listed in reverse chronological order.
 
 **Plan:** We draft a plan for speakers for the semester.
 
+<hr>
+
 **Date:** Tuesday September 10
 
 **Speaker:** Nandor Sieben
 
 **Topic:** Graph pebbling, Graham's conjecture, and genetic algorithms
 
+<hr>
