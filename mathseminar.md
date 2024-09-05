@@ -14,3 +14,10 @@ Note that talks are listed in reverse chronological order.
 **Date:** Tuesday September 3
 
 **Plan:** We draft a plan for speakers for the semester.
+
+**Date:** Tuesday September 10
+
+**Speaker:** Nandor Sieben
+
+**Topic:** Graph pebbling, Graham's conjecture, and genetic algorithms
+
