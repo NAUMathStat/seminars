@@ -17,7 +17,7 @@ The Mathematics Seminar typically meets on Tuesdays at 12:45-1:45 in Adel Mathem
 
 <hr>
 
-**Date:** Tuesday September 10
+**Date:** Coming soon
 
 **Speaker:** Nandor Sieben
 
