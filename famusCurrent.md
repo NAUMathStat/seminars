@@ -6,15 +6,19 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### The Constant of Kaprekar
 
-**Date:** TBA
+**Date:** September 13, 2024
 
-**Speakers:** TBA
+**Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** TBA
+**Abstract:** The constant of Kaprekar is a weird and magical number that pops up that when one rearranges the digits in almost any 4-digit number and then does some arithmetic.  All who come to FAMUS will verify with their own 4-digit numbers that the constant is indeed magical.  I'll say a bit more and try to leave the audience as amazed and bewildered about the constant as I am.   
 
-<!-- <hr>
+The faculty guest is Sarah Watson.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-13.pdf)]
+
+<hr>
+
+<!-- 
 
 ### Prime Number Spirals: They Might Save Your Life!
 
