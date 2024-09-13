@@ -29,9 +29,10 @@ Gaussian process regression, also known as Kriging, is a powerful curve fitting 
 
 ### Tuesday 9/17 at 4:00-4:50
 **Speaker:** Michele Torielli
-**Title:** 
+**Title:** Hyperplane arrangements and signed graphs
 
 **Abstract:** 
+In this talk, we will recall the notion of hyperplane arrangement and discuss  when an arrangement is free. We will then discuss their connection with simple graphs and finally, generalize this connection to the notion of signed graphs.
 
 <hr>
 
