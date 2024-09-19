@@ -6,6 +6,21 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+<hr>
+
+### Egyptian Fractions
+
+**Date:** September 20, 2024
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** 
+Egyptian fractions are representations of rational numbers as sums of distinct unit fractions.  It is a fact that EVERY positive rational number can be written as a sum of distinct unit fractions.  I'll present a bit of the history of Egyptian fractions and will give some open problems associated with Egyptian fractions.   
+
+The faculty guest is new faculty member Gabe Markou.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-20.pdf)]
+
+<hr>
+
 ### The Constant of Kaprekar
 
 **Date:** September 13, 2024
@@ -15,8 +30,6 @@ Note that talks are listed in reverse chronological order.
 **Abstract:** The constant of Kaprekar is a weird and magical number that pops up that when one rearranges the digits in almost any 4-digit number and then does some arithmetic.  All who come to FAMUS will verify with their own 4-digit numbers that the constant is indeed magical.  I'll say a bit more and try to leave the audience as amazed and bewildered about the constant as I am.   
 
 The faculty guest is Sarah Watson.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-13.pdf)]
-
-<hr>
 
 <!-- 
 
