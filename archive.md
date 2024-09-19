@@ -76,6 +76,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/famusSpring2015)
 - Teaching Seminar
+    - [Spring 2024]({{ site.baseurl }}/teachingSpring2024)
     - [Fall 2023]({{ site.baseurl }}/teachingFall2023)
     - [Fall 2015]({{ site.baseurl }}/teachingFall2015)
     - [Spring 2015]({{ site.baseurl }}/teachingSpring2015)
