@@ -38,9 +38,14 @@ In this talk, we will recall the notion of hyperplane arrangement and discuss  w
 
 ### Tuesday 9/24 at 4:00-4:50
 **Speaker:** Roy St. Laurent
-**Title:** 
+**Title:** Diversions: My Favorite Logic Puzzles from Nikoli
 
 **Abstract:** 
+This is not a research talk. I will introduce three or four of my favorite Nikoli puzzles, with an opportunity for you to solve examples of them yourself. Paper copies will be provided, just bring a pencil (or pen).
+
+Nikoli is a Japanese publisher that specializes in culture-independent puzzles – especially pencil/paper logic puzzles played on a rectangular grid. I have been hooked on Nikoli puzzles since being introduced to them by now-retired Mathematics professor Dr. Steve Wilson. The English names of some of my favorites are Akari, Fillomino, Hashiwokakero, Heyawake, Hitori, Kakuro, Nurikabe, Slitherlink, Yajilin.
+
+While this isn’t a research talk, a couple of interesting questions come to mind that will be raised during the talk.
 
 <hr>
 
