@@ -8,14 +8,25 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Goldbach's Conjectures
+
+**Date:** September 27, 2024
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Many are familiar with "Goldbach's Conjecture" (singular), the claim that every even natural number greater than 5 is the sum of two odd primes.  But not all realize that Goldbach actually made several conjectures.  I will present an overview of his conjectures and progress made toward proving them, including a weird connection between some of this and NAU.  
+
+The faculty guest is Robert Buscaglia, who is going to SHAVE HIS HEAD AND DONATE HIS HAIR for use in wigs.  I believe the head shaver might be interesting in freeing others from their longish locks, so if you are interesting joining Robert in beautiful baldness, talk to me or him ASAP.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-27.pdf)]
+
+<hr>
+
 ### Egyptian Fractions
 
 **Date:** September 20, 2024
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** 
-Egyptian fractions are representations of rational numbers as sums of distinct unit fractions.  It is a fact that EVERY positive rational number can be written as a sum of distinct unit fractions.  I'll present a bit of the history of Egyptian fractions and will give some open problems associated with Egyptian fractions.   
+**Abstract:**  Egyptian fractions are representations of rational numbers as sums of distinct unit fractions.  It is a fact that EVERY positive rational number can be written as a sum of distinct unit fractions.  I'll present a bit of the history of Egyptian fractions and will give some open problems associated with Egyptian fractions.   
 
 The faculty guest is new faculty member Gabe Markou.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-20.pdf)]
 
