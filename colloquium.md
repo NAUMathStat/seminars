@@ -50,7 +50,7 @@ While this isn’t a research talk, a couple of interesting questions come to mi
 <hr>
 
 ### Tuesday 10/1 at 4:00-4:50
-**Site visit week.** Probably no colloquium.
+**Site visit week.** No colloquium.
 
 <hr>
 
@@ -89,7 +89,7 @@ An analogy between magneto-fluid dynamics (MFD/MHD) and geostrophic flow in a ro
 <hr>
 
 ### Tuesday 11/5 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Dana Ernst
 **Title:** 
 
 **Abstract:** 
