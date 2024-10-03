@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Ramsey Numbers
+
+**Date:** October 4, 2024
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Ramsey numbers are these, umm, numbers that pop up in weird counting problems.  The good news is that they can be motivated by party planners who need to know how many people to invite to be guaranteed a given number of them know each other (or don't know each other), which is a great excuse to talk about partying (something I did a lot of in grad school).  I will explain their history and say what is known and not known about them, and mostly tone down discussing my partying past.  Mostly.  
+
+The faculty guest is Minah Kim.  Let's try to give her a big NAU welcome at her FAMUS debut.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-10-04.pdf)
+
+<hr>
+
 ### Goldbach's Conjectures
 
 **Date:** September 27, 2024
