@@ -55,11 +55,8 @@ While this isn’t a research talk, a couple of interesting questions come to mi
 <hr>
 
 ### Tuesday 10/8 at 4:00-4:50 
-**Speaker:** 
-**Title:** 
 
-**Abstract:** 
-
+No colloquium.
 <hr>
 
 ### Tuesday 10/15 at 4:00-4:50
@@ -81,7 +78,7 @@ An analogy between magneto-fluid dynamics (MFD/MHD) and geostrophic flow in a ro
 <hr>
 
 ### Tuesday 10/29 at 4:00-4:50
-**Speaker:** Yu-Ju Kuo (Indiana University of Pennsylvania) (tentative) 
+**Speaker:** Sam Harris
 **Title:** 
 
 **Abstract:** 
