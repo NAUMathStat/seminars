@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### The Quantum Ethics Project
+
+**Date:** October 22, 2024
+
+**Speaker:** Joan Arrow
+
+**Abstract:**  Joan did graduate work at the University of Waterloo and has recently relocated back to Flagstaff.  They are (among other things) the founder and CEO of the Quantum Ethics Project, a quantum information tech company.  Joan will present a bit of their own history and discuss what their company does.  
+
+The faculty guest is Jaechoul Lee.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-10-11.pdf)
+
+<hr>
+
 ### Ramsey Numbers
 
 **Date:** October 4, 2024
