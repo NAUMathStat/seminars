@@ -17,10 +17,12 @@ The Mathematics Seminar typically meets on Tuesdays at 12:45-1:45 in Adel Mathem
 
 <hr>
 
-**Date:** Coming soon
+**Date:** Tuesday October 15
 
-**Speaker:** Nandor Sieben
+**Speaker:** John Neuberger
 
-**Topic:** Graph pebbling, Graham's conjecture, and genetic algorithms
+**Topic:** Summarizing my work in theoretical and numerical solutions to nonlinear elliptic PDE
+
+**Abstract:** I will go through many of my papers in the subject, starting with my dissertation and initial numerical results, and then the sequence of papers done with my collaborators Nandor Sieben and Jim Swift.
 
 <hr>
