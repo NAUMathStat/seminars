@@ -8,9 +8,21 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### The Secret Mathematics Conspiracy (subtitle: p-adic numbers)
+
+**Date:** October 18, 2024
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  The "conspiracy" involves a shadow attempt by some math nerds to minimize, ridicule and downplay the importance of number theory.  I'll explain all of this, expose the culprits, and show you why number theory is so neat and important.  
+
+The faculty guest is new faculty member Allie Berkman. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-10-18.pdf)
+
+<hr>
+
 ### The Quantum Ethics Project
 
-**Date:** October 22, 2024
+**Date:** October 11, 2024
 
 **Speaker:** Joan Arrow
 
