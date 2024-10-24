@@ -71,9 +71,10 @@ An analogy between magneto-fluid dynamics (MFD/MHD) and geostrophic flow in a ro
 ### Tuesday 10/22 at 4:00-4:50
 
 **Speaker:** Rachel A Neville
-**Title:** 
+**Title:** A Fractal Dimension for Measures via Persistent Homology
 
 **Abstract:** 
+A fractal is a geometric object that displays self-similarity on all scales. There are common examples, such as the Sierpinsky Triangle or the Koch snowflake.  The “fractal dimension” quantifies the complexity of the fractal. While fractal dimensions are most classically defined for a space, there are a variety of fractal dimension definitions for a measure, including the Hausdorff or packing dimension of a measure. In this talk, I will give a brief introduction to fractal dimension and describe how persistent homology can be used in order to define a family of fractal dimensions. I will end with a discussion of some work done with John Leland on a persistence based distribution test.
 
 <hr>
 
