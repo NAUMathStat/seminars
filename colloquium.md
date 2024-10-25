@@ -88,9 +88,10 @@ A fractal is a geometric object that displays self-similarity on all scales. The
 
 ### Tuesday 11/5 at 4:00-4:50
 **Speaker:** Dana Ernst
-**Title:** 
+**Title:** Pattern-avoiding Cayley permutations via combinatorial species
 
-**Abstract:** 
+**Abstract:**
+Any permutation of $n$ may be written in one-line notation as a sequence of entries representing the result of applying the permutation to the identity $12\cdots n$. If $p$ and $q$ are two permutations, then $p$ is said to contain $q$ as a pattern if some subsequence of the entries of $p$ has the same relative order as all of the entries of $q$. If $p$ does not contain a pattern $q$, then $p$ is said to avoid $q$. One of the first notable results in the field of permutation patterns was obtained by MacMahon in 1915 when he proved that the ubiquitous Catalan numbers count the 123-avoiding permutations. The study of permutation patterns began receiving focused attention following Knuth’s introduction of stack-sorting in 1968. Knuth proved that a permutation can be sorted by a stack if and only if it avoids the pattern 231 and that the Catalan numbers also enumerate the stack-sortable permutations. In this talk, we study pattern avoidance in the context of Cayley permutations, which were introduced by Mor and Fraenkel in 1983. A Cayley permutation is a finite sequence of positive integers that include at least one copy of each integer between one and its maximum value. When possible we will take a combinatorial species-first approach to enumerating Cayley permutations that avoid patterns of length two, pairs of patterns of length two, patterns of length three, and pairs of patterns of length three with the goal of providing species, exponential generating series, and counting formulas. We also include several conjectures and open problems.
 
 <hr>
 
