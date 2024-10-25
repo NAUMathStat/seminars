@@ -80,9 +80,10 @@ A fractal is a geometric object that displays self-similarity on all scales. The
 
 ### Tuesday 10/29 at 4:00-4:50
 **Speaker:** Sam Harris
-**Title:** 
+**Title:** The Max 3-Cut problem for graphs
 
-**Abstract:** 
+**Abstract:**
+A famous problem in graph theory is the Max Cut problem: given an undirected graph G, determine whether there is a partition of the vertices of G into two subsets so that every edge of G is "cut" by the partition. While this problem is NP-hard, the non-commutative version is surprisingly solvable in polynomial time, and even can be used to approximate the (classical) maximum cut of a graph. In this talk, we'll look at some of the history of both problems, and also look at recent work on the Max 3-Cut problem and its noncommutative variants.
 
 <hr>
 
