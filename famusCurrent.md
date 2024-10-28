@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Diversions: My Favorite Logic Puzzles from Nikoli
+
+**Date:** October 25, 2024
+
+**Speaker:** Roy St.Laurent (NAU)
+
+**Abstract:** I will introduce three or four of my favorite Nikoli puzzles, with an opportunity for you to solve examples of them yourself. Paper copies will be provided, just bring a pencil (or pen).  Nikoli is a Japanese publisher that specializes in culture-independent puzzles – especially pencil/paper logic puzzles played on a rectangular grid. I have been hooked on Nikoli puzzles for many years... The English names of some of my favorites are Akari, Fillomino, Hashiwokakero, Heyawake, Hitori, Kakuro, Nurikabe, Slitherlink, Yajilin.  Some interesting and potentially research-based questions come to mind that will be raised during the talk.
+
+The faculty guest is Roy St. Laurent.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-10-25.pdf)
+
+<hr>
+
 ### The Secret Mathematics Conspiracy (subtitle: p-adic numbers)
 
 **Date:** October 18, 2024
