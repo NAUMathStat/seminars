@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Graduate School at NAU in Math/Math Ed/Stat
+
+**Date:** November 1, 2024
+
+**Speaker:** Jeff Hovermill (NAU)
+
+**Abstract:** The talk this week is being given by Jeff Hovermill, the chair of our Graduate Operations Committee.  After enticing students (with FREE PIZZA) to attend FAMUS, Jeff will attempt to entice students to apply to our graduate programs with the help of a carefully prepared talk.  
+
+The faculty guests will be a handful of GTAs who will provide testimonials about why undergrads should consider applying to our department graduate programs.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-11-01.pdf)
+
+<hr>
+
 ### Diversions: My Favorite Logic Puzzles from Nikoli
 
 **Date:** October 25, 2024
