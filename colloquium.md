@@ -120,5 +120,32 @@ Any permutation of $n$ may be written in one-line notation as a sequence of entr
 
 <hr>
 
+## Spring 25
+
+### Tuesday 1/21 at 4:00-4:50
+**Speaker:** Annie and Gina
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+
+### Tuesday 3/8 at 4:00-4:50
+**Speaker:** Andrew Schultz (Wellesley College)
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/1 at 4:00-4:50
+**Speaker:**  Joe Polman (CU Boulder) CSTL STEM Education speaker series
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
 
 
