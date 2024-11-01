@@ -113,7 +113,7 @@ Any permutation of $n$ may be written in one-line notation as a sequence of entr
 <hr>
 
 ### Tuesday 11/26 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Adeolu Taiwo
 **Title:** 
 
 **Abstract:** 
