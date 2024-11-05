@@ -98,9 +98,10 @@ Any permutation of $n$ may be written in one-line notation as a sequence of entr
 
 ### Tuesday 11/12 at 4:00-4:50
 **Speaker:** Jim Swift
-**Title:** 
+**Title:** Amazingly Fast Computations of Polydiagonal Subspaces using Constraint Programming
 
 **Abstract:** 
+Polydiagonal subspaces of $\mathbb{R}^n$ are a generalization of the diagonal subspace, which is defined by $x_1 = x_1 = \cdots = x_n$.  Polydiagonal subspaces are defined by equations of the form $x_i = \pm x_j$.  Given an $n \times n$ matrix $M$, the $M$-invariant polydiagonal subspaces of $\mathbb{R}^n$ describe synchrony or antisynchrony in a network of $n$ coupled cells.  Computing all $M$-invariant polydiagonal subspaces is hard.  We use constraint programming to do computations in minutes that took weeks with the previously state-of-the-art algorithm.  We show results of the computation where $M$ is the adjacency matrix of the 60-vertex Buckyball graph.
 
 <hr>
 
