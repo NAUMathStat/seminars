@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Using Gradescope
+
+**Date:** Thursday, November 7, 2024
+
+**Speakers:** Misha Baltushkin (NAU)
+
+**Abstract:** Gradescope is an online system for submitted, accepting, and grading assignments that Misha has utilized in some of his courses recently.  He will be giving an overview of the features of Gradescope and leading a discussion of his experience with it. 
+
+<hr>
+
 ### Development of curriculum for our MAT 114 Quantitative Reasoning course
 
 **Date:** Thursday, September 26, 2024
