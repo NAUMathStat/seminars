@@ -115,9 +115,10 @@ Polydiagonal subspaces of $\mathbb{R}^n$ are a generalization of the diagonal su
 
 ### Tuesday 11/26 at 4:00-4:50
 **Speaker:** Adeolu Taiwo
-**Title:** 
+**Title:** Iterative Regularization Methods for Bi-level Optimization
 
 **Abstract:** 
+Bi-level optimization problems consist of two optimization problems, called outer and inner problems, where one problem is embedded within another. This class of problems has applications in diverse fields, such as decision sciences, machine learning, regression analysis, and signal processing. In this talk, we investigate iterative regularization methods for solving bi-level optimization problems where the inner and outer functions have a composite structure. We provide novel theoretical results, including the first convergence rate analysis for the Iteratively REgularized Proximal Gradient (IRE-PG) method, a variant of Solodov's algorithm. These results establish simultaneous convergence rates for the inner and outer functions, highlighting the inherent trade-offs between their respective convergence rates. We extend this analysis to an accelerated version of IRE-PG, proving faster convergence rates under specific settings. Additionally, we propose a new scheme for handling cases where these methods cannot be directly applied to the bi-level problem due to the difficulty of computing the associated proximal operator. This scheme offers surrogate functions to approximate the original problem and a framework to translate convergence rates between the surrogate and original functions. Our results show that the advantage of the accelerated method diminishes under this translation.
 
 <hr>
 
