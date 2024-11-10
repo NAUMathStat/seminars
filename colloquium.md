@@ -107,9 +107,10 @@ Polydiagonal subspaces of $\mathbb{R}^n$ are defined by equations of the form $x
 
 ### Tuesday 11/19 at 4:00-4:50
 **Speaker:** Minah Kim
-**Title:** 
+**Title:** The Nature of an Online Work Group of Inquiry-Oriented Linear Algebra Instructors through Their Goals for Instruction
 
 **Abstract:** 
+Postsecondary instructors interested in inquiry-oriented instruction of linear algebra participated in a sequence of eight one-hour online work group meetings with other inquiry-oriented linear algebra instructors and facilitators. Recordings were analyzed to see how two participants referenced goals for instruction in discussions of implementing a new instructional unit on subspaces. We identified four instructional goals for teaching subspaces and discussed the intersections of several goals that exist due to the tension caused by real-world contexts and abstract mathematical concepts. The instructors presented resolutions to the tension by utilizing varying teaching knowledge. Based on the results, we make suggestions for those who want to transition to inquiry-oriented instructional approaches. 
 
 <hr>
 
