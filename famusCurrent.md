@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### A New Biggest Prime Number
+
+**Date:** November 15, 2024
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** In case you didn't hear, a new largest prime number was discovered last month.  It's really big.  In this talk, I'll present a brief history of who/when/how biggest known prime numbers have been found during the last 4 centuries.  Some discoverer names might be surprising, as are a scandal or two associated with said discoverers.  
+
+There is no faculty guest interview this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-11-15.pdf)
+
+<hr>
+
 ### Graduate School at NAU in Math/Math Ed/Stat
 
 **Date:** November 1, 2024
