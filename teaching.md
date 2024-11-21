@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Building Thinking Classrooms
+
+**Date:** Thursday, November 21, 2024
+
+**Speakers:** Gina Nabours (NAU)
+
+**Abstract:** Building Thinking Classrooms (BTC) is a framework of 14 research-backed teaching practices for enhancing learning in the classroom. Sarah Watson and I were able to attend the BTC Annual Conference this summer with the goal of restructuring lessons in MAT 108. I will share some of the BTC practices and discuss how we've implemented them in LMC classes this semester.  
+
+<hr>
+
 ### Using Gradescope
 
 **Date:** Thursday, November 7, 2024
