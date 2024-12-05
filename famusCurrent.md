@@ -8,6 +8,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Graceful Graph Labelings
+
+**Date:** December 6, 2024
+
+**Speaker:** Breelyn Cocke and Calder Evans (NAU)
+
+**Abstract:** Breelyn and Calder are in the mathematics capstone, and part of their honors component of the capstone requires them to give a FAMUS presentation.   They will define and give several examples of graceful labelings, discuss the history of graceful labelings, show some research results on graceful labelings by former NAU student Dr. Alessandra Graf, and briefly discuss some open questions.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-12-06.pdf)]
+
+<hr>
+
 ### Mathematics in Portugal?
 
 **Date:** November 22, 2024
@@ -16,7 +26,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** The purpose of the talk is two-fold.  First, it's a reminder that there is a study abroad opportunity for STEM students to take either MAT 239 or MAT 316 in Portugal next summer.  Second, I'll discuss some work I've done while in Portugal in the past - most involving undergrad research projects - and highlight the undergrad researchers involved, subsequent publications, and where those undergrads are now.  
 
-The faculty guest is Gina Nabours.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-11-22.pdf)
+The faculty guest is Gina Nabours.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-11-22.pdf)]
 
 <hr>
 
