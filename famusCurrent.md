@@ -110,7 +110,7 @@ The faculty guest is Minah Kim.  Let's try to give her a big NAU welcome at her 
 
 **Abstract:** Many are familiar with "Goldbach's Conjecture" (singular), the claim that every even natural number greater than 5 is the sum of two odd primes.  But not all realize that Goldbach actually made several conjectures.  I will present an overview of his conjectures and progress made toward proving them, including a weird connection between some of this and NAU.  
 
-The faculty guest is Robert Buscaglia, who is going to SHAVE HIS HEAD AND DONATE HIS HAIR for use in wigs.  I believe the head shaver might be interesting in freeing others from their longish locks, so if you are interesting joining Robert in beautiful baldness, talk to me or him ASAP.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-27.pdf)]
+The faculty guest is Robert Buscaglia, who is going to SHAVE HIS HEAD AND DONATE HIS HAIR for use in wigs.  I believe the head shaver might be interested in freeing others from their longish locks, so if you are interested joining Robert in beautiful baldness, talk to me or him ASAP.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-09-27.pdf)]
 
 <hr>
 
