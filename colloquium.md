@@ -125,9 +125,9 @@ Bi-level optimization problems consist of two optimization problems, called oute
 
 ## Spring 25
 
-### Tuesday 1/21 at 4:00-4:50
-**Speaker:** Annie and Gina
-**Title:** 
+### Tuesday 1/28 at 4:00-4:50
+**Speaker:** Annie Boyd, Ben Jefferies, Gina Nabours
+**Title:** LMC data
 
 **Abstract:** 
 
