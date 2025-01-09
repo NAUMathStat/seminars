@@ -9,9 +9,41 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 **Short organizational meeting** 
 <hr>
 
+### Tuesday 1/21 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
 ### Tuesday 1/28 at 4:00-4:50
 **Speaker:** Annie Boyd, Ben Jefferies, Gina Nabours
 **Title:** LMC data
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 2/4 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 2/11 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 2/18 at 4:00-4:50
+**Speaker:** 
+**Title:** 
 
 **Abstract:** 
 
@@ -25,9 +57,29 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
+### Tuesday 3/4 at 4:00-4:50
+**Speaker:** 
+**Title:** 
 
-### Tuesday 3/8 at 4:00-4:50
+**Abstract:** 
+
+<hr>
+
+### Tuesday 3/11 Spring break
+
+<hr>
+
+
+### Tuesday 3/18 at 4:00-4:50
 **Speaker:** Andrew Schultz (Wellesley College)
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 3/25 at 4:00-4:50
+**Speaker:** 
 **Title:** 
 
 **Abstract:** 
@@ -42,5 +94,28 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
+### Tuesday 4/8 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/15 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/22 at 4:00-4:50
+**Speaker:** 
+**Title:** 
+
+**Abstract:** 
+
+<hr>
 
 
