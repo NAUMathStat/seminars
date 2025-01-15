@@ -10,8 +10,8 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 1/21 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Jin Wang
+**Title:** Sabbatical report
 
 **Abstract:** 
 
@@ -34,7 +34,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 2/11 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Mikhail Baltushkin
 **Title:** 
 
 **Abstract:** 
@@ -79,7 +79,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 3/25 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Jim Swift
 **Title:** 
 
 **Abstract:** 
@@ -95,7 +95,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 4/8 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Jeff Hovermill
 **Title:** 
 
 **Abstract:** 
@@ -103,7 +103,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 4/15 at 4:00-4:50
-**Speaker:** 
+**Speaker:** UGRADS Robert
 **Title:** 
 
 **Abstract:** 
@@ -111,7 +111,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 ### Tuesday 4/22 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Robert ?
 **Title:** 
 
 **Abstract:** 
