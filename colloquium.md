@@ -11,9 +11,10 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 ### Tuesday 1/21 at 4:00-4:50
 **Speaker:** Jin Wang
-**Title:** Sabbatical report
+**Title:** Generalized Depth-Based Trimmed Means and Trimmed Scatter Matrices (Sabbatical report)
 
 **Abstract:** 
+Multivariate descriptive measures for location and scatter are the foundation of multivariate statistics and underpin almost all methods in the field. In this paper, we propose and study new general depth-based trimmed means and scatter matrices, along with their sample versions (estimators). In addition to their basic properties, we establish the strong consistency and asymptotic distributions of these estimators. Using the asymptotic distributions, we compute the asymptotic relative efficiencies of the sample trimmed means and sample trimmed scatter matrices based on the halfspace depth, with respect to the sample mean vector and the sample covariance matrix, respectively. Robustness is explored through influence function and finite-sample breakdown point. The results show that the sample trimmed means and scatter matrices are not only highly efficient but also exceptionally robust, making them highly competitive estimators for multivariate location and scatter.
 
 <hr>
 
