@@ -1,0 +1,27 @@
+The "Friday Afternoon Mathematics Undergraduate Seminar" (FAMUS) is a weekly event consisting of announcements, talks, and faculty interviews.  FAMUS takes place most Fridays at 3:00-4:00pm in Room 164 of the Adel Mathematics Building.  Typically the first half of FAMUS consists of a talk on a mathematical topic while an interview of a faculty member takes place in the second half. FAMUS is hosted by [Jeff Rushall](https://nau.edu/cefns/natsci/math/directory-full-time/rushall-jeff/).
+
+Come join us for some entertaining talks!  Refreshments always served.
+
+# Schedule Spring 2024 #
+
+Note that talks are listed in reverse chronological order.
+
+### The Circulant Hadamard Matrix Conjecture
+
+**Date:** January 26, 2024
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Hadamard matrices are both interesting AND very useful in various applications.  A Circulant Hadamard matrix is a special type of Hadamard matrix, and they are extremely rare; in fact, the titular conjecture is that only one such object exists.  I will explain everything from scratch, and all who attend will walk out of the talk with an open problem to work on in their spare time.   
+
+No faculty guest this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-01-26.pdf)]
+
+### New Results on Sylver Coinage
+
+**Date:** January 19, 2024
+
+**Speaker:** Natalie Burton and Tara Zurick (NAU undergraduates)
+
+**Abstract:** Sylver coinage is a game played on the natural numbers; if you want to know the game rules, come to FAMUS!  Natalie and Tara, along with fellow undergrads James Warner and Morgan Boyers, have been working together for about 5 months trying to prove some Sylver coinage "claims" made by (among others) John Conway and Richard Guy.  And they have been successful; come and see just how much they have proven!  
+
+The faculty guest is Mikhail Baltushkin.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS24-01-19.pdf)]

@@ -26,6 +26,7 @@ Note that pages are listed in reverse chronological order.
     - [Spring 2015]({{ site.baseurl }}/old/colloquiumSpring2015)
 - Mathematics Seminar
     - [Fall 2023]({{ site.baseurl }}/old/mathseminarFall2023)
+    - [Fall 2024]({{ site.baseurl }}/old/mathseminarFall2024)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
     - [Spring 2023]({{ site.baseurl }}/old/acgtSpring2023)
     - [Fall 2022]({{ site.baseurl }}/old/acgtFall2022)
@@ -59,6 +60,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/old/amsFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/amsSpring2015)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Fall 2024]({{ site.baseurl }}/old/famusFall2024)
     - [Spring 2024]({{ site.baseurl }}/old/famusSpring2024)
     - [Fall 2023]({{ site.baseurl }}/old/famusFall2023)
     - [Spring 2023]({{ site.baseurl }}/old/famusSpring2023)
