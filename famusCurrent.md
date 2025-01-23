@@ -10,7 +10,7 @@ Note that talks are listed in reverse chronological order.
 
 ### The Second Neighborhood Conjecture
 
-**Date:** December 6, 2024
+**Date:** January 25, 2025
 
 **Speaker:** Eliza Todd and Iris Zepezauer (NAU)
 
