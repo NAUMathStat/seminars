@@ -6,6 +6,7 @@ title: Archive
 Note that pages are listed in reverse chronological order.
 
 - Department Colloquium
+    - [Fall 2024]({{ site.baseurl }}/old/colloquiumFall2024)
     - [Spring 2024]({{ site.baseurl }}/old/colloquiumSpring2024)
     - [Fall 2023]({{ site.baseurl }}/old/colloquiumFall2023)
     - [Spring 2023]({{ site.baseurl }}/old/colloquiumSpring2023)
@@ -25,8 +26,8 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/old/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/colloquiumSpring2015)
 - Mathematics Seminar
-    - [Fall 2023]({{ site.baseurl }}/old/mathseminarFall2023)
     - [Fall 2024]({{ site.baseurl }}/old/mathseminarFall2024)
+    - [Fall 2023]({{ site.baseurl }}/old/mathseminarFall2023)
 - Algebra, Combinatorics, Geometry, and Topology (ACGT) Seminar
     - [Spring 2023]({{ site.baseurl }}/old/acgtSpring2023)
     - [Fall 2022]({{ site.baseurl }}/old/acgtFall2022)
@@ -78,6 +79,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/old/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/famusSpring2015)
 - Teaching Seminar
+    - [Fall 2024]({{ site.baseurl }}/old/teachingFall2024)
     - [Spring 2024]({{ site.baseurl }}/old/teachingSpring2024)
     - [Fall 2023]({{ site.baseurl }}/old/teachingFall2023)
     - [Fall 2015]({{ site.baseurl }}/old/teachingFall2015)
