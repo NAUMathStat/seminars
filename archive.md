@@ -82,7 +82,6 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2024]({{ site.baseurl }}/old/teachingFall2024)
     - [Spring 2024]({{ site.baseurl }}/old/teachingSpring2024)
     - [Fall 2023]({{ site.baseurl }}/old/teachingFall2023)
-    - [Fall 2015]({{ site.baseurl }}/old/teachingFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/teachingSpring2015)
     - [Fall 2014]({{ site.baseurl }}/old/teachingFall2014)
 
