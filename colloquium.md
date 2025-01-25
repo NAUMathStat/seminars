@@ -20,9 +20,10 @@ Multivariate descriptive measures for location and scatter are the foundation of
 
 ### Tuesday 1/28 at 4:00-4:50
 **Speaker:** Annie Boyd, Ben Jefferies, Gina Nabours
-**Title:** LMC data
+**Title:** LMC Course Data Update
 
 **Abstract:** 
+Courses in the LMC have undergone numerous curricular changes since the LMC was established in 2012. This summer, the LMC Administrative team analyzed data to see if there was a statistically significant impact on student pass rates due to these changes. We will discuss the curricular changes in the 4 LMC math courses and share results from our analysis on student success and the impact of the curricular changes in subsequent math courses.
 
 <hr>
 
