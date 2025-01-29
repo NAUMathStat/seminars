@@ -60,7 +60,7 @@ Courses in the LMC have undergone numerous curricular changes since the LMC was 
 <hr>
 
 ### Tuesday 3/4 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Anne Carter
 **Title:** 
 
 **Abstract:** 
