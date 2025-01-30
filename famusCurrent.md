@@ -8,9 +8,21 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### The Platonic Solids
+
+**Date:** January 31, 2025
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** I will define the Platonic solids, present a short "history" of their discovery/creation, and talk a bit about generalizations.  
+
+There is no faculty interview this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-01-31.pdf)]
+
+<hr>
+
 ### The Second Neighborhood Conjecture
 
-**Date:** January 25, 2025
+**Date:** January 24, 2025
 
 **Speaker:** Eliza Todd and Iris Zepezauer (NAU)
 
