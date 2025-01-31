@@ -28,7 +28,7 @@ Courses in the LMC have undergone numerous curricular changes since the LMC was 
 <hr>
 
 ### Tuesday 2/4 at 4:00-4:50
-**Speaker:** 
+**Speaker:** Mike Falk
 **Title:** 
 
 **Abstract:** 
@@ -115,6 +115,14 @@ When a field $K$ contains a primitive $p$ th root of unity, Kummer theory tells 
 
 ### Tuesday 4/22 at 4:00-4:50
 **Speaker:** Robert ?
+**Title:** 
+
+**Abstract:** 
+
+<hr>
+
+### Tuesday 4/29 at 4:00-4:50
+**Speaker:** Prabath Silva
 **Title:** 
 
 **Abstract:** 
