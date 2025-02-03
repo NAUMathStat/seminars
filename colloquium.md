@@ -29,9 +29,12 @@ Courses in the LMC have undergone numerous curricular changes since the LMC was 
 
 ### Tuesday 2/4 at 4:00-4:50
 **Speaker:** Mike Falk
-**Title:** 
+**Title:** Oriented matroids and Orlik-Solomon algebras
 
 **Abstract:** 
+A theorem of Orlik and Solomon from 1982 shows that the cohomology ring of the complement X of a union of complex hyperplanes is determined by certain combinatorial data associated with the collection of hyperplanes, encoded in a matroid M. One can define this ring directly from the matroid, resulting in the so-called Orlik-Solomon (OS) algebra of M. For arrangements of complexified real hyperplanes the matroid has additional structure, known as an orientation. For oriented matroids there is an abstract simplicial complex, the Salvetti complex, that models the homotopy type of X. It is a theorem of Gelfand and Rybnikov from 1989 that the cohomology of this simplicial complex is isomorphic to the OS algebra of the  underlying matroid, for any oriented matroid, whether or not it arises from a hyperplane arrangement. No proof of this more general theorem has ever appeared.
+
+With Emanuele Delucchi we have written a proof of this result using an alternative to the Salvetti complex called the tope-pair complex, the order complex of the tope-pair poset, introduced in our earlier work from 2017. The argument is an analogue of the classical inductive topological argument in the context of poset topology. We’ll explain the classical argument and the poset analogues of the main steps, and discuss implications with regard to newly-discovered examples of complex-realizable matroids with non-realizable orientations.
 
 <hr>
 
