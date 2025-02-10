@@ -43,6 +43,7 @@ With Emanuele Delucchi we have written a proof of this result using an alternati
 **Title:** Isomorphism theorems for gamegraphs
 
 **Abstract:** 
+Combinatorial Game Theory typically focuses on two-player games that involve no elements of chance. We model these games using specialized directed graphs, called rulegraphs, and develop a theory of rulegraphs analogous to universal algebra, where homomorphisms are replaced by a special class of digraph maps known as option-preserving maps. By introducing congruence relations, we define quotient rulegraphs and establish results that parallel the four isomorphism theorems in universal algebra within the framework of rulegraphs.
 
 <hr>
 
