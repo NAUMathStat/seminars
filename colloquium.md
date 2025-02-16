@@ -52,7 +52,7 @@ Combinatorial Game Theory typically focuses on two-player games that involve no 
 **Title:** Impartial Loopy Games
 
 **Abstract:** 
-This is going to be an introduction to impartial combinatorial games where a draw is possible as a result of infinite play. We define the remoteness function to measure the length of optimal play. The remoteness function can be used to compute extended nim-values. The relationship between extended nim-values and game sums is also explored.
+We introduce impartial combinatorial games where a draw is possible as a result of infinite play. We define the remoteness function to measure the length of optimal play. The remoteness function can be used to compute extended nim-values. The relationship between extended nim-values and game sums is also explored.
 
 <hr>
 
