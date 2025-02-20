@@ -58,9 +58,10 @@ We introduce impartial combinatorial games where a draw is possible as a result 
 
 ### Tuesday 2/25 at 4:00-4:50
 **Speaker:** Giorgio Cipolloni (UA)
-**Title:** 
+**Title:** A story of non-Hermitian random matrices
 
 **Abstract:** 
+We will discuss recent progresses in the study of the fluctuations in the spectrum of non-Hermitian random matrices. In particular, we will present a new connection between non-Hermitian matrices and two- and three-dimensional logarithmically correlated fields.
 
 <hr>
 
