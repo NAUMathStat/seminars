@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Polite Numbers
+
+**Date:** February 21, 2025
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  Any positive integer that can be written as the sum of 2 or more consecutive positive integers is called a "polite number."  Any positive integer that CANNOT be written as the sum of 2 or more consecutive positive integers is called an "impolite number."  So which positive integers are polite, which are impolite, and why do we care?  Come to FAMUS and find out!  
+
+There is no faculty interview this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-02-21.pdf)]
+
+<hr>
+
 ### DataFest@NAU and Introducing the Data Science Club!
 
 **Date:** February 14, 2025
