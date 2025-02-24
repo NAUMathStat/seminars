@@ -57,6 +57,7 @@ We introduce impartial combinatorial games where a draw is possible as a result 
 <hr>
 
 ### Tuesday 2/25 at 4:00-4:50
+**Cancelled:**
 **Speaker:** Giorgio Cipolloni (UA)
 **Title:** A story of non-Hermitian random matrices
 
