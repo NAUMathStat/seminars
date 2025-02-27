@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Super Heronian Triangles
+
+**Date:** February 28, 2025
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  A "super heronian triangle" is any triangle whose side lengths are consecutive positive integers and whose area is also an integer.  Do any even exist?  The answer is yes: the familiar 3-4-5 right triangle is super heronian.  Are there any others?  Well, if you come to FAMUS this Friday, I'll tell you!  
+
+There is no faculty interview this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-02-28.pdf)]
+
+<hr>
+
 ### Polite Numbers
 
 **Date:** February 21, 2025
