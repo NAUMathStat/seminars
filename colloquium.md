@@ -69,10 +69,11 @@ We will discuss recent progresses in the study of the fluctuations in the spectr
 
 ### Tuesday 3/4 at 4:00-4:50
 **Speaker:** Anne Carter
-**Title:** 
+**Title:** Two-variable polynomials with dynamical Mahler measure zero
 
 **Abstract:** 
-
+Introduced by Lehmer in 1933, the classical Mahler measure of a complex rational function $P$ in one or more variables is given by integrating $\log |P(x_1, \ldots, x_n)|$ over the unit torus. Lehmer asked whether the Mahler measures of integer polynomials, when nonzero, must be bounded away from zero, a question that remains open to this day. In this talk we generalize Mahler measure by associating it with a discrete dynamical system $f: \mathbb{C} \to \mathbb{C}$, replacing the unit torus by the $n$-fold Cartesian product of the Julia set of $f$ and integrating with respect to the equilibrium measure on the Julia set. We then characterize those two-variable integer polynomials with dynamical Mahler measure zero, conditional on a dynamical version of Lehmer's conjecture.
+ 
 <hr>
 
 ### Tuesday 3/11 Spring break
