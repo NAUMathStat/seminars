@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Undergrad Research 2025-26
+
+**Date:** March 1, 2025
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  In this FAMUS I will present an overview of potential undergrad research projects overseen by faculty in our department during academic year 2025-26.  There are several: some are mathy, some are more applied, etc.  Some offer funding, some do not.  Any student who has any interest in doing undergrad research next year in the Department of Mathematics and Statistics should attend this FAMUS!  
+
+There is no faculty interview this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-03-21.pdf)]
+
+<hr>
+
 ### Super Heronian Triangles
 
 **Date:** February 28, 2025
