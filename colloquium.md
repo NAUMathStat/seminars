@@ -92,10 +92,20 @@ When a field $K$ contains a primitive $p$ th root of unity, Kummer theory tells 
 
 ### Tuesday 3/25 at 4:00-4:50
 **Speaker:** Jim Swift
-**Title:** 
+**Title:** Parameter Symmetry, Cayley Graphs, and Coupled Cell Networks
 
 **Abstract:** 
-
+Dynamical systems are Ordinary Differential Equations (ODEs) of the form $\frac{dx}{dt} = f(x)$,
+or iterated maps of the form $x_{i+1} = f(x_i)$,
+where $f: \mathbb{R}^n \to \mathbb{R}^n$.  A symmetry arises when $f(Px) = P f(x)$ for some matrix $P$.
+An ODE with parameters $\mu \in \mathbb{R}^p$  has the form $\frac{dx}{dt} = f(x, \mu)$, and $f$ has a
+parameter symmetry if $f(Px, Q\mu) = P f(x,\mu)$
+for a pair of matrices $(P, Q)$.  A parameter symmetry relates the dynamical system with parameters $\mu$ to the dynamical system with parameters $Q\mu$.
+A network of $n$ identical oscillators has the symmetry group $\Gamma$ 
+(of order $n$) if the
+coupling respects the colored Cayley digraph of $\Gamma$. Such systems have parameter symmetry determined by $\text{Aut}(\Gamma)$, 
+the automorphism group of $\Gamma$. We show numerical solutions to networks of symmetrically coupled oscillators,
+with an emphasis on the parameter symmetry.
 <hr>
 
 ### Tuesday 4/1 at 4:00-4:50
