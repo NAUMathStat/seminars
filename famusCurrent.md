@@ -8,9 +8,21 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### The Shoelacing Problem
+
+**Date:** March 28, 2025
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:**  In this FAMUS I will attempt to answer the following question: in how many ways can a person lace their shoes?  It turns out that when considering lace criss-crossing, eyelet order, etc., this is a pretty tricky problem.  I'll do my best to answer the question correctly while providing a healthy dose of math memes.  
+
+The faculty guest this week is Annie Carter.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-03-28.pdf)]
+
+<hr>
+
 ### Undergrad Research 2025-26
 
-**Date:** March 1, 2025
+**Date:** March 21, 2025
 
 **Speaker:** Jeff Rushall (NAU)
 
