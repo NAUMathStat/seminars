@@ -105,9 +105,10 @@ A network of $n$ identical oscillators has the symmetry group $\Gamma$ (of order
 
 ### Tuesday 4/1 at 4:00-4:50
 **Speaker:**  Joe Polman (CU Boulder) CSTL STEM Education speaker series
-**Title:** 
+**Title:** Inspiring and Supporting the Next Generation of “Data People” through Data Storytelling
 
 **Abstract:** 
+In this talk, I will share how data-infused, interdisciplinary project-based learning (DIPBL) can inspire and support the development of our next generation of people who see themselves as “data persons”, through their engagement in various data storytelling activities. Building on the idea that identity development and learning are mutually constituted, I will share frameworks that have helped me understand how to design for and study learning environments that foster impactful data storytelling experiences. I will draw examples from projects with colleagues where youth have incorporated data analyses and data visualizations into infographics, slideshows, and documentary films. In these examples, we see how youth engage in data practices to answer meaningful questions they have and take consequential actions, and over time begin to identify as the kind of people who see data as relevant to their lives.
 
 <hr>
 
