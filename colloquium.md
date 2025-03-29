@@ -121,7 +121,7 @@ In this talk, I will share how data-infused, interdisciplinary project-based lea
 <hr>
 
 ### Tuesday 4/15 at 4:00-4:50
-**Speaker:** UGRADS Robert
+**Speaker:** Peter Eng and Chris Reger
 **Title:** 
 
 **Abstract:** 
@@ -129,7 +129,7 @@ In this talk, I will share how data-infused, interdisciplinary project-based lea
 <hr>
 
 ### Tuesday 4/22 at 4:00-4:50
-**Speaker:** Robert ?
+**Speaker:** 
 **Title:** 
 
 **Abstract:** 
