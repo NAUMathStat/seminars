@@ -129,8 +129,8 @@ In this talk, I will share how data-infused, interdisciplinary project-based lea
 <hr>
 
 ### Tuesday 4/22 at 4:00-4:50
-**Speaker:** 
-**Title:** 
+**Speaker:** Mingyang Li
+**Title:** Thesis talk
 
 **Abstract:** 
 
