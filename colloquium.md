@@ -114,9 +114,10 @@ In this talk, I will share how data-infused, interdisciplinary project-based lea
 
 ### Tuesday 4/8 at 4:00-4:50
 **Speaker:** Jeff Hovermill
-**Title:** 
+**Title:** K-12 Data Science Education
 
 **Abstract:** 
+During this K-12 Data Science Education focused colloquia, I will first introduce recently released national K-12 Data Science Education Standards. I will then provide examples of K-12 Data Science Education curricular and instructional resources. Finally, I will describe some of the Arizona K-12 Data Science Education activities I am involved with.
 
 <hr>
 
