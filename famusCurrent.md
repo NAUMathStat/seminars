@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### 4-Output Games and 3-Colorings
+
+**Date:** April 4, 2025
+
+**Speakers:** Calder Evans and Taylor Smith (NAU)
+
+**Abstract:**  Non-local games involve two cooperating non-communicating players who attempt to give correct answers to an independent verifier based on a known rule function, to win as many rounds as possible. The players--Alice and Bob--both receive questions from the referee. The players cannot communicate but can agree on a strategy beforehand. Whether they win or lose a round depends on the 4-tuple of questions and answers involving the two players. We specifically focus on synchronous games--these are where players that receive the same question must respond with identical answers--and exhibit a new transformation of 4-output synchronous games to 3-coloring games. This transformation gives an improvement on a transformation of the faculty mentor in the 4-output setting. One can apply this transformation to games where the players cannot win with classical strategies, but can win 100% of the time using quantum strategies (i.e. with the resources of quantum mechanics). Applying this transformation to the Mermin-Peres magic square game yields a graph on at most 134 vertices that is quantum 3-colorable, but not classically 3-colorable, a significant reduction on previous work of the faculty mentor.
+
+There is no faculty guest this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-04-04.pdf)]
+
+<hr>
+
 ### The Shoelacing Problem
 
 **Date:** March 28, 2025
