@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### The Gamma Function
+
+**Date:** April 11, 2025
+
+**Speakers:** Tyler Brock (NAU)
+
+**Abstract:**  For years, this speaker has wondered "But what is the gamma function, really, though?" and "Can we take a derivative of the factorial function?" He still doesn't know the answers to those questions. But he'll tell some stories related to those topics. Some of the stories will even be TRUE!
+
+There is an unusual faculty guest this week: the audience.  Tyler will interview/question the audience.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-04-11.pdf)]
+
+<hr>
+
 ### 4-Output Games and 3-Colorings
 
 **Date:** April 4, 2025
