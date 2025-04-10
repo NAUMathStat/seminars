@@ -122,8 +122,15 @@ During this K-12 Data Science Education focused colloquia, I will first introduc
 <hr>
 
 ### Tuesday 4/15 at 4:00-4:50
-**Speaker:** Peter Eng and Chris Reger
-**Title:** 
+**Speaker:** Peter Eng
+**Title:** Impacts of Peer Math Assistants on Math Students at NAU
+
+**Abstract:** 
+This project investigates how Peer Math Assistants (PMAs) from the Math Achievement Program (MAP) impact mathematics students at Northern Arizona University in regards to final grade outcomes and MAP room visitation rates. The MAP room provides drop-in tutoring from PMAs who attend classes to support professors and maintain current knowledge of course content. Throughout this project, a system was developed to efficiently and ethically collect, process, anonymize, and store student grade and MAP room usage data. The analysis examined how PMAs and MAP room usage affect student performance utilizing data on the course, section, ethnicity, first-generation status, midterm and final grades, and MAP room visit frequency. A permutation analysis utilizing data spanning three semesters revealed that students with an embedded PMA in their section were significantly more likely to utilize the MAP room at least once compared to those without PMAs at a 99% confidence level. Chi-Square testing for all embedded semesters reveal an association between PMA presence in a class section and final grades. It also revealed an association between visiting the MAP room and final grade. These findings indicate that embedded PMAs in select mathematics courses positively impact student outcomes, justifying continued programming.
+
+**Speaker:** Chris Reger
+
+**Title:**
 
 **Abstract:** 
 
