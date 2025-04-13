@@ -130,9 +130,10 @@ This project investigates how Peer Math Assistants (PMAs) from the Math Achievem
 
 **Speaker:** Chris Reger
 
-**Title:**
+**Title:** ThermogramForge: Removing Technical Barriers in Thermal Liquid Biopsy Analysis
 
 **Abstract:** 
+Thermal liquid biopsy (TLB) is a powerful diagnostic method that captures the calorimetric signature of a patient’s blood plasma proteome, commonly referred to as a thermogram. Despite the clinical potential of TLB, the field faces a significant bottleneck: current sample processing and analysis methods are slow and cumbersome. Improvements to this process require specialized expertise, effectively limiting access to this promising technology and hindering its broader adoption in medical research and practice. ThermogramForge addresses this challenge by reimagining and reinventing the analytical framework from the ground up. Our solution translates complex R-based algorithms into a more intuitive Python ecosystem with a visual interface that guides researchers through each analytical step. This innovative approach maintains full methodological rigor while removing technical barriers that historically constrained TLB growth. Through computational optimization and thoughtful interface design, ThermogramForge significantly reduces analysis time while delivering results that maintain analytical equivalence to legacy methods. The system's architecture balances sophisticated mathematics with accessible workflows, allowing clinicians and researchers to extract meaningful insights from TLB profiles without programming knowledge. ThermogramForge democratizes access to TLB analysis, opening new possibilities for clinical diagnostics and therapeutic monitoring. This work exemplifies how targeted computational innovation can drive progress in specialized scientific fields, facilitating the transition of TLB from a research tool to a clinical application in precision medicine.
 
 <hr>
 
