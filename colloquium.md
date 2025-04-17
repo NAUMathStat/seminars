@@ -138,6 +138,9 @@ Thermal liquid biopsy (TLB) is a powerful diagnostic method that captures the ca
 <hr>
 
 ### Tuesday 4/22 at 4:00-4:50
+
+**Cancelled:**
+
 **Speaker:** Mingyang Li
 **Title:** Thesis talk
 
