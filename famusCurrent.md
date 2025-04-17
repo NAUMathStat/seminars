@@ -8,6 +8,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Seymour and Sullivan Vertices in Digraphs
+
+**Date:** April 18, 2025
+
+**Speakers:** Morgan Boyers (NAU)
+
+**Abstract:**  A digraph is a graph whose edges are directed in only one way, like one-way streets.  A Seymour vertex is vertex that has at least as many vertices 2 edges away from it as it has vertices 1 edge away from it.   A Sullivan vertex has at least as many vertices 2 edges away from it as it has vertices 1 edge away from it but traveling towards said vertex.  It is conjectured that EVERY digraph has at least one Seymour and one Sullivan vertex.  Morgan proved that several infinite families of digraphs satisfy these conjectures.  Come and learn how he did it.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-04-18.pdf)]
+
+<hr>
+
 ### The Gamma Function
 
 **Date:** April 11, 2025
