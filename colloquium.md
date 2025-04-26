@@ -148,9 +148,10 @@ Thermal liquid biopsy (TLB) is a powerful diagnostic method that captures the ca
 
 ### Tuesday 4/29 at 4:00-4:50
 **Speaker:** Prabath Silva
-**Title:** 
+**Title:** On geometry of de Branges Spaces
 
 **Abstract:** 
+De Branges spaces, a class of Hilbert spaces of entire functions with specific symmetry and growth properties, arise naturally in complex function theory and have notable applications in number theory and spectral theory. These spaces exhibit intriguing symmetries. We present a construction that highlights their deep connections to both physics and number theory.
 
 <hr>
 
