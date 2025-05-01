@@ -8,6 +8,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Why is e cooler than pi?
+
+**Date:** May 2, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  I hope the title is self-explanatory: I'll, umm, explain why e is cooler than pi.  The talk will be full of many historical tidbits.   
+
+The faculty guest is also Jeff Rushall.    [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-05-02.pdf)]
+
+<hr>
+
 ### Seymour and Sullivan Vertices in Digraphs
 
 **Date:** April 18, 2025
