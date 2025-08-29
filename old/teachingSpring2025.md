@@ -7,14 +7,14 @@ The Teaching Seminar provides an opportunity for professional development focuse
 
 The Department of Mathematics & Statistics takes pride in the overall quality of instruction and the amount of scholarly teaching that occurs. The department is engaged in a number of student-centered initiatives, which you can read about [here](http://nau.edu/CEFNS/NatSci/Math/Innovative-Teaching/).
 
-# Schedule for Fall 2025 #
+# Schedule for Spring 2025 #
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### Teaching to the Test
 
-**Date:** TBA
+**Date:** Thursday, February 20
 
-**Speakers:** TBA
+**Speakers:** Tyler Brock (NAU)
 
-**Abstract:** TBA
+**Abstract:** Tyler will discuss issues surrounding the idea of “teaching to the test” and discuss a few attempts he has made to incorporate assignments into his courses intentionally designed to not “be on the test.”
