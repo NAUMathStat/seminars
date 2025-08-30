@@ -61,7 +61,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** October 7, 2025
 
-**Speakers:** Jim Swift
+**Speakers:** Jim Swift (NAU)
 
 **Abstract:** TBA
 
@@ -89,7 +89,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** October 28, 2025
 
-**Speakers:** Jibrin
+**Speakers:** Shafiu Jibrin (NAU)
 
 **Abstract:** TBA
 
@@ -99,7 +99,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** November 4, 2025
 
-**Speakers:** Mikhail Baltushkin
+**Speakers:** Mikhail Baltushkin (NAU)
 
 **Abstract:** TBA
 
@@ -119,7 +119,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** November 18, 2025
 
-**Speakers:** Angie Hodge
+**Speakers:** Angie Hodge (NAU)
 
 **Abstract:** TBA
 
