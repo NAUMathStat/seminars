@@ -37,4 +37,108 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-Testing...
+### TBA
+
+**Date:** September 23, 2025
+
+**Speakers:** (None listed)
+
+**Abstract:** TBA
+
+<hr>
+
+### TBA
+
+**Date:** September 30, 2025
+
+**Speakers:** (None listed)
+
+**Abstract:** TBA
+
+### TBA
+
+<hr>
+
+**Date:** October 7, 2025
+
+**Speakers:** Jim Swift
+
+**Abstract:** TBA
+
+<hr>
+
+**Date:** October 7, 2025
+
+**Speakers:** Outside visitor
+
+**Abstract:** TBA
+
+<hr>
+
+### TBA
+
+**Date:** October 21, 2025
+
+**Speakers:** (None listed)
+
+**Abstract:** TBA
+
+<hr>
+
+### TBA
+
+**Date:** October 28, 2025
+
+**Speakers:** Jibrin
+
+**Abstract:** TBA
+
+<hr>
+
+### TBA
+
+**Date:** November 4, 2025
+
+**Speakers:** Mikhail Baltushkin
+
+**Abstract:** TBA
+
+<hr>
+
+### No colloquium, Verteran's day
+
+**Date:** November 11, 2025
+
+**Speakers:** 
+
+**Abstract:** 
+
+<hr>
+
+### TBA
+
+**Date:** November 18, 2025
+
+**Speakers:** Angie Hodge
+
+**Abstract:** TBA
+
+<hr>
+
+### TBA
+
+**Date:** November 25, 2025
+
+**Speakers:**  (None listed)
+
+**Abstract:** TBA
+
+<hr>
+
+### TBA
+
+**Date:** December 2, 2025
+
+**Speakers:** (None listed)
+
+**Abstract:** TBA
