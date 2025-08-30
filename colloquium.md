@@ -41,9 +41,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** September 23, 2025
 
-**Speakers:** (None listed)
+**Speakers:** 
 
-**Abstract:** TBA
+**Abstract:** 
 
 <hr>
 
@@ -51,11 +51,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** September 30, 2025
 
-**Speakers:** (None listed)
+**Speakers:** 
 
-**Abstract:** TBA
-
-### TBA
+**Abstract:** 
 
 <hr>
 
@@ -79,9 +77,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** October 21, 2025
 
-**Speakers:** (None listed)
+**Speakers:** 
 
-**Abstract:** TBA
+**Abstract:** 
 
 <hr>
 
@@ -109,10 +107,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** November 11, 2025
 
-**Speakers:** 
-
-**Abstract:** 
-
 <hr>
 
 ### TBA
@@ -129,9 +123,9 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** November 25, 2025
 
-**Speakers:**  (None listed)
+**Speakers:**  
 
-**Abstract:** TBA
+**Abstract:** 
 
 <hr>
 
@@ -139,6 +133,6 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** December 2, 2025
 
-**Speakers:** (None listed)
+**Speakers:** 
 
-**Abstract:** TBA
+**Abstract:** 
