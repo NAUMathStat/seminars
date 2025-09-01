@@ -7,13 +7,15 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### TBA
+### Stochastic Modeling of Infectious Disease Dynamics
 
 **Date:** September 2, 2025
 
 **Speakers:** Ye Chen (NAU)
 
-**Abstract:**  TBA  
+**Abstract:**  Mathematical models of infectious diseases often rely on a key parameter: the transmission rate. In reality, this rate changes over time with seasonality, behavior, and immunity. Capturing its fluctuations is essential for accurate modeling, yet treating it as a constant oversimplifies reality.
+This talk presents a stochastic SIHR model where the transmission rate follows a Black–Karasinski process, ensuring both positivity and mean reversion for biological realism and long-term stability. The model builds on stochastic differential equations (SDEs) and Itô calculus—mathematical tools originally developed in finance to model volatile systems such as interest rates and stock prices—here adapted to capture the randomness of disease spread.
+A key theoretical result establishes the existence and uniqueness of a global, positive solution to the system, proved using a Lyapunov function approach. For inference, Particle Markov Chain Monte Carlo (pMCMC) is used to jointly estimate static parameters and latent state trajectories from hospitalization data. Validation on synthetic data and application to Arizona influenza hospitalizations from the 2022–2024 flu seasons yield estimates consistent with CDC reports.  
 
 <hr>
 
