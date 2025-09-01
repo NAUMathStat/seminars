@@ -135,6 +135,6 @@ A key theoretical result establishes the existence and uniqueness of a global, p
 
 **Date:** December 2, 2025
 
-**Speakers:** 
+**Speakers:** Minah Kim
 
 **Abstract:** 
