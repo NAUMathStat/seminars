@@ -13,14 +13,14 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
-### TBA
+### Franklin Magic Squares
 
 **Date:** September 5, 2025
 
 **Speakers:** Jeff Rushall (NAU)
 
-**Abstract:**  TBA  
+**Abstract:**  Inspired by a comment of Katie Louchart, I will present a short history of magic squares and focus on magic square contributions made by none other than Benjamin Franklin.  The talk will include some surprising historical tidbits.   
 
-<!-- The faculty guest is also Jeff Rushall.    [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-05-02.pdf)] -->
+The faculty guest is Dana Ernst.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-09-05.pdf)]
 
 <hr>
