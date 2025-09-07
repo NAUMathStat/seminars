@@ -43,7 +43,7 @@ A key theoretical result establishes the existence and uniqueness of a global, p
 
 **Date:** September 23, 2025
 
-**Speakers:** 
+**Speakers:**  Abdurrahman Ado (NAU)
 
 **Abstract:** 
 
