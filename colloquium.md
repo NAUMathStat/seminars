@@ -11,7 +11,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** September 2, 2025
 
-**Speakers:** Ye Chen (NAU)
+**Speakers:** Ye Chen, Associate Professor of Mathematics (NAU)
 
 **Abstract:**  Mathematical models of infectious diseases often rely on a key parameter: the transmission rate. In reality, this rate changes over time with seasonality, behavior, and immunity. Capturing its fluctuations is essential for accurate modeling, yet treating it as a constant oversimplifies reality.
 This talk presents a stochastic SIHR model where the transmission rate follows a Black–Karasinski process, ensuring both positivity and mean reversion for biological realism and long-term stability. The model builds on stochastic differential equations (SDEs) and Itô calculus—mathematical tools pioneered in finance to model volatile systems like stock prices—here adapted to capture the randomness of disease spread.
@@ -23,19 +23,21 @@ A key theoretical result establishes the existence and uniqueness of a global, p
 
 **Date:** September 9, 2025
 
-**Speakers:** Dana C. Ernst (NAU)
+**Speakers:** Dana C. Ernst, Professor of Mathematics (NAU)
 
 **Abstract:**  In this talk, we will discuss the architecture of braid graphs in Coxeter systems. It turns out that every reduced expression has a unique factorization as a product of so-called links, which in turn induces a de- composition of the braid graph into a box product of the braid graphs for each link factor. When the corresponding Coxeter graph avoids certain three-cycles, each braid graph is a median graph (i.e., for every triple of vertices, there is a unique vertex, called the median, that belongs to shortest paths between each pair). One consequence of this result is that every braid graph in Coxeter systems avoiding the banned three-cycles can be isometrically embedded into a hypercube.
 
 <hr>
 
-### TBD
+### Orlik-Solomon algebras and 2-isomorphisms
 
 **Date:** September 16, 2025
 
-**Speakers:** Mike Falk (NAU)
+**Speakers:** Mike Falk, Professor Emeritus of Mathematics (NAU)
 
-**Abstract:**  TBD
+**Abstract:**  I’ll talk about a perspective on and generalization of Orlik-Solomon algebras of matroids that allows the application of the 2-isomorphism theorem of Vertigan and Whittle to study isomorphisms and automorphisms, resulting in a classification theorem and clarification and possible resolution of some old open problems. We will explain the background and main ideas and display the method with examples. 
+
+The main characters are: a finite set V with a specified collection of its nonempty subsets, also known as a hypergraph, the exterior algebra over V, consisting of linear combinations of subsets of V endowed with the natural anti-commutative multiplication, and (sub)quotients of the exterior algebra by various ideals. Some knowledge of the definitions of (quotient) vector space, ring, and ideal will be helpful but not necessary.
 
 <hr>
 
