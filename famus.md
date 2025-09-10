@@ -13,6 +13,16 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### NAU in Portugal 2025
+
+**Date:** September 12, 2025
+
+**Speakers:** Scott Akin, Vaughn Wilmer, Lauren Byrne, and Gunnar Johnson (NAU)
+
+**Abstract:**  The 4 students will talk about their experience in Lisbon last June: they'll show pictures, tell stories, and discuss their opinions on the study abroad program.  Then, instead of a faculty interview, the floor will be opened for Q&A.  Yes, the program will run again in June 2026 (I hope!).  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-09-12.pdf)]
+
+<hr>
+
 ### Franklin Magic Squares
 
 **Date:** September 5, 2025
