@@ -81,7 +81,7 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 **Date:** October 21, 2025
 
-**Speakers:** 
+**Speakers:**  Sheila Miller, Assistant Professor, ASU 
 
 **Abstract:** 
 
