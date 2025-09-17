@@ -69,7 +69,7 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 <hr>
 
-**Date:** October 7, 2025
+**Date:** October 14, 2025
 
 **Speakers:** Outside visitor
 
