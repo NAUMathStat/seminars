@@ -11,10 +11,10 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### Restructuring Discrete Mathematics and Calculus
 
-**Date:** TBA
+**Date:** Thursday, September 18, 2025
 
-**Speakers:** TBA
+**Speakers:** Tyler Brock and Matt Fahy (NAU)
 
-**Abstract:** TBA
+**Abstract:** Tyler and Matt will discuss some specific ways they have chosen to teach course content (namely in Calculus I and Discrete) in a non-traditional order. They will reflect on their goals in doing so, as well as strengths and weaknesses and outcomes of those decisions. They hope that this will lead to a more general discussion about the many ways that we all consider how to best present course content every day.

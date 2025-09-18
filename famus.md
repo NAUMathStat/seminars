@@ -13,6 +13,18 @@ Note that talks are listed in reverse chronological order.
 
 <hr>
 
+### Tragic Deaths in Math History
+
+**Date:** September 19, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  TAs all of you know, there have been some colorful and untimely ends to several famous mathematicians.  I will describe the demise of a few of these characters while discussing (and remaining respectful of) the impact they had on math.  
+
+The faculty guest will be Gabe Markou.   [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-09-19.pdf)]
+
+<hr>
+
 ### NAU in Portugal 2025
 
 **Date:** September 12, 2025
