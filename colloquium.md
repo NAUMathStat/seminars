@@ -41,13 +41,9 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 <hr>
 
-### TBA
+### No colloquium
 
 **Date:** September 23, 2025
-
-**Speakers:**  Abdurrahman Ado (NAU)
-
-**Abstract:** 
 
 <hr>
 
@@ -55,7 +51,7 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 **Date:** September 30, 2025
 
-**Speakers:** 
+**Speakers:** Abdurrahman Ado (NAU)
 
 **Abstract:** 
 
