@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Role of an Academic Success Coordinator in MAT 108
+
+**Date:** Thursday, September 25, 2025
+
+**Speakers:** Gina Nabours and Kiersten Gaetano (NAU)
+
+**Abstract:** Gina and Kiersten will share an overview of the vision behind this position, what inspired it, and how it has developed over time through multiple iterations. There will be time for open discussion.
+
+<hr>
+
 ### Restructuring Discrete Mathematics and Calculus
 
 **Date:** Thursday, September 18, 2025
