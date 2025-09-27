@@ -15,7 +15,7 @@ Note that talks are listed in reverse chronological order.
 
 ### Tragic Deaths in Math History
 
-**Date:** September 19, 2025
+**Date:** September 126, 2025
 
 **Speakers:** Jeff Rushall (NAU)
 
