@@ -47,13 +47,13 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 <hr>
 
-### TBA
+### Mathematical dynamics for HIV infections with public awareness and viral load detectability
 
 **Date:** September 30, 2025
 
 **Speakers:** Abdurrahman Ado (NAU)
 
-**Abstract:** 
+**Abstract:** In this talk, we will discuss on a paper that we have published about a nonlinear deterministic model that incorporates public awareness and treatment to describe the dynamics of HIV/AIDS in an infected population with detectable and undetectable viral load. The model was developed and analyzed, and it undergoes backward bifurcation in which a stable disease-free equilibrium coexists with a stable endemic equilibrium. The most sensitive parameters for the control of the spread of HIV are identified by forward sensitivity index method. Numerical simulations carried out show the behavior of the state variables and the impact of public awareness in controlling the spread of HIV. The results show that public awareness will help in curtailing the spread of HIV infection, and when treatment is applied to infected individuals with detectable viral load can easily suppress their virus to become undetectable so that they cannot transmit HIV through sexual intercourse.
 
 <hr>
 
