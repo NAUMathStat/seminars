@@ -57,6 +57,8 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 <hr>
 
+### Patterns on the Sierpinski Gasket
+
 **Date:** October 7, 2025
 
 **Speakers:** Jim Swift (NAU)
