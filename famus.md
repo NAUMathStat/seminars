@@ -11,11 +11,22 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### A Talk About the Prime Numbers
+
+**Date:** October 3, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  There are lots of interesting questions one can ask about prime numbers.  These include: how many primes are there?  Do primes occur with any regularity amongst the natural numbers?  Why do we care about primes?  Are there different/named types of primes?  If so, why?  And so on.  In this talk I will answer some of these questions.   
+
+The faculty guest will be Misha Baltushkin.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-03.pdf)]
+
+
 <hr>
 
 ### Tragic Deaths in Math History
 
-**Date:** September 126, 2025
+**Date:** September 26, 2025
 
 **Speakers:** Jeff Rushall (NAU)
 
