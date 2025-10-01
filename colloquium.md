@@ -129,7 +129,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** November 25, 2025
 
-**Speakers:**  
+**Speakers:**  Jeffrey Moore Covington (NAU)
 
 **Abstract:** 
 
@@ -139,6 +139,6 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** December 2, 2025
 
-**Speakers:** Minah Kim
+**Speakers:** Minah Kim (NAU)
 
 **Abstract:** 
