@@ -63,7 +63,10 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 **Speakers:** Jim Swift (NAU)
 
-**Abstract:** TBA
+**Abstract:** The Sierpinski Gasket is the famous fractal obtained by recursively removing the middle portion 
+of an equilateral triangle.  Alternatively, the Sierpinski Gasket is the limit of a sequence of
+graphs, called Sierpinski pre-gaskets.  Each of these pre-gaskets has a graph Laplacian, which converges to a well-defined Laplacian on the Sierpinski Gasket.  An important nonlinear Partial Differential Equation on any domain is defined in terms of the Laplacian.  We (Neuberger, Sieben, and Swift) use techniques we have developed over several papers to understand some of the patterns of solutions that occur in this equation when the domain is the Sierpinski Gasket.
+
 
 <hr>
 
