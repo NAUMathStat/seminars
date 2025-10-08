@@ -11,7 +11,7 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
-### TBD
+### Restructuring Part 2: Calculus I and II
 
 **Date:** Thursday, October 9, 2025
 
