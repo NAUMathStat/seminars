@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Eiffel Tower Curve Mystery
+
+**Date:** October 10, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  TThe Eiffel Tower is a famous landmark in Paris, with a distinctive curvy profile.  What is the function that defines this curvy profile?  The answer to this question is a mystery than spans more than a century.  I will explain the mystery as well as how it was resolved and promise to include lots of entertaining pictures of the Eiffel Tower.  
+
+The faculty guest will be Tyler Brock.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-10.pdf)]
+
+<hr>
+
 ### A Talk About the Prime Numbers
 
 **Date:** October 3, 2025
@@ -20,7 +32,6 @@ Note that talks are listed in reverse chronological order.
 **Abstract:**  There are lots of interesting questions one can ask about prime numbers.  These include: how many primes are there?  Do primes occur with any regularity amongst the natural numbers?  Why do we care about primes?  Are there different/named types of primes?  If so, why?  And so on.  In this talk I will answer some of these questions.   
 
 The faculty guest will be Misha Baltushkin.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-03.pdf)]
-
 
 <hr>
 
