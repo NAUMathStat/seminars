@@ -11,6 +11,17 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### TBD
+
+**Date:** Thursday, October 9, 2025
+
+**Speakers:** Misha Baltuskin and Ian Williams (NAU)
+
+**Abstract:** The talk this week is led by Misha Baltushkin and Ian Williams. Misha will discuss his recent use of a specific textbook in his Calc 1 class. Ian will share some of the inquiry-based strategies he has used in Calc 2 (and other) classes over the years.
+
+<hr>
+
+
 ### Role of an Academic Success Coordinator in MAT 108
 
 **Date:** Thursday, September 25, 2025
