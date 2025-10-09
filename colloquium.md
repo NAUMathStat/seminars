@@ -92,13 +92,13 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 <hr>
 
-### TBA
+### An Alternating Projection Algorithm for Finding a Strictly Feasible Point for Linear Matrix Inequalities and an Affine Set
 
 **Date:** October 28, 2025
 
 **Speakers:** Shafiu Jibrin (NAU)
 
-**Abstract:** TBA
+**Abstract:** Karlovitz et al. presented a modification of an alternating projection algorithm for finding strictly feasible points for linear matrix inequalities in a 2014 paper. One variation of their modification employs eigenvalue replacement, while another utilizes eigenvalue shift. They showed that eigenvalue shift outperforms eigenvalue replacement in terms of computation time and number of iterations. We propose a new eigenvalue replacement technique and extend their method to include an affine set. Our numerical experiments indicate that the new eigenvalue replacement technique is superior to eigenvalue shift. This is a joint work with my former student, Priscilla Kwofie.
 
 <hr>
 
