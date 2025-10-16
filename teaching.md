@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Experiences with standards-based grading in Calculus 1
+
+**Date:** Thursday, October 16, 2025
+
+**Speakers:** Hannah Prawzinsky (NAU)
+
+**Abstract:** Hannah has used a standards-based grading system in Calc 1 for the last two semesters. Adapted from a system created by Rachel Neville, Hannah will discuss her reasons for using this system in a class like Calc 1. She will also share a great deal of advice for teachers interested in implementing a similar system.
+
+<hr>
+
 ### Restructuring Part 2: Calculus I and II
 
 **Date:** Thursday, October 9, 2025
@@ -20,7 +30,6 @@ Note that talks are listed in reverse chronological order.
 **Abstract:** The talk this week is led by Misha Baltushkin and Ian Williams. Misha will discuss his recent use of a specific textbook in his Calc 1 class. Ian will share some of the inquiry-based strategies he has used in Calc 2 (and other) classes over the years.
 
 <hr>
-
 
 ### Role of an Academic Success Coordinator in MAT 108
 
