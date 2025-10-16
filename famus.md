@@ -11,13 +11,24 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Hot Baths and Lost Planes: Adventures in Mathematical Modeling
+
+**Date:** October 17, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  What do "taking a relaxing bath" and "searching for a missing airplane" have in common? They both hide fascinating mathematical questions beneath the surface. In this talk, we’ll dive into two real examples from the Mathematical Contest in Modeling (MCM) to see how mathematics helps us understand and optimize complex systems—from the flow of heat in water to the strategy behind large-scale search operations. We’ll also discuss what MCM is, what students gain from it, and how creativity, teamwork, and a bit of mathematical daring lead to elegant solutions for messy real-world problems.
+There will be no faculty guest this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-17.pdf)]
+
+<hr>
+
 ### The Eiffel Tower Curve Mystery
 
 **Date:** October 10, 2025
 
 **Speakers:** Jeff Rushall (NAU)
 
-**Abstract:**  TThe Eiffel Tower is a famous landmark in Paris, with a distinctive curvy profile.  What is the function that defines this curvy profile?  The answer to this question is a mystery than spans more than a century.  I will explain the mystery as well as how it was resolved and promise to include lots of entertaining pictures of the Eiffel Tower.  
+**Abstract:**  The Eiffel Tower is a famous landmark in Paris, with a distinctive curvy profile.  What is the function that defines this curvy profile?  The answer to this question is a mystery than spans more than a century.  I will explain the mystery as well as how it was resolved and promise to include lots of entertaining pictures of the Eiffel Tower.  
 
 The faculty guest will be Tyler Brock.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-10.pdf)]
 
