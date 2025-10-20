@@ -82,13 +82,13 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 <hr>
 
-### TBA
+### Strong Logical Axioms and Self-Distributive Algebras: Three Recent Results and Three Open Problems
 
 **Date:** October 21, 2025
 
 **Speakers:**  Sheila Miller, Assistant Professor, ASU 
 
-**Abstract:** 
+**Abstract:** In this talk we will introduce a family of strong logical axioms called rank-to-rank embeddings and the relationship between these large cardinal embeddings and left distributive algebras. There are many examples of left distributive operations in classical mathematics, including group conjugation and the weighted mean. Those operations are idempotent, however, and hence not free. In the late 1980s Richard Laver showed that the closure of a single rank-to-rank elementary embedding under an application operation generates a free left distributive algebra and demonstrated the linearity of a particular ordering on terms of the free left distributive algebra (given the existence of such embeddings). Patrick Dehornoy subsequently used the braid group on infinitely many generators to show the linearity of that ordering relation within ZFC. The consistency strength of other related theorems is still unknown; it remains possible that a theorem about finite left distributive algebras has large cardinal strength––that is, cannot be proven from the usual axioms of set theory. David Larue later extended that work to demonstrate braid group representations of the free left distributive algebra on n generators, for any natural number n. Still elusive was an algebra of embeddings isomorphic to a free left distributive algebra on more than one generator. We outline an inverse limit construction of such a free, two-generated left distributive algebra of embeddings from a slightly stronger large cardinal assumption than the one used by Laver (joint work with Andrew Brooke-Taylor and Scott Cramer) and state two additional, related results (joint work with Scott Cramer, Meng-Che "Turbo" Ho, and Nam Trang). We conclude with statements of three open problems about left distributive algebras.
 
 <hr>
 
