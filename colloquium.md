@@ -102,7 +102,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 <hr>
 
-### TBA
+### No Colloquium with Math on Tap scheduled
 
 **Date:** November 4, 2025
 
@@ -122,7 +122,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** November 18, 2025
 
-**Speakers:** Angie Hodge (NAU)
+**Speakers:** Minah Kim (NAU)
 
 **Abstract:** TBA
 
@@ -138,10 +138,10 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 <hr>
 
-### TBA
+### No Colloquium with Math on Tap scheduled
 
 **Date:** December 2, 2025
 
-**Speakers:** Minah Kim (NAU)
+**Speakers:** 
 
 **Abstract:** 
