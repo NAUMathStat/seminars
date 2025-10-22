@@ -106,9 +106,9 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** November 4, 2025
 
-**Speakers:** Mikhail Baltushkin (NAU)
+<!-- **Speakers:** Mikhail Baltushkin (NAU)
 
-**Abstract:** TBA
+**Abstract:** TBA -->
 
 <hr>
 
@@ -142,6 +142,6 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** December 2, 2025
 
-**Speakers:** 
+<!-- **Speakers:** 
 
-**Abstract:** 
+**Abstract:**  -->
