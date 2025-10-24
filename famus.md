@@ -11,13 +11,26 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Brouwer Fixed Points
+
+**Date:** October 24, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  Brouwer fixed points are, well, fixed points (of a nice map) (on a specific domain).  There are many variations of this fixed point result, and there are lots of humorous and entertaining applications of fixed points in topology etc.  I'll present some of these results, focusing on the humor.  
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-24.pdf)]
+
+<hr>
+
 ### Hot Baths and Lost Planes: Adventures in Mathematical Modeling
 
 **Date:** October 17, 2025
 
-**Speakers:** Jeff Rushall (NAU)
+**Speakers:** Misha Baltushkin (NAU)
 
 **Abstract:**  What do "taking a relaxing bath" and "searching for a missing airplane" have in common? They both hide fascinating mathematical questions beneath the surface. In this talk, we’ll dive into two real examples from the Mathematical Contest in Modeling (MCM) to see how mathematics helps us understand and optimize complex systems—from the flow of heat in water to the strategy behind large-scale search operations. We’ll also discuss what MCM is, what students gain from it, and how creativity, teamwork, and a bit of mathematical daring lead to elegant solutions for messy real-world problems.
+
 There will be no faculty guest this week.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-17.pdf)]
 
 <hr>
