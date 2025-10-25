@@ -51,7 +51,7 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 **Date:** September 30, 2025
 
-**Speakers:** Abdurrahman Ado (NAU)
+**Speakers:** Abdurrahman Ado, Graduate Student (NAU)
 
 **Abstract:** In this talk, we will discuss on a paper that we have published about a nonlinear deterministic model that incorporates public awareness and treatment to describe the dynamics of HIV/AIDS in an infected population with detectable and undetectable viral load. The model was developed and analyzed, and it undergoes backward bifurcation in which a stable disease-free equilibrium coexists with a stable endemic equilibrium. The most sensitive parameters for the control of the spread of HIV are identified by forward sensitivity index method. Numerical simulations carried out show the behavior of the state variables and the impact of public awareness in controlling the spread of HIV. The results show that public awareness will help in curtailing the spread of HIV infection, and when treatment is applied to infected individuals with detectable viral load can easily suppress their virus to become undetectable so that they cannot transmit HIV through sexual intercourse.
 
@@ -61,7 +61,7 @@ The main characters are: a finite set V with a specified collection of its nonem
 
 **Date:** October 7, 2025
 
-**Speakers:** Jim Swift (NAU)
+**Speakers:** Jim Swift, Professor (NAU)
 
 **Abstract:** The Sierpinski Gasket is the famous fractal obtained by recursively removing the middle portion 
 of an equilateral triangle.  Alternatively, the Sierpinski Gasket is the limit of a sequence of
@@ -96,7 +96,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** October 28, 2025
 
-**Speakers:** Shafiu Jibrin (NAU)
+**Speakers:** Shafiu Jibrin, Associate Teaching Professor (NAU)
 
 **Abstract:** Karlovitz et al. presented a modification of an alternating projection algorithm for finding strictly feasible points for linear matrix inequalities in a 2014 paper. One variation of their modification employs eigenvalue replacement, while another utilizes eigenvalue shift. They showed that eigenvalue shift outperforms eigenvalue replacement in terms of computation time and number of iterations. We propose a new eigenvalue replacement technique and extend their method to include an affine set. Our numerical experiments indicate that the new eigenvalue replacement technique is superior to eigenvalue shift. This is a joint work with my former student, Priscilla Kwofie.
 
@@ -122,7 +122,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** November 18, 2025
 
-**Speakers:** Minah Kim (NAU)
+**Speakers:** Minah Kim, Assistant Professor (NAU)
 
 **Abstract:** TBA
 
@@ -132,7 +132,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** November 25, 2025
 
-**Speakers:**  Jeffrey Moore Covington (NAU)
+**Speakers:**  Jeffrey Moore Covington, Senior Data Scientist (NAU)
 
 **Abstract:** 
 
