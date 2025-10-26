@@ -15,11 +15,26 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
+<!-- 
+### Spot It! — The Hidden Math Behind a Fast-Paced Card Game
+
+**Date:** December 3, 2025
+
+**Speaker:** Angie Hodge-Zickerman (NAU)
+
+**Abstract:** Think Spot It! is just a quick reflex game? Think again! Beneath the colorful chaos of matching symbols lies some seriously cool math. In this lively, hands-on session, we’ll play a few rounds, peek under the hood at how the deck is built and discover how 19th-century math puzzles inspired one of today’s most popular games. No formulas required — just bring your curiosity (and maybe your competitive streak).
+
+<center>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTap251203.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+
+<hr> -->
+
 ### The Friendship Paradox: Your friends, on average, have more friends than you do
 
 **Date:** November 5, 2025
 
-**Speakers:** Dana C. Ernst (NAU)
+**Speaker:** Dana C. Ernst (NAU)
 
 **Abstract:** The Friendship Paradox is the observation that your friends, on average, have more friends than you do. This phenomenon, which was first observed by the sociologist Scott L. Feld in 1991, is mathematically provable. In this episode of Math on Tap, we will discuss the “paradox” and explore some applications and generalizations.
 
