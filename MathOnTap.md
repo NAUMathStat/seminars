@@ -5,7 +5,7 @@ title: Math on Tap
 
 The Department of Mathematics and Statistics is now hosting Math on Tap! The event is meant to be appealing and accessible to a wide range of people. Everyone is welcome. Bring your friends, significant others, neighbors!  
 
-Math on Tap takes place on the first Wednesday of every month at 6PM at <a href="https://www.instagram.com/explore/locations/377525877/mother-road-brewing-co/"></a>Mother Road Brewery</a>. Mother Road Brewery is a restaurant, so 21+ is NOT required. Please come join us!!  
+Math on Tap takes place on the first Wednesday of every month at 6PM at [Mother Road Brewery](https://www.instagram.com/explore/locations/377525877/mother-road-brewing-co/). Mother Road Brewery is a restaurant, so 21+ is NOT required. Please come join us!!  
 
 For those of you unfamiliar with “on Tap” events, Math on Tap is a variation of events that often go by the name “Science on Tap” or “STEM on Tap”.  These events run at various cities around the country. In Flagstaff, we have [Astronomy on Tap](https://astronomyontap.org/locations/flagstaff-az/) (sponsored by [Lowell Observatory](https://lowell.edu)), [Science on Tap](https://www.facebook.com/FlagstaffScienceOnTap/), and [Ales with the Arb](https://thearb.org/event/ales-with-the-arb-every-3rd-wednesday/) (sponsored by [The Arboretum at Flagstaff](https://thearb.org)). And now Math on Tap!
 
