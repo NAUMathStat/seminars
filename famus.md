@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### You Should Consider Doing Grad School In Our Department
+
+**Date:** October 31, 2025
+
+**Speakers:** Robert Buscaglia et al. (NAU)
+
+**Abstract:**  Dr. B will explain all the good reasons many of our students should think about coming to NAU to do a grad degree in maths, stats, or math eds.  Then we will serve FREE PIZZA and let some current grad students offer positive testimonials about being a grad student in our department.   
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-10-31.pdf)]
+
+<hr>
+
 ### Brouwer Fixed Points
 
 **Date:** October 24, 2025
