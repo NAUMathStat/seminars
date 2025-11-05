@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Encouraging Student Motivation and Wellness
+
+**Date:** Thursday, November 6, 2025
+
+**Speakers:** Nellie Gopaul (NAU)
+
+**Abstract:** This week’s Teaching Seminar is given by Nellie Gopaul and the Health Promotions Office. It focuses on ways to approach emotionally challenging or sensitive conversations with students.  Educators from the Health Promotions Office will introduce communication strategies centered on empathy, listening, and supporting intrinsic motivation, and show how these tools can make classroom and office-hour interactions more constructive. Nellie will also share examples of how she’s incorporated wellness-focused practices into her teaching this semester.
+
+<hr>
+
 ### Experiences with standards-based grading in Calculus 1
 
 **Date:** Thursday, October 16, 2025
