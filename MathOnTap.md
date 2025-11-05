@@ -15,7 +15,7 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
-<!-- 
+
 ### Spot It! — The Hidden Math Behind a Fast-Paced Card Game
 
 **Date:** December 3, 2025
@@ -28,7 +28,7 @@ Note that talks are listed in reverse chronological order.
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTap251203.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 
-<hr> -->
+<hr>
 
 ### The Friendship Paradox: Your friends, on average, have more friends than you do
 
