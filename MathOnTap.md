@@ -36,7 +36,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Dana C. Ernst (NAU)
 
-**Abstract:** The Friendship Paradox is the observation that your friends, on average, have more friends than you do. This phenomenon, which was first observed by the sociologist Scott L. Feld in 1991, is mathematically provable. In this episode of Math on Tap, we will discuss the “paradox” and explore some applications and generalizations.
+**Abstract:** The Friendship Paradox is the observation that your friends, on average, have more friends than you do. This phenomenon, which was first observed by the sociologist Scott L. Feld in 1991, is mathematically provable. In this episode of Math on Tap, we will discuss the “paradox” and explore some applications and generalizations. [[Dana's slides]({{ site.baseurl }}/mathontap_files/MathOnTap251105-Handout)]
 
 <center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTap251105.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
