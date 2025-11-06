@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Latin Squares
+
+**Date:** November 7, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  A Latin square is an $n\times n$ array containing $n$ symbols, one in each row and one in each column.  They appear in many applications, and several different kinds of Latin squares exist, often with extra constraints.  I'll talk about all this, along with some history and some open questions associated with Latin squares.  
+
+The faculty guest this week is Roy St. Laurent, who will lead the audience in playing some Latin square-inspired games/puzzles. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-11-07.pdf)]
+
+<hr>
+
 ### You Should Consider Doing Grad School In Our Department
 
 **Date:** October 31, 2025
