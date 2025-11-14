@@ -11,6 +11,19 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Factoring (and other activities often met with disdain)
+
+**Date:** November 14, 2025
+
+**Speakers:** Tyler Brock (NAU)
+
+**Abstract:**  Until recently (like, the 1600s), factoring as a means to solve things like quadratic equations was not common. Said differently, it was not very long ago that human beings were first expected to have proficiency with factoring polynomial expressions. And now, we ask children, adults, and sometimes even dogs to get good at this specific technique. I often wonder things like: Why? And: Is it worth it? I'll dive into some of the historical context to these questions, and I'll explore for some ways to make a process like factoring a tad more enjoyable for the people who learn it.  
+
+The faculty guest this week is Matt Fahy. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-11-14.pdf)]
+
+<hr>
+
+
 ### Latin Squares
 
 **Date:** November 7, 2025
