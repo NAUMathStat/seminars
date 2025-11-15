@@ -118,7 +118,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 <hr>
 
-### TBA
+### Affirmation, Ambivalence, and Additional Labor: How Women of Color in STEM Navigate Identity in Inquiry-Oriented Linear Algebra
 
 **Date:** November 18, 2025
 
@@ -132,9 +132,9 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Date:** November 25, 2025
 
-**Speakers:**  Jeffrey Moore Covington, Senior Data Scientist (NAU)
+**Speakers:**  Nick Neuberger, graduate student (NCSU)
 
-**Abstract:** 
+**Abstract:** Women of color in STEM navigate unique intersections of gender, race/ethnicity, and their STEM identity, yet their experiences in active learning mathematics classrooms remain understudied. This talk shares findings from a qualitative study of four women of color in STEM undergraduate programs, enrolled in an inquiry-oriented linear algebra course, revealing how supportive peer relationships, inclusive instruction, and representation can foster affirmation, while racialized and gendered dynamics still create additional labor. By centering students’ voices, this work invites us to rethink what active learning should or could truly serve in our classrooms. Colleagues across STEM and education are encouraged to join the conversation on designing learning environments that enable all students to thrive.
 
 <hr>
 
