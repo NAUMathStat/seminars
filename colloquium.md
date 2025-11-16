@@ -134,7 +134,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 **Speakers:**  Nick Neuberger, graduate student (NCSU)
 
-**Abstract:** TBA
+**Abstract:** Inverse problems arise when we use data to infer unknown parameters appearing in models. We focus on PDE-governed models where the parameter lies in an infinite-dimensional Hilbert space. Because the data are finite-dimensional, the inverse problem is ill-posed. A Bayesian formulation addresses this by combining the data with a prior distribution, yielding a posterior distribution for the parameter. I will then introduce optimal experimental design (OED) for Bayesian inverse problems, where the aim is to choose where and how to collect data so that posterior uncertainty is reduced. We formulate OED directly in function space to ensure a rigorous probabilistic foundation and to obtain discretization-invariant properties; this framework then guides the construction of scalable computational methods after discretization. Within this setting, I present a goal-oriented OED problem, where the objective is to reduce posterior uncertainty in a nonlinear goal functional of the parameter. We approximate this functional with a second-order Taylor expansion and derive an optimality criterion. Subsequently, efficient computational methods are developed for solving the goal-oriented OED problem and we demonstrate the efficacy of our approach with a numerical example.
 
 <hr>
 
