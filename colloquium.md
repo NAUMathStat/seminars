@@ -128,7 +128,7 @@ This talk explores a new, crucial question: Can Steenrod operations be refined t
 
 <hr>
 
-### TBA
+### Goal-oriented optimal experimental design using quadratic approximations
 
 **Date:** November 25, 2025
 
