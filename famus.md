@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Three Famous Unsolved Problems
+
+**Date:** November 14, 2025
+
+**Speakers:** Ian Williams (NAU)
+
+**Abstract:**  We investigate three famous unsolved math problems: the Goldbach conjecture, the Collatz conjecture, and the Riemann Hypothesis. This talk will explain what these problems are, what makes them so interesting and difficult to solve, and what their resolution might mean for mathematicians. There will also be cool pictures.
+
+The faculty guest this week is Hannah Prawzinsky. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-11-21.pdf)]
+
+<hr>
+
 ### Factoring (and other activities often met with disdain)
 
 **Date:** November 14, 2025
@@ -22,7 +34,6 @@ Note that talks are listed in reverse chronological order.
 The faculty guest this week is Matt Fahy. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-11-14.pdf)]
 
 <hr>
-
 
 ### Latin Squares
 
