@@ -11,6 +11,22 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### ADA Compliance Workshop (Tips-and-tricks)
+
+**Date:** Thursday, November 20, 2025
+
+**Speakers:** Tyler Brock (NAU)
+
+**Abstract:** The structure of this week's Teaching Seminar will be a bit different. With the impending deadline for all course materials to be ADA compliant, I thought it would be nice to gather and compile some of the strategies we've learned this semester (as DoMS members, specifically) for modifying course materials; using the Ally reports in Canvas to know what accessibility score our materials are being given; and general tips-and-tricks for navigating this daunting task. 
+
+No one person will be leading this talk - I'll try to set the stage and then see where the questions take us. If we have experts who can address, for example, how to export Word documents as "accessible PDFs", that person can share what they know for a while. We might break up into groups. We might not. Bring problems you CAN help with. Bring problems you NEED help with. Bring a laptop if you can. Let's see how it goes!
+
+Fair warning 1: This session won't answer all of our questions. This session won't answer half of our questions.
+
+Fair warning 2: This session will mostly avoid philosophical discussions about the task of ADA compliance, instead focusing on what skills we have right now and sharing them with others.
+
+<hr>
+
 ### Encouraging Student Motivation and Wellness
 
 **Date:** Thursday, November 6, 2025
