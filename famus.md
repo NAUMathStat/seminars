@@ -11,9 +11,21 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Carmichael's Conjecture
+
+**Date:** December 5, 2025
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:**  Inspired by the FAMUS talk on famous conjectures given by Ian Williams last week, I decided to give a talk on another conjecture, named after Robert Carmichael.  It isn't as well-known or as sexy as the conjectures in the last FAMUS, but it's still pretty cool.  Come to FAMUS to learn more about it (that was supposed to sound tantalizing).  
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS25-12-05.pdf)]
+
+<hr>
+
 ### Three Famous Unsolved Problems
 
-**Date:** November 14, 2025
+**Date:** November 21, 2025
 
 **Speakers:** Ian Williams (NAU)
 
