@@ -11,24 +11,24 @@ For those of you unfamiliar with “on Tap” events, Math on Tap is a variation
 
 The format will vary from event to event, but typically there will be a 30-minute talk aimed at a general audience followed by a short informal interview.  During the event, people are welcome to eat and drink (this is encouraged!).
 
-# Schedule Spring 2026 #
+# Schedule Fall 2025 #
 
 Note that talks are listed in reverse chronological order.
 
 
 ### Spot It! — The Hidden Math Behind a Fast-Paced Card Game
 
-**Date:** February 4, 2026
+**Date:** December 3, 2025
 
-**Speaker:** Misha Baltushkin (NAU)
+**Speaker:** Angie Hodge-Zickerman (NAU)
 
-**Abstract:** Some of the most famous unsolved problems in mathematics can be stated using only the arithmetic of whole numbers taught in high school. Despite their simple statements, these problems have resisted proof for decades—or even centuries. In this talk, we will explore several such mysteries, including the Goldbach Conjecture, the Twin Prime Conjecture, and the Collatz Conjecture. Each asks a question that is easy to understand, easy to experiment with, and surprisingly difficult to resolve. Although mathematicians have developed powerful tools and achieved extraordinary successes, these problems remind us that our knowledge is still incomplete and that even elementary questions can remain unanswered. Along the way, we will see how mathematicians test conjectures, why simple problems can hide deep complexity, and what partial progress has taught us so far. The goal is not technical detail, but to showcase the beauty, accessibility, and ongoing intrigue of open problems in mathematics.
+**Abstract:** Think Spot It! is just a quick reflex game? Think again! Beneath the colorful chaos of matching symbols lies some seriously cool math. In this lively, hands-on session, we’ll play a few rounds, peek under the hood at how the deck is built and discover how 19th-century math puzzles inspired one of today’s most popular games. No formulas required — just bring your curiosity (and maybe your competitive streak).
 
 <center>
-<img src="{{ site.baseurl }}/mathontap_files/MathOnTap260204.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTap251203.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 
-<!-- <hr>
+<hr>
 
 ### The Friendship Paradox: Your friends, on average, have more friends than you do
 
@@ -40,4 +40,4 @@ Note that talks are listed in reverse chronological order.
 
 <center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTap251105.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
-</center> -->
+</center>
