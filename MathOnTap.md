@@ -15,8 +15,7 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
-
-### Spot It! — The Hidden Math Behind a Fast-Paced Card Game
+### The unsolved high school problems (Demystifying that mathematicians know it all)
 
 **Date:** February 4, 2026
 
