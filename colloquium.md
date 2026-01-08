@@ -127,7 +127,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### 
+### Thesis 1
 
 **Date:** Tuesday 4/14 at 4:00-4:50
 
@@ -137,7 +137,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### 
+### Thesis 2
 
 **Date:** Tuesday 4/21 at 4:00-4:50
 
@@ -147,7 +147,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### 
+### Thesis 3
 
 **Date:** Tuesday 4/28 at 4:00-4:50
 
