@@ -15,6 +15,20 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
+<!-- ### Julia Sets - Beautiful Pictures From Simple (Complex) Calculations.
+
+**Date:** March 4, 2026
+
+**Speaker:** Matt Fahy (NAU)
+
+**Abstract:** TBA
+
+<center>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTap260304.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+
+<hr> -->
+
 ### The unsolved high school problems (Demystifying that mathematicians know it all)
 
 **Date:** February 4, 2026
