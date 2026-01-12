@@ -11,7 +11,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 1/20 at 4:00-4:50
 
-**Speakers:** Jaechoul Lee
+**Speakers:** Jaechoul Lee, Associate Professor, NAU
 
 **Abstract:**  TBA
 
@@ -21,7 +21,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 1/27 at 4:00-4:50
 
-**Speakers:** Mayank Bakshi
+**Speakers:** Mayank Bakshi, Assistant Professor, NAU
 
 **Abstract:**  TBA
 
@@ -111,7 +111,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 3/31 at 4:00-4:50
 
-**Speakers:** TBA
+**Speakers:** Anders Claesson, Professor, University of Iceland
 
 **Abstract:**  TBA
 
