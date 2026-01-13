@@ -61,7 +61,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 2/24 at 4:00-4:50
 
-**Speakers:** TBA
+**Speakers:** Karl C Reger
 
 **Abstract:**  TBA
 
