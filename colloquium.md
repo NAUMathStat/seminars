@@ -51,7 +51,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 2/17 at 4:00-4:50
 
-**Speakers:** TBA
+**Speakers:** Sam Harris
 
 **Abstract:**  TBA
 
