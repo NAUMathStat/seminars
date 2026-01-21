@@ -11,13 +11,15 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBA
+### New Results in Graph Pebbling
 
-**Date:** TBA
+**Date:** January 23, 2026
 
-**Speakers:** TBA
+**Speakers:** Gabby Stewart (NAU)
 
-**Abstract:**  TBA
+**Abstract:**  Graph pebbling is a game played on graphs; most known results are associated with undirected graphs.  Gabby has been investigating the following question in an undergrad research project: are there any directed graphs whose single vertex cover pebbling numbers are constant?  If you want to know what all of this means, and if you want to see her new results, come to FAMUS on Friday!  No prior knowledge of graph theory or graph pebbling is expected.  
+
+The faculty guest this week is Nellie Gopaul. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-01-23.pdf)] 
 
 <!-- <hr>
 
