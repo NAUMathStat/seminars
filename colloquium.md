@@ -21,7 +21,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 1/27 at 4:00-4:50
 
-**Speakers:** Mayank Bakshi, Assistant Professor, NAU
+**Speakers:** Nandor Sieben, Professor, NAU
 
 **Abstract:**  TBA
 
