@@ -51,7 +51,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 2/17 at 4:00-4:50
 
-**Speakers:** Sam Harris
+**Speakers:** Sam Harris, Assistant Professor, NAU
 
 **Abstract:**  TBA
 
@@ -91,7 +91,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 3/17 at 4:00-4:50
 
-**Speakers:** Lan Zhang
+**Speakers:** Lan Zhang, Assistant Professor, NAU
 
 **Abstract:**  TBA
 
@@ -121,7 +121,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 4/7 at 4:00-4:50
 
-**Speakers:** Kayode Isaac Oshinubi, Postdoc, NAU 
+**Speakers:** Kayode Oshinubi, Postdoc, NAU 
 
 **Abstract:**  TBA
 
