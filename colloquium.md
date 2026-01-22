@@ -17,7 +17,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### TBA
+### Unite and Conquer: the folding of impartial combinatorial games
 
 **Date:** Tuesday 1/27 at 4:00-4:50
 
