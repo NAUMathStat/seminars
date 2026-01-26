@@ -23,7 +23,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Speakers:** Nandor Sieben, Professor, NAU
 
-**Abstract:**  TBA
+**Abstract:**  In theory the winning strategy of a combinatorial game can be found by a simple process analyzing the digraph of positions. In practice this is often impossible because the game digraph is too large. Folding the game digraph identifies positions that are essentially the same. Folding constructs a quotient game that is easier to analyze since it has fewer positions. The theory allows for the four isomorphism theorems known from Universal Algebra. Clever foldings make it possible to analyze many interesting games like "Totative" and "Sliding Coins". Joint work with Baltushkin and Ernst.
 
 <hr>
 
