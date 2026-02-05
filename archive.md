@@ -50,6 +50,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/old/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/famusSpring2015)
 - Teaching Seminar
+    - [Fall 2025]({{ site.baseurl }}/old/teachingFall2025)
     - [Spring 2025]({{ site.baseurl }}/old/teachingSpring2025)
     - [Fall 2024]({{ site.baseurl }}/old/teachingFall2024)
     - [Spring 2024]({{ site.baseurl }}/old/teachingSpring2024)
