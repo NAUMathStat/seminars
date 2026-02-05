@@ -15,7 +15,7 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
-<!-- ### Julia Sets - Beautiful Pictures From Simple (Complex) Calculations.
+### Julia Sets - Beautiful Pictures From Simple (Complex) Calculations.
 
 **Date:** March 4, 2026
 
@@ -27,7 +27,7 @@ Note that talks are listed in reverse chronological order.
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTap260304.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 
-<hr> -->
+<hr>
 
 ### The unsolved high school problems (Demystifying that mathematicians know it all)
 
