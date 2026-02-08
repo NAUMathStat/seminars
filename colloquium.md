@@ -48,7 +48,9 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 **Speakers:** Mayank Bakshi, Assistant Professor, NAU
 
 **Abstract:**  The "curse of dimensionality" presents a formidable barrier in modern data applications: as the complexity of a system grows, the cost of acquiring, monitoring, and processing data often scales prohibitively. However, we can frequently overcome this challenge by exploiting the "intrinsic low-dimensional geometry" of the data, i.e., the observation that high-dimensional signals often reside on compact manifolds characterized by sparsity or low-rank dependencies.
+
 This talk is an invitation to explore the rich mathematical landscape underlying critical engineering challenges, such as efficient signal acquisition, network monitoring, and distributed learning. We will begin by revisiting the classical framework of sparse recovery and group testing, examining how we can identify active components in a signal using a minimal number of measurements. I will discuss our results on order-optimal algorithms that achieve reconstruction with sample complexity linear in the sparsity level and sub-linear decoding time.
+
 From these geometric foundations, we will pivot to the domain of distributed learning. Specifically, our recent result on federated learning using zero-order optimization will illustrate how tools like the Johnson-Lindenstrauss (JL) transform allow us to estimate high-dimensional gradients from compressed queries while preserving geometric structure and robustness. We will also look at emerging frontiers, such as the application of low-rank structure in network traffic analysis and LLM fine-tuning, offering a glimpse into the future of scalable, efficient, and trustworthy systems.
 
 <hr>
