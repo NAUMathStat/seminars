@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### 12-14 things I think I think about calculus
+
+**Date:** Thursday, February 12, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** Anyone who has taught calculus knows there are several problems associated with teaching calculus.  These problems fall into several possibly overlapping categories, including but not limited to: curricular inconsistency across sections, pedagogical inconsistency across sections, assessment inconsistency across sections, and a wide range of student preparedness.  I think about this stuff a lot.  And I think we should consider making some changes.  In this talk I'll present 12-14 things I think I think about calculus, each of which, if implemented, would lead to change.  And yes, each thing will probably irritate at least one person in the room.  
+
+<hr>
+
 ### Another Mastery-Based Grading Discussion... this time with student input!
 
 **Date:** Thursday, February 2, 2026
