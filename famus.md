@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Cattle Problem of Archimedes
+
+**Date:** February 13, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** About 22 centuries ago, Archimedes challenged a bunch of librarians (Eratosthenes was allegedly one of them) to solve a counting problem involving cows.  The problem was sort of complicated and involved ENORMOUS numbers.  I'll present the history of the problem and explain how it was solved, and by whom.  
+
+The faculty guest this week is Ryn Huesgen. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-02-13.pdf)] 
+
+<hr>
+
 ### The Impossible Sum
 
 **Date:** February 6, 2026
