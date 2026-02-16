@@ -55,13 +55,13 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 
 <hr>
 
-### TBA
+### Self-testing in entanglement embezzlement
 
 **Date:** Tuesday 2/17 at 4:00-4:50
 
 **Speakers:** Sam Harris, Assistant Professor, NAU
 
-**Abstract:**  TBA
+**Abstract:**  Entanglement is a crucial resource in quantum information science and is required for many tasks involving quantum computers. In 2003, van Dam and Hayden devised an approximate method for two parties (Alice and Bob), which takes a certain entangled state and uses it to produce a new entangled state "alongside" the first one, while nearly preserving the first state. Such a process has come to be known as embezzlement of entanglement. In the setting where this process is exact (and not approximate), it is known that such protocols can only occur in infinite-dimensional, "commuting operator" frameworks. In this talk, we exhibit something stronger: Alice and Bob's operations needed to perform embezzlement are unique in a certain sense, and generate unique observable algebras. We explore this "self-testing" phenomenon and describe what observable algebras one obtains.
 
 <hr>
 
