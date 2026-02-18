@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### What statistics and data science knowledge, experiences, and practices do Secondary Mathematics Teachers need?
+
+**Date:** Thursday, February 19, 2026
+
+**Speakers:** Jeff Hovermill (NAU)
+
+**Abstract:** During this Teaching Seminar, I will share policy recommendations and research associated with this question and hope to engage us in conversation about DoMS coursework towards those ends.
+
+<hr>
+
 ### 12-14 things I think I think about calculus
 
 **Date:** Thursday, February 12, 2026
