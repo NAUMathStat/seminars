@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Planar Pentagonal Tilings
+
+**Date:** February 20, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** Planar tiling problems involve completely covering the plane with one or more shapes and no leftover space (like a jigsaw puzzle).  It's easy to tile the plane with just equilateral triangles or squares, but what about 5-sided shapes?  There is a curious history to this problem, which is still not completely resolved.  I'll present a history of the problem, including recent progress made, and show lots of pretty pictures.  There might even be a tear-jerk moment at the end.  
+
+The faculty guest this week is Nellie Gopaul. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-02-20.pdf)] 
+
+<hr>
+
 ### The Cattle Problem of Archimedes
 
 **Date:** February 13, 2026
