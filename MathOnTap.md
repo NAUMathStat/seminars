@@ -21,7 +21,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Matt Fahy (NAU)
 
-**Abstract:** TBA
+**Abstract:** Numbers involving the square root of negative one, called complex numbers, often have a reputation as impossible, or "imaginary", but they actually have interesting and surprisingly practical characteristics.  I'll lay out the fundamental properties of complex numbers (no background knowledge needed!), briefly mention one or two of their practical uses, then show how elementary operations on complex numbers can generate famously beautiful pictures.
 
 <center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTap260304.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
