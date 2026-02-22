@@ -69,7 +69,7 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 
 **Date:** Tuesday 2/24 at 4:00-4:50
 
-**Speakers:** Karl C Reger
+**Speakers:** Sabrina Zarza, Michigan State
 
 **Abstract:**  TBA
 
