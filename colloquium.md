@@ -65,13 +65,13 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 
 <hr>
 
-### TBA
+### Centering Student Experiences in Mathematics Education Research: Place, Belonging, and Chicana Feminist Perspectives
 
 **Date:** Tuesday 2/24 at 4:00-4:50
 
 **Speakers:** Sabrina Zarza, Michigan State
 
-**Abstract:**  TBA
+**Abstract:**  This talk explores how Chicana feminist methodologies offer innovative ways of understanding students’ experiences with mathematics across secondary and postsecondary contexts. Drawing on two interconnected studies, one examining high school students’ sense of belonging in mathematics classrooms and a dissertation study using walking pláticas with Latiné mathematics majors who attended both Hispanic-Serving and Predominantly White Institutions, I illustrate how relational and place-based approaches generate new insights into the structural conditions that shape participation in mathematics. Together, these studies center students’ narratives and embodied experiences as a foundation for theory building about belonging and engagement in mathematics. By foregrounding these perspectives, this work complements existing approaches to studying student experience and extends how researchers and educators understand the sociopolitical context of mathematics learning. The talk concludes by considering implications for mathematics educators, teacher preparation programs, and researchers interested in designing studies that more fully account for students’ lived experiences with mathematics.
 
 <hr>
 
