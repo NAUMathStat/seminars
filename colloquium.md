@@ -115,13 +115,29 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 
 <hr>
 
-### TBA
+### Counting fixed-point-free Cayley permutations
 
 **Date:** Tuesday 3/31 at 4:00-4:50
 
 **Speakers:** Anders Claesson, Professor, University of Iceland
 
-**Abstract:**  TBA
+**Abstract:**  Montmort's classical hat-check problem asks for the probability that a
+random permutation has no fixed points; the answer, famously, tends to
+1/e. The same limit holds, by an elementary argument, for endofunctions.
+Cayley permutations sit between these two families and present a harder
+challenge. A Cayley permutation is a function on {1,...,n} whose image
+contains every positive integer up to its maximum value; via their
+fibers, Cayley permutations are in bijection with ballots (ordered set
+partitions).
+
+In this talk, we use two-sort species to study the functional digraphs
+of Cayley permutations. We derive differential equations for the
+generating series of R-recurrent Cayley permutations, a class that
+includes derangements as a special case. From these equations, we obtain
+an explicit counting formula for fixed-point-free Cayley permutations
+involving subfactorials and differences of r-Stirling numbers. We then
+use this formula to prove that the proportion of Cayley derangements
+again tends to 1/e, just as for permutations and endofunctions.
 
 <hr>
 
