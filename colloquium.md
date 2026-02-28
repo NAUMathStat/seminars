@@ -137,7 +137,9 @@ includes derangements as a special case. From these equations, we obtain
 an explicit counting formula for fixed-point-free Cayley permutations
 involving subfactorials and differences of r-Stirling numbers. We then
 use this formula to prove that the proportion of Cayley derangements
-again tends to 1/e, just as for permutations and endofunctions.
+again tends to 1/e, just as for permutations and endofunctions. 
+
+This is joint work with Giulio Cerbai (University of Iceland).
 
 <hr>
 
