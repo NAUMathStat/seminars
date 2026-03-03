@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Math Undergrad Research Opportunities in 2026-2027
+
+**Date:** February 27, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** I'll present the multitude of undergrad research projects that are available to math majors next year.  There are 6-9 faculty who hope to oversee projects, and I'll describe each project, including required prereqs and expectations.  Some of the projects are even funded, which means some lucky undergrads could do math research next year AND get paid.  
+
+There will be no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-02-27.pdf)] 
+
+<hr>
+
 ### Planar Pentagonal Tilings
 
 **Date:** February 20, 2026
