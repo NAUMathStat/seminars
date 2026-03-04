@@ -26,6 +26,7 @@ Note that talks are listed in reverse chronological order.
 - Questionable Statistics Said with Confidence
 - Jeopardy Style Before-and-Afters
 - Are You Smarter Than A ChatGPT?
+
 No gnarly calculations. No fancy formulas. No long division. Zero experience necessary. Positive fun guaranteed.
 
 <center>
