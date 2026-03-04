@@ -15,7 +15,26 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
-### Julia Sets - Beautiful Pictures From Simple (Complex) Calculations.
+### Math Trivia Night!
+
+**Date:** April 1, 2026
+
+**Speaker:** Tyler Brock (NAU)
+
+**Abstract:** Come join us for a math-themed trivia night! Rounds include...
+- Math in Rap Lyrics
+- Questionable Statistics Said with Confidence
+- Jeopardy Style Before-and-Afters
+- Are You Smarter Than A ChatGPT?
+No gnarly calculations. No fancy formulas. No long division. Zero experience necessary. Positive fun guaranteed.
+
+<center>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTap260401.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+
+<hr>
+
+### Julia Sets - Beautiful Pictures From Simple (Complex) Calculations
 
 **Date:** March 4, 2026
 
