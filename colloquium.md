@@ -95,13 +95,13 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 
 <hr>
 
-### TBA
+### Reinforcement Learning for Cybersecurity: Attacks and Defenses
 
 **Date:** Tuesday 3/17 at 4:00-4:50
 
 **Speakers:** Lan Zhang, Assistant Professor, NAU
 
-**Abstract:**  TBA
+**Abstract:**  Reinforcement learning (RL) has emerged as a powerful framework for addressing cybersecurity challenges from both offensive and defensive perspectives. Traditional signature-based malware detection is inherently reactive, and while modern deep learning approaches have significantly improved detection accuracy, they remain vulnerable to adversarial manipulation. Generating adversarial malware is fundamentally difficult because malicious functionality must be preserved, detectors operate as black boxes, and malware features are discrete rather than continuous — all properties that make conventional gradient-based methods ineffective. RL overcomes these barriers naturally by learning through interaction with the environment, without requiring access to model internals or continuous feature spaces. Beyond attacking detectors, RL can also be applied proactively on the defensive side, enabling intelligent, adaptive responses to sophisticated threats such as lateral movement attacks, where an adversary progressively compromises machines across a network to reach high-value targets.
 
 <hr>
 
