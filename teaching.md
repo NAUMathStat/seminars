@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Reading Assignments in Perusall
+
+**Date:** Thursday, March 19, 2026
+
+**Speakers:** Tyler Brock (NAU)
+
+**Abstract:** In this presentation I'll discuss how I have used the "social annotation" platform Perusall to implement reading assignments in mathematics classes. I'll talk about why I assign reading, how Perusall works, and why I find this a powerful tool for student engagement.
+
+<hr>
+
 ### What statistics and data science knowledge, experiences, and practices do Secondary Mathematics Teachers need?
 
 **Date:** Thursday, February 19, 2026
