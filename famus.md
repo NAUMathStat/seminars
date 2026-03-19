@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Fermat Numbers
+
+**Date:** March 20, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** Fermat numbers are integers of the form $2^{2^n} + 1$ , where $n$ is any nonnegative integer.  In 1640, after noting that $n = 0, 1, 2, 3, 4$ all result in prime numbers, Fermat bravely conjectured that $n = 5, 6, 7, ...$ also resulted in prime numbers.  This was not Fermat's best conjecture.  I'll discuss this history of Fermat numbers and why this conjecture did not stand the test of time.  
+
+The faculty guest this week is Luke Alvarez. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-03-20.pdf)] 
+
+<hr>
+
 ### Math Undergrad Research Opportunities in 2026-2027
 
 **Date:** February 27, 2026
