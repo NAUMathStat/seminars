@@ -107,11 +107,22 @@ From these geometric foundations, we will pivot to the domain of distributed lea
 
 ### Movement, Music, and Wellness in the Classroom:  A first look
 
-**Date:** Tuesday 3/24 at 4:00-4:50
+**Date:** Tuesday 3/24 at 4:00-4:50, Room 223
 
-**Speakers:** Nellie Gopaul
+**Speakers:** Nellie Gopaul, Associate Teaching Professor, NAU
 
-**Abstract:**  TBA
+**Abstract:**  This talk shares a first look at incorporating music, movement, and structured peer interaction into a statistics classroom. Developed during participation in NAU's Faculty Wellness Fellows program, classroom activities bridge larger student well-being data with small, intentional changes designed to support student engagement, enjoyment, and connection.
+A brief interactive component is planned, followed by reflection on how instructional choices can shape students’ experiences in meaningful ways.
+
+<hr>
+
+### Why can we predict the weather and why is it hard to do?
+
+**Date:** Wednesday 3/25 at 4:00-4:50
+
+**Speakers:** Vincent Martinez, Associate Professor, UNY Graduate Center, CUNY Hunter College
+
+**Abstract:**  Predicting the weather is an old problem and it’s still unsolved in spite of having access to weekly forecasts on our phones. We’ve gotten very good at it over the years though and have developed more principled methods that do away with things like star gazing, watching animals, and folklore. As our technology and understanding advanced, we’ve been able to collect more data about the atmosphere and have a better physical understanding of the physical mechanisms involved. The modern method is to use weather data with partial differential equations that model the weather. This talk will address a fundamental mathematical reason for why the modern method is so successful, but also why it’s still a very difficult thing to do. 
 
 <hr>
 
@@ -143,13 +154,45 @@ This is joint work with Giulio Cerbai (University of Iceland).
 
 <hr>
 
-### TBA
+### Evaluating the roles of bird dynamics and weather in accurately forecasting West Nile virus transmission in mosquitoes and humans
 
 **Date:** Tuesday 4/7 at 4:00-4:50
 
 **Speakers:** Kayode Oshinubi, Postdoc, NAU 
 
-**Abstract:**  TBA
+**Abstract:**  Mosquito-borne diseases pose a growing public health challenge, with
+climate change expected to shift mosquito population dynamics and
+disease burden. West Nile Virus (WNV), transmitted via migratory birds
+and Culex mosquitoes, disproportionately affects Maricopa
+County, Arizona—one of the nation's highest-burden counties per
+CDC surveillance data—yet it remains unclear whether incorporating
+weather and bird dynamics into forecasting frameworks meaningfully
+improves forecast accuracy. Using a 15-year (2006–2019, 2021) weekly
+time series of mosquito abundance, infectious mosquito density, and
+human WNV cases from Maricopa County, we developed and compared four
+mechanistic ordinary differential equation (ODE) model configurations
+of varying complexity, ranging from mosquito-human dynamics only to
+full models incorporating bird reservoir dynamics and weather forcing
+driven by daily temperature and 30-day accumulated precipitation. The
+Ensemble Kalman Filter (EnKF) combined with an Ornstein-Uhlenbeck
+(OU) process was used to estimate three time-varying parameters—baseline mosquito population growth rate, mosquito bite rate, and
+avian force of infection—alongside static parameters, and to
+generate probabilistic 1- and 2-week-ahead forecasts with full
+uncertainty quantification. Model skill was evaluated against a
+CDC-style baseline using relative Weighted Interval Score (WIS)
+across 1- and 2-week-ahead horizons, seasons, and years. All model configurations fit the surveillance data reasonably well regardless of
+whether weather or bird dynamics were included. However, forecast
+accuracy diverged markedly across targets: the full model incorporating
+birds and weather outperformed simpler configurations for total
+mosquito abundance, and models with weather forcing outperformed their weather-free counterparts for infectious mosquito density. For human WNV cases, all models outperformed the baseline, suggesting that human case forecasting is less sensitive to the inclusion of bird and weather
+data than mosquito-specific targets. Forecast skill was strongest during summer and fall across all models, and ensemble aggregation further stabilized predictions across the decade-long dataset. These findings suggest that weather and bird dynamics are most critical for
+forecasting mosquito abundance and infection prevalence, while human
+case forecasting may be achievable with simpler model structures. This
+weather-adaptive, probabilistic forecasting framework offers actionable
+near-real-time predictions to support mosquito control and resource
+allocation, and its generalizability positions it as a scalable One
+Health tool as climate change continues to reshape the landscape of
+mosquito-borne disease.
 
 <hr>
 
@@ -167,7 +210,7 @@ This is joint work with Giulio Cerbai (University of Iceland).
 
 **Date:** Tuesday 4/21 at 4:00-4:50
 
-**Speakers:** TBA
+**Speakers:** Allie Pari
 
 **Abstract:**  TBA
 
@@ -177,7 +220,7 @@ This is joint work with Giulio Cerbai (University of Iceland).
 
 **Date:** Tuesday 4/28 at 4:00-4:50
 
-**Speakers:** TBA
+**Speakers:** Scott Akin
 
 **Abstract:**  TBA
 
