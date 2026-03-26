@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### What Do Slicing Through Space and Coloring Graphs Have in Common?
+
+**Date:** March 27, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** How many regions are created when space is cut by a collection of lines or planes? This question is easy to answer in simple cases, but it becomes surprisingly difficult in higher dimensions. In this talk, we will explore the connection between this interesting problem and graph theory, and use combinatorics to make some progress towards what algebraic geometers have been working on for decades.  
+
+The faculty guest this week is also Maddy Cox (who, being a GTA, actually IS a faculty member). [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-03-27.pdf)]
+
+<hr>
+
 ### Fermat Numbers
 
 **Date:** March 20, 2026
