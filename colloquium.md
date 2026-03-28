@@ -198,9 +198,9 @@ mosquito-borne disease.
 
 ### Thesis 1
 
-**Date:** Tuesday 4/14 at 4:00-4:50
+**Date:** Tuesday 4/21 at 4:00-4:50
 
-**Speakers:** Maddy Cox
+**Speakers:** Allie Pari
 
 **Abstract:**  TBA
 
@@ -208,9 +208,9 @@ mosquito-borne disease.
 
 ### Thesis 2
 
-**Date:** Tuesday 4/21 at 4:00-4:50
+**Date:** Tuesday 4/22 at 4:00-4:50
 
-**Speakers:** Allie Pari
+**Speakers:** Maddy Cox 
 
 **Abstract:**  TBA
 
