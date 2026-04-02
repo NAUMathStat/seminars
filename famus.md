@@ -13,6 +13,18 @@ Note that talks are listed in reverse chronological order.
 
 ### What Do Slicing Through Space and Coloring Graphs Have in Common?
 
+**Date:** April 3, 2026
+
+**Speakers:** Vaughn Wilmer (NAU)
+
+**Abstract:** HFirst of all, a Seymour vertex is a vertex v in a directed graph whose second out-neighborhood (all vertices that are a path of length 2 away from v) is at least as big as its first out-neighborhood (all vertices that are a path of length 1 away from v).   Seymour vertices were originally used to analyze rankings of individual players in round robin competitions, as large second out-neighborhoods often correspond to strong players.  Second of all, a toroidal grid graph is a grid drawn on a torus.  Mr. Wilmer will explain the work and progress made in his undergrad research project, which involves finding a lower bound on the number of Seymour vertices in any toroidal grid graph.  
+
+There is no faculty guest this week [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-04-03.pdf)]
+
+<hr>
+
+### What Do Slicing Through Space and Coloring Graphs Have in Common?
+
 **Date:** March 27, 2026
 
 **Speakers:** Jeff Rushall (NAU)
