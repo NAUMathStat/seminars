@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Understanding our Principles of Mathematics Courses
+
+**Date:** Thursday, March 26, 2026
+
+**Speakers:** Sarah Watson (NAU)
+
+**Abstract:** In this teaching seminar, I will provide an overview of the MAT 150/155 course sequence, discuss my experiences teaching these courses, and describe ongoing updates to the courses. Those who are new to these courses are encouraged to attend to learn more, while experienced instructors are invited to share their insights.
+
+<hr>
+
 ### Reading Assignments in Perusall
 
 **Date:** Thursday, March 19, 2026
