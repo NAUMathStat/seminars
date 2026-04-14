@@ -206,13 +206,15 @@ mosquito-borne disease.
 
 <hr>
 
-### Thesis 2
+### Counting Colorings and Counting Chambers: The Connection Between Graph Theory and Hyperplane Arrangements
 
-**Date:** Tuesday 4/22 at 4:00-4:50
+**Date:** Wednesday 4/22 at 4:00-4:50
 
 **Speakers:** Maddy Cox 
 
-**Abstract:**  TBA
+**Abstract:**  The chromatic polynomial of a graph, which counts the number of proper vertex colorings for a certain number of colors, also provides information about combinatorial properties of the graph. This talk will discuss different construction methods for chromatic polynomials and present formulas for chromatic polynomials of common graph families such as cycles, trees, and complete graphs.
+
+There is a surprising connection between graphs and hyperplane arrangements. Chromatic polynomials of graphs can be used to count the number of chambers that a collection of hyperplanes divides a space into. Translating back and forth between a graph and its associated hyperplane arrangement, where edges correspond to hyperplanes, helps us better understand patterns in the chromatic polynomial and the geometric structure of the arrangement.
 
 <hr>
 
