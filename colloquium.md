@@ -196,13 +196,13 @@ mosquito-borne disease.
 
 <hr>
 
-### Thesis 1
+### Architecture of Braid Graphs in Coxeter Systems
 
 **Date:** Tuesday 4/21 at 4:00-4:50
 
 **Speakers:** Allie Pari
 
-**Abstract:**  TBA
+**Abstract:**  Any two reduced expressions for an element of a Coxeter group are related by a sequence of commutation and braid moves. Two reduced expressions are called braid equivalent if they are related by a sequence of only braid moves. Braid equivalence is an equivalence relation, and the corresponding equivalence classes are called braid classes. The braid class for a reduced expression can be encoded in a graph, called a braid graph, in a natural way. In a paper by Barnes, Breland, Ernst, and Perry, the authors proved that in a Coxeter system that is simply laced and triangle free (i.e., the corresponding Coxeter graph contains no three-cycles), every braid graph is median. In this thesis, we extend this result and prove that every braid graph in a Coxeter system whose corresponding Coxeter graph contains no three-cycles with the labels 3,3,m (where m is greater than or equal to 3) is median. To that end, we also generalize the theory presented in the aforementioned paper and a paper by Awik, Breland, Cadman, and Ernst. Many of the proofs and theorem statements in this thesis take inspiration from research done by three undergraduate students Atillio, Patrick, and Wilmer, under the guidance of Ernst during the 2024--2025 academic year.
 
 <hr>
 
