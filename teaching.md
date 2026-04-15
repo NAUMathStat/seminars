@@ -11,6 +11,22 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### Open discussion about our Calculus 1 course
+
+**Date:** Thursday, April 16, 2026
+
+**Speakers:** Tyler Brock (NAU)
+
+**Abstract:** In some ways, this can be a continuation of the conversations Jeff Rushall started with his seminar talk earlier this semester. More generally speaking, here's my goal: I (Tyler) am going to be the Calc 1 coordinator starting this fall and I would find it incredibly valuable to gather as much data about how folks in the department like to teach this class (or, perhaps, want it taught) as possible. Here are some of the not disjoint groups of people I'm hoping will consider attending:
+
+- Folks who have taught (or will teach) Calc 1
+- Folks who have taught Calc 2 or Calc 3 (or Diff. Eq., etc.) and have opinions about what Calc 1 skills students need to be successful in later classes
+- Folks who have taught (or will teach) Precalculus and have opinions/thoughts about important prerequisite skills for an incoming Calc 1 student
+- Folks who took (or taught) calculus courses at a different university, high school, etc.
+- Folks who enjoy light refreshments and popcorn
+
+<hr>
+
 ### Understanding our Principles of Mathematics Courses
 
 **Date:** Thursday, March 26, 2026
