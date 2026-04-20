@@ -15,6 +15,20 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
+### Mathematics discoveries that happened well before their "usefulness"
+
+**Date:** April 6, 2026
+
+**Speaker:** Hannah Prawzinsky (NAU)
+
+**Abstract:** Coming soon...
+
+<center>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTap260506.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+
+<hr>
+
 ### Math Trivia Night!
 
 **Date:** April 1, 2026
