@@ -21,7 +21,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Hannah Prawzinsky (NAU)
 
-**Abstract:** Coming soon...
+**Abstract:** Mathematicians, teachers, and parents are no strangers to the question "but what is this used for?" And perhaps this question was answered in good faith with some practical applications, or a general idea that math helps strengthen critical thinking, logical reasoning, and the like. But, historically, much of the "useful" mathematics we know today was studied long before the connections to those applications were evident. I'll present somewhat of a timeline of specific mathematics discoveries and their more well-known (and often surprising) applications. Philosophical questions about the teaching, learning, and research in mathematics and related disciplines may be discussed as well. 
 
 <center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTap260506.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
