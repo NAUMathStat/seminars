@@ -218,12 +218,14 @@ There is a surprising connection between graphs and hyperplane arrangements. Chr
 
 <hr>
 
-### Thesis 3
+### An Isomorphism Theorem for Quotient Commutation Graphs
 
 **Date:** Tuesday 4/28 at 4:00-4:50
 
 **Speakers:** Scott Akin
 
-**Abstract:**  TBA
+**Abstract:**  Any two reduced expressions for an element in a Coxeter group are related by a sequence of commutation and braid moves. Restricting to braid moves defines equivalence classes called braid classes, which are encoded by braid graphs. Similarly, commutation moves define commutation classes. The relationships between commutation classes are captured by the quotient commutation graph.
+
+In this thesis, we study the connection between braid graphs and quotient commutation graphs in simply-laced Coxeter systems. We introduce the transversal property: a condition where a single braid class for an element contains exactly one representative from every commutation class. We prove that, for certain systems, the quotient commutation graph of an element is isomorphic to the braid graph of one of its reduced expressions if and only if the element has the transversal property. We conclude by providing several families of elements that satisfy this condition. 
 
 <hr>
