@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Pascal's Triangle
+
+**Date:** May 1, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** Almost everyone is familiar with Pascal's Triangle and some of its familiar properties.  But not everyone is aware of its less familiar properties, which will be the focus of this talk.  I'll try to make sure that everyone who attends learn something new about the "PT".  
+
+The faculty guest this week is Jim Swift.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-05-01.pdf)]
+
+<hr>
+
 ### The Mathematical Contest in Modeling 2026
 
 **Date:** April 10, 2026
@@ -19,7 +31,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** The presentation topic is based on the 2026 MCM challenge, which was to model the state of charge in a smartphone.  I will present my MCM challenge solution to the problem of building a mathematical model that reports your phone’s battery life over time.
 
-There is no faculty guest this week [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-04-10.pdf)]
+There is no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-04-10.pdf)]
 
 <hr>
 
@@ -31,7 +43,7 @@ There is no faculty guest this week [[PDF of Flyer]({{ site.baseurl }}/famus_fil
 
 **Abstract:** First of all, a Seymour vertex is a vertex v in a directed graph whose second out-neighborhood (all vertices that are a path of length 2 away from v) is at least as big as its first out-neighborhood (all vertices that are a path of length 1 away from v).   Seymour vertices were originally used to analyze rankings of individual players in round robin competitions, as large second out-neighborhoods often correspond to strong players.  Second of all, a toroidal grid graph is a grid drawn on a torus.  Mr. Wilmer will explain the work and progress made in his undergrad research project, which involves finding a lower bound on the number of Seymour vertices in any toroidal grid graph.  
 
-There is no faculty guest this week [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-04-03.pdf)]
+There is no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-04-03.pdf)]
 
 <hr>
 
