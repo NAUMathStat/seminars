@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math on Tap Spring 2026
+title: Math on Tap
 ---
 
 The Department of Mathematics and Statistics is now hosting Math on Tap! The event is meant to be appealing and accessible to a wide range of people. Everyone is welcome. Bring your friends, significant others, neighbors!  
