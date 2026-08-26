@@ -6,6 +6,7 @@ title: Archive
 Note that pages are listed in reverse chronological order.
 
 - Department Colloquium
+    - [Spring 2026]({{ site.baseurl }}/old/colloquiumSpring2026)
     - [Fall 2025]({{ site.baseurl }}/old/colloquiumFall2025)
     - [Spring 2025]({{ site.baseurl }}/old/colloquiumSpring2025)
     - [Fall 2024]({{ site.baseurl }}/old/colloquiumFall2024)
@@ -28,8 +29,10 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/old/colloquiumFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/colloquiumSpring2015)
 - Math on Tap
+    - [Spring 2026]({{ site.baseurl }}/old/MathOnTapSpring2026)
     - [Fall 2025]({{ site.baseurl }}/old/MathOnTapFall2025)
 - Friday Afternoon Mathematics Undergraduate Seminar (FAMUS)
+    - [Spring 2026]({{ site.baseurl }}/old/famusSpring2026)
     - [Fall 2025]({{ site.baseurl }}/old/famusFall2025)
     - [Spring 2025]({{ site.baseurl }}/old/famusSpring2025)
     - [Fall 2024]({{ site.baseurl }}/old/famusFall2024)
@@ -50,6 +53,7 @@ Note that pages are listed in reverse chronological order.
     - [Fall 2015]({{ site.baseurl }}/old/famusFall2015)
     - [Spring 2015]({{ site.baseurl }}/old/famusSpring2015)
 - Teaching Seminar
+    - [Spring 2026]({{ site.baseurl }}/old/teachingSpring2026)
     - [Fall 2025]({{ site.baseurl }}/old/teachingFall2025)
     - [Spring 2025]({{ site.baseurl }}/old/teachingSpring2025)
     - [Fall 2024]({{ site.baseurl }}/old/teachingFall2024)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math on Tap
+title: Math on Tap Fall 2025
 ---
 
 The Department of Mathematics and Statistics is now hosting Math on Tap! The event is meant to be appealing and accessible to a wide range of people. Everyone is welcome. Bring your friends, significant others, neighbors!  
