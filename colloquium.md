@@ -7,13 +7,13 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### TBD
+### The Smith-Ward problem
 
 **Date:** Tuesday 9/8 at 4:00-4:50
 
 **Speakers:** Samuel Harris, Assistant Professor, NAU
 
-**Abstract:**  TBD
+**Abstract:**  The Smith-Ward problem originates in 1980 and is a problem about matrix ranges in operator theory. Matrix ranges are a tool sometimes used to understand the geometry of a bounded linear operator, while capturing underlying "statistics". While there has been some progress over the years, the problem remained open in general until earlier this year when Marcel Scherer found a counterexample. In this talk we will strengthen this counterexample and show that a plethora of counterexamples exist that are not overly difficult to construct. Moreover, some counterexamples turn out to have rather exotic properties.
 
 <hr>
 
