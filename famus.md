@@ -11,24 +11,14 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
-### TBD
+### My Mathematical Summer
 
-**Date:** September 4, 2026
+**Date:** September 11, 2026
 
 **Speakers:** Jeff Rushall (NAU)
 
-**Abstract:** TBD
+**Abstract:** I'll discuss what faculty members like me do during the summer.  Without giving too much away, I did a little research, reviewed a paper, designed a new course, created a new course pack, taught a summer course, did a little traveling (some of it math-related), etc.  I'll show some fun pictures from my travels.  
 
-<!-- The faculty guest this week is Jim Swift.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-05-01.pdf)] -->
+The faculty guest this week is Gabe Markou. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-09-11.pdf)]
 
-<!-- <hr>
-
-### The Mathematical Contest in Modeling 2026
-
-**Date:** April 10, 2026
-
-**Speakers:** Ethan Olsen (NAU)
-
-**Abstract:** The presentation topic is based on the 2026 MCM challenge, which was to model the state of charge in a smartphone.  I will present my MCM challenge solution to the problem of building a mathematical model that reports your phone’s battery life over time.
-
-There is no faculty guest this week. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-04-10.pdf)] -->
+<hr>
