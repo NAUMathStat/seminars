@@ -15,6 +15,16 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
+### The Mathematics of Congressional Apportionment
+
+**Date:** October 7, 2026
+
+**Speaker:** Shannon Guerrero (NAU)
+
+**Abstract:** Coming soon...
+
+<hr>
+
 ### When are two things equal?
 
 **Date:** September 2, 2026
