@@ -21,7 +21,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Shannon Guerrero (NAU)
 
-**Abstract:** Coming soon...
+**Abstract:** "...no political problem is less susceptible of a precise solution than that which relates to the number most convenient for a representative legislature..." - James Madison, *The Federalist 55*
 
 <hr>
 
