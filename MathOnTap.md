@@ -21,7 +21,9 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Shannon Guerrero (NAU)
 
-**Abstract:** "...no political problem is less susceptible of a precise solution than that which relates to the number most convenient for a representative legislature..." - James Madison, *The Federalist 55*
+**Abstract:** The Congressional Apportionment Problem is one of the oldest and most persistent mathematical challenges in American democracy: how to fairly divide a fixed number of political seats among states with constantly changing populations. While the U.S. Constitution requires that seats in the House of Representatives be distributed based on population, achieving perfect fairness is mathematically impossible. Over the past two centuries, this dilemma has sparked fierce debates among founding fathers like Thomas Jefferson and Alexander Hamilton, leading to different mathematical formulas that favor either larger or smaller states. The talk will provide a brief history of the methods used and considered for its solution, along with the pitfalls of each.
+
+"...no political problem is less susceptible of a precise solution than that which relates to the number most convenient for a representative legislature..." - James Madison, *The Federalist 55*
 
 <hr>
 
