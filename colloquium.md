@@ -21,7 +21,7 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 **Date:** Tuesday 9/15 at 4:00-4:50
 
-**Speakers:** Angie Hodge-Zickerman, Associate Professor, NAU
+**Speakers:** Angie Hodge-Zickerman, Professor, NAU
 
 **Abstract:**  This talk is adapted from Dr. Angie Hodge-Zickerman’s invited 2026 MAA MathFest Leitzel Lecture and explores the important role confidence plays in learning mathematics. Drawing on lessons learned across a wide range of university mathematics courses and mathematical learning experiences, Angie will share practical ways to help students build mathematical confidence while still engaging in challenging and meaningful mathematics. Participants will consider strategies for normalizing “not knowing yet,” creating opportunities for productive struggle, encouraging mathematical risk-taking, and helping students see themselves as capable mathematical thinkers. The session will invite us to consider how small shifts in our teaching can foster deeper engagement, persistence, and ultimately, greater joy in doing mathematics. 
 
