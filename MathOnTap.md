@@ -25,6 +25,10 @@ Note that talks are listed in reverse chronological order.
 
 "...no political problem is less susceptible of a precise solution than that which relates to the number most convenient for a representative legislature..." - James Madison, *The Federalist 55*
 
+<center>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTapFlyer261007.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+
 <hr>
 
 ### When are two things equal?
