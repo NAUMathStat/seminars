@@ -11,12 +11,12 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
-### TBD
+### Building Thinking Classrooms
 
-**Date:** TBD
+**Date:** Thursday, September 17, 2026
 
-**Speakers:** TBD
+**Speakers:** Dr. April Strom (Chandler-Gilbert Community College)
 
-**Abstract:** TBD
+**Abstract:** This session is designed to showcase Building Thinking Classrooms (a.k.a. BTC) instructional practices and ways to increase student engagement and success in mathematics. We will experience BTC from both the student and teacher perspectives through the simulation of thinking tasks with the goal being to leverage student thinking to guide all aspects of instruction.
 
 <!-- <hr> -->
