@@ -42,3 +42,5 @@ Note that talks are listed in reverse chronological order.
 <center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTapFlyer260902.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
+
+<hr>
