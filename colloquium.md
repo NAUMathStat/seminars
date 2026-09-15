@@ -27,13 +27,13 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 
 <hr>
 
-### TBD
+### Applied Bayesian Filtering for Prediction and Forecasting
 
 **Date:** Tuesday 9/22 at 4:00-4:50
 
 **Speakers:** Jeffrey Covington, Data Scientist, NAU
 
-**Abstract:**  TBD
+**Abstract:**  Bayesian filters are foundational algorithms for forecasting and prediction. They are the backbone of operational forecasting systems in many fields such as epidemiology, earth science, econometrics, and robotics, to name a few. This rich and active area of research admits many novel approaches, from dynamical systems to pure machine learning and AI, as well as hybrid strategies. First, we introduce Bayesian filtering including the foundational algorithms of the particle filter and ensemble Kalman filter. Next, we present cutting edge research in epidemiology: real-time week-to-week forecasting of influenza hospitalizations. Finally, we highlight promising areas of research and trends across the field of Bayesian filtering, perhaps inspiring discussion and future research.
 
 <hr>
 
