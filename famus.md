@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Happy Ending Problem
+
+**Date:** September 18, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** The Happy Ending Problem is a geometry puzzle; the unusual name was coined by the legendary Hungarian mathematician Paul Erdos.  The problem itself is not that hard to solve, but generalizations are trickier to solve.  The weird name of the puzzle is due to the fact that it spawned a love story (which will be discussed as well).  Bring your brains and bring some tissues, as the story has a tear-jerk ending.  
+
+The faculty guest this week is Tyler Brock. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-09-18.pdf)]
+
+<hr>
+
 ### My Mathematical Summer
 
 **Date:** September 11, 2026
