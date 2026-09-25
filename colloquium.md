@@ -38,13 +38,13 @@ The talks will typically take place on Tuesdays at 4:00-5:00pm in Adel Room 164.
 <hr>
 
 
-### TBD
+### The Kevin Bacon of Mathematical Objects?
 
 **Date:** Tuesday 9/29 at 4:00-4:50 (Online)
 
-**Speakers:** Tom Edgar, Assistant Professor, CSU
+**Speakers:** Tom Edgar, Assistant Professor, CSU Pueblo
 
-**Abstract:**  TBD
+**Abstract:**  The Kevin Bacon game challenges players to find shortest paths from a given performer to Kevin Bacon where connections consist of actors who appeared together in a movie. In this talk, we'll investigate a single object, the sum-of-bits function, that could perhaps be a contender for the Kevin Bacon role in an analogous game played with mathematics. We'll see a variety of topics from the undergraduate math curriculum that can be connected via this idea. Exploring bridge objects like this the sum-of-bits function allows us and our students to see that there are often beautiful connections between seemingly separate and independent mathematical areas. Knowing these connections can allow problem-solving techniques in one subfield to help with another.
 
 <hr>
 
