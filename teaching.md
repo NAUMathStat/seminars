@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### My experience teaching at Epsilon Camp
+
+**Date:** Thursday, October 1, 2026
+
+**Speakers:** Dana Ernst (NAU)
+
+**Abstract:** This past summer, I spent two weeks teaching at Epsilon Camp, an intensive program for exceptionally gifted young mathematicians and their families. I taught an introduction to proof course to 10-year-olds and a combinatorics course to 11-year-olds. In this talk, I will share some of my experiences teaching mathematics to students at this level, including what surprised me, what I found difficult, and what I learned. Teaching at Epsilon Camp was one of the most challenging experiences of my career, but also one of the most rewarding and transformative.
+
+<hr>
+
 ### Building Thinking Classrooms
 
 **Date:** Thursday, September 17, 2026
