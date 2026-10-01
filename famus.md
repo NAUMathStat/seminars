@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### NAU in Portugal 2027
+
+**Date:** October 2, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** NAU in Portugal is a summer study abroad program specifically designed for math students at NAU; in the summer of 2027 it will happen in June.  Students who participate will spend about one month in Lisbon, earn credit for MAT 239 (differential equations) or MAT 316  (linear algebra) or MAT 399 (the mathematics of Portugal), or possibly MAT 497 (independent study) (this requires special permission).  But the program is only open to the first 12 students that apply and secure a spot in the program.  Want more details?  Come to FAMUS!  
+
+The faculty guest this week is Dana Ernst.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-02.pdf)]
+
+<hr>
+
 ### Map coloring, high school geometry, and mathematical anomalies such as Michigan
 
 **Date:** September 25, 2026
