@@ -11,6 +11,16 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
+### LMC+Data Analysis
+
+**Date:** Thursday, October 15, 2026
+
+**Speakers:** Matt Fahy and Iris Robedeaux (NAU)
+
+**Abstract:** Utilizing resources from the Karen Larson and Gary Bicker Elevating Excellence fund, the LMC hired a continuing Statistics Master's student, Iris Robedeaux, to work alongside the LMC Director, Matt Fahy, to analyze data about LMC and ​“LMC-adjacent” students and courses during the summer of 2026.  In this session, we’ll give discuss findings and seek input for further analysis.
+
+<hr>
+
 ### My experience teaching at Epsilon Camp
 
 **Date:** Thursday, October 1, 2026
