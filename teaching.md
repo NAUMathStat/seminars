@@ -11,7 +11,7 @@ The Department of Mathematics & Statistics takes pride in the overall quality of
 
 Note that talks are listed in reverse chronological order.
 
-### LMC+Data Analysis
+### LMC+ Data Analysis
 
 **Date:** Thursday, October 15, 2026
 
