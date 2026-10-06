@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Tower of Hanoi
+
+**Date:** October 2, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** The Tower of Hanoi puzzle is probably familiar to anyone that has taken (or taught) MAT 226.  It's a fun puzzle: move a pile of different-sized disks around 3 central rods, smaller disks always on bigger disks, until the entire pile of disks is on a new rod, using as few moves as possible.  The math involved is cute and will be discussed.  But it's the variations of the Tower of Hanoi puzzle that are really interesting: make the disks 2 or more colors and end up with monochrome piles.  Or make the disks magnetic and flip-able.  Or change the number of rods involved.  These variations and more will be touched on.  
+
+The faculty guest this week is David Deville. A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-09.pdf)]
+
+<hr>
+
 ### NAU in Portugal 2027
 
 **Date:** October 2, 2026
@@ -19,7 +31,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** NAU in Portugal is a summer study abroad program specifically designed for math students at NAU; in the summer of 2027 it will happen in June.  Students who participate will spend about one month in Lisbon, earn credit for MAT 239 (differential equations) or MAT 316  (linear algebra) or MAT 399 (the mathematics of Portugal), or possibly MAT 497 (independent study) (this requires special permission).  But the program is only open to the first 12 students that apply and secure a spot in the program.  Want more details?  Come to FAMUS!  
 
-The faculty guest this week is Dana Ernst.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-02.pdf)]
+There is no faculty guest.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-02.pdf)]
 
 <hr>
 
