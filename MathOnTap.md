@@ -23,9 +23,9 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** Coming soon...
 
-<!-- <center>
+<center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTapFlyer261104-Jeff.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
-</center> -->
+</center>
 
 <hr>
 
