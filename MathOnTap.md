@@ -15,6 +15,20 @@ The format will vary from event to event, but typically there will be a 30-minut
 
 Note that talks are listed in reverse chronological order.
 
+### What is Infinity?
+
+**Date:** November 4, 2026
+
+**Speaker:** Jeff Rushall (NAU)
+
+**Abstract:** Coming soon...
+
+<!-- <center>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTapFlyer261104-Jeff.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center> -->
+
+<hr>
+
 ### The Mathematics of Congressional Apportionment
 
 **Date:** October 7, 2026
