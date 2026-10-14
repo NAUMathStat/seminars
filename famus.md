@@ -11,9 +11,21 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Collatz Conjecture
+
+**Date:** October 16, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** The Collatz Conjecture is a simple, mysterious, and addictive math puzzle.  Take any positive integer; if it is even, halve it, if it is odd, triple it and then add 1.  Now repeat this process over and over.  The conjecture states that this iterative process always terminates at 1.  No counterexample has ever been found, but a proof has also never been found.  I'll discuss this problem, show some of what is known about it, and even talk about some variations on the problem.  
+
+The faculty guest this week is Hannah Prawzinsky.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-16.pdf)]
+
+<hr>
+
 ### The Tower of Hanoi
 
-**Date:** October 2, 2026
+**Date:** October 9, 2026
 
 **Speakers:** Jeff Rushall (NAU)
 
