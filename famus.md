@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### Two Problems about Hadamard Matrices
+
+**Date:** October 23, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** A Hadamard matrix is a square matrix containing only +1 or -1 for entries whose pairwise row dot products are all 0.  They are super important in modern STEM applications, so knowing they exist of all possible sizes is also super important.  There are a couple of unsolved problems associated with Hadamard matrices that will be discussed.  Cool pictures will be shown, and the accomplishments of a couple of former NAU math majors will be touted.
+
+The faculty guest this week is Ellie Blair.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-23.pdf)]
+
+<hr>
+
 ### The Collatz Conjecture
 
 **Date:** October 16, 2026
