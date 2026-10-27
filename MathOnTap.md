@@ -21,7 +21,7 @@ Note that talks are listed in reverse chronological order.
 
 **Speaker:** Jeff Rushall (NAU)
 
-**Abstract:** Coming soon...
+**Abstract:** What exactly IS "infinity"?  It turns out that answering this question is tricky.  At the next Math on Tap, I'll show you some things about "infinity" that are kind of surprising.  In particular, you'll see that there is more than one size of "infinity."  In fact, there are actually infinitely many different sizes of infinity.  You may leave this Math on Tap infinitely more confused than you were when you arrived, but I'll do my best to keep you entertained.  
 
 <center>
 <img src="{{ site.baseurl }}/mathontap_files/MathOnTapFlyer261104-Jeff.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
