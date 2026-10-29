@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Apportionment Problem
+
+**Date:** October 30, 2026
+
+**Speakers:** Jeff Rushall (NAU)
+
+**Abstract:** The apportionment problem addresses these two questions: what determines how many US House representatives each state gets?  And is this apportionment method fair?   The answers are surprisingly disturbing.  And yes, this is the same topic that Shannon presented at Math on Tap; she inspired me to give this FAMUS.  
+
+The faculty guest this week is Dana Ernst.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-30.pdf)]
+
+<hr>
+
 ### Two Problems about Hadamard Matrices
 
 **Date:** October 23, 2026
