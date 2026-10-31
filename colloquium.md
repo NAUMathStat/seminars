@@ -73,13 +73,13 @@ I will illustrate the approach by sketching an H₂ model in which progressively
 <hr>
 
 
-### TBD
+### AI and mathematics+ 
 
 **Date:** Tuesday 10/27 at 4:00-4:50
 
-**Speakers:** TBD
+**Speakers:** Dana Ernst, Professor, NAU
 
-**Abstract:**  TBD
+**Abstract:**  Open discussion on the impact of AI on research in mathematics, statistics, data science, mathematics education, and other related areas. 
 
 <hr>
 
