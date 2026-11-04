@@ -11,6 +11,18 @@ Come join us for some entertaining talks!  Refreshments always served.
 
 Note that talks are listed in reverse chronological order.
 
+### The Unexpected Geometry of Bouncing Pool Balls
+
+**Date:** November 6, 2026
+
+**Speakers:** Ian Williams (NAU)
+
+**Abstract:** Shoot a ball across a frictionless pool table and let it bounce forever. Will it drop into a corner pocket, retrace the same loop over and over, or eventually pass through every part of the table? Chasing the answer will lead us to the ideas behind Maryam Mirzakhani’s Fields Medal, to a room full of mirrors where a single candle leaves one point in permanent darkness, and finally to a question about triangles that you will understand completely and that nobody knows how to answer.
+
+The faculty guest this week is Matt Fazio.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-11-06.pdf)]
+
+<hr>
+
 ### The Apportionment Problem
 
 **Date:** October 30, 2026
@@ -19,7 +31,7 @@ Note that talks are listed in reverse chronological order.
 
 **Abstract:** The apportionment problem addresses these two questions: what determines how many US House representatives each state gets?  And is this apportionment method fair?   The answers are surprisingly disturbing.  And yes, this is the same topic that Shannon presented at Math on Tap; she inspired me to give this FAMUS.  
 
-The faculty guest this week is Dana Ernst.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-30.pdf)]
+The faculty guest this week is Dana Ernst. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-30.pdf)]
 
 <hr>
 
@@ -31,7 +43,7 @@ The faculty guest this week is Dana Ernst.  A [[PDF of Flyer]({{ site.baseurl }}
 
 **Abstract:** A Hadamard matrix is a square matrix containing only +1 or -1 for entries whose pairwise row dot products are all 0.  They are super important in modern STEM applications, so knowing they exist of all possible sizes is also super important.  There are a couple of unsolved problems associated with Hadamard matrices that will be discussed.  Cool pictures will be shown, and the accomplishments of a couple of former NAU math majors will be touted.
 
-The faculty guest this week is Ellie Blair.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-23.pdf)]
+The faculty guest this week is Ellie Blair.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-23.pdf)]
 
 <hr>
 
@@ -43,7 +55,7 @@ The faculty guest this week is Ellie Blair.  A [[PDF of Flyer]({{ site.baseurl }
 
 **Abstract:** The Collatz Conjecture is a simple, mysterious, and addictive math puzzle.  Take any positive integer; if it is even, halve it, if it is odd, triple it and then add 1.  Now repeat this process over and over.  The conjecture states that this iterative process always terminates at 1.  No counterexample has ever been found, but a proof has also never been found.  I'll discuss this problem, show some of what is known about it, and even talk about some variations on the problem.  
 
-The faculty guest this week is Hannah Prawzinsky.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-16.pdf)]
+The faculty guest this week is Hannah Prawzinsky. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-16.pdf)]
 
 <hr>
 
@@ -55,7 +67,7 @@ The faculty guest this week is Hannah Prawzinsky.  A [[PDF of Flyer]({{ site.bas
 
 **Abstract:** The Tower of Hanoi puzzle is probably familiar to anyone that has taken (or taught) MAT 226.  It's a fun puzzle: move a pile of different-sized disks around 3 central rods, smaller disks always on bigger disks, until the entire pile of disks is on a new rod, using as few moves as possible.  The math involved is cute and will be discussed.  But it's the variations of the Tower of Hanoi puzzle that are really interesting: make the disks 2 or more colors and end up with monochrome piles.  Or make the disks magnetic and flip-able.  Or change the number of rods involved.  These variations and more will be touched on.  
 
-The faculty guest this week is David Deville. A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-09.pdf)]
+The faculty guest this week is David Deville. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-09.pdf)]
 
 <hr>
 
@@ -67,7 +79,7 @@ The faculty guest this week is David Deville. A [[PDF of Flyer]({{ site.baseurl 
 
 **Abstract:** NAU in Portugal is a summer study abroad program specifically designed for math students at NAU; in the summer of 2027 it will happen in June.  Students who participate will spend about one month in Lisbon, earn credit for MAT 239 (differential equations) or MAT 316  (linear algebra) or MAT 399 (the mathematics of Portugal), or possibly MAT 497 (independent study) (this requires special permission).  But the program is only open to the first 12 students that apply and secure a spot in the program.  Want more details?  Come to FAMUS!  
 
-There is no faculty guest.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-02.pdf)]
+There is no faculty guest.  [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-10-02.pdf)]
 
 <hr>
 
@@ -79,7 +91,7 @@ There is no faculty guest.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAM
 
 **Abstract:** Using only four colors, can you color a map of the United States such that no states that share a border are the same color? Sure, if you're careful and have some free time. But...what if...THE WHOLE COUNTRY WAS MADE UP OF STATES LIKE MICHIGAN? Come find out! Additionally, I find myself constantly asking "How could we make high school math more fun and more enriching for students?" So, I'd also like to explore some neat connections between high school geometry and graph theory in an effort to minimize teenage disdain for mathematics.
 
-The faculty guest this week is Annie Carter.  A [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-09-25.pdf)]
+The faculty guest this week is Annie Carter. [[PDF of Flyer]({{ site.baseurl }}/famus_files/FAMUS26-09-25.pdf)]
 
 <hr>
 
