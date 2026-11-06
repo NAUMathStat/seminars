@@ -24,7 +24,7 @@ Note that talks are listed in reverse chronological order.
 **Abstract:** Have you ever felt a slight discomfort or even a panic when presented with mathematical problems? Have you ever uttered the words, "I'm not really a math person?" Do not worry, you are not alone. Join us for the next Math on Tap as Nicholas Alfonso Diaz presents on his personal journey with math anxiety, while discussing this worldwide phenomenon. If you feel you may have math anxiety or don't feel as though you are a "math person," this presentation is for you. 
 
 <center>
-<img src="{{ site.baseurl }}/mathontap_files/MathOnTap261202-Diaz.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/mathontap_files/MathOnTap261202-Diaz.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 
 <hr>
